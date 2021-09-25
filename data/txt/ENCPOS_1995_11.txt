@@ -1,0 +1,128 @@
+identifier: ENCPOS_1995_11
+creator: Armelle Émery
+date: 1995
+title: Édition du Vetus Testamentum versibus latinis par “Petrus episcopus”, une paraphrase en vers latins de l’Ancien Testament
+
+
+
+== Première partie Étude ==
+
+
+=== Chapitre premier présentation du manuscrit ===
+
+Le contenu. – Le manuscrit conservé à la Bibliothèque nationale de France sous la cote lat. 8110 contient un texte en vers latins avec sa glose, paraphrasant les livres historiques de l’Ancien Testament, de la Genèse aux Maccabées.
+Ce texte, dont l’incipit est Nomina cunctorum sunt infrascripta librorum, est attribué à un certain Petrus episcopus ; il est également appelé Benoni liber.
+Les titres donnés à cet ouvrage variant selon les catalogues, la dénomination la plus exacte paraît être celle qui figure au dos de la reliure du xviiie siècle : Vêtus Testamentum versibus latinis.
+
+Analyse codicologique. – Le manuscrit, dans son état actuel, mesure 232 mm sur 170 mm ; il compte 119 feuillets groupés en cahiers de huit feuillets, à l’exception du dernier qui n’en compte que sept.
+La plupart des cahiers se reconnaissent à une signature faite d’un vers latin.
+
+La glose. – La principale caractéristique du manuscrit est sa forme glosée : le texte en vers figure dans la colonne centrale en double interligne et en écriture de gros module, tandis qu’en marge et entre les lignes prennent place les gloses, en interligne simple et en écriture de petit module.
+
+L’écriture. – L’écriture présente des caractéristiques italiennes : « qui » abrégé par q barré droit et un certain nombre de d droits.
+Le scribe cédille les i qui se trouvent à côté d’autres jambages ; il recourt souvent à des lettres suscrites sans abréviation : s en fin de mot et r en milieu de mot.
+
+Illustrations et rubrications. – Le manuscrit contient une initiale historiée au fol. 3 (portrait d’auteur) et plusieurs initiales ornées, peintes à l’encre rouge et bleue sur fond jaune d’or pâle.
+Les incipits des diverses parties, les titres des chapitres, les titres courants, plusieurs initiales de vers sont fabriqués.
+
+La reliure. – L’actuelle reliure, en maroquin rouge aux armes royales, date du XVIII’ siècle ; auparavant, les inventaires indiquent que le manuscrit était relié en cuir rouge et ferré.
+
+L’histoire du manuscrit. – Le manuscrit date de la première moitié du XIII’ siècle.
+Son histoire (des cotes anciennes figurent aux fol. 1 et 118v) ne commence avec certitude qu’avec la mention de sa présence dans la bibliothèque des ducs de Milan (inventaire de 1426, n° 57).
+Il passe ensuite, sous Louis XII, dans la bibliothèque des rois de France avec le butin rapporté des guerres d’Italie en 1499 ou 1500 ; on le retrouve ensuite dans la librairie de Blois et dans les inventaires successifs de la Bibliothèque royale.
+
+Les études antérieures. – Le manuscrit n’a guère éveillé l’attention des chercheurs, à l’exception de dom Pitra qui en a édité quelques fragments au XIX1’ siècle, non sans d’importantes et abusives corrections.
+
+
+=== Chapitre II L’auteur ===
+
+Indications du manuscrit. – Quinze vers acrostiches du fol. 3 (v. 15-29) fournissent le nom de Petrus episcopus ; en outre, les v. 13-14 mentionnent un certain Benonus.
+
+Identifications proposées. – Il paraît peu probable que ce Petrus episcopus soit l’évêque parisien Petrus Cambius (1208-1219) comme le pensait dom Pitra.
+Il s’agit plus vraisemblablement d’un évêque italien (la lettrine du fol. 3 représente un personnage mitré et le manuscrit est italien), peut-être Bennone de Rimini (1230-1242), encore que rien n’indique que cet évêque Bennone se soit appelé Petrus.
+L’auteur du manuscrit reste très discret sur lui-même.
+
+Les objectifs de l’auteur. – Si l’identité de l’auteur reste mal connue, on peut discerner ses objectifs, exposés dans le prologue du liber Genesis : intéresser les lecteurs à une forme poétique chrétienne au détriment des œuvres profanes, qu’il juge très sévèrement.
+Il se réclame des poètes bibliques et patristiques, qui ont su présenter le message religieux sous une forme métrique, et annonce son intention de vulgariser par le moyen des vers la doctrine des Pères de l’Église.
+A la fin du prologue, la glose 91 décrit la méthode utilisée dans l’ouvrage : évoquer un fait biblique, puis en donner le sens profond d’après les Pères ; l’auteur précise alors qu’une partie importante du texte figure en glose.
+
+La personnalité de l’auteur. – Au total, l’auteur apparaît fidèle à une tradition exégétique ancienne, assez critique envers la culture classique qu’il est pourtant loin d’ignorer (il cite Ovide), et familier des textes glosés au point de concevoir son ouvrage dès l’origine comme un composé indissociable de vers et de gloses. 
+
+
+=== Chapitre III Le fetus Testamentum versibus latinis dans le contexte des versifications bibliques médiévales ===
+
+Le succès des versifications bibliques. – Nombre d’auteurs, dont le plus connu est Pierre Riga qui composa l’Aurora, ont entrepris de versifier la Bible au XII’ et xiiie siècles.
+Le Vêtus Testamentum versibus latinis s’inscrit dans ce courant littéraire.
+
+Comparaisons possibles. – Le Vêtus Testamentum versibus latinis présente plusieurs analogies avec l’Aurora (division en chapitres, sources isidoriennes, recours aux sens symboliques), mais ne versifie que les livres historiques de l’Ancien Testament.
+Son originalité réside surtout dans sa structure mixte, mi-glose mi-vers.
+
+Une faible diffusion. – Le succès et l’influence du Vêtus Testamentum versibus latinis paraissent réduits : aucun auteur n’en fait mention et on n’en conserve qu’un seul manuscrit.
+On peut expliquer cet échec par la concurrence de l’Aurora et par la difficulté d’admettre un texte où il faut sans cesse recourir aux gloses.
+
+
+=== Chapitre IV Glose et vers : l’originalité du texte ===
+
+Les gloses dues au copiste. – Certaines gloses, dues au copiste et souvent signalées par une croix, indiquent un vers omis au premier abord.
+
+Les gloses dues à l’auteur. – La plupart des gloses remontent au dessein original de l’auteur : précisions complémentaires, explications de termes difficiles ou ambigus.
+Elles permettent de mieux comprendre la pensée de l’auteur.
+
+Les gloses mentionnées dans un vers. – D’autres gloses sont annoncées dans le vers même : soit citations bibliques (introduites par des termes comme « ait » ou « legitur »), soit explications diverses que l’auteur signale ouvertement comme figurant en glose (ainsi précise-t-il : « quid sonet hoc nomen demonstrat glosula presens », v. 3576).
+C’est sans doute la principale originalité de ce texte, qu’on peut expliquer par des contraintes métriques (tel passage se paraphrasant malaisément) ou par un parti pris favorable aux textes glosés.
+
+La complémentarité de la glose et du vers. – Quoi qu’il en soit, glose et vers se complètent : parfois seul le vers contient le récit littéral, parfois c’est la glose ; on comprend mal l’un sans l’autre, et le lecteur doit avoir constamment un œil sur le poème et l’autre sur l’apparat.
+
+
+=== Chapitre V Les sources ===
+
+L’inspiration patristique.  – L’auteur admet s’être inspiré de la pensée des Pères, mais ne montre guère qu’il les connaît : il les cite surtout à travers des compilations.
+
+Les sources secondaires. – Les auteurs dont dérive l’ouvrage sont peu nombreux : saint Jérôme, Ovide, Priscien, Prudence, des grammairiens, des sen tences mnémotechniques sont invoqués de façon ponctuelle.
+Plusieurs interprétations et gloses proviennent de la Glose ordinaire, de Bruno d’Asti et du Décret de Gratien, en complément d’Isidore de Séville.
+
+La source principale. – Les Quaestiones in Vêtus Testamentum d’Isidore de Séville forment la source immédiate, ce qui se traduit par certaines redites, omissions ou insistances, et par une fidélité étroite aux interprétations symboliques compilées par Isidore, soigneusement versifiées par Petrus episcopus.
+
+Le symbolisme isidorien. – Il est donc naturel que tout élément de l’Ancien Testament soit l’objet d’une réflexion allégorique, qu’il s’agisse des personnages, des noms propres ou des nombres.
+Ce type d’exégèse avait la faveur du public médiéval et d’autres auteurs de poèmes bibliques ont repris ces interprétations.
+
+
+=== Chapitre VI La versification ===
+
+Le style. – On reconnaît une certaine recherche stylistique (conforme à la tradition médiévale) dans le nombre assez important de rimes intérieures ou finales.
+L’auteur use aussi de chiasmes, plus souvent de répétitions et d’accumulations.
+
+Les paraphrases. – Beaucoup de vers sont d’étroites paraphrases d’Isidore à quelques mots près.
+Plusieurs expressions identiques reviennent dans des vers différents pour exprimer des idées similaires.
+
+La métrique. – La métrique s’écarte peu des usages médiévaux.
+Les vers irréguliers sont en fait des citations bibliques ou isidoriennes glissées parmi les hexamètres.
+L’auteur pratique l’élision et observe la quantité des syllabes, avec quelques hésitations concernant les ablatifs singuliers en e et les gérondifs en o.
+Si besoin est, il recourt à une forme inhabituelle (Agustinus) ou se justifie d’avoir allongé une syllabe (glose 1019).
+
+
+=== Chapitre VII Les graphies ===
+
+En règle générale, les graphies du manuscrit s’écartent peu des usages courants : on note seulement beaucoup de consonnes doublées, des n devant consonne labiale, la confusion entre s et x ainsi qu’entre e et i, et l’usage fréquent de y à l’initiale. 
+
+
+== Deuxième partie Édition ==
+
+
+=== Principes observés dans l’édition ===
+
+Le problème des gloses. – Face à un texte glosé de cette nature, deux tentations se présentent : soit reproduire le tout à l’identique en imitant la disposition du manuscrit, soit opérer un tri parmi les gloses en ne retenant que les plus utiles.
+Dans un cas, on obtient une édition quasi photographique, guère plus commode d’usage que le manuscrit lui-même ; dans l’autre cas, on trahit le dessein de l’auteur qui entendait fournir aux lecteurs un texte entièrement glosé.
+
+Disposition en deux colonnes. – Un moyen terme a été choisi, à savoir une disposition en deux colonnes : à gauche les vers, à droite les gloses, tant marginales qu’interlinéaires, numérotées comme le vers auquel elles se réfèrent.
+A l’intérieur d’un vers, un astérisque signale le mot ou l’endroit précis où il convient de se reporter à la glose.
+
+Les graphies. – Les graphies du manuscrit ont été respectées, sauf en cas d’erreur manifeste ; la ponctuation a été adaptée aux usages modernes.
+
+Apparat critique. – L’apparat critique s’étage sur deux niveaux : sources de l’auteur et critiques textuelles.
+Pour faciliter la compréhension, les passages bibliques commentés par Petrus episcopus à la suite d’Isidore sont signalés entre parenthèses, après les références aux Quaestiones in Vêtus Testamentum.
+
+
+== Conclusion ==
+
+Il est rare que soient édités des textes glosés, et on connaît peu de textes conçus dès l’origine sous cette forme : le Vêtus Testamentum versibus latinis en est un exemple à la fois traditionnel dans son propos et novateur dans sa forme.

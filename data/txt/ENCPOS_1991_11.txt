@@ -1,0 +1,123 @@
+identifier: ENCPOS_1991_11
+creator: Jean-Michel Gleize
+date: 1991
+title: Édition critique des œuvres de François Le Roy, pour servir l’introduction à l’étude de la spiritualité fontevriste au moment de la réforme de l’ordre (1470-1530)
+
+
+
+== Introduction ==
+
+Il faut souligner l’importance de la littérature spirituelle de la fin du XV’ et du début du XVI’ siècle.
+Beaucoup de documents de cette époque (manuscrits, livres imprimés) sont restés inexploités par les historiens, alors que de tels ouvrages étaient alors très lus et sont des témoins importants de la vie spirituelle.
+
+Les œuvres de François Le Roy entrent dans cette catégorie.
+Ont fourni matière à notre étude des livres imprimés (Le dialogue de confidence en Dieu, Le dialogue de consolation entre l’Ame et la Raison, Le livre de la femme forte et vertueuse, et, plus accessoirement, Le mirouer de pénitence très dévot et salutaire), ainsi que le manuscrit Bibl. nat., Rothschild 1.7.27, Picot IV, 2820 (Le laict de dévotion).
+
+François Le Roy était le père spirituel d’un couvent réformé de l’ordre de Fontevraud.
+Ses ouvrages nous donnent un éclairage important sur la spiritualité fontevriste à l’époque où cet ordre s’est réformé : c’est un des éléments qui doivent permettre la découverte progressive du monde spirituel de la fin du XV’ siècle. 
+
+
+=== Chapitre premier l’ordre de Fontevraud et sa réforme. Le rôle du prieuré de la Madeleine d’Orléans ===
+
+Le bilan de nos connaissances sur la réforme de l’ordre de Fontevraud fait apparaître le rôle clef joué dans cette réforme par le couvent de la Madeleine d’Orléans, et, surtout, la place de frère François Le Roy, qui fut l’un des confesseurs de cet établissement et, de surcroît, visiteur général de l’ordre pendant une triennalité.
+Ses écrits sont donc au cœur de la réforme.
+
+Une deuxième constatation s’impose : le rôle du couvent de la Madeleine ne se limite pas à celui d’un couvent réformé pilote, puisque la réforme a eu pour résultat un renouveau spirituel et littéraire.
+L’ordre de Fontevraud a produit une élite intellectuelle très estimée, dont frère Le Roy fut, à n’en pas douter, l’un des meilleurs représentants.
+Là encore, ses écrits sont un point de repère obligé.
+
+
+=== Chapitre II L’œuvre de François le roy : les sources ===
+
+L’originalité des écrits de François Le Roy tient pour une grande part aux sources que cet auteur utilise.
+
+Les références de base d’une spiritualité : essai de définition. – Les citations bibliques ont une importance considérable dans l’œuvre de François Le Roy, comme il ressort de l’établissement d’une série d’index.
+Ceux-ci permettent de comparer l’importance relative des différents livres bibliques cités.
+Dans le cas particulier de deux textes (Dialogue de confidence en Dieu et Dialogue de consolation entre l’Ame et la Raison), un relevé plus précis sert à confronter la citation in extenso, sa traduction éventuelle et le thème de spiritualité qu’elle illustre.
+Ces références interviennent constamment dans le discours de Le Roy.
+Une place privilégiée est donnée aux Psaumes, ainsi qu’aux Évangiles et aux Épîtres de saint Paul.
+Ce choix répond sans doute à une intention pédagogique, puisque ces passages sont ceux avec lesquels les religieuses devaient être le plus familiarisées, les Psaumes faisant partie de la récitation de l’office, les Évangiles et les Épîtres des lectures du Missel.
+
+Les traductions de l’Écriture sainte. – Les citations bibliques sont presque systématiquement (à 98 %) traduites.
+Cet effort de traduction est à mettre en parallèle avec celui entrepris un demi-siècle plus tard par un autre fontevriste, Gabriel du Puyherbault, qui s’efforça de mettre à la portée des religieuses les passages essentiels de l’Écriture sainte.
+Faut-il en conclure que les religieuses ignoraient tout de la langue latine ?
+
+Une analyse plus poussée des textes révèle qu’au contraire, Le Roy ne pouvait pas ne pas s’adresser à un public érudit, sans que pour autant l’érudition fût requise pour comprendre les grandes lignes de son discours.
+Il est fort probable que Le Roy a modelé son œuvre en fonction d’un double public, établissant dans ses textes deux niveaux de lecture (savant et simple), ce qui confirme l’idée que les artisans du renouveau fontevriste ont appartenu à l’élite intellectuelle du temps.
+
+L’apport de la tradition et des autorités ecclésiastiques. – A côté des citations bibliques, les écrits de Le Roy contiennent de nombreuses références à divers auteurs, appartenant à toutes les époques.
+Un relevé systématique de ces auteurs montre que toutes les tendances sont représentées : auteurs profanes de l’Antiquité, Pères de l’Église, auteurs du xiie siècle, scolastiques du XIII’ siècle, jusqu’aux courants les plus modernes ou contemporains (nominalistes des xive et xve siècles et représentants de la scolastique finissante ; mystiques des xive et xve siècles, avec Jean Gerson et le courant de la Devotio moderna ; premiers humanistes).
+Le Roy est ouvert à tous les domaines de la pensée littéraire et philosophique : il se tient informé de l’évolution intellectuelle de son temps, signe d’un épanouissement certain, peut-être dû à la réforme de l’ordre.
+Cependant sa lignée doctrinale n’est pas équivoque : il reste dans la grande tradition de l’Église, celle qui a culminé avec saint Thomas d’Aquin.
+Il ne reprend jamais à son compte les audacieuses nouveautés de la pensée du temps, même s’il montre qu’il ne les ignore pas.
+Il s’inscrit plutôt dans la plus saine orthodoxie.
+
+La spiritualité fontevriste d’un François Le Roy apparaît donc fondée sur les éléments les plus caractéristiques de la tradition de l’Église : spiritualité liturgique qui ne se conçoit pas sans une référence obligée à l’Écriture sainte ; spiritualité nourrie des grands théologiens et auteurs spirituels dont le profil est parfaitement résumé par un saint Thomas d’Aquin.
+
+
+=== Chapitre III L’œuvre de François le roy : le message ===
+
+Les grandes tendances d’une spiritualité ascétique. – La spiritualité de François Le Roy relève d’abord du domaine de l’ascétique.
+Il s’agit de mener à bon terme le combat spirituel.
+Deux vertus sont présentées comme indispensables : l’humilité et la force.
+Ces facteurs doivent favoriser l’œuvre du discernement spirituel qui est en définitive au fondement de tout ce combat.
+Ce discernement s’opère de deux manières.
+
+Tout d’abord il s’agit de ne pas se fier aux impressions de la sensibilité, qui peuvent jouer à travers le processus des consolations et des désolations.
+C’est un des traits marquants de la spiritualité de Le Roy : c’est aussi une des lignes de force de son originalité.
+Alors que la plupart des auteurs du xve siècle envisagent l’absence de toute sensation comme un signe d’imperfection, Le Roy considère ces impressions comme dénuées de signification quant à l’avancement spirituel.
+Il est en ce sens très proche de saint Ignace.
+Son œuvre présente d’ailleurs beaucoup d’analogies avec la spiritualité du fondateur de la Compagnie de Jésus, notamment aussi en ce qui concerne l’analyse du scrupule.
+
+Cette similitude est aussi visible dans le souci de la juste mesure et de la discrétion qui, chez les deux auteurs, est un trait dominant.
+Il faut souligner ce point, car il informe toute la pensée de Le Roy.
+Psychologue averti, celui-ci fait preuve d’une grande souplesse.
+Cette attitude est très originale, et permet de situer l’œuvre fontevriste dans le contexte de renouveau de la fin du xve siècle.
+Le Roy annonce par là le XVI’ siècle de saint François de Sales, celui de saint Jean de la Croix et de sainte Thérèse d’Avila.
+
+Le témoignage sur la vie religieuse. – Le discours de Le Roy s’adresse à des personnes consacrées ; sa spiritualité est inséparable du contexte de la vie religieuse.
+Il insiste sur le rôle des trois vœux de religion tout autant sinon plus que sur les autres vertus.
+On perçoit chez lui comme un écho de la réforme de Marie de Bretagne : il a soin de rappeler certaines nécessités (l’importance de la clôture, l’étude de l’Écriture sainte, la dévotion au Saint-Sacrement...).
+
+Les thèmes de la dévotion et le lyrisme.
+Problème d’une mystique. – Cette spiritualité s’exprime à travers un certain nombre de modèles ; ce sont les dévotions que propose Le Roy.
+Tout se ramène au thème central qui a marqué l’ordre dès ses origines : Jésus mourant sur la Croix et confiant son disciple, saint Jean, à sa mère.
+On trouve en effet une référence constante à la Passion et au Christ crucifié, à la Croix, à la Vierge du Stabat, spécialement mise en rapport avec son cœur douloureux percé du glaive de douleur, au cœur miséricordieux du Christ.
+
+Ce thème de l’Amour miséricordieux et rédempteur s’exprime sous une autre forme, plus familière, plus intime et donc peut-être plus accessible : la scène de la Nativité présente l’Enfant-Jésus, la Vierge-Mère, la Sainte-Famille.
+
+Enfin Le Roy propose à ses pénitentes une méditation sur la récompense future du bonheur du ciel.
+Sa présentation allie la considération théologique aux élans pieux de la dévotion.
+
+L’idée-force de tous ces thèmes reste l’appel à la conversion et à la perfection dans l’union à Dieu.
+Comment cette union peut-elle se réaliser ?
+Le Roy ne parle pas directement de phénomènes mystiques.
+Il traite de la vie d’oraison qui apparaît sous ses formes les plus classiques, de l’oraison de méditation à la contemplation ou oraison de simplicité, telles qu’elles se retrouvent chez la plupart des auteurs spirituels, et notamment chez saint Ignace et saint François de Sales.
+On ne peut cependant conclure à l’absence de toute mystique : les élans lyriques qui apparaissent dans son œuvre, spécialement dans le Laict de dévotion, la ferveur et l’ardeur qui transparaissent dans certains passages sont des éléments indéniables.
+
+
+== Conclusion ==
+
+L’œuvre de Le Roy s’inscrit dans tout un contexte : contexte fontevriste, représenté principalement par les œuvres de Jehan Henry, Cancien Hue, Jean Sauvage ; contexte plus large de la spiritualité de l’époque, avec l’œuvre de Louis Pinelle, évêque de Meaux (Les quinzes fontaines vitalles, ouvrage dédié aux religieuses fontevristes du diocèse de Meaux).
+
+François Le Roy apparaît comme un esprit très original, « moderne », c’est-à-dire annonçant par bien des côtés quelques-unes des grandes tendances de la spiritualité à venir.
+Tout en s’inscrivant dans une tradition dont il se veut l’héritier, il se montre aussi comme un homme de son temps, représentant d’une époque où les esprits curieux de tout étaient favorables à l’érudition.
+Enfin, peu soucieux de faire parler de lui, il semble s’être surtout préoccupé du bien de ses pénitentes, plus que de spéculations hors du commun.
+
+
+== Édition de trois œuvres de François le roy ==
+
+L’édition critique porte sur trois œuvres de François Le Roy :
+
+– Le dialogue de confidence en Dieu (d’après Bibl. nat., rés.
+D 32430).
+
+– Le dialogue de consolation entre l’Ame et la Raison (d’après Bibl. nat., rés.
+D 41504).
+
+– Le laict de dévotion (d’après Bibl. nat., ms Rotschild 1.7.27, Picot IV, 2820).
+
+
+== Annexes ==
+
+État critique des citations bibliques figurant dans Le dialogue de confidence en Dieu et dans Le dialogue de consolation entre l’Ame et la Raison. – Analyse comparée des citations utilisées par Le Roy dans ses ouvrages. – Étude thématique des citations bibliques (Dialogue de confidence en Dieu et Dialogue de consolation entre l’Ame et la Raison) et des citations d’auteurs (Dialogue de consolation entre l’Ame et la Raison) utilisées par Le Roy. – Notices biographiques concernant les auteurs cités par Le Roy.

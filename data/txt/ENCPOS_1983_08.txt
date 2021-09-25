@@ -1,0 +1,161 @@
+identifier: ENCPOS_1983_08
+creator: Thierry Delcourt
+date: 1983
+title: Le Roman de Tristan en prose. Édition critique et commentaire de l’épisode du Château des Pucelles
+
+
+
+== Introduction ==
+
+Il n’existe pas encore d’édition définitive du Roman de Tristan en prose.
+Ce texte connut pourtant une faveur extraordinaire au Moyen Age et au xvie siècle, comme en témoignent le grand nombre de manuscrits, complets ou fragmentaires, qui subsistent.
+On connaît en outre huit éditions parues entre 1489 et 1533.
+
+
+== Première partie La tradition manuscrite ==
+
+La tradition manuscrite du Roman de Tristan en prose est fort complexe.
+On compte en effet plus de soixante-dix manuscrits du roman, dont seule une minorité contient l’épisode du Château des Pucelles : les manuscrits qui conservent cet épisode sont au nombre de vingt-neuf.
+
+
+=== Chapitre premier les manuscrits ===
+
+Description codicologique des vingt-neuf manuscrits contenant l’épisode du Château des Pucelles : ABERYSTWYTH, National Library of Wales, 446 E.– Bruxelles, Bibl. royale Albert Ier, 9087 (ms.
+U).– Chantilly, Musée Condé, 646 (ms.
+Z) et 648 (ms.
+R).– Cologny-Genève, Bodmer 164 (ms.
+Q).– Edimbourg, National Library of Scotland, Ad. 19.1.3. (ms.
+E).– Genève, Bibl. publ. et univ., fr. 189.– Léningrad, Bibl. publ., Fr.
+F.v.
+XII. 2.– Paris, Arsenal, 3357 (ms.
+V).– Paris, Bibl. nat., fr. 94 (ms.
+J), fr. 97 (ms.
+W), fr. 99 (ms.
+K), fr. 100 (ms.
+X), fr. 102 (ms.
+Y), fr. 103 (ms. 103), fr. 104 (ms.
+M), fr. 334 (ms.
+O), fr. 335 (ms.
+B), fr. 750 (ms.
+S), fr. 756 (ms.
+N), fr. 758 et fr. 776 (ms.
+I).– Toulouse, Institut d’Études médiévales, dix-neuf fragments (ms.
+T).– Vatican, Reg. lat. 727 (ms. 72 7) et Pal. lat. 1964 (ms.
+P).– Vienne, Nationalbibliothek, 2537 (ms.
+C), 2539 (ms.
+D) et 2542 (ms.
+A).– Il faut y ajouter la compilation Paris, Bibl. nat., fr. 112.
+
+
+=== Chapitre II Classement des manuscrits ===
+
+A part les versions les plus abrégées (PARIS, Bibl. nat., fr. 112 et 758), l’ensemble des manuscrits donnent pratiquement le même texte, sans divergences sérieuses.
+Cependant l’examen des variantes de détail et, parfois, la présence de fautes communes permettent d’établir l’existence des familles suivantes :
+
+– Famille ABCDES, à laquelle on peut sans doute joindre le fragmentaire manuscrit T.
+
+– Famille UKL, dont on peut rapprocher M.
+
+– Famille OPQ, dont dérivent la version remaniée UV et une rédaction abrégée représentée par 727 et 103.
+
+– Famille WXY.
+
+– Les familles UKL-M, OPQ-UV-727/103, WXY constituent un groupe dérivant d’un original commun représenté le plus fidèlement par OPQ. A ce groupe se rattache R, sans qu’on puisse nettement le rapprocher d’une famille.
+
+– N occupe une position originale dans la tradition, tantôt proche de ABCDES, tantôt voisin de l’autre groupe.
+
+
+=== Chapitre III Le choix d’un manuscrit de base ===
+
+E. Löseth et, à sa suite, E. Vinaver distinguaient deux versions du roman : l’une, V.I., représentée par des manuscrits ne comprenant que la seconde partie du roman (commençant après le paragraphe 184 de l’Analyse de Löseth), considérée comme la plus simple et la meilleure ; l’autre, V. II., version cyclique et interpolée, plus récente.
+Pour les paragraphes 1-183 de l’Analyse de Löseth, cette dernière est la seule qui subsiste.
+
+Depuis les travaux d’E. Baumgartner, on sait désormais que V.I., comme V. IL, est une version remaniée d’un original perdu, et qu’il reste pour le début du roman une version unique dont rien ne permet de prétendre ni qu’elle appartienne à V. II. ni qu’elle représente le texte original.
+En conséquence, le choix d’un manuscrit de V.I. comme base ne s’impose pas.
+Il semble même préférable de choisir, pour établir le texte le plus homogène possible, dans l’optique d’une édition complète du roman, l’un des manuscrits complets de V. II. : A, B, C ou D.
+
+De ces témoins, le meilleur est sans doute B, mais il est trop tardif pour pouvoir être choisi (1400).
+Finalement le choix s’est porté sur A, dont les leçons ne sont pas toujours satisfaisantes, mais pour lequel les trois autres manuscrits, qui font partie de la même famille, forment un utile point de comparaison.
+En outre, contrairement à l’opinion traditionnelle qui le plaçait à la fin du xve siècle, on date aujourd’hui A de l’extrême fin du xiiie siècle, ce qui en fait l’un des manuscrits les plus anciens du Tristan en prose, et le plus ancien des manuscrits complets.
+
+
+=== Chapitre IV Le manuscrit de base ===
+
+La langue et la graphie de A le situent dans l’aire de la scripta franco-picarde, avec alternance de formes franciennes et picardes.
+Ces dernières sont toutefois un peu plus nombreuses.
+Le manuscrit respecte fort bien les règles de la déclinaison à deux cas : les principales fautes portent sur des noms propres en fonction de sujet avec forme de cas-régime.
+Ce type de faute, fréquent en ancien français, est rare dans le texte (sept exemples).
+
+On relève également certains archaïsmes : parfaits sigmatiques, emploi du substantif au cas-régime construit directement avec le verbe en tant que complément d’attribution.
+
+
+== Deuxième partie Étude littéraire ==
+
+Les structures et les fonctions du récit peuvent être mises en rapport, au double niveau de la phrase et de la partie, cadre traditionnel du roman arthurien.
+Cette confrontation fait apparaître le caractère stéréotypé du texte, qui obéit à des procédés et des schémas qui lui préexistent, ainsi que son originalité profonde qui se traduit dans le récit « réaliste » d’un tournoi.
+
+
+=== Chapitre premier les structures du récit === 
+
+Les structures narratives se situent à deux niveaux.
+Au niveau de la phrase, l’articulation des phrases narratives retient particulièrement l’intérêt.
+La plupart du temps, les attaques sont de type temporel : elles sont exprimées soit par des propositions soit par des adverbes, notamment par lors qu’on trouve au passage des paroles à l’action bu au passage de la réflexion à la parole ; la tournure donne au texte, qui se veut par là-même authentique, son caractère purement linéaire et chronologique.
+Dans les récits de combats du tournoi, en revanche, l’articulation des phrases est plus lâche, et le discours acquiert ainsi plus d’autonomie par rapport aux procédés habituels qui le régissent.
+
+Au niveau plus global de la partie, on constate la superposition d’un récit linéaire, caractérisé notamment par l’articulation temporelle des phrases, et d’une structure entrelacée, significative du roman arthurien, qu’on ne retrouve pourtant pas dans les combats du tournoi, dont la narration est surtout centrée sur le personnage de Tristan.
+
+
+=== Chapitre II Mythe et authenticité ===
+
+L’épisode du Château des Pucelles s’insère dans un univers mythique, le royaume arthurien de Logres, thème qui préexiste au Roman de Tristan.
+Il s’y retrouve un grand nombre de personnages, lieux, motifs (don contraignant, incognito, fontaine...) traditionnels dans la littérature arthurienne.
+
+L’auteur vise à authentifier le mythe qu’il recrée par un certain nombre de procédés : emploi rituel et répétitif de phrases données dans des situations données, interventions neutres et « objectives » visant à donner l’illusion d’un texte destiné à être délivré oralement, renvois à l’istoire, caractère linéaire du récit dont l’aventure est le seul moteur.
+
+
+=== Chapitre III Un univers idéal ? ===
+
+La dimension morale du Tristan en prose, telle qu’elle peut apparaître dans l’épisode du Château des Pucelles, vise à idéaliser l’univers arthurien et à présenter les héros comme des types exemplaires.
+Le récit renvoie constamment à celui tans, sorte de bon vieux temps où le roi (Arthur) gouvernait débonnairement parmi ses preux compagnons, celui d’une monarchie idéale où pouvaient s’épanouir des tempéraments d’exception, Lancelot et Tristan, dont la prouesse et la courtoisie sont constamment mises en parallèle.
+
+Simultanément, divers éléments, thèmes ou personnages semblent témoigner de la désagrégation progressive de cet univers : personnages de Breüs Sans Pitié et de Morgain qui représentent les forces du mal, ou de Dinadan dont le caractère perturbateur n’est cependant pas très manifeste dans l’épisode.
+L’amour (de Palamède pour Iseut) ne mine pas la base du monde arthurien, mais il est constamment présenté sous un jour défavorable, même si la rivalité qui oppose Tristan et Palamède ne les pousse pas sur la voie de la déloyauté.
+Enfin, on assiste à un dévoiement du tournoi qui, plutôt qu’une assemblée amicale, devient une guerre morteus.
+
+
+=== Chapitre IV Les procédés et le style ===
+
+Malgré les contraintes des procédés littéraires qu’il utilise, et qui, pour la plupart, sont inhérents au récit arthurien, l’auteur parvient à montrer son talent littéraire et stylistique.
+
+En général, le récit n’est pas réaliste : il s’agit plutôt de donner à l’univers arthurien l’apparence de la réalité.
+Pourtant, dans le récit du tournoi, dont la fonction distractive paraît évidente, et autour du personnage de Palamède, l’auteur sait faire preuve d’un don d’observation qui tend à prouver, d’une part, que l’épisode n’a pas qu’une fonction utile dans le roman, mais qu’il vise également au plaisir du lecteur, et, d’autre part, que l’auteur semble suggérer, par le soin qu’il apporte au personnage de Palamède, pourtant présenté sous un jour à première vue négatif, une seconde lecture du texte qui pose aux côtés des modèles traditionnels de bravoure (Tristan, Lancelot) d’autres modèles qui sont plus ou moins leurs contraires (Palamède, Dinadan).
+
+
+=== Chapitre V L’épisode du château des Pucelles et le roman ===
+
+Même s’il possède une certaine autonomie (récit de tournoi), l’épisode du Château des Pucelles est néanmoins bien inséré dans la trame générale du roman.
+
+Il a pour fonction d’introduire Tristan parmi les meilleurs chevaliers du monde, et de poser les premiers linéaments d’une future rivalité chevaleresque avec Lancelot.
+Il sert également de cadre à la rivalité de Tristan et de Palamède pour l’amour d’Iseut, sous les yeux d’une de ses demoiselles.
+Dans le roman, cette rivalité fonctionne d’ailleurs à l’occasion de tournois.
+
+Il serait donc faux de ne considérer cet épisode que comme un intermède destiné à distraire le lecteur.
+Il présente, au contraire, des liens très étroits avec le début (rivalité de Tristan et Palamède) et avec la suite (introduction de Tristan à la Table Ronde) du roman. 
+
+
+== Troisième partie Édition ==
+
+Édition des fol. 144 f – 179 f du manuscrit A. Pour les paragraphes 1-34, l’apparat critique a été établi d’après l’ensemble des manuscrits (à l’exception d’ABERYSTWYTH, N. L.W. 446 E et Genève, Bibl. publ. et univ., fr. 189 qui n’ont pu être examinés, et de E dont la communication a été trop tardive pour que les variantes fussent insérées dans l’apparat).
+Léningrad, Bibl.
+Publ., Fr.
+F.v.
+XII. 2, qui n’a pas été utilisé, commence au paragraphe 35.
+Pour les paragraphes 34-476, l’apparat comprend les variantes et des manuscrits B, C et D.
+
+L’épisode édité correspond aux paragraphes 117-155 de l’Analyse de Löseth.
+
+
+== Annexes ==
+
+Édition des passages correspondant aux paragraphes 1-34 de la version 727-103 (727, fol. 297 d-299 d) et du manuscrit 112 (fol. 103 a).– Édition du passage correspondant à tout l’épisode dans le manuscrit Paris, Bibl. nat., fr. 758 (fol. 3 v).– Index.
+Glossaire.

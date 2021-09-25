@@ -1,0 +1,205 @@
+identifier: ENCPOS_1985_01
+creator: Pascale Barthelemy
+date: 1985
+title: L’œuvre alchimique de Guillaume Sedacer. Édition et étude
+
+
+
+== Introduction ==
+
+Guillaume Sedacer, carme catalan de la fin du xive siècle, et son œuvre alchimique n’avaient jusqu’ici guère attiré l’attention des historiens.
+Les brèves notices qui leur étaient consacrées, souvent contradictoires – du moins en apparence –, laissaient de nombreuses questions sans réponse : la Sedacina nous était-elle parvenue complète ou une partie en avait-elle été perdue ?
+S’agissait-il bien du seul traité du moine alchimiste ?
+L. Thorndike en était même venu à douter de l’existence de celui-ci.
+Sedacer est d’ailleurs en partie responsable de ces incertitudes.
+En effet, toute une partie de son œuvre alchimique fut reléguée dans l’oubli, faute d’avoir été signée autrement que par un cryptogramme.
+C’est le déchiffrage de celui-ci, trouvé dans un manuscrit de la Bibliothèque Laurentienne de Florence, qui, venant après plusieurs indices, confirme l’attribution à Sedacer du Liber alterquinus.
+
+Ce traité présentant toutes les caractéristiques d’un travail préparatoire à la Sedacina, l’étude conjointe de ces deux textes et des rapports de l’un à l’autre permet ainsi de mieux connaître les méthodes de travail de l’auteur et de le voir en quelque sorte à l’ouvrage.
+
+
+== Première partie Étude de l’œuvre alchimique de Guillaume Sedacer == 
+
+
+=== Chapitre premier l’auteur : Guillaume Sedacer ===
+
+Les plus anciens biographes de Guillaume Sedacer affirment qu’il écrivit entre 1370 et 1378 et se disputent sur l’origine « limousine » ou catalane de son nom, cette dernière hypothèse semblant toutefois la bonne.
+
+La Sedacina contient elle-même des indications intéressantes sur son auteur.
+Ainsi, le prologue nous apprend que les relations de Sedacer avec son ordre étaient devenues si conflictuelles qu’il dut s’exiler.
+Même en faisant la part de la rhétorique (c’est un topos de la littérature alchimique que de dénoncer ses persécuteurs), il convient de ne pas négliger cette information que semblent confirmer les quelques renseignements sûrs que nous possédons.
+En 1377, Sedacer signe la copie des Clarificationes super nono Almansoris de Jean de Tournemire, conservée dans le manuscrit 4235 de la Bibliothèque nationale de Madrid ; il est alors hébergé à Perpignan par un chanoine d’Elne, Nicolaus Egidii, et non par les carmes de cette ville.
+Autre information, fournie cette fois par les archives : le 6 janvier 1382, l’infant Jean d’Aragon prend des dispositions pour racheter les livres et autres biens engagés par Sedacer à Perpignan.
+Puis, un an plus tard, après la mort du carme, il fait vérifier qu’aucun des livres laissés par le défunt à Valence chez Constance de Vich ne provient de sa bibliothèque.
+Sedacer jouissait donc de protections importantes à la cour d’Aragon et ses dernières années n’ont, semble-t-il, pas eu pour cadre la sérénité d’une cellule monacale.
+On connaît même le créancier de Sedacer : il s’agit du chanoine Nicolaus Egidii qui l’avait reçu à Perpignan, peut-être pendant quelques années.
+Quant à la liste des livres engagés par Sedacer (trente-sept manuscrits au total), elle fournit des renseignements non négligeables sur sa bibliothèque, d’une importance fort honorable pour l’époque.
+Sa composition n’étonnera pas : vingt-six manuscrits scientifiques dont une douzaine de traités alchimiques et cinq livres d’astronomie, mais seulement cinq ouvrages religieux.
+Sedacer possédait également neuf manuscrits médicaux ; il rédigea d’ailleurs en 1378 une Ars cyrurgie.
+Ces centres d’intérêt révèlent la curiosité du carme pour les sciences de la nature, de même qu’ils supposent chez lui un certain niveau d’études, acquis dans les studia generalia de son ordre ou à l’université.
+
+Par conséquent, si nous ne connaissons de Sedacer que les dernières années de sa vie – les plus difficiles, semble-t-il –, il n’y a plus lieu de douter de la réalité de son existence, ni de lui refuser la paternité de la Sedacina.
+
+
+=== Chapitre II La Sedacina ===
+
+La tradition manuscrite de la
+    « Sedacina ». – La Sedacina nous est parvenue à la fois dans sa version originale latine et dans une traduction italienne.
+De la première, neuf manuscrits (certains partiels) ont été conservés : 
+
+P : Parme, Biblioteca Palatina, 143, xve siècle (daté 1428-1429), fol. l-77v.
+
+G : Florence, Biblioteca Medicea-Laurenziana, Gaddi rel. 181, xve siècle, fol. 1-71.
+
+W : Londres, Wellcome historical medical library, 36, xve siècle, fol. 71-75v (extrait limité au chapitre sur le verre).
+
+M : Montpellier, Bibliothèque de la Faculté de Médecine, 479, xve siècle, fol. 126-128v (extrait limité au chapitre sur l’antimoine).
+
+L : Londres, Wellcome historical medical library, 563, xvie siècle, fol. l-83v.
+
+E : El Escorial.
+Real Biblioteca, G II 5, xvie siècle, fol. 274-410.
+
+Florence, Biblioteca nazionale, Magliabecchi XVI 69, xvie siècle (daté 1533), fol. l-61v.
+
+Florence, Biblioteca nazionale, Magliabecchi XVI 70, xvie siècle, fol. 1-59.
+
+Saint-Gall, Kantonsbibliothek Vadiana, 406, xvie siècle (daté 1533).
+
+L’ensemble de ces manuscrits assure à la Sedacina une tradition d’une remarquable stabilité.
+Pour établir le texte de ce traité, j’ai utilisé les six premiers manuscrits mentionnés précédemment.
+Parmi eux, le manuscrit le plus ancien.
+P, se distingue par la qualité de son texte.
+Par conséquent, il a été choisi comme manuscrit de base.
+G occupe une position intermédiaire entre P, d’une part, et L et E, d’autre part.
+La filiation entre ces deux derniers manuscrits du xvie siècle, même si elle ne saurait être directe, n’en demeure pas moins extrêmement nette.
+Quant aux deux extraits W et M, le premier est sans doute issu du même modèle que P dont il est très proche, tandis qu’il faut attribuer au second une place bien à part, son copiste ayant, à la différence des autres, cherché à réécrire quelque peu le texte.
+
+La traduction italienne a été transmise par les deux manuscrits suivants :
+
+– Glasgow, University library, Ferguson 153, xvie siècle, fol. 1-224v.
+
+– Florence, Biblioteca Riccardiana, 2187, xviie siècle, fol. 12-118v.
+
+L’explicit du manuscrit de Glasgow mentionne l’existence d’une traduction allemande de la Sedacina, aujourd’hui perdue, semble-t-il.
+
+Présentation de la
+    « Sedacina ». – Dès le titre de son traité, Sedacer joue sur les mots : Sedacina, c’est l’œuvre de Sedacer mais aussi, en mélangeant catalan et latin, le « résultat d’un passage au crible » des écrits des alchimistes, travail de compilation, donc, avoué dès le titre.
+Mais il ne faudrait pas pour autant ranger la Sedacina au nombre des doxographies ; il s’agit plutôt d’un traité théorique et pratique, les recettes alchimiques ne venant qu’après une importante introduction où Sedacer expose ses vues sur l’art de la transmutation.
+L’essentiel demeure pourtant la partie pratique, ordonnée selon un plan très structuré : le premier livre traite des éléments sur lesquels se fonde l’Opus alchimique, à savoir les métaux, les pierres et les esprits.
+Le second, quant à lui, est consacré aux substances grâce auxquelles les corps décrits dans la première partie sont préparés en vue de parvenir à la transmutation : ce sont les aluns, les sels, les borax ainsi que les produits extraits de l’homme, de la tortue et de l’œuf.
+
+A l’exception d’un chapitre sur les luts, mal intégré, ce plan cohérent peut aussi paraître complet.
+Pourtant, à plusieurs reprises, Sedacer annonce un troisième et un quatrième livres qui auraient dû, semble-t-il, être successivement consacrés à la transmutation ad album et ad rubeum.
+Le deuxième livre lui-même paraît amputé d’une partie traitant des lessives de cendres (capitella).
+Certains copistes de la Sedacina ont d’ailleurs remarqué ces lacunes et l’un d’eux a même tenté d’y remédier.
+Tradition incomplète ou œuvre inachevée ? toutes les hypothèses auraient été permises sans la découverte d’un autre traité de Sedacer, passé jusqu’ici inaperçu, le Liber alterquinus.
+
+
+=== Chapitre III Le Liber alterquinus ===
+
+La place du
+    « Liber alterquinus » dans l’œuvre alchimique de Guillaume Sedacer. – Il restait en effet à expliquer, si la Sedacina était inachevée, la mention ambiguë de quatre livres sur la pierre philosophale attribués à Guillaume
+    « Sedacina » dans trois bibliographies alchimiques des xvie et xviie siècles.
+Or, le manuscrit 36 de la bibliothèque Wellcome de Londres contenait, outre un extrait de la Sedacina, un Liber Occham philosophi super scientia alkimica présentant de troublantes ressemblances avec le traité de Sedacer.
+Deux autres copies de ce mystérieux texte – comportant, lui, quatre livres – avaient circulé sous le titre assez déroutant de Liber alterquinus.
+Ce traité, moins bien ordonné et plus concis que la Sedacina, mais en revanche complet, pouvait être tenu, à bon droit, pour la source principale de la Sedacina, quoique cette explication ne fût pas entièrement convaincante, les similitudes étant réellement trop nombreuses.
+Considérer Sedacer comme l’auteur de ces deux traités, l’un étant en quelque sorte une collection de matériaux, l’autre le début de l’œuvre définitive, était une hypothèse autrement plus satisfaisante mais tout aussi risquée.
+Elle devait pourtant être confirmée par un cryptogramme contenu dans l’explicit d’un manuscrit du Liber alterquinus conservé à la Bibliothèque Laurentienne de Florence.
+Celui-ci, une fois déchiffré, laisse en effet apparaître le nom de Guillaume Sedacer.
+
+La tradition manuscrite du
+    « Liber alterquinus ». – Le Liber alterquinus nous est parvenu grâce à trois manuscrits : F : Florence, Biblioteca Medicea-Laurenziana, Acq. e doni 48, xve siècle, fol. l-87v.
+B : Oxford, Bodleian library, Canon.
+Mise. 81, xve siècle, fol. 122-211.
+JF : Londres, Wellcome historical medical library, 36, xve siècle, fol. 1-46.
+
+La tradition manuscrite du premier traité de Sedacer est loin d’être aussi stable que celle de la Sedacina.
+En effet, F, B et W présentent entre eux un grand nombre de divergences portant tant sur le contenu que sur l’ordre suivi.
+De plus, aucun d’eux ne transmet un texte de qualité réellement satisfaisante.
+Enfin, la comparaison de la Sedacina avec ces trois manuscrits ne permet pas d’en privilégier un seul parmi eux et de le considérer comme le texte du Liber alterquinus tel qu’il a été écrit par Sedacer.
+En effet, certains passages repris par le carme pour écrire son second traité ne se trouvent que dans W, d’autres dans B et W, d’autres encore dans B et F ou dans F seul. 
+
+Ces réserves faites, on peut tout de même proposer certains repères susceptibles de démêler un peu l’histoire de cette tradition assez complexe : le manuscrit F est à la fois le plus ancien et le seul à avoir conservé l’explicit chiffré révélant le nom de Sedacer.
+En outre, il contient la version la plus longue, relativement plus ordonnée et plus proche de la Sedacina.
+Ces caractéristiques m’ont donc conduite à le choisir pour manuscrit de base.
+Le texte du Liber alterquinus transmis par B est. au contraire, le plus court des trois et se rapproche tantôt de F, tantôt de W. Ce dernier se distingue d’ailleurs à plusieurs égards : il est le seul, d’une part, à ne pas porter le titre de Liber alterquinus et à attribuer ce traité à Guillaume d’Ockham.
+D’autre part, tout en étant le texte le plus corrompu, il contient des recettes reprises dans la Sedacina, ne figurant ni dans B, ni dans F. Enfin et surtout, on trouve réunis dans ce manuscrit à la fois le premier traité de Sedacer mis sous le nom du philosophe anglais, un extrait de la Sedacina clairement désignée et une bien curieuse compilation anonyme et inachevée, portant le titre de Quadripartita, qui se compose essentiellement de tous les passages contenus dans la Sedacina et non dans le Liber alterquinus.
+L’auteur de cette Quadripartita, sans doute le copiste de W, avait donc relevé les similitudes existant entre les deux œuvres, tout en ignorant qu’elles étaient toutes deux du carme.
+
+Analyse du
+    « Liber alterquinus ». – L’explication du caractère fluctuant de la tradition manuscrite du Liber alterquinus réside dans la nature même de ce texte.
+En effet, il s’agit d’une simple collection de recettes assez grossièrement réparties en quatre livres.
+Les deux premiers sont consacrés à peu près aux mêmes substances que les deux livres de la Sedacina, tandis que le troisième et le quatrième rassemblent toutes les opérations de nature transmutatoire et permettant d’obtenir respectivement de l’argent et de l’or.
+Mais, à l’intérieur de cette division quadripartite, tout au plus peut-on distinguer, çà et là, un regroupement des recettes par substance ou par finalité communes.
+Rien d’étonnant donc à ce que le texte original du Liber alterquinus se soit rapidement dégradé au fil des copies successives.
+
+Il s’agissait, en fait, pour Sedacer de regrouper en quatre parties, correspondant chacune à une étape de l’œuvre alchimique, le plus grand nombre de recettes attestées par la tradition, d’où un certain nombre de doublons.
+C’est ce matériau brut qui, retravaillé et complété, devait servir de base à la Sedacina.
+
+Genèse de la
+    « Sedacina ». – La Sedacina complète aurait, en effet, représenté l’état le plus achevé de la pensée de Guillaume Sedacer.
+Tout en conservant la division quadripartite du Liber alterquinus, celui-ci a, avant tout, cherché à mieux ordonner son texte : les recettes concernant la même substance, notamment, se trouvent réunies en chapitres et ceux-ci sont agencés les uns par rapport aux autres selon un plan déterminé au début de l’ouvrage.
+Sedacer a aussi complété son premier traité de manière importante, les deux premiers livres de la Sedacina dépassant en volume les quatre du Liber alterquinus.
+Ce gonflement est dû à l’apport de la partie théorique, certes, mais également à de nombreuses recettes nouvelles.
+Entre les deux étapes de son œuvre, Sedacer avait donc pour suivi ses recherches, mais bien davantage en bibliothèque, semble-t-il, qu’en laboratoire.
+
+
+=== Chapitre IV Les sources ===
+
+La Sedacina représentant l’état le plus élaboré de l’œuvre de Guillaume Sedacer, c’est à partir de ce traité que j’ai tenté d’identifier les sources utilisées par le carme, non sans revenir de temps à autre au Liber alterquinus, pour mieux cerner l’évolution du travail de composition accompli par l’auteur.
+
+Les sources citées par Sedacer. – Dans son second traité, Sedacer fait preuve d’un souci constant et relativement peu ordinaire d’indiquer à son lecteur les sources dont il s’est servi.
+En effet, il ne cite pas moins de vingt-quatre autorités alchimiques, soit dans la liste d’auteurs qu’il donne dès le début de son ouvrage, soit à l’occasion d’une théorie ou d’une recette.
+Cette prolixité contraste très nettement avec le silence qui entoure les sources du Liber alterquinus où seuls sont mentionnés les alchimistes mythiques que sont Hermès et Aristote.
+Encore fallait-il confronter les citations de Sedacer avec les textes eux-mêmes.
+
+Les sources utilisées par Sedacer. – Une des sources principales dans lesquelles le carme a puisé, dès le Liber alterquinus, est le De perfecto magisterio attribué à Aristote ; Sedacer désigne d’ailleurs ce texte clairement et à plusieurs reprises.
+Mais il a également tiré d’importants passages du De salibus et aluminibus qu’il attribue curieusement à Avicenne et qu’il utilise déjà dans le Liber alterquinus, et de deux traités du corpus alchimique de Roger Bacon : le Verbum abbreviatum de leone viridi et le Breve breviarum ; le célèbre philosophe anglais est d’ailleurs cité dans la liste du prologue.
+Le carme a eu également recours, mais de manière plus ponctuelle, au Secretum secretorum de Râzî qu’il attribue, lui à un certain Dominus de ponderibus, au Liber de septuaginta, traduction latine d’une œuvre de Jābir, à la Semita recta du pseudo-Albert le Grand et à la Visio mystica, traité allégorique parfois mis sous le nom d’Arnauld de Villeneuve.
+On notera, là encore, que tous ces alchimistes, ou prétendus tels, sont mentionnés au moins une fois dans la Sedacina, ce qui est tout à l’honneur du carme.
+
+En revanche, dans la liste du prologue, Sedacer cite des auteurs ou des œuvres dont on ne retrouve pas trace ensuite dans les deux premiers livres de la Sedacina.
+Peut-être envisageait-il de les utiliser dans les dernières parties de son livré, ou bien a-t-il voulu simplement les mentionner sans toutefois y avoir recours comme source.
+Tel est le cas de Raymond Lulle et du Rosarius de John Dastin.
+
+Comment Sedacer utilise ses sources. – Sedacer, tout en reproduisant textuellement les passages extraits de ses sources, n’en a pas moins cherché à faire œuvre personnelle de par la manière dont il les utilise.
+En effet, il n’hésite pas à les compléter, à les adapter aux exigences de son plan et à en disposer avec une certaine liberté : il juxtapose des passages parfois très brefs provenant de divers traités, élaborant ainsi une véritable « mosaïque » de textes d’origines différentes.
+
+
+=== Conclusion l’originalité de l’œuvre alchimique de Guillaume Sedacer ? ===
+
+Guillaume Sedacer lui-même ne revendique pas pour son œuvre d’autre mérite que celui d’être une compilation, puisqu’il désigne la Sedacina par ces mots : « electa de medulis veracissimis approbatorum philosophorum et alkimistarum. »
+De fait, Sedacer se présente comme un compilateur ingénieux, connaissant fort bien la littérature alchimique : tous les auteurs les plus importants de cette science sont cités dans son second traité.
+Son œuvre n’apporte donc rien de neuf, car tel n’est pas son but, pas plus qu’elle n’est le fruit d’expériences en laboratoire.
+Sedacer a, avant tout, cherché à rassembler en un ensemble cohérent, bien construit et précédé d’une introduction théorique, le plus grand nombre de procédés permettant de parvenir à la transmutation.
+Son œuvre est, par là même, très représentative de tout un courant de la littérature alchimique, particulièrement fécond aux xive-xve siècles et dont la principale caractéristique est le désir de reprendre et d’exploiter les idées déjà exprimées par les précédents alchimistes.
+En outre, Sedacer, par ses sources, se situe en retrait des spéculations de ses contemporains qui ont cherché à affiner et à renouveler les théories du xiiie siècle.
+Cette attitude semble d’ailleurs être le fruit d’un choix volontaire, car Sedacer connaissait ces alchimistes puisqu’il cite Arnauld de Villeneuve et qu’il possédait le Rosarius de John Dastin.
+
+En fait, la principale originalité de l’œuvre de Sedacer ne réside pas dans son contenu, mais dans son vocabulaire alchimique particulièrement étrange que le carme substitue, de manière systématique, à celui de ses sources.
+En effet, dans le but de cacher au lecteur indigne de recevoir le secret de l’Opus alchimique, les substances intervenant dans ses recettes, Sedacer utilise à la fois des mots empruntés à des langues autres que le latin, des symboles et des métaphores ; il écrit même parfois certains termes en usant d’une écriture inversée.
+Ces procédés se rencontrent dans d’autres traités, mais Sedacer a particulièrement développé cette attitude cryptique et s’est constitué un vocabulaire très personnel qu’il a sans doute puisé à la fois dans sa propre imagination et dans des sources de natures diverses ; ainsi, pour les appellations planétaires des métaux données en grec, arabe, hébreu, « éthiopien », « chaldéen » et « indien », il a, semble-t-il, eu recours à un traité d’astronomie, science qu’il connaissait, puisque plusieurs ouvrages de sa bibliothèque y étaient consacrés.
+
+Ce goût du secret et cet amour des mots sont vraiment les particularités du carme, puisqu’on les retrouve non seulement dans son vocabulaire alchimique, mais aussi dans le chiffre cachant son identité à la fin du Liber alterquinus et dans les titres de ses deux traités, Sedacina et alter quinus, qui sont les fruits de son imagination et auxquels il donne un double sens.
+
+Par conséquent, si la Sedacina et le Liber alterquinus ne sauraient être rangés parmi les œuvres les plus marquantes de l’alchimie latine du Moyen Age, elles n’en témoignent pas moins d’une bonne assimilation d’un grand nombre de traités et d’une recherche personnelle sur le vocabulaire alchimique.
+
+
+== Deuxième partie Édition de l’œuvre alchimique de Guillaume Sedacer ==
+
+
+=== Édition de la Sedacina ===
+
+Le texte de la Sedacina a été établi à partir des six manuscrits mentionnés précédemment ; il est accompagné des références au Liber alterquinus, d’une part, et aux sources utilisées par Sedacer, d’autre part.
+
+
+=== Édition du Liber alterquinus ===
+
+Le texte du Liber alterquinus a été établi d’après la version la plus longue, celle du manuscrit F, dont l’ordre a été respecté ; les recettes contenues uniquement dans B et/ou W ont été mises à la suite de ce texte.
+Enfin, dans le but de rendre compte des divergences d’ordre existant entre ces manuscrits, j’ai reconstitué, dans un tableau, la composition de B et W.
+
+
+== Annexes ==
+
+Résolution du chiffre de l’explicit du manuscrit F. – Glossaire. – Index des auteurs cités par Sedacer.

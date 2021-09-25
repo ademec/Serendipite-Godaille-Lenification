@@ -1,0 +1,118 @@
+identifier: ENCPOS_1960_07
+creator: Claude Hohl
+date: 1960
+title: Les pestes et les hôpitaux parisiens au xvie siècle
+
+
+
+== Introduction ==
+
+Au début du xvie siècle, Paris ne dispose que d’un nombre extrêmement limité de maisons au caractère mal défini, couvents et hôpitaux tout à la fois, dont l’unique fonction, lorsqu’elles l’exercent, est l’hospitalité.
+L’Hôtel-Dieu est le seul établissement qui accueille de véritables malades.
+Il révèle vite son insuffisance et son inadaptation aux conditions nouvelles créées par les violentes épidémies du xvie siècle.
+
+
+== Première partie Les épidémies parisiennes au xvie siècle ==
+
+A partir de 1348, les « pestes » ne cessèrent de sévir à Paris.
+On compte une dizaine d’apparitions violentes du fléau au xve siècle, plus encore au siècle suivant.
+
+L’étude chronologique des épidémies parisiennes au xvie siècle révèle que leur durée a varié de deux à neuf ans, leurs plus violentes manifestations étant celles des années 1522, 1525, 1562, 1580 et 1596.
+
+Il n’est pas possible d’en saisir les répercussions démographiques, forcés que nous sommes de nous fier aux écrits des contemporains, dont les affirmations ne reposent sur aucune base contrôlable.
+L’étude médicale de ces épidémies soulève également de nombreux problèmes, en dépit d’un grand nombre d’opuscules ou « traités de la peste » publiés à cette époque.
+
+Les mesures prises pour lutter contre le fléau ne diffèrent en rien de celles prescrites dans les autres villes : nettoiement des rues, interdiction des métiers insalubres, mise en quarantaine des contagieux, expulsion des vagabonds. 
+
+
+== Deuxième partie L’Hôtel-Dieu ==
+
+La nomination, en 1505, de huit gouverneurs laïques chargés de la gestion du temporel de l’Hôtel-Dieu n’apporta guère de bouleversement dans la manière dont on recevait les malades dans cet hôpital.
+Elle en priva simplement les chanoines de Notre-Dame, qui ne conservèrent désormais que la direction des affaires spirituelles de la maison.
+
+
+=== Chapitre premier les bâtiments. ===
+
+Dès le xiiie siècle, l’Hôtel-Dieu disposait de quatre grands bâtiments, les salles Saint-Thomas, Saint-Denis, l’Infirmerie et la Salle Neuve.
+Conçues selon les principes architecturaux du moyen âge, elles allaient devenir très vite insuffisantes.
+Dès le xve siècle, on élargissait la Salle Neuve ; au siècle suivant, la générosité du cardinal Antoine Duprat permit la construction d’une nouvelle salle dite du Légat.
+
+Les premières années du xviie siècle furent marquées par la reconstruction des anciens bâtiments de l’hôpital, bientôt suivie de la mise en chantier de deux nouvelles salles, la Bretagne et la salle du Rosaire.
+Cette dernière fut édifiée sur un pont enjambant le petit bras de la Seine, le pont au Double.
+Les travaux étaient achevés en 1635.
+
+
+=== Chapitre II Les malades. ===
+
+Chaque salle de l’hôpital formait un « office » accueillant en théorie une catégorie différente de malades.
+Leurs vastes dimensions et le système des lits à plusieurs places alors en vigueur rendaient l’isolement des contagieux impossible, compte tenu du nombre sans cesse croissant des malades et des pauvres qui y étaient accueillis.
+L’étude de la mortalité quotidienne à l’Hôtel-Dieu à différentes années du xvie siècle met en évidence la forte augmentation des décès en période de contagion.
+
+
+=== Chapitre III Les médecins et les chirurgiens. ===
+
+Les médecins tiennent peu de place à l’Hôtel-Dieu ; leurs visites ne durent que très peu de temps et sont très irrégulières.
+Le service médical de l’hôpital ne s’organisera que dans les premières années du xviie siècle.
+
+Malgré le peu de considération qu’on leur marque, c’est aux chirurgiens que revient le soin véritable des malades.
+Constamment présents, ils s’entourent de serviteurs, les compagnons chirurgiens.
+L’institution du gagnant-maîtrise, qui apparaît en 1585, sera l’un des éléments qui contribueront à l’organisation du service chirurgical de l’Hôtel-Dieu au début du xviie siècle.
+
+
+=== Chapitre IV Les enfants a l’Hôtel-Dieu : l’hôpital des Enfants-Rouges. ===
+
+La mortalité très élevée et la situation déplorable des jeunes enfants orphelins ou abandonnés recueillis par l’Hôtel-Dieu et vivant sans cesse au contact des malades amena, grâce à une largesse du roi, l’acquisition d’une maison située dans le quartier du Temple, où l’on envoya désormais ces enfants.
+Le nouvel hôpital dit des Enfants-Rouges n’eut jamais qu’une importance très réduite.
+
+
+== Troisième partie Les hôpitaux pour pestiférés ==
+
+
+=== Chapitre premier généralités. ===
+
+Les idées que l’on pouvait avoir sur la transmission des maladies contagieuses se reflètent dans les nombreux projets de cette époque tendant tous à établir un hôpital spécial pour les pestiférés en dehors de l’enceinte de Paris.
+Ils ont pour origine les mesures prises de tous temps à l’égard des lépreux.
+Ils s’inspirent également des grandes créations hospitalières de l’Italie de la Renaissance.
+
+
+=== Chapitre II Le sanitat de saint-germain-des-prés. ===
+
+Lors de l’épidémie de 1519, les gouverneurs de l’Hôtel-Dieu, dans le but de décharger l’hôpital des malades contagieux qui s’y trouvaient, firent entreprendre la construction d’« une grant closture de maison » au delà de la porte de Nesle, en bordure de la Seine.
+Le roi, qui avait tout d’abord favorisé le projet de cet hôpital de la Charité ou Sanitat, s’en désintéressa rapidement.
+Faute de crédits, les travaux furent abandonnés dès 1520.
+
+
+=== Chapitre III Les projets du milieu du siècle. ===
+
+De nouveaux projets virent le jour entre 1531 et 1556, à chaque appa rition de l’épidémie.
+Celui de 1545 visait notamment à transformer en sanitat la ferme de Grenelle.
+Aucun n’aboutit.
+
+
+=== Chapitre IV L’hôpital de Grenelle. ===
+
+C’est encore à ce lieu de Grenelle que l’on pensa, lors de la grande épidémie de 1580.
+Sur l’avis de la Faculté de médecine, le Parlement et la municipalité y firent établir un vaste ensemble de bâtiments provisoires destinés à abriter les contagieux expulsés de la ville.
+Faute d’entretien, les « loges » ne devaient pas résister plus de dix ans aux intempéries.
+
+
+=== Chapitre V La maison de la santé du faubourg Saint-Marcel. ===
+
+En 1596, la ville loua dans le même but deux maisons situées l’une entre les portes Saint-Denis et Saint-Martin, l’autre rue des Vignes, au faubourg Saint-Marcel.
+Une nouvelle épidémie, en 1606, l’amena à faire l’acquisition de deux maisons de ce même faubourg, rue de l’Arbalète.
+L’année suivante, elle en confiait la direction aux gouverneurs de l’Hôtel-Dieu, avec mission de les tenir prêtes chaque fois que la peste se déclarerait à Paris.
+L’insuffisance de la maison de la santé du faubourg Saint-Marcel, qui ne put jamais accueillir plus de trois cents malades à la fois, se fit très tôt sentir.
+Elle devait d’ailleurs disparaître dès le milieu du xviie siècle, après qu’on eut transporté ses services dans le nouvel hôpital Sainte-Anne.
+
+
+=== Chapitre VI L’hôpital Saint-Louis. ===
+
+La paix et la prospérité retrouvées permirent la construction de l’hôpital Saint-Louis, entrepris à partir de l’été 1607.
+Son isolement, les vastes dimensions et la distribution intérieure de ses bâtiments en faisaient l’aboutissement de toute la série de projets hospitaliers du siècle précédent.
+
+
+== Pièces justificatives ==
+
+Édition des statuts de l’Hôtel-Dieu de 1535.
+
+Étude graphique des entrées et des décès à la maison de la santé du faubourg Saint-Marcel (1623 et 1625).

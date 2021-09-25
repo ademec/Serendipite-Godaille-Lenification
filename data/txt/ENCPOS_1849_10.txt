@@ -1,0 +1,28 @@
+identifier: ENCPOS_1849_10
+creator: Charles Marty-Laveaux
+date: 1849
+title: Examen des œuvres de Virgilius Maro, le grammairien
+
+
+
+== Positions. ==
+
+
+=== I. ===
+
+Certains grammairiens, que Virgilius Maro nous fait connaître, recherchaient les mots les moins usités, et en dérivaient de nouveaux termes auxquels ils attribuaient des significations tout à fait détournées ; en outre, ils employaient les prépositions les unes pour les autres.
+
+
+=== II. ===
+
+Ils avaient des déclinaisons et des conjugaisons particulières, dont les formes étaient entièrement contraires au génie de la langue latine. 
+
+
+=== III. ===
+
+Les plus subtils joignaient à ces procédés l’abus de l’hyperbate et de la tmèse, et l’usage des sigles, qui servaient alors, non pas à abréger l’écriture, mais à dérober la science aux profanes.
+
+
+=== IV. ===
+
+Ce genre de style, dont les règles étaient enseignées dans les écoles, et qui se trouvait plus ou moins compliqué d’inventions bizarres et de précautions propres à rendre la science inabordable, fut en usage pendant une période dont il n’est pas possible de déterminer exactement la durée, mais qui comprend les huitième, neuvième et dixième siècles dans toute leur étendue.

@@ -1,0 +1,139 @@
+identifier: ENCPOS_1926_03
+creator: Lucie Chamson-Mazauric
+date: 1926
+title: Histoire de l’abbaye bénédictine de Psalmodi des origines à l’année 1099
+
+
+
+== Avant-propos ==
+
+Justification du sujet et de ses limites.
+
+
+== Introduction histoire des archives de l’abbaye ==
+
+Le fonds de Psalmodi n’a jamais été dispersé.
+Il est tout entier aux Archives du Gard dans les séries H et G. Il comprend deux originaux carolingiens, quelques copies d’actes carolingiens exécutées aux xe et xie siècles, de nombreux actes du xie siècle.
+Les cartulaires anciens ont disparu.
+Il y en avait probablement deux.
+Le cartulaire de 1683, dit livre Vert, en deux volumes, donne des copies fidèles d’actes existant encore.
+
+
+== Première partie Critique des sources de l’histoire de l’abbaye ==
+
+
+=== I. – Sources narratives ===
+
+La chronique d’Uzès n’est pas une chronique, mais une simple série de notes ajoutées au xve siècle en marge d’un manuscrit de Bernard Gui : Flores Chronicorum.
+Ces notes reproduisent les renseignements fournis par une chronique carolingienne de Saint-Théodorit d’Uzès.
+Cette chronique n’était qu’une copie des Annales d’Aniane, complétée par des additions concernant l’histoire locale et particulièrement Psalmodi.
+Les faits sont exacts, mais les dates sont erronées (confusion dans les styles).
+
+La chronique de Nîmes, composée au xiiie siècle, renferme beaucoup d’erreurs.
+
+
+=== II. – Sources diplomatiques ===
+
+A. Actes royaux et impériaux. – Le faux diplôme de Charlemagne, daté de 791, a été forgé au début du xiie siècle sur le modèle d’un acte privé carolingien, émanant peut-être de Guillaume de Gellone.
+C’est un faux de vanité qui concède surtout des privilèges honorifiques.
+
+Le diplôme de Louis le Débonnaire, daté de 815, et celui de Charles le Chauve, daté de 844, nous sont connus par de bonnes copies du début du xie siècle.
+
+Le diplôme de Charles le Simple, daté de 909, nous est connu par une transcription du début du xiiie siècle.
+Cette copie reproduit un diplôme authentique confirmant à Psalmodi les donations faites par les prédécesseurs de Charles le Simple.
+Elle contient une interpolation ajoutée au début du xiiie siècle pour justifier les prétentions des moines sur le littoral.
+
+B. Actes pontificaux. – Un privilège pontifical non daté, soumettant Psalmodi à la juridiction du Saint-Siège, nous est connu par deux copies incomplètes du xe siècle.
+Cet acte doit émaner du pape Etienne VII et dater de 897 environ.
+
+Un acte de Grégoire VII, daté de 1081, adressé au légat Richard de Saint-Victor, est authentique.
+L’original du privilège d’Urbain II pour Psalmodi existe en double exemplaire, il est daté de 1099. 
+
+C. Actes privés. – Actes carolingiens. – Nous avons deux actes originaux : le testament de Dadila de 813 et la précaire de sa veuve de 815 ; à quoi il faut ajouter quelques actes connus seulement par des copies.
+
+Actes de la fin du xe siècle et du début du xie siècle. – Ce sont des donations : deux actes du xe siècle attribués aux comtes de Provence sont douteux.
+Un acte de Guillaume Taillefer date de 1030 et non de 998.
+La rédaction des actes de donation se fait d’après plusieurs formules.
+
+Actes de la fin du xie siècle. – Ce sont des jugements ou des ventes.
+Un jugement entre Saint-Victor et Psalmodi se place en 1098 et non en 1096 comme on l’a cru.
+
+Un acte de Raymond de Saint-Gilles de 1071 est authentique, un autre de 1094 est faux.
+Plusieurs faux ont été forgés en vue d’assurer à Psalmodi la possession de Saint-Silvestre de Teillan.
+Un hommage prêté par les seigneurs de Lunel est authentique.
+
+
+== Deuxième partie Histoire de l’abbaye ==
+
+
+=== I. – L’époque carolingienne ===
+
+L’abbaye de Psalmodi n’existait pas à l’époque mérovingienne.
+Sa fondation semble se rattacher à la renaissance bénédictine languedocienne dont saint Benoît d’Aniane fut un des propagateurs.
+Elle fut créée par l’abbé Corbila, aidé sans doute par l’archevêque de Narbonne, Nimbrisius, et le comte Guillaume, ami de Charlemagne.
+Elle prit une place de premier rang sous l’abbatiat de Thiémir, théologien qui attira sur Psalmodi la faveur de Louis le Débonnaire.
+Elle comptait alors 140 moines et jouissait du privilège d’immunité.
+L’abbaye eut à subir les empiétements de Bernard, duc de Septimanie, mais fut réintégrée dans ses possessions par Charles le Chauve.
+Elle paraît avoir perdu son privilège d’immunité sous ce roi, mais Charles le Simple le lui rendit.
+Le pape Etienne VII la soumit directement à la juridiction du Saint-Siège.
+Les invasions sarrasines obligèrent les moines à s’enfuir à Saint-Julien de Cornillac.
+On perd leurs traces jusqu’à la fin du xe siècle.
+
+
+=== II. – Période seigneuriale ===
+
+L’abbé Garnier entreprend la reconstitution de l’abbaye vers la fin du xe siècle.
+En 1004, il réunit une grande assemblée de nobles et de clercs qui décident de la reconstruction et de la réparation de Psalmodi.
+Il recherche l’appui des comtes de Provence et de Toulouse.
+En même temps, il restaure le temporel de l’abbaye grâce à de nombreuses donations.
+
+Mais aucun acte pontifical ou royal ne vient sanctionner les privilèges de l’abbaye.
+
+
+=== III. – Période pontificale ===
+
+Vers 1070, les moines de Saint-Victor de Marseille s’emparent de l’abbaye sous le prétexte de la réformer.
+Ils se font céder des droits par le comte de Maguelonne et par le pape Grégoire VII. C’est seulement en 1098 que l’abbaye est délivrée de la tutelle de Saint-Victor. – Depuis le milieu du xie siècle, les particuliers ne lui font plus de dons. – Le pape Urbain II (1099) rétablit l’abbaye dans ses anciens privilèges.
+
+
+== Troisième partie Le temporel de l’abbaye ==
+
+
+=== I. – Le site, la situation, les occupations anciennes de la région de Psalmodi ===
+
+Psalmodi est une île au milieu des marais.
+Le site est très défavorable aux établissements humains, mais la situation est excellente, près du Rhône et de la mer.
+L’occu pation romaine seule a créé des lieux habités d’une manière permanente dans la partie la plus marécageuse de la région côtière.
+
+
+=== II. – Le temporel à l’époque carolingienne ===
+
+Les moines poursuivent et atteignent un double but : possession de terres voisines assez riches pour assurer la subsistance des moines ; possession du littoral. – La légende de la tour Matafère : on a pris Matafère pour un nom propre ; il faut y voir un nom commun suivi d’un adjectif (mata, fera).
+
+A la fin de cette période, les moines possèdent une grande partie de la région côtière, ainsi que Joncels dans la montagne.
+
+
+=== III. – Le temporel à l’époque seigneuriale ===
+
+Les moines continuent à étendre leur domination sur la région de Nîmes et de Substantion, mais ils veulent des possessions dans les montagnes et s’en font donner dans les comtés d’Aix et de Sisteron en Provence.
+
+
+=== IV. – Le temporel à l’époque pontificale ===
+
+Les donations s’arrêtent.
+L’abbaye achète surtout des droits de justice. – Tableau du temporel en 1099 d’après l’acte d’Urbain II. – Les possessions de l’abbaye sont dispersées.
+
+
+== Conclusion ==
+
+
+
+
+== Appendices ==
+
+
+
+
+== Pièces justificatives ==
+
+Les actes de l’abbaye des origines à l’année 1099.

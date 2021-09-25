@@ -1,0 +1,111 @@
+identifier: ENCPOS_2013_21
+creator: Morgane Spinec
+date: 2013
+title: « Dans l’arrière scène des seuls comédiens du roy » : pour une édition des feuillets d’assemblée (1682-1706)
+
+
+
+== Introduction ==
+
+La troupe unique dérivée des trois troupes de Molière, du Marais et de l’hôtel de Bourgogne arrive au faîte de sa gloire politique et artistique quand elle se voit octroyer le monopole sur la comédie francophone.
+
+Cette ère de la première Comédie-Française n’est pas le moins du monde inconnue de la science historique, d’autant que ces années avaient déjà leurs chroniqueurs contemporains : Traslage, Dangeau dans son Journal, ou encore Grimarest, biographe de Molière et contemporain de la fin de la période couverte par les feuillets d’assemblée.
+Ce n’est pas non plus une nouvelle troupe ; tous ses développements précédents sont bien connus, passage incontournable de toutes les histoires de la Comédie-Française, notamment pour la période d’occupation de l’hôtel de Guénégaud.
+Les protagonistes de cette première période suivent des parcours pour certains très bien étudiés : les premiers compagnons de Molière, Charles La Grange, Raisin cadet, François du Périer, Michel Baron et d’autres comédiens – auteurs comme Poisson père ou Dancourt –, ainsi que les auteurs bien repérés dans l’histoire littéraire.
+Mais à strictement parler, les feuillets d’assemblée n’ont pas suscité d’étude spécifique, ni d’édition.
+Le fonds n’a été, pour la plus grande part, utilisé que ponctuellement.
+Des assemblées ont été plus particulièrement examinées pour les détails qu’elles contenaient : disposition de rôles à la sortie de comédiens, résolution marquante pour l’organisation de la troupe.
+Les assemblées sont autant d’entrées ponctuelles, examinées dans un but global dans ce projet d’édition.
+
+L’introduction revient sur les modes d’utilisation des informations contenus dans les feuillets, toujours dans l’ombre d’autres questions posées à l’histoire du théâtre.
+Questions posées dès le xviiie siècle par les généticiens de l’histoire du théâtre, qui s’intéressent de près à la prestigieuse Comédie-Française.
+Au siècle suivant, avec la constitution de l’histoire littéraire et la sélection des classiques, la figure de Molière en alimente l’intérêt, et les conservateurs de la bibliothèque-musée de la Comédie-Française s’en affirment les principaux experts.
+La génération de la revue littéraire du Moliériste donne ses bases à l’exploration des feuillets d’assemblée.
+La reproduction du fonds au xxe siècle a fourni la matière première à ce travail, ainsi qu’une série d’instruments pour comprendre le fonds : listes récapitulatives des dates d’assemblées par années civiles en introduction des dossiers dans les boîtes sorties des archives générales, analyses diverses des lacunes en annexes.
+D’où il ressort que les feuillets d’assemblée ont été abordés soit d’un point de vue très panoramique, soit à la manière de l’aiguille dans la botte de foin.
+
+
+== Sources ==
+
+Le fonds en question, conservé à la bibliothèque-musée de la Comédie-Française, se présente sous la forme de feuillets manuscrits.
+Cet aspect disparaît presque entièrement dans une édition par traitement de texte.
+La suite de l’introduction s’arrête sur les aspects manuscrits : la forme même d’un feuillet, sa constitution d’après ce qu’il a été possible d’en reconstituer après analyse d’une assemblée plus tardive.
+On s’intéresse aussi aux rédacteurs qui ont été identifiés : par une main récurrente, par une particularité graphique, à l’identification de signatures – ce qui permet de différencier des acteurs homonymes, rappelant l’importance des cercles familiaux dans la Compagnie, lisible également dans les biographies et parcours des acteurs.
+L’identification demeure toutefois complexe, en certaines occasions.
+
+Autre aspect manquant évoqué également : la question des lacunes et l’analyse du fonctionnement propre des feuillets.
+Les lacunes repérées en annexes des dossiers par plusieurs générations de conservateurs n’ont pas été examinées plus avant et demeurent sans reconstitution.
+Des blancs laissés à l’intérieur même des feuillets conservés viennent constater que les dits feuillets sont avant tout un outil de mémoire interne, dressé sur le vif, adressé aux comédiens qui demeurent conscients du contexte d’écriture, contrairement au lecteur d’aujourd’hui, qui doit se replonger dans l’histoire du temps présent du rédacteur – soit les années 1680-1700.
+De quoi se poser la question de l’utilité de l’édition…
+
+Les feuillets d’assemblée abordent toutes sortes de sujets, mais dans une approche de détail ponctuel, fonctionnant essentiellement par dates et non par périodes.
+Les sujets couvrent les représentations, les costumes, les frais, les gagistes, les procès, etc., tout le quotidien de la troupe, mais les informations ne sont ni exhaustives, ni suivies.
+Ce projet, qui tente de cumuler approche spécifique et approche globale, trouve alors son meilleur instrument dans le catalogue chronologique, réalisé à la suite de l’établissement du texte, qui joint la date à un chapeau thématique, permettant de reconstituer l’intérêt d’une assemblée spécifique.
+
+Pour concrétiser ce projet, basé principalement sur l’étude d’une source majoritaire, il a néanmoins été fait appel à d’autres documents, localisés tant dans la bibliothèque-musée même qu’aux Archives nationales.
+L’effort a été principalement porté sur les documents les plus proches du fonds ; on ne peut néanmoins nier l’apport évident de ces sources autres.
+Ainsi, quelques registres tenus par les comédiens, tant avant que pendant la période, ont permis d’éclairer l’ensemble, notamment celui de La Grange sur les dépenses du premier établissement, qui rentre dans le détail de l’investissement gigantesque suite au Déménagement.
+
+En termes de bibliographie, quelques références ont été utilisées fréquemment et ont servi de modèle à l’élaboration de l’ensemble.
+L’histoire générale du théâtre du xviie siècle, l’histoire de la Comédie-Française, des biographies de comédiens et d’auteurs, ainsi que d’artistes, ont constitué les thèmes principaux de repérage des outils de références à utiliser.
+Plusieurs encyclopédies et dictionnaires sont venus soutenir l’effort général.
+Ont été laissées de côté des références spécialisées sur des angles abordés au cours de la recherche, sur des sujets tels que l’histoire des notaires de Paris, l’expédition de Carthagène des Indes (1697), l’histoire de la Marine, les relations du clergé et du spectacle, etc.
+Autant de sujets intéressants mais qui, faute d’approfondissement, n’ont pas trouvé place dans ce travail.
+
+
+== Première partie Les feuillets d’assemblée ==
+
+Les documents, rassemblés dans leur lieu de conservation dans des dossiers par année civile, ont ici été regroupés par périodes chronologiques selon un découpage arbitraire en cinq parties centrées chacune sur un angle thématique particulièrement présent.
+La chronologie a également été recentrée sur l’année théâtrale, rythmée par la clôture du théâtre à Pâques.
+
+
+=== Chapitre premier Structurations et résolutions réglementaires de la Compagnie 1681-1685 ===
+
+Avec la création de la Compagnie, les comédiens appuient leur nouveau statut sur un système de résolutions logistiques, concernant les amendes, les chandelles, le bois, les décors, les répétitions.
+Cette période est marquée par le détail des informations, notamment pour les premiers répertoires de quinzaines.
+
+
+=== Chapitre II Le règlement de la Dauphine et déménagement 1685-1689 ===
+
+Cette seconde période est marquée par un changement de tutelle, une manifestation d’autorité et un déménagement, chronologiquement cohérents avec un détachement du pouvoir souverain des arts du théâtre.
+
+
+=== Chapitre III Le Nouvel établissement 1689-1692 ===
+
+Le 18 avril 1689, les comédiens du roi jouent pour la première fois dans leur nouveau théâtre, une des merveilles de Paris de l’époque.
+L’ombre du Nouvel établissement plane sur la suite de leur existence. 1692 a été sélectionné comme marqueur final avec la mort de La Grange, l’homme fort de la Compagnie et greffier d’un registre de comptes spécialement dédié aux premières dépenses du Nouvel établissement qui s’arrête en décembre 1691.
+
+
+=== Chapitre IV La troupe en mutation 1692-1695 ===
+
+Le Nouvel établissement maintenant occupé, la troupe doit faire face aux conséquences de la grande dépense.
+Ce cadre chronologique voit entrer une nouvelle génération au sein de la Compagnie, qui doit remplacer des têtes d’affiches.
+Ces mutations donnent un nouveau visage aux comédiens du roi, comme s’annoncent de nouvelles difficultés, notamment sur le plan financier, dans une conjoncture globale peu favorable.
+
+
+=== Chapitre V Le temps des difficultés 1695-1706 ===
+
+Cette partie se concentre sur deux années, 1700 et les trois premiers mois de 1706, qui forment le dernier dossier de feuillets d’assemblée.
+Cette dernière partie donne un aperçu des mutations de la troupe au cours de la deuxième moitié de la période couverte par les feuillets d’assemblée et forme une avancée vers l’achèvement intégral de ce travail.
+
+
+== Deuxième partie Outils et index ==
+
+Suite au texte des assemblées, on trouve un catalogue chronologique des assemblées, qui a l’avantage sur le reste des outils ici constitués d’englober l’intégralité du fonds, en repérant les assemblées contenues in extenso dans ce travail, ainsi que les assemblées dont le texte intégral manque, enregistrées avec un titre donnant un aperçu de leur contenu.
+
+Sous le titre Dramatis personae, l’index de personnages historiques a cherché à répertorier tous les noms propres apparaissant tels quels dans le corps de l’assemblée.
+Il s’est également employé à inclure des apparitions reconstituées par association, notamment par croisement avec l’index des pièces.
+Cet index se veut exhaustif, mais certains personnages n’ont pas pu être identifiés.
+Cet outil a de plus l’avantage de retracer approximativement l’ampleur des cercles de sociabilité de la Compagnie, dans l’éventail des relations développées au gré de ses activités et entreprises au cours de cette période.
+
+L’index par sujets présente une sélection de thèmes, notamment parmi les plus récurrents dans les assemblées.
+
+L’entrée par pièces liste lesdites pièces, dont le nom apparaît de fait dans les assemblées, en leur attribuant un auteur, opération qui vient compléter l’index de personnages.
+Les mentions de pièces sans titre, avec reconstitution certaine, ont été intégrées à l’ensemble.
+
+L’abrégé qui suit est un recueil de fiches informatives portant sur la globalité du fonds et contenant les articles suivants, dont ceux mis en italique concernent des personnages : Abbaye Saint-Germain-des-Prés, Furstemberg, Acteurs, Amendes, Artisans, Assemblées, Aubry, Aumont, Auteurs, Mlle Auzillon, Barbier, Barbier, Baron, Barquebois, Beaubourg, Beauval, Beauvilliers, Belin, Berain, Bernard, Bertrand, Billets, Boisrobert, Boursault, Boyer, Brecourt, Brueys, Campistron, Champagne, Champmeslé, Champvallon, Chandelles, Chant, Charpentier, Charité, Clergé, Collège des quatre-nations, comédiens de campagne, Comptes, Copistes, Corneille, Costumes, Danchet, Dancourt, Dangeville, Danseurs, Dauphine, Dauvilliers, De Brie, Déménagement, Dennebault, Desbrosses, Desgranges, Deshayes, Desmares, De Villiers, De Visé, D’Orbay, Du Boccage, Duchemin, Du Clos, Du Croisy, Dufey, Dufort, Du Manoir, Du Périer, Dupin, Du Rieu, Du Ryer, Femmes dans la Compagnie, Fêtes religieuses, Floridor, Fompré, Forains, Fréville, Gagistes, Gardes, Godefroy, Guérin, Guérin-Gitard, Guyot, Hauteroche, Hubert, Innocent XII, Intendance des Menus Plaisirs, Italiens, Jetons, L’Hermite, La Chappelle, La Fleur, La Fontaine, La Grange, La Grange-Chancel, Lalande, Lallouette, La Reynie, La Thorillière, Langlois, Laurent (famille), Lavoy, Le Comte, Lectures, Legrand, Le Noble, Lesage, les Grands à la Comédie, Librairie, Longchamps, Longepierre, Loterie royale, Louvart, Malezieu, Médecins, Mémoire, Michaut, Michel, Molière, Montfleury, Mouffet, Mousquetaires, Naufrage, Notaires, Obligations, Ordonnances de pension, Paix générale, Parts, Palaprat, Péchantré, Pégase, Pelletier, Pension, Pizzoli, Pointis, Poisson, Ponteuil, Pradon, Prévost, Prévots, Procope, Quinault, Quinault, Quinzeniers, Racine, Raisin, Raison, Registres journaliers, Regnard, Retrait journalier, Rioupéroux, Rivière, Rochemore, Rosélis, Rosidor, Rosimond, Rotrou, Rousseau, Rue de Guénégault, des Fossés Saint-Germain, Saisies, Saint-Genes, Saint-Yon, Salley, Sallot, Scarron, Sévigny, Sourdéac et Champeron, Titres des pièces, Ulric, Verneuil, Voisins, Voyages à la Cour.
+
+
+== Annexes ==
+
+Assemblée du 17 mai 1677 (hors chronologie stricte) concernant la rente à André Boudet. — Billet d’André Hubert sur le versement de la pension royale de 1683. — Partage de toute l’année du 22 avril 1686 au 17 mars 1687. — Compte rendu d’assemblée de comptes, recette et dépenses, frais divers, retrouvé au verso du jour correspondant dans le registre journalier CF R19. — Mémoire adressé au duc Louis-Victor d’Aumont par les comédiens italiens en réponse aux arguments des Français pour se décharger de leur part de loyer dans l’hôtel de Bourgogne. — Relevé reconstitué de quelques dispositions de pièces dans les assemblées non retranscrites. — Autographe d’étienne Baron pour l’accord entre les sociétaires pour une avance à Rioupéroux, auteur. — État des rôles en premier et second de Mlle Godefroy à la date de sa mort.

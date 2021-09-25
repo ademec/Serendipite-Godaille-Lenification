@@ -1,0 +1,138 @@
+identifier: ENCPOS_1927_04
+creator: Jeanne Daguillon
+date: 1927
+title: Ulrich de Strasbourg O.P. (mort en 1277). Notice littéraire et édition des deux premiers livres de la Summa de Bono
+
+
+
+== Avant-propos ==
+
+Les recherches méthodiques faites dans les bibliothèques de tous les pays de l’Europe font découvrir des œuvres de première importance pour l’histoire de la pensée médiévale.
+
+Par bien des côtés celte pensée demeure encore mystérieuse et elle reste difficile à atteindre parce que les textes qui pourraient nous la faire connaître sont encore en grande partie inédits.
+Parmi ces textes inédits nous nous sommes arrêté à la Somme d’Ulrich de Strasbourg (1277), dominicain de la province de Teutonie.
+L’importance de cette Somme vient d’abord de son auteur.
+Ulrich fut en effet le disciple d’Albert le Grand, le condisciple de Saint Thomas, d’Henri de Gand, d’Antonin de Sienne.
+De plus, cette Somme est une des manifestations les plus importantes du courant néoplatoniciens médiéval ; peut-être même forme-t-elle le trait d’union entre la doctrine albertinienne et celle des grands mystiques rhénans du xive siècle. 
+
+
+== Bibliographie ==
+
+
+
+
+== Introduction ==
+
+
+
+
+== Première partie Biographie d’Ulrich ==
+
+
+=== Chapitre I Ulrich avant son entrée dans l’ordre ===
+
+Nous avons recherché dans ce chapitre ce qui pouvait nous éclairer sur le nom même d’Ulrich Engelbert ; nous avons voulu aussi préciser dans la mesure du possible ce que l’on peut savoir sur le lieu de naissance et la famille d’Ulrich.
+
+
+=== Chapitre II Les premières années d’Ulrich chez les Prêcheurs ===
+
+1. – Entrée d’Ulrich chez les Prêcheurs. – Ulrich né à Strasbourg, connut évidemment de bonne heure les dominicains de cette ville mais on ne peut déterminer avec certitude la date précise de son entrée dans l’Ordre.
+
+2. – Ulrich étudiant. – Après avoir commencé ses études à Strasbourg, Ulrich fut sans aucun doute envoyé au Studium Generale de Cologne, créé en 1248, et dont Albert le Grand a été l’organisateur.
+
+Qu’Ulrich ait connu Albert le Grand, nous en avons des preuves multiples.
+Plus tard, à peine élu provincial, Ulrich écrit immédiatement à Maître Albert pour lui faire part de son élection, et à ce propos il lui rappelle leur amitié de date ancienne.
+Cette amitié date sans doute de Cologne.
+C’est dans cette dernière ville qu’Ulrich entendit les leçons d’Albert le Grand, en particulier ses commentaires, sur le célèbre Pseudo-Denys l’Aréopagite.
+Cette influence d’Albert le Grand est manifeste dans la Summa de Bono.
+Le plan même de cette Somme et les matériaux qui la composent témoignent de cette influence.
+
+3. – Ulrich lecteur. – Un lecteur est un rouage de première importance dans un couvent dominicain du xiiie siècle.
+C’est lui qui est chargé de former les jeunes frères étudiants à leur future mission d’enseignement et de direction.
+Humbert de Romans nous a laissé dans son De vita regulari, la charte spirituelle, si l’on peut s’exprimer ainsi, du lecteur dominicain.
+Ulrich remplit cette charge au couvent de Strasbourg.
+
+
+=== Chapitre III Ulrich provincial et bachelier en théologie ===
+
+1. – Ulrich provincial. – C’est en 1272, au chapitre provincial de Bâle, qu’Ulrich fut, malgré ses protestations, élu provincial de la province de Teutonie.
+Nous sommes suffisamment renseigné sur cette période de la vie d’Ulrich par un certain nombre de lettres que contient le manuscrit de Berlin, Theol.
+Lat. 189.
+Finke avait publié ces lettres, mais d’une façon très incomplète et très fautive.
+Nous en donnons une édition nouvelle.
+
+2. – Ulrich bachelier en théologie à Paris. – C’est en 1277 qu’Ulrich arrive à Paris.
+C’est l’année de la célèbre condamnation portée par Eitenne Tempier.
+
+Nous avons cherché à préciser ce que pouvait être la vie d’un bachelier à l’Université de Paris, par l’étude précise des Statuts de 1333 et 1389, en tenant compte cependant de l’évolution des Statuts entre le xiiie et le xive siècle.
+C’est à Paris, très vraisemblablement au début de son enseignement, qu’Ulrich mourut.
+
+
+== Deuxième partie Les oeuvres d’Ulrich ==
+
+
+=== Chapitre I Oeuvres en général ===
+
+D’après les témoignages des chroniqueurs et des biographes, Ulrich aurait composé des Commentaires sur Aristote : sur les Météores, le De anima, en particulier.
+Ces ouvrages sont perdus.
+De plus, il serait l’auteur d’écrits juridiques.
+Malgré nos recherches nous n’en avons trouvé aucune trace.
+
+On lui attribue aussi un Commentaire sur les Sentences, mais il y a très vraisemblablement erreur d’attribution.
+Ce Commentaire des Sentences, contenu dans un manuscrit de Bâle, est bien d’un Ulrich de Strasbourg, mais cet Ulrich est postérieur à l’auteur de la Summa de Bono ; il est contemporain de maître Eckhart ; il a pris part au célèbre procès intenté contre ce dernier maître.
+Nous avons consacré quelques pages à Ulrich prédicateur.
+Le manuscrit theol. 2.205 de Hambourg contient un de ses sermons en allemand que nous publions.
+
+De plus, on a jusqu’ici attribué à Ulrich la construction des orgues de la cathédrale de Strasbourg.
+Nous avons examiné ce problème.
+Cette légende remonte très vraisemblablement à Daniel Specklin. 
+
+
+=== Chapitre II La Summa de bono ===
+
+Quant à la Summa de Bono, il n’y a aucun doute sur l’attribution.
+Cette Summa est inédite.
+Il en existe 20 manuscrits.
+Elle se composait originairement de 8 livres : les deux derniers restent actuellement introuvables.
+Ils furent écrits cependant, car nous en avons trouvé mention dans Torquemada.
+
+Ce qui caractérise dans les grandes lignes la Summa de Bono, c’est l’influence dionysienne et l’influence albertinienne.
+Nous avons précisé les rapports entre la Summa de Bono et Denys.
+Ulrich a suivi Albert le Grand dans le choix de la version de Sarrazit.
+
+
+== Édition ==
+
+Publication des deux premiers livres inédits de la Summa de Bono d’après huit manuscrits : Louvain, (sans cote) ; Munich (Clm. 6496) ; Rome (Val.
+Lat. 1311) ; Saint-Omer (120) ; Dole (79) ; Vienne (Autriche) (3924) ; Erlangen (619) ; Paris, Bibliothèque Nationale (ms. lat. 15900).
+
+Sujet de ces deux livres :
+
+I. De laude sacre scripture (2 traités de 8 et 11 chapitres) ;
+
+II. De unitate divine nature (6 traités de 7, 4, 13, 4, 21 et 7 chapitres). – Ils constituent un commentaire des Noms Divins ; et c’est ce qui leur donne un intérêt tout spécial pour l’histoire de la théologie et en particulier pour l’histoire du courant mystique rhénan. 
+
+Index des noms d’auteurs et d’ouvrages cités par Ulrich dans ces deux premiers livres.
+
+Publication de la Table des Matières des 6 livres actuellement connus de la Somme.
+
+Essai de contribution sous forme de lexique, à l’étude des abréviations spécialement usitées dans les manuscrits de théologie du xve siècle.
+
+
+== Appendices ==
+
+Nous avons terminé par trois groupes d’appendices.
+
+1.
+Le premier se rapporte directement à Ulrich de Strasbourg.
+C’est une correspondance datant de l’époque où Ulrich était provincial.
+Cette correspondance contenue dans le manuscrit de Berlin Théol.
+Lat. oct. 109, a été édité par Finke, partiellement et d’une façon très défectueuse.
+Nous en donnons une édition intégrale et plus critique.
+Nous publions aussi une bulle inédite de Grégoire X, du 19 nov. 1273, adressée à Ulrich au sujet de la Croisade.
+
+2.
+Le second groupe se rapporte à des questions annexes à la Summa de Bono : nous reproduisons un Supplément au ive livre de cette Somme, écrit par Jean de Malines et que seul contient le manuscrit de Louvain. – Il nous a paru intéressant aussi de donner, pour des raisons que nous expliquons, des extraits de Jean Tinctor, contenus dans le manuscrit 4948 de Vienne (Autriche) qui contient en même temps des extraits d’Ulrich.
+
+3.
+Dans le troisième et, dernier groupe des Appendices, nous avons rassemblé des pièces concernant Ulrich, sa Somme, et l’histoire du couvent de Strasbourg.

@@ -1,0 +1,107 @@
+identifier: ENCPOS_1953_16
+creator: Jean-François Maurel
+date: 1953
+title: Jean Beleth et la Summa de ecclesiasticis officiis
+
+
+
+== Première partie Jean Beleth et son œuvre ==
+
+
+=== Chapitre premier l’auteur. ===
+
+Du petit nombre de documents conservés, on peut déduire que Jean Beleth était disciple de Gilbert de la Porrée, sans qu’il soit possible d’affirmer que ce fut à Chartres ; d’après des témoignages quelque peu postérieurs, il enseigna à Paris et se trouvait à Amiens en 1182.
+Son information géographique est trop vaste pour permettre une identification précise ; il n’a pas lui-même, comme on l’a cru, affirmé son appartenance à l’Église de Paris.
+Son nom, orthographié par les contemporains
+    « Beleth », mais aussi
+    « Belet », n’implique pas une origine anglaise que rien ne peut faire pressentir dans la Summa, où plusieurs villes de France, d’Italie ou d’Empire sont citées, mais aucune d’Angleterre.
+
+Du texte de la Summa, on peut conclure que Beleth n’était pas moine, mais probablement prêtre, qu’il écrivait surtout pour des clercs, mais non spécialement pour les prêtres.
+
+
+=== Chapitre II L’œuvre. ===
+
+Aucune des nombreuses œuvres attribuées à Beleth ne peut être fermement retenue, sauf la Summa de ecclesiasticis officiis.
+
+La Gemma anime est celle d’Honorius, encore que la confusion date du Moyen Age.
+Le Traité des Vices et des Vertus, attribué à tort à Jean Beleth par la rubrique d’un seul manuscrit, est postérieur à saint François.
+L’attribution des Éclaircissements sur quelques passages difficiles de l’Écriture vient d’une erreur commise à Cîteaux au xviie siècle et reprise par Le Long.
+Celle des Commentaires de Pierre Lombard est due à une mauvaise interprétation d’un catalogue.
+Le Traité des Sibylles est anonyme ; Montfaucon, en résumant à l’excès un catalogue, l’a placé sous le nom de Beleth.
+Aucune de ces attributions ne remonte au delà du xviie siècle, sauf celle de la Gemma anime.
+
+Dès le xiiie siècle, au contraire, on a attribué des sermons à Beleth.
+Plusieurs fois, on rencontre dans les manuscrits ou les catalogues anciens la Summa de officiis suivie ou précédée de sermons ; jamais ils ne lui sont explicitement attribués.’
+
+Il faut remarquer, enfin, que catalogues et auteurs médiévaux citent souvent Summa Beleth sans préciser, ce qui laisse supposer qu’il n’y avait qu’un traité du maître.
+
+
+== Deuxième partie La « Summa de ecclesiasticis officiis » ==
+
+
+=== Chapitre premier le titre et la date de la « Summa ». ===
+
+Le titre de Rationale donné à la Somme de Beleth par Lauriman ne se rencontre jamais au Moyen Age : il est dû au traité de Guillaume Durand.
+A côté de Summa de divinis officiis, on trouve plus fréquemment Summa de ecclesiasticis officiis, que nous adoptons.
+
+Comme l’a récemment montré le P. Van den Eyde, la Summa a été écrite entre 1160 et 1164, soit entre les dernières visions et la mort d’Élizabeth de Schönau, dont Beleth rapporte l’un des récits en précisant qu’elle vit encore.
+
+
+=== Chapitre II Le plan. ===
+
+L’auteur semble avoir un plan établi auquel il se réfère plusieurs fois, mais qu’il suit d’assez loin.
+Après avoir traité de façon générale des lieux, des temps et des personnes sacrées, il décrit l’office, dont la Messe, puis les livres liturgiques ; enfin, dans sa partie la plus importante, il passe en revue les divers temps de l’année liturgique, de l’Avent à la Pentecôte, traitant brièvement après chacun des fêtes de saints.
+
+
+=== Chapitre III But et caractères de la « Summa ». ===
+
+La Summa décrit surtout les offices du clergé séculier et néglige à la fois liturgie monastique et liturgie épiscopale, ce qui permet de l’opposer aux traités précédents, qui faisaient la part large à l’évêque : on peut dire qu’elle est à ces traités ce qu’un rituel est à un pontifical.
+
+La Summa est surtout utile par la précision de ses descriptions d’offices, par l’ampleur géographique de son information, qui se vérifie exacte.
+La distinction n’est pas toujours faite entre les grands courants de la vie liturgique et ses côtés anecdotiques ; pourtant, grande importance est donnée aux rites baptismaux.
+L’explication est encore, pour partie, historique ; elle fait souvent appel aux usages antiques, païens ou juifs ; l’explication symbolique est moins développée que dans d’autres traités, antérieurs ou contemporains ; elle est beaucoup plus marquée dans les notes ajoutées par la suite à la Summa.
+
+Déjà, Beleth utilise les méthodes scolastiques : formules nota quod..., queritur... ; appel à plusieurs autorités entre lesquelles l’auteur se réserve de choisir.
+
+
+=== Chapitre IV Influence. ===
+
+Copiée à de nombreux exemplaires au xiiie siècle, la Summa l’est beaucoup moins au xive.
+Des notes de lecture indiquent qu’on en use encore quelque peu à la fin du Moyen Age.
+Les registres de prêt du xive n’en font que rarement mention ; toutefois, un maître de Sorbonne l’emprunte en 1402.
+Au xiiie on la traduit en français et plusieurs manuscrits en copient des fragments.
+Le traducteur de Guillaume Durand l’a lue.
+Plusieurs auteurs du xiiie siècle recourent à Beleth, mais dans sa partie la moins importante, les récits hagiographiques.
+
+
+=== Chapitre V L’édition. ===
+
+La Somme a été éditée plusieurs fois au xvie siècle par Lauriman, qui a voulu faire par là œuvre de Contre-Réforme.
+Il a utilisé un manuscrit très complet ; mais il n’a pas hésité à le remanier pour supprimer certains traits trop naïfs ou le colorer de son érudition humaniste ; il a parfois sollicité le texte, mais a surtout totalement changé le vocabulaire.
+
+
+== Troisième partie Étude des manuscrits ==
+
+
+=== Chapitre premier manuscrits actuellement conservés. ===
+
+Notices de cent vingt manuscrits.
+Quelques-uns sont du xiie siècle, le plus grand nombre du xiiie, quelques-uns du xive.
+Index des auteurs contenus dans ces manuscrits qui montre que les Pères latins, saint Bernard, Hugues et Richard de Saint-Victor étaient, avec les liturgistes contemporains, les auteurs qu’on rapprochait le plus volontiers de Beleth.
+L’ordre des chapitres est, à de rares manuscrits près, toujours le même, sauf vers la fin, pour les saints du temps après Pentecôte.
+Mais là, comme pour la plupart des notes ajoutées d’abord en marge, puis incorporées progressivement au texte, il s’agit de l’œuvre des disciples de Beleth.
+Ces notes sont, d’ailleurs, très vite apparues, puisqu’on les trouve déjà presque toutes trente ans après la rédaction.
+
+
+=== Chapitre II Manuscrits des bibliothèques médiévales. ===
+
+Liste des manuscrits classés par ordre alphabétique des bibliothèques, avec cotes anciennes et modernes éventuellement, puis par ordres monastiques ou communautés diverses.
+Étude qui montre que tous les ordres ont possédé Beleth, y compris les ordres mendiants, sauf les Franciscains ; chanoines, collèges, universités et parfois laïques l’ont eu aussi.
+Mais les bibliothèques fondées au xive siècle s’en sont désintéressées.
+Comparaison avec les autres liturgistes qui semble prouver que les trois manuels successifs du Moyen Age furent Amalaire, Beleth, Durand.
+
+
+== Quatrième partie Édition partielle. ==
+
+Office, Messe, Semaine sainte, d’après le ms.
+Paris, Bibl. nat., lat. 714, le moins chargé, avec le manuscrit lat. 2540, de notes additives et des développements hagiographiques de la fin ; variantes relevées dans Paris, Bibl. nat., lat. 994, qui contient la plupart des additions et est daté de 1195.

@@ -1,0 +1,119 @@
+identifier: ENCPOS_1924_15
+creator: Georges Recoura
+date: 1924
+title: Les Assises de Romanie, édition critique avec une introduction et des notes
+
+
+
+== Avant-propos ==
+
+
+
+
+== Index bibliographique ==
+
+
+
+
+== Introduction chapitre premier les assises et la critique ==
+
+Malgré leur publication en 1785, par Canciani, les Assises de Romanie n’ont fait l’objet, jusqu’ici, d’aucune étude sérieuse et sont fort peu connues des érudits.
+Un assez grand nombre d’auteurs, néanmoins, en ont parlé, mais toujours d’une façon erronée ou incomplète.
+Certaines erreurs commises par un premier auteur à la suite d’un examen superficiel ont été souvent reproduites sans contrôle. 
+
+
+== Chapitre II Traditions légendaires sur l’origine des assises ==
+
+D’après le prologue de notre texte, les Assises de Jérusalem auraient été envoyées à Constantinople, après 1204, pour servir de loi au nouvel empire.
+Le prince de Morée, lorsqu’il fit hommage à l’empereur, aurait reçu de lui cette nouvelle législation.
+Ces traditions légendaires sont rapportées également par la Chronique de Morée.
+Contrairement à l’opinion admise, nous pensons que ce sont les Assises de Romanie qui ont servi de source à la Chronique de Morée.
+
+Quoi qu’il en soit, les affirmations du prologue ne méritent pas d’être prises en considération.
+
+
+== Chapitre III Formation de la coutume de Morée ==
+
+Malgré leur titre, les Assises de Romanie ne sont qu’un coutumier de la principauté de Morée.
+Cette coutume a dû prendre naissance dès la conquête.
+Il est possible que certaines conventions entre les conquérants et leurs chefs aient été écrites dès l’origine et insérées dans le Registre des fiefs.
+Nous ne croyons pas à l’existence au xiiie siècle du Livre des coutumes dont parle la Chronique de Morée.
+Mais il est certain que, dans les Hautes Cours de la principauté, une coutume orale de plus en plus riche se développa.
+
+
+== Chapitre IV La rédaction des assises ==
+
+La date de rédaction des Assises doit être placée entre 1303 et 1330. 
+
+Le coutumier estime œuvre personnelle d’un praticien qui s’adresse à un élève.
+Son œuvre est assez médiocre. 11 est incapable de généraliser et d’abstraire.
+Son style est parfois obscur.
+
+De même que celui de la Chronique de Morée, l’original des Assises a dû être rédigé en italien.
+
+
+== Chapitre V Les assises et leur domaine d’application sous la domination vénitienne ==
+
+Après le déclin de la principauté de Morée, le domaine d’application des Assises ne comprit plus que des possessions vénitiennes.
+
+Parmi ces possessions Négrepont (jusqu’en 1476) et l’Archipel (jusqu’au xvie siècle) sont les seules où les Assises furent réellement appliquées.
+
+Ces possessions avaient été autrefois sous la suzeraineté de la Morée.
+
+Mais celte survie de la législation des Assises a un caractère assez factice.
+
+
+== Chapitre VI L’édition officielle des assises par les soins de la république de Venise (1453) ==
+
+Venise décida en 1421 de faire exécuter, pour l’usage des habitants de Négrepont, une édition aussi correcte que possible des Assises.
+Les travaux de la commission de douze citoyens de Négrepont, qui avaient été chargés de la rédaction d’un projet de texte, durèrent trente ans.
+Finalement la chancellerie vénitienne adopta comme texte officiel celui d’un manuscrit acquis par elle entre 1421 et 1423 et désigné dans les documents sous le nom d’autenticum cancellarie.
+Elle refusa d’approuver le manuscrit envoyé par les habitants de Négrepont et se contenta d’en extraire 37 articles qui furent ajoutés au texte de l’autenticum cancellarie sous le nom de capitoli azonti.
+
+
+== Chapitre VII Description des manuscrits ==
+
+Les dix manuscrits qui nous ont transmis le texte des Assises de Romanie sont conservés à Londres, à Venise, à Vienne, à Corfou et à Paris.
+
+
+== Chapitre VIII Histoire de la tradition manuscrite ==
+
+Neuf de nos manuscrits sont des copies, directes ou non, de l’autenticum cancellarie, dont trois nous donnent un texte comportant les capitoli azonti.
+
+Le dixième de nos manuscrits, C, s’oppose à l’ensemble des neuf premiers, sans toutefois présenter un texte sensiblement différent.
+
+Nous connaissons d’autre part l’existence de certaines rédactions, dont il n’a été conservé que des fragments, et qui devaient présenter des différences beaucoup plus importantes.
+Mais nous pensons que la rédaction que représente l’ensemble de nos manuscrits était plus correcte que celles-ci.
+
+Nous donnons le texte du manuscrit A, daté de 1423.
+Ce manuscrit est une copie notariée de l’autenticum cancellarie.
+
+
+== Les assises de Romanie ==
+
+
+
+
+== Appendices et pièces justificatives ==
+
+I. L’édition officielle de 1453.
+
+A. La Ducale du 4 avril 1453.
+
+B. Les Capitoli Azonti. 
+
+II. Pièces annexes de certains manuscrits.
+
+A. Le fragment improprement dénommé : Usances de Naxos.
+
+B. Requête présentée par Jean Crispo devant la Cour de Naxos.
+
+C. Capitoli de Zuan Correr.
+
+D. Capitoli sovra i Villani.
+
+III. Choix de procès plaidés devant les juridictions vénitiennes.
+
+IV. Le premier éditeur des Assises, le P. Paolo Canciani, servite.
+
+V. Pièces justificatives diverses.

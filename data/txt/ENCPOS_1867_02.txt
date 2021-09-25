@@ -1,0 +1,134 @@
+identifier: ENCPOS_1867_02
+creator: François Bonnardot
+date: 1867
+title: La langue française à Metz d’après les documents originaux du xiiie siècle, monographie du dialecte lorrain
+
+
+
+== Introduction ==
+
+Dresser le tableau des formes de la langue française en Lorraine, et particulièrement à Metz, au treizième siècle, tel est l’objet de ce travail, qui embrasse une période d’un peu plus d’un siècle (1212-1328).
+
+On a suivi la méthode monographique et non la méthode comparative, parce que tous les dialectes procèdent directement du latin, qu’au treizième siècle ils étaient égaux entre eux, et qu’aucun ne subissait la prédominance de ce qui sera plus tard la langue française.
+
+Celte étude offre un intérêt particulier en vertu même de l’antiquité des textes sur lesquels elle se fonde.
+Ces textes, déjà très-nombreux dès le premier quart du treizième siècle, sont en leur genre les plus anciens monuments authentiques de la langue française.
+C’est en Lorraine que la langue d’oïl fut, plus tôt que partout ailleurs, employée pour les chartes et, autres actes d’intérêt privé.
+A ce titre seul, la Lorraine est donc bien française, la plus française de nos anciennes provinces.
+Celle conclusion est confirmée par des témoignages historiques qui attestent que la langue française fut toujours d’un usage plus général en Lorraine que dans les autres contrées de la langue d’oïl.
+L’allemand tomba de bonne heure en désuétude à Metz, que pourtant sa position géographique et sa dépendance de l’Empire devaient rendre plus accessible que toute autre ville aux influences germaniques.
+La langue de Metz n’a reçu qu’un nombre excessivement restreint de termes d’origine germanique, qui lui appartiennent en propre et n’ont point passé dans la langue vulgaire.
+
+Le dialecte de Metz a été pris pour type du langage de la Lorraine tout entière ; ses caractères sont tels qu’en leur comparant ceux du parler des autres cantons, on passe des sons pleins et des désinences lourdes à des sons moins graves, à des désinences plus légères ; l’aspiration est moins fréquente et moins rauque ; les caractères dialectaux s’atténuent, en sorte que l’on arrive, par des gradations insensibles, d’une part au dialecte bourguignon, de l’autre au dialecte picard ou français proprement dit.
+
+Dans un sens restreint, l’expression de dialecte messin s’applique au langage parlé à Metz et dans le territoire de la république messine.
+Ce territoire s’étendait autour de Metz sur un rayon d’environ 20 kilomètres, anciennement appelé pays messin ; il forme aujourd’hui la partie occidentale de l’arrondissement de Metz.
+Carte du pays messin.
+
+Tableau des sources auxquelles on a puisé tant pour le dialecte ancien que pour le patois moderne.
+
+
+== Étude des sons ==
+
+
+
+
+== Chapitre Ier voyelles et diphthongues ==
+
+Les caractères spécifiques du dialecte messin sont, pour ce qui concerne les voyelles :
+
+A. – Sa diphthongaison avec i et avec u : 
+
+Avec i pour former le son ai (homophones ei, è ; ai prononcé plus ouvert devient oi) ; – avec u pour former le son au (a long fait entendre un son sourd et équivalent à celui de o long = au ; le son de a bref se confond avec celui de o bref).
+
+Cette même voyelle s’affaiblit en i, et c’est là un des caractères les plus distinctifs de ce dialecte. – L’a de abam, désinence de l’imparfait à la première conjugaison, devient oi comme dans les autres dialectes ou se diphthongue régulièrement en ei, forme propre aux dialectes de Bourgogne et de Lorraine.
+
+E. – Celte voyelle devient u, qui ne prend jamais la diphthongaison.
+La permutation régulière de e en a, et la confusion de cette dernière voyelle avec l’a de l’article féminin la permettent d’opérer l’aphérèse sur un grand nombre de mots ; ainsi : l’église, l’aglise, la glise ; l’estuve, l’astuve, la stuve ; l’estoupe, l’astoupe, la stoupe, etc., et leurs dérivés ; de telle façon que ces mots paraissent avoir une origine moderne et savante, quand au contraire leur forme est le résultat d’un dialectisme des plus originaux et des plus fréquents. – E, à l’imparfait des verbes de la deuxième et de la troisième conjugaison latine, se comporte comme i.
+
+I. – Permute en a, qui prend rarement les diphthongaisons ordinaires ai, au ; – devient o et oi dans l’imparfait des verbes de la quatrième conjugaison ; oi, forme commune à tous les dialectes, a pour corrélative une forme en i pur spéciale au dialecte lorrain. – Dans les bas temps, on trouve quelquefois i formant diphthongaison avec e muet dans les noms, adjectifs et participes à terminaison féminine : dicteis, tenueis, privilageis, etc.
+La cause de cette notation qui viole la loi de l’accent n’est pas clairement connue.
+
+E et I, dans le subjonctif présent des verbes de la deuxième et quatrième conjugaison latine, deviennent demi-consonnes : j, g, durcies en c ; les subjonctifs en ce s’étendent par analogie aux autres conjugaisons : respondeat respondjat, responcet ; vancet de vendat ; liecet de levet ; ausset de adjuvet.
+
+0. – Persiste ; – forme avec i et u les diphthongues oi, ou ; – devient eu (homophones ue, ueu, u) ; – s’affaiblit en i ; – o bref n’est point encore remplacé par a comme il le sera plus tard dans le patois.
+
+La désinence osus se change en ous, et celle de orem en or, our, au lieu de eux, eur, français-picard.
+Or précède our ; c’est une règle générale qu’on peut appliquer à toutes les voyelles : la forme légère est antérieure à la forme lourde.
+
+On devient en, an ; cette dernière notation est fréquente, mais elle est loin d’être particulière à notre dialecte, puisque la Champagne, la Bourgogne et l’Est en général en font usage.
+
+U. – Persiste ; – s’affaiblit en o plus tard diphthongué en oi, ou ; – prend souvent le son grêle de ui ; – passe très-rarement à l’a = o ?
+
+AU. – La diphthongué au se résout en o, lequel reçoit les diphthongaisons ordinaires oi, ou ; – quand au reste, il se note fréquemment par a long. (Voir plus haut a = au.)
+
+
+== Chapitre II Consonnes ==
+
+Les consonnes sont étudiées dans l’ordre suivant : liquides, dentales, sifflantes-aspirées, gutturales, labiales.
+
+Les principaux phénomènes dialectaux sont les suivants :
+
+Liquides : L en combinaison avec une gutturale ou une labiale se mouille en i à l’italienne.
+
+– al se vocalise en au fréquemment noté a, en vertu de ce qui a été dit plus haut sur l’affinité des sons a et au.
+
+– el.
+Dans ce groupe, / ne se vocalise pas, il s’éteint et donne à la voyelle e un son analogue à celui de notre è ouvert : aignelz et aigneis, coutelz et couteis, pourceis, viès ; el ne se vocalise jamais en eau, c’est un des caractères les plus distinctifs de ce dialecte.
+
+– il devient ou dans les pronoms démonstratifs : ous = illos, ceous sous = eccillos.
+Ces formes ont été précédées de celles en a et o : ceaz, ceoz, ceous (a = o = ou).
+
+– ol, ul. 
+
+Un grand nombre de mots dans lesquels les diphthongues au, ou, ne représentent que l’allongement des voyelles a, o, s’écrivent aussi par al, ol.
+Cette notation provient d’une assimilation erronée aux mots dans lesquels l’u de ces diphthongues représente le l latin : testament, testaument, testalment, comme si testaument représentait testalmentum ; de même bos, boux, bolz, comme si bous répondait à bolcum et non à boscum.
+On a suivi l’analogie de outre, oltre, comme dans le premier cas celle de atre, autre, altre.
+L s’introduit de même après e pour allonger le son de cette voyelle en ei comme dans les mots où il est primitif : cultellus donne coutelz d’où couteis ; par contre, doblatus (pour duplicatus) donne douvleis, douvlelz.
+
+R. – Cette consonne tombe très-souvent avant et après toutes les consonnes ; – s’assimile à l.
+
+M et N tombent fréquemment et entraînent la chute du son nasal, laissant les voyelles dégarnies et livrées à toutes les permutations contre lesquelles la nasalisation les eût défendues.
+Exemple : infantem, enfant ; mais si n tombe ou s’assimile, on a effant, affant, offant.
+De même venrai, verrai, verai, varai.
+Par contre, la voyelle i finale prend un son nasal représente indifféremment par n, g, ng, gn, ngn.
+Exemples : ami, aimin ; eschavin, eschavig, eschaving, eschauvigne, eschauvingne.
+
+Les combinaisons lr, nr rejettent l’épenthèse du d ; la combinaison sr celle du t.
+
+Dentales : T, D. – Substitution fréquente de la forte à la douce.
+
+Sifflantes aspirées : S, Z, X. – S est toujours dur ; il se note par c, ss, x.
+Toutes ces notations représentent une aspiration plus forte pour x que pour s ; x équivaut au ch français fortement aspiré à la façon du jota espagnol.
+Le patois note par j, h et quelquefois rh les mots que le treizième siècle écrivait par x ou s.
+
+SC devient x (ch) et ne prend point avec cette notation de voyelles prosthétiques : scamnellum xamel (chamel), scala xuelle (chieulle).
+
+Dans quelques cantons reculés de l’ouest, on rencontre des accumulations de consonnes finales, telles que sz, xs. 
+
+Gutturales : C, G. – C devant a devient ch noté par x.
+G reste quelquefois dur devant a, o, u : gardin, ganre, obligons, maingut ; tous ces mots se rencontrent d’ailleurs plus souvent avec j, ge.
+On ne peut déterminer la valeur précise de cette notation. – Les gutturales se vocalisent en i après a, e ; en u après o. – Une notation spéciale au dialecte de Metz, c’est l’emploi du w initial dans les mots d’origine germanique que le bas latin écrivait par gu, et qui sont restés sous cette forme dans les autres dialectes romans.
+L’emploi de ce w s’applique sur une large échelle aux gutturales latines, même dans l’intérieur des mots : carruca, cherruwe.
+W se prononce ou, et il se rencontre souvent dans des mots où la gutturale n’existe pas ; il n’a d’autre fonction que d’allonger la voyelle précédente.
+
+Labiales fortes, P, F ; – douces, B, V. – P final se durcit quelquefois en f : lupus, louf.
+
+B s’adoucit en v à l’imparfait de toutes les conjugaisons, abam = eive ; ebam, ibam = ive.
+Cette dernière désinence ne se rencontre que dans les textes lorrains. – B se durcit en p, – et en f par l’intermédiaire d’une forme en v qui n’existait plus déjà au treizième siècle.
+
+V se note quelquefois par w ; quelquefois l’u des désinences us, um se transforme en v, lequel se durcit en f : nif, nidvs pour nidus, péchief, peccatvm pour peccatum.
+
+
+== Résumé ==
+
+Dans l’ordre des voyelles, le son de a et celui de i sont de beaucoup les plus fréquents ; a se diphthongue en ai, au. – Dans l’ordre des consonnes, substitution fréquente de la forte à la douce, aspirations nombreuses, notation des gutturales par w.
+
+
+== Pièces à l’appui ==
+
+I. Chartes d’origine messine.
+
+II. Chartes d’origine non messine.
+
+Chaque élève publiera les positions de sa thèse isolément et sous sa responsabilité personnelle. (Règlement du 10 janvier 1860, art. 7.)

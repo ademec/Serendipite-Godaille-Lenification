@@ -1,0 +1,193 @@
+identifier: ENCPOS_1921_15
+creator: Colette Renié
+date: 1921
+title: Étude sur le suffixe -acus dans la formation des noms de lieu français
+
+
+
+== Avant-propos ==
+
+Le présent travail consiste essentiellement en une répartition sur cartes des noms de communes issus de noms de lieu formés, à l’époque gallo-romaine, au moyen du suffixe – acus.
+Toutes les régions de langue française situées dans les limites de la France actuelle ont été étudiées à l’exception de la région française d’Alsace.
+
+La méthode suivie a été celle-ci :
+
+a) Dépouillement des formes modernes données par le Dictionnaire des postes ;
+
+b) recherche des formes anciennes recueillies dans différents répertoires.
+
+Ont été portés sur les cartes :
+
+a) Tous les noms de lieu pour lesquels les formes anciennes permettent de remonter sûrement à un nom primitif en -acus ;
+
+b) tous les homonymes de ces noms.
+
+Les répertoires de noms de lieu anciens donnent :
+
+a) Des formes latines qui sont, suivant les époques, pour l’ensemble de’ la France, en -acum et -iacum ; spécialement pour toute la région de langue d’oïl, en -ecum, très peu nombreuses ; en -eium, la grande majorité ; en -ium, très rares ; 
+
+b) des formes vulgaires.
+
+Chaque document a été critiqué de façon à déterminer, le plus possible, dans quelle mesure la graphie adoptée par le scribe exprimait la forme parlée contemporaine ou était traditionnelle.
+
+
+== Chapitre premier origine, sens et emploi du suffixe -acus ==
+
+Le suffixe -acus apparaît dans des formations reposant sur des thèmes indo-européens en -a.
+La forme -acus est une latinisation du celtique -acos.
+
+Le sens du suffixe est assez vague.
+On l’a comparé à celui du suffixe français -ière.
+Pour la formation des noms de lieu ce suffixe apparaît en combinaison non seulement avec des thèmes de noms d’homme, mais aussi avec des thèmes de noms de chose ; par exemple Mosacum, formé sur Mosa, la Meuse.
+
+Le suffixe latin -anus est employé dans le Midi concurremment avec le suffixe gallo-romain -acus dans la formation des noms de lieu.
+Dans les départements voisins de la Méditerranée, les noms de lieu issus de formations, en -anus sont même en plus grand nombre que ceux issus de formations en -acus.
+Il est cependant peu probable qu’il faille voir une relation entre ce fait et une latinisation plus grande ; car ce sont justement les noms de lieu de Provence qui renferment le moins de traces latines.
+
+Les textes anciens nous montrent, à côté du suffixe -acus, l’existence d’un suffixe -iacus, d’ailleurs nécessaire pour expliquer un grand nombre de formes modernes.
+
+D’Arbois de Jubainville date ce suffixe -iacus de la période gallo-romaine : cette forme serait due, selon lui, au fait que le suffixe -acus aurait été presque toujours employé avec des gentilices en -ius.
+M. Skok conteste cette assertion parce que les Gaulois connaissaient des noms d’hommes en -yo.
+Mais il ne semble pas que cette objection soit fondée : il ne suffit pas que le groupe -iacus soit possible pour qu’il constitue un suffixe ; il faut encore qu’il soit conçu comme tel par les sujets parlants. 
+
+
+== Chapitre II Les formes modernes issues du suffixe -acus ==
+
+Ce sont : dans la région provençale, -ac ou -at ; dans le Nord, -e ouvert rendu par les graphies -ay, -ey, -ai, -ais, -aix.
+
+Au cours du moyen âge, les noms de lieu issus de formations en -acum sont latinisés en -aicum, -ayum, -aium, -eium, – eyum.
+
+Par conséquent, dans les pays de l’Ouest où -iacum devient – é, souvent écrit -ay, et dans ceux de l’Est où -iacum devient – ey, il n’est généralement possible de savoir si on a affaire au suffixe -acum ou au suffixe -iacum qu’en examinant le traitement de la consonne précédente.
+
+Dans les cas où les graphies ne conservent pas de traces de l’influence du yod, il est impossible de déterminer s’il faut remonter à une formation en -acum ou en -iacum.
+
+
+== Chapitre III Les formes modernes issues du suffixe -iacus ==
+
+Le suffixe -iacus devient en français -i, -éy, -é, -iac, -ac, – iat, -at, -ieux, -oux, -ec, -et, -ecque.
+
+La consonne qui précède le groupe -iacum est régulièrement influencée par yod : Clippiacum > Clichy.
+
+Dans le cas où r et s précèdent -iacum, le yod s’amalgame avec la voyelle précédente, et les graphies peuvent ne pas en conserver trace : par exemple Florac ou Floirac.
+
+Quand -iacum est précédé des groupes rl ou rn la mouillure de l et de n semble, en général, ne pas se produire : Charly, Chauny, Taverny.
+
+La mouillure de l peut disparaître.
+Sully (Loiret) était « autrefois Seuilly ».
+
+1
+
+– iacum> – i
+
+Graphies : -i et -y.
+
+Au Nord d’une ligne qui traverse le Sud de la Manche, le département de l’Orne, écorne l’Eure-et-Loir, descend à travers le Loir-et-Cher, s’insinue dans l’Indre-et-Loire, rejoint le Sud du Cher à travers l’Indre, coupe l’Allier par moitié, descend le long du Puy-de-Dôme et va rejoindre la Loire à Lyon ; elle remonte ensuite à peu près verticalement vers le Nord.
+
+Il y a quelques enclaves de formes en -i dans la Vienne, les Deux-Sèvres, le Jura, la Savoie et la Haute-Savoie, dans la région comprise entre Nancy et Metz.
+
+Il semble logique d’admettre ici une triphtongue intermédiaire -iei qui serait réduite à -i.
+Mais pas un texte ancien ne montre cette triphtongue.
+Au contraire les textes les plus anciens donnent des latinisations en -ecum, -eium et des formes françaises en -ei.
+
+Néanmoins, comme -ei > -i semble impossible, on peut penser que les formes en -i ne seraient phonétiques que dans une très petite région.
+Les formes en -y des Deux-Sèvres, de la Vienne et du Rhône sont très vraisemblablement dues à l’influence officielle. 2
+
+– iacum> -ey.
+
+Graphies : -ei et -ey.
+
+On trouve ces graphies à l’Est de la limite précédente et jusqu’au Sud du Jura.
+
+On trouve aussi quelques formes en -ey, groupées, dans la portion Sud de la Manche, dans l’Orne, l’Eure, l’Aube (le long de la vallée de la Seine) ; et non groupées, dans la Marne, l’Ain et la Drôme.
+
+Il semble que les formes en -ey soient issues de formes latines en -ecum dont on trouve de nombreux exemples dans les chartes de Cluny. 3
+
+– iacum > -é.
+
+Graphies : -é, -ay, -et, -ier.
+
+Au Sud et à l’Ouest des formes en -i, au Nord de la limite du français et du provençal, et à l’Ouest de la limite entre les langues bretonne et française au xe siècle.
+
+On trouve quelques formes en -é : groupées, dans la Loire et le Rhône ; isolées, dans la Seine-et-Oise, la Marne, le Cher, la Nièvre et l’Ain.
+
+Dans la région poitevine le passage de -iacum à -é semble être celui-ci : -iacum > -ecum > -ec > -é.
+
+Au Nord de la Loire il semble être -iacum > -eium > -ei > -é.
+Par conséquent, dans cette région, les formes anciennes ne sont pas différentes pour -iacum > -é, -iacum >-ey, -iacum >-i. 4
+
+– iacum> -iac ou -ac.
+
+Dans tout le Midi de la France. 5
+
+– iacum> -a ou -ia.
+
+Graphies : -a, -ac, -at. a) Dans la Creuse, une partie de la Corrèze, le Nord du Cantal et de la Haute-Loire, tout le Puy-de-Dôme et le Sud de l’Allier.
+
+La limite précise entre les formes en -ac et les formes en -a n’a pu être établie :
+
+Parce que des graphies -ac cachent des prononciations locales différentes ;
+
+Parce que des graphies erronées ont rétabli la prononciation -ac. b) Dans le Nord de l’Ain et le Sud du Jura.
+
+D’après M. Philipon, a latin précédé d’une palatale et suivi d’une explosive reste a en franco-provençal. 6
+
+– iacum (-iacus) > -ieu (-ieux).
+
+Graphies : -ieu ou -ieux.
+
+Dans le Sud de l’Ain, la plus grande partie de l’Isère, le Nord de la Drôme, de l’Ardèche, le Sud de la Loire et le Sud du Rhône.
+
+D’après l’abbé Devaux, le c tombant, Vu joue le rôle d’une continue ; donc a latin 
+
+Mais la différence de traitements que présentent -acum et -iacum dans cette région n’a pas été résolue de façon satisfaisante.
+
+Les graphies du xie et du xiie siècles sont en-eu.
+M. Philipon explique les formes modernes par la diphtongaison de l’e roman. 7
+
+– iacum > -ou.
+
+Quelques exemples isolés dans cette même région.
+
+Ces formes seraient normales tandis que les formes en -ieu seraient francisées. 8
+
+– iacum> -ecque.
+
+Dans le Nord des départements du Pas-de-Calais et du Nord
+
+A. Longnon pense que c’est là une forme germanique romanisée, et c’est pourquoi elle figure sur certaines cartes. 9
+
+– iacum > -ac.
+
+En Bretagne (où elle n’a pas été étudiée) ; dans la région française aujourd’hui, bretonne avant le xe siècle.
+
+Nous ne sommes pas en présence d’une forme française dont la terminaison se serait conservée en -ac au contact de la Bretagne ; il s’agit vraisemblablement de formes bretonnes.
+
+10
+
+Formes féminines.
+
+En -ies, dans le Nord de la France ; la plupart analogiques ;
+
+En -ée, très rares ; quelques-unes dans le centre de la Loire.
+
+11
+
+Formes irrégulières.
+
+En -ac, dans le Nord : par exemple Brissac (Maine-et-Loire), Morlac (Cher) ; 
+
+En -y, dans le Midi : Poligny (Hautes-Alpes), connu depuis le xiiie siècle, et Louvigny (Basses-Pyrénées) que Longnon donne sous la forme Lupiniacus dans la carte de la Gaule carolingienne.
+
+
+== Conclusion ==
+
+Les différentes formes issues du suffixe -acus se répartissent en quatre grands groupes :
+
+Formes du Midi, de l’Ouest, de l’Est et du Centre.
+
+Une grande partie de ces formes sont analogiques.
+
+
+== Appendice ==
+
+

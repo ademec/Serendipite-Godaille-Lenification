@@ -1,0 +1,432 @@
+identifier: ENCPOS_1923_07
+creator: Félix Grat
+date: 1923
+title: Étude diplomatique sur les Actes de Louis II le Bègue, Louis III et Carloman, rois de France (877-884), suivie d’un catalogue d’actes
+
+
+
+== Chapitre premier observations générales ==
+
+
+=== I. Mode de transmission des actes ===
+
+Tous les actes proviennent directement ou indirectement d’établissements ecclésiastiques.
+
+74 diplômes ou mentions de diplômes, se subdivisent de la façon suivante :
+
+34 pour Louis II le Bègue ;
+
+3 pour Louis III ;
+
+37 pour Carloman.
+
+Sur ce nombre, 11 originaux, 4 pour Louis II le Bègue et 7 pour Carloman. 
+
+
+=== II. Classification suivant la forme des actes ===
+
+Tous les actes qui nous sont parvenus sont des préceptes.
+Parmi eux, deux groupes :
+
+1° Les préceptes munis de souscription royale ;
+
+2° Les préceptes sans souscription royale.
+
+La seconde forme s’applique : a) aux ratifications d’actes privés ; b) aux concessions non perpétuelles ; c) aux concessions perpétuelles de peu d’importance.
+
+
+== Chapitre II Chancelleries de Louis II le Bègue, Louis III et Carloman ==
+
+
+=== I. Chancellerie de Louis II le Bègue ===
+
+Première période. – Du 7 octobre 877 à une date comprise entre le 23 janvier et le 10 avril 879.
+
+Chancelier : Gozlin.
+
+Notaires : Audacher, Wigbald et Vulfard.
+
+2e période. – Fin du règne de Louis II le Bègue.
+
+Chancelier : Vulfard.
+
+Notaire : Audacher.
+
+Le chancelier a un rôle de surveillance générale ; ce sont les notaires et les scribes qui sont chargés de l’exécution matérielle des diplômes.
+Parmi les notaires, Vulfard paraît avoir eu une place prépondérante.
+
+
+=== II. Chancellerie de Louis III ===
+
+On ne peut affirmer qu’une chose : c’est que les actes souscrits par Gozlin, n’appartiennent pas à la chancellerie de Louis III.
+
+
+=== III. Chancellerie de Carloman ===
+
+Chanceliers : Vulfard, 12 janvier 881-6 septembre 881.
+
+Gozlin, 11 août 883-10 décembre 884.
+
+Notaire : Norbert.
+
+Première période. – Début du règne de Carloman à une date comprise entre le 30 novembre 880 et le 12 janvier 881.
+Le notaire Norbert dirige seul la chancellerie.
+
+2e période. – D’une date comprise entre le 30 novembre, 880 et le 12 janvier 881, au 6 septembre 881.
+Vulfard est chancelier et Norbert, notaire.
+
+3e période. – Du 7 septembre 881 à une date comprise entre le 6 mars et le 11 août 883, le notaire Norbert dirige seul la chancellerie.
+
+4e période. – D’une date comprise entre le 6 mars et le 11 août 883, au 10 décembre 884, Gozlin est chancelier et Norbert, notaire.
+
+Les rôles de chancelier et de notaire sont semblables à ceux qu’ils ont sous le règne de Louis II le Bègue.
+
+
+=== IV. Mode de rédaction des actes ===
+
+Le mode de rédaction des actes est le même que dans les autres chancelleries carolingiennes.
+Dans les diplômes de Carloman, on trouve cinq mentions relatives aux ambasciatores, qui sont des intermédiaires entre le roi et la chancellerie.
+
+
+== Chapitre III Forme des actes ==
+
+
+=== I. Caractères externes ===
+
+Les diplômes sont écrits sur de grandes feuilles de parchemin, généralement plus hautes que larges.
+
+
+=== II. Caractères internes ===
+
+
+==== 1. Invocation. ====
+
+L’invocation se compose :
+
+1° du chrismon, qui est une sorte de signature du scribe ou du notaire qui a écrit l’acte ;
+
+2° de l’invocation proprement dite, qui est : pour Louis II le Bègue, Louis III et Carloman : In nomine Domini Dei aeterni et Salvatoris nostri Jhesu Xpisti. 
+
+
+==== 2. Suscription. ====
+
+Pour Louis II le Bègue et Louis III : Hludowicus misericordia Dei rex.
+
+Pour Carloman : Karlomannus gratia Dei rex.
+
+
+==== 3. Préambule. ====
+
+Semblable à ceux des autres chancelleries carolingiennes.
+Il peut, parfois, faire défaut.
+
+
+==== 4. Notification. ====
+
+Elle est annoncée par les expressions : notum sit, noverit ou notum esse volumus.
+
+
+==== 5. Exposé. ====
+
+Il exprime l’objet de la requête et indique le nom du ou des solliciteurs dont, en général, le bénéficiaire fait partie.
+
+
+==== 6. Dispositif. ====
+
+Il est annoncé, en général, par une phrase indiquant que le souverain a accueilli favorablement la requête de l’impétrant et qu’il a donné l’ordre d’établir le diplôme.
+
+
+==== 7. Clauses pénales. ====
+
+Elles fixent le montant de l’amende frappant tout contrevenant, laquelle varie, suivant l’importance des concessions, de 600 sous d’or à 30 livres d’argent.
+On ne la rencontre que dans huit diplômes.
+
+
+==== 8. Formule de corroboration. ====
+
+Elle comprend : une phrase préliminaire indiquant la validité et la perpétuité de l’acte, l’annonce de la souscription royale, désignée par l’expression manu propria ou manu nostra et celle de l’apposition du sceau désignée par le mot anulus.
+
+
+==== 9. Souscription royale. ====
+
+Elle est, pour Louis II le Bègue, Louis III et Carloman : Signum (nom du roi, suivi du monogramme) gloriosissimi regis. 
+
+Le monogramme de Louis II le Bègue est bâti sur l’H initial du mot Hludowicus.
+Celui de Carloman est un monogramme cruciforme, dont 1’0 forme le centre.
+
+
+==== 10. Souscription de chancellerie. ====
+
+Elle se compose :
+
+1° du chrismon qui peut faire défaut ;
+
+2° de la souscription proprement dite qui affecte, en général, la forme : N notarius ad vicem N recognovit et subscripsit ;
+
+3° de la ruche, dont un S forme le cadre ; la ruche, comme le chrismon, constitue, en quelque sorte, la signature de celui qui la trace.
+
+
+==== 11. Date. ====
+
+Elle se compose de deux parties : datum accompagné de l’an du règne et de l’indiction, et actum suivi du nom du lieu.
+Ces deux parties ne se rapportent pas à deux moments différents, mais bien au moment de la rédaction de l’acte.
+
+Sous Louis II le Bègue, le point de départ des années du règne est le 6 octobre 877, date de la mort de Charles le Chauve » les années étant comptées du 7 au 6 octobre.
+
+L’indiction change à une date comprise entre le 12 et le 17 septembre.
+
+Sous Louis III, le point de départ des années du règne est la date de la mort de Louis II le Bègue, 10 avril 879.
+
+Sous Carloman, le point de départ des années du règne est également le 10 avril 879 ; mais au lieu de compter les années du 11 au 10 avril, la chancellerie de Carloman, les faisant cadrer avec les années de l’incarnation, les compte de Noël à Noël ; la première année, allant du 11 avril 879 au 24 décembre de la même année.
+
+Deux indictions sont employées, l’une changeant à Noël et l’autre en septembre.
+
+
+==== 12. Apprécation. ====
+
+Elle est invariablement : In Dei nomine féliciter.
+Amen.
+
+
+=== III. Sceau ===
+
+Louis II le Bègue :
+
+Légende : + HLVDOWICVS MISERICORDIA DI REX
+
+Type : buste de profil, tête laurée et tournée à droite, épaule couverte du paludamentum, effigie de l’empereur Commode, intaille carolingienne.
+
+Louis II le Bègue a également employé un sceau dé Charles le Chauve, sans en changer même la légende.
+
+Carloman :
+
+Légende : + KARLOMANNUS GRA DI REX Type : buste de profil, tête laurée et tournée à droite, épaule couverte du paludamentum, effigie de l’empereur Commode, intaille carolingienne.
+
+
+== Conclusion ==
+
+Bien que quelques indices de décadence se fassent sentir, surtout sous Carloman, la chancellerie de Louis II le Bègue, Louis III et Carloman reste dans la tradition de celles de Louis le Débonnaire et de Charles le Chauve.
+
+
+== Catalogue d’actes ==
+
+
+=== I. Louis II le Bègue ===
+
+i. – 877, 9 décembre.
+Compiègne. – Pour l’église de Toul.
+
+2. – 877, 15 décembre.
+Compiègne. – Pour Saint-Père de Vézelay.
+
+3. – 878, 8 février.
+Villa Ferravias. – Pour Saint-Médard de Soissons.
+
+4. – 878, 24 mars.
+Senlis. – Pour Prüm.
+
+5. – 878, 30 mars.
+Saint-Denis. – Pour Wilegisus archicustos.
+
+6. – 878, 2 avril.
+Paris. – Pour l’église de Paris.
+
+7. – 878, 29 mai ?
+Troyes. – Pour Banyoles.
+
+8. – 878, 31 mai.
+Tours. – Pour l’établissement de Saint-Flavien.
+
+9. – 878, 20 juin.
+Saint-Martin de Tours. – Pour Saint-Martin de Tours.
+
+10. – 878, 4 juillet.
+Saint-Martin de Tours. – Pour Sainte-Croix et Sainte-Radegonde de Poitiers.
+
+11. – 878, 24 juillet.
+Saint-Martin de Tours. – Pour Saint-Martin de Tours.
+
+12. – 878, 5 septembre.
+Troyes. – Pour Saint-Martin de Tours. 
+
+13. – 878, 8 septembre.
+Troyes. – Pour Sainte-Marie d’Arles.
+
+14. – 878, 9 septembre.
+Troyes. – Pour l’église de Barcelone.
+
+15. – 878, 10 septembre.
+Troyes. – Pour l’église de Nevers.
+
+16. – 878, 11 septembre.
+Troyes. – Pour l’église de Mâcon.
+
+17. – 878, 12 septembre.
+Troyes. – Pour l’église de Lyon.
+
+18. – 878, 17 septembre.
+Villa Lapiaco. – Pour son fidèle, Baudry.
+
+19. – 878, 12 décembre.
+Villa Cispiaco. – Pour Saint-Philibert de Tournus
+
+20. – 878, 12 décembre.
+Villa Cispiaco. – Pour Saint-Philibert de Tournus.
+
+21. – – 878, 30 décembre.
+Compiègne. – Pour Saint-Riquier.
+
+22. – 879, Ier janvier.
+Uriau fisco. – Pour Autran.
+
+23. – 879, 23 janvier.
+Gondreville. – Pour l’église d’Autun.
+
+24. – 879, 10 avril.
+Compiègne. – Pour son fidèle, Ebroin.
+
+25. – 877, 7 octobre-879, 10 avril. – Pour Saint-Corneille de Compiègne.
+
+26. – 877, 7 octobre-878, 29 mai ? – – Pour Banyoles.
+
+27. – 877, 7 octobre-879, 10 avril. – Pour Saint-Martin d’Autun.
+
+28. – 877, 7 octobre-879, 10 avril. – Pour l’église d’Auxerre.
+
+29. – 877, 7 octobre-879, 10 avril. – Pour Saint-Sauveur d’Alfa.
+
+30. – 877, 7 octobre-879, 10 avril. – ■ Pour Saint-Corneille de Compiègne.
+
+31. – 877, 7 octobre-879, 10 avril. • – Pour La Grasse.
+
+32. – 877, 7 octobre-879, 10 avril. – Pour l’église de Narbonne.
+
+33. – 877, 7 octobre-879, 10 avril. – Pour Solignac.
+
+34. – 877, 7 octobre-879, 10 avril. – Pour l’église de Tours.
+
+
+=== II. Louis III ===
+
+35. – 880, 29 janvier.
+Noyon. – Pour Saint-Germain d’Auxerre. 
+
+36. —— 879, II avril—882, 5 août. — Pour Saint-Pierre de Rethondes.
+
+37. – 879, II avril-882, 5 août, – Pour Saint-Philibert de Tournus.
+
+
+=== III, Carloman ===
+
+38. – 880, 30 novembre.
+Apud Nerondam villam. – Pour l’église d’Autun.
+
+39. – 881, 12 janvier.
+Apud villam Caciacum. – Pour l’église de Nevers.
+
+40. – 881, 21 mars.
+Apud villam Saciacum. – Pour Saint-Père de Vézelay.
+
+41. – 881, mai.
+Pierrefitte. – Pour l’église d’Orléans.
+
+42. – 881, 23 mai.
+Pierrefitte. – Pour Saint-Polycarpe.
+
+43. – 881, 4 juin.
+Pauliacum vicum. – Pour l’église de Narbonne.
+
+44. – 881, 5 juin.
+Pauliacum. – Pour Saint-Florent.
+
+45. – 881, 18 juillet.
+Condrieu. – Pour l’évêque de Langres et le fidèle, Baudry.
+
+46. – 881, 24 août.
+Villa Tortaria. – Pour Sainte-Cécile d’Elins.
+
+47. • – 881, 29 août.
+Apud Fosianum villam. – Pour l’église de Gérone.
+
+48. – 881, 29 août ?
+Apud villam Costam. – Pour son fidèle, Renard.
+
+49. – 881, 30 août.
+Apud villam Costam regni Provinciae. – Pour Sainte-Marie d’Arles.
+
+50. – 880, mars-881, 6 septembre. – Pour Hervé.
+
+51. – 882, 15 juin.
+Apud villam Lipsiacum. – Pour Beaulieu.
+
+52. – 882, 7 août.
+Vienne. – Pour l’évêque de Langres et Obert.
+
+53. – 882, 17 novembre.
+Troyes. – – Pour Montiéramey.
+
+54. – 883, 23 janvier.
+Compiègne. – Pour Saint-Sauveur d’Alfa.
+
+55. – 883, 6 mars.
+Trupchiacum. – Pour l’église d’Autun.
+
+56. – 883, 11 août.
+Miannay. – Pour l’église d’Orléans. 
+
+57. — 884, 2 février.
+Compiègne. —— Pour l’église de Marseille.
+
+58. – 884, 4 février.
+Compiègne. – Pour l’église de Narbonne.
+
+59. – 884, 20 février.
+Ver. – Pour Sainte-Croix et Sainte-Radegonde de Poitiers.
+
+60. – 884, 13 mars.
+Compiègne. – Pour l’église de Châlons-sur-Marne.
+
+61. – 884, 11 juin.
+Meaux. – Pour Saint-Germain d’Auxerre.
+
+62. – 884, 23 août.
+Verberie. – – Pour l’impératrice Angilberge.
+
+63. – 884, 10 décembre.
+Les Andelys. – Pour Saint-Crépin de Soissons.
+
+64. – 880, mars-884, 10 décembre. – Pour Saint-Martin de Tours.
+
+65. – 880, mars-884, 10 décembre. – Pour son fidèle, Adelong.
+
+66. – 880, mars-884, 10 décembre. – Pour Saint-Pierre de Rethondes.
+
+67. – 880, mars-884, 10 décembre. – Pour Montiérarriey.
+
+68. – 880, mars-884, 10 décembre. – Pour Montiéramey.
+
+69. – 880, mars-884, 10 décembre. – Pour Saint-Martin d’Autun.
+
+70. – 880, mars-884, 10 décembre. – Pour Morienval.
+
+71. – 880, mars-884, 10 décembre. – Pour l’église Saint-Merry de Paris.
+
+72. – 880, mars-884, 10 décembre. – Pour Saint-Maur des Fossés.
+
+73. – 880, mars-884, 10 décembre. – Pour Solignac.
+
+74. – 880, mars-884, 10 décembre. – Pour Saint-Philibert de Tournus.
+
+
+== Pièces justificatives ==
+
+I. – 878, 30 décembre ?
+Compiègne. – Pour Saint-Riquier.
+
+II. – 879, 10 avril.
+Compiègne. – Pour son fidèle, Ebroin.
+
+III. – 881, 18 juillet.
+Condrieu. – Pour l’évêque de Langres et le fidèle, Baudry.
+
+IV. – 880, mars-884, 10 décembre. – – Pour Saint-Pierre de Rethondes.

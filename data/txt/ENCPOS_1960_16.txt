@@ -1,0 +1,114 @@
+identifier: ENCPOS_1960_16
+creator: Bernard Waksman
+date: 1960
+title: Histoire des dépendances de l’abbaye de Saint-Bertin du viie à la fin du xe siècle
+
+
+
+== Sources – Bibliographie ==
+
+Le fonds d’archives de l’abbaye de Saint-Bertin, riche, mais peu connu, fut dispersé, puis en grande partie détruit à la Révolution.
+On garde les Gesta abbatum Sithiensium, écrits par le moine Folcuin au xe siècle et par l’abbé Simon au xiie, et le Grand cartulaire, composé au xviiie par Dom De Witte.
+Les éditions de Guérard, Haigneré, Holder-Egger permettent l’étude de ces textes.
+
+
+== Introduction ==
+
+L’abbaye, fondée dans un pays sans unité ethnique et sujet aux « transgressions » marines, s’est vite constitué un domaine foncier important.
+Des rivières, l’Aa, la Lys, la Canche, la Ternoise, en formaient le cadre le plus étroit, mais il s’étendait bien au delà.
+La qualité très particulière du sol en cette région peut expliquer cette dispersion.
+Saint-Bertin était soumise au spirituel à l’évêque de Thérouanne.
+Elle appartenait au ressort du pagus, puis comté carolingien de Ternois, entre l’Aa et la Canche.
+Au xe siècle, elle fut comprise dans la principauté flamande.
+
+
+== Chapitre premier la fondation ; l’abbatiat de Bertin. ==
+
+Orner, évêque de Thérouanne, appela des moines du Cotentin, Bertin, Mommelin et Ébertramme, pour évangéliser le pays.
+En 649, il leur fit donner par un riche propriétaire, Adroald, une villa située sur les bords de l’Aa, Sithiu, dont les dépendances étaient dispersées dans tout le Ternois.
+Un groupe de moines s’y installa, qui dut suivre pendant quelque temps la règle colombano-bénédictine de saint Walbert de Luxeuil.
+A Mommelin, dont l’abbatiat n’est rappelé que par le préambule d’une charte, succéda Bertin comme chef de la communauté.
+En 663, saint Orner donna à la nouvelle abbaye la basilique funéraire de Notre-Dame, sur la colline de Sithiu, et il lui accorda un privilège d’exemption qui restreignait l’autorité épiscopale.
+
+En quarante ans, Bertin accrut beaucoup le nombre des dépendances de l’abbaye ; il acquit des domaines dans la vallée de la Somme, près de Saint-Quentin, une partie du fisc royal d’Attin sur la Canche, un monastère de femmes à Honnecourt, qui serait administré par un praepositus, et peut-être la villa d’Arques, sur les bords de l’Aa.
+Il fit fonder un monastère à Wormhoudt, en Flandre maritime, pour y accueillir voyageurs et pèlerins.
+De plus, il obtint l’immunité royale qui conférait à l’abbaye une situation privilégiée en Neustrie.
+
+
+== Chapitre II L’abbaye sous les abbés réguliers (704-820). ==
+
+Située dans une partie excentrique du regnum, Saint-Bertin ne devait jouer un certain rôle dans l’histoire qu’avec les Carolingiens.
+C’est ainsi que Charlemagne envoya l’abbé Nanthaire en mission à Rome.
+
+Pendant le ixe siècle, le temporel de Saint-Bertin s’accrut régulièrement par donations ou achats.
+L’« essaimage monastique » se poursuivit par l’installation de quelques moines à l’église Saint-Michel de Roxem, qui devint ainsi une cella.
+Il n’y a pas lieu de croire que les moines assuraient le service paroissial dans les endroits où ils s’installaient, l’usage étant à l’époque, pour les abbayes, de choisir un clerc et de faire approuver ce choix par l’évêque.
+
+Vers 820, Saint-Bertin était propriétaire de domaines jusqu’en Flandre et dans le Vermandois.
+Cette grande fortune lui permit de résister aux maux des siècles suivants.
+
+
+== Chapitre III Les sécularisations et l’état du temporel au ixe siècle. ==
+
+En 820, Louis le Pieux, malgré les conciles et les capitulaires, mit à la tête de l’abbaye un prêtre séculier, son ancien chancelier, le chanoine Fridugise.
+Celui-ci, conformément aux prescriptions du concile d’Aix (816), constitua un chapitre de chanoines à l’église Notre-Dame et le dota aux dépens de Saint-Bertin, certains biens restant d’ailleurs indivis entre les deux communautés.
+Désormais, l’abbaye fut donnée en bénéfice par le souverain, ce qui provoqua la naissance de la mense conventuelle.
+Cette affectation de certains revenus aux moines fut confirmée par Charles le Chauve en 877.
+Les abbés séculiers étaient tous des prêtres qui ne semblent pas avoir beaucoup nui à l’abbaye et qui parfois l’enrichirent.
+
+Vers la fin du siècle, Saint-Bertin était encore un grand propriétaire foncier.
+La comparaison sur la carte de son domaine avec celui d’autres grandes fondations, en particulier Corbie, Saint-Riquier, Saint-Amand, Saint-Vaast, met en évidence la concurrence monastique et la politique d’appropriation du sol pratiquée aux temps mérovingiens par les abbayes : compte tenu d’exceptions notables, chacune constitue dans son voisinage un groupe plus ou moins dense de domaines.
+Les conditions économiques justifient, d’autre part, l’existence de dépendances excentriques.
+
+
+== Chapitre IV L’exploitation du domaine au ixe siècle. ==
+
+Vers 850, l’abbé Adalard fit, comme le souhaitaient les Carolingiens, dresser un polyptyque où les biens de la mense des moines étaient dénombrés.
+La carte montre qu’ils étaient commodément groupés dans le Ternois et le Boulonnais, à l’exception de Poperinghe et de Passchendaele, situées en Flandre.
+On voit dans ce polyptyque la présence de villae que dirigent souvent des majores, assistés de decani, agents d’administration domaniale d’un rang inférieur.
+A côté de l’indominicatum figurent les manses, tenures qui ont souvent douze bonniers, superficie que l’on estime à environ quinze hectares.
+Ces manses sont exploités par une population d’hommes libres et de serfs.
+La différence qui existe souvent entre les redevances et les corvées dues aux moines par les uns et les autres fait ressortir leur inégalité de statut.
+Parmi les diverses catégories d’hommes vivant sur ces terres figurent les lunarii, qui doivent une corvée de charroi le lundi.
+
+Sur douze grands domaines, huit ont une église qui possède généralement une dotation d’au moins douze bonniers, comme le demandent les conciles.
+Ces églises possèdent également quelques serfs ou des luminarii, hommes qui se sont placés sous le patronage d’un saint et paient un chevage de quatre deniers de cire.
+
+L’étude de ce polyptyque donne l’image d’un domaine riche et bien exploité, mais où la présence de précaires et de petits bénéfices constitue déjà un élément de dislocation de la grande propriété.
+
+
+== Chapitre V La reconstitution du temporel après les invasions normandes. ==
+
+Les Normands vinrent à trois reprises à Saint-Bertin, qui survécut pourtant aux pillages.
+A la mort de l’abbé Raoul de Ternois, en 892, l’abbaye tomba aux mains d’un laïc, le premier comte de Flandre, Baudouin le Chauve, qui s’était rendu maître de tout le pays en profitant des invasions et des troubles politiques.
+Après avoir fait assassiner l’archevêque de Reims, Foulques, qui s’opposait à ses desseins, il réussit à se faire reconnaître comme abbé par Charles le Simple (900).
+Il traita comme son bien propre la fortune de l’abbaye.
+Il mourut en 918.
+
+Son second fils, Adalolphe, comte de Ternois, hérita de Saint-Bertin comme d’un fief.
+Lorsqu’il mourut, en 933, son frère, le comte de Flandre Arnoul le Grand, devint abbé de Saint-Bertin.
+Il montra des dispositions toutes différentes de celles de son père.
+Par piété ou par politique, il rétablit la régularité bénédictine dans les abbayes de ses états.
+Cela se fit pour Saint-Bertin, en 944, avec l’aide de saint Gérard de Brogne.
+Quoique des abbés réguliers fussent revenus à la tête de Saint-Bertin, l’abbaye restait sous la coupe du comte.
+
+Arnoul le Grand rendit quelques domaines enlevés jadis par Baudouin : Roxem, Poperinghe, Arques, et il en donna d’autres.
+
+Ainsi restaurée, l’abbaye put redevenir un brillant centre spirituel et culturel, en particulier sous l’abbé Odbert (986-1007).
+
+
+== Conclusion ==
+
+Saint-Bertin, ayant conservé ou reconstitué, aux xe et xie siècles, son temporel, restait une illustre abbaye, mais son grand rôle était désormais passé.
+
+
+== Pièces annexes ==
+
+1.
+Tableau chronologique et répertoire des possessions de l’abbaye du viie au xiie siècle.
+
+2.
+Liste de lieux dépendant de l’abbaye et répartis par circonscriptions ecclésiastiques.
+
+3.
+Cartes : la donation d’Adroald ; le domaine de Saint-Bertin de 650 à 850, de 850 à 900, aux xe et xie siècles, de 1095 à 1150 ; le polyptyque d’Adalard ; abbayes du nord de la Gaule vers la fin du ixe siècle.

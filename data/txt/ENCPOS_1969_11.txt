@@ -1,0 +1,442 @@
+identifier: ENCPOS_1969_11
+creator: Dominique Lesourd
+date: 1969
+title: Le Baratre infernal de Regnau Le Queux. Édition
+
+
+
+== Première partie Étude historique et littéraire ==
+
+
+=== Chapitre premier vie et œuvres de Regnaud le Queux ===
+
+Malgré le petit nombre de manuscrits des œuvres de Regnaud Le Queux et celui, encore plus infime, de documents le concernant, il est possible de retracer sa vie dans ses grandes lignes.
+L’auteur a mentionné dans ses œuvres un certain nombre de personnages dont l’identification permet de connaître les milieux dans lesquels il a évolué.
+Le Baratre infernal est daté de 1480.
+Une note de l’auteur nous apprend qu’à cette époque il était précepteur de René de Brosse, dit de Bretagne.
+On peut penser que c’est au début de son préceptorat que Regnaud Le Queux composa le Baratre, préceptorat qui a dû se situer entre 1480 et 1490 ; en effet, les père et mère de René de Brosse s’étant mariés en 1468, sa naissance doit se placer vers 1470.
+Sa mère, Louise de Laval, mourut en 1480.
+Dans cette même note, l’auteur nous apprend qu’il était licencié en lois, détail intéressant quand on considère que c’est à un autre « legisperite », Jehan Pastureau, qu’est dédié le manuscrit de Paris du Baratre infernal (Bibl. nat., fr. 450).
+Dans ce même manuscrit apparaissent les noms des gens au jugement desquels Regnaud Le Queux soumet son œuvre : Jehan Meschineau (à ne pas confondre avec l’auteur des Lunettes des princes), Charles de Gaucourt et Jehan Gaudeté.
+Charles de Gaucourt fut gouverneur de Picardie, lieutenant général et gouverneur de Paris et d’Ile-de-France ; Louis XI le chargea de missions de confiance, comme son ambassade auprès de Charles le Téméraire.
+Une autre ambassade le mena chez le duc de Milan en 1465.
+Regnaud Le Queux le suivit-il à cette occasion ?
+Ce n’est pas impossible.
+En tout cas, Charles de Gaucourt, qui avait le goût des lettres, n’a certainement pas manqué de rapporter quelques volumes de son séjour en Italie.
+Regnaud Le Queux a dû entrer assez tôt au service du gouverneur de Picardie.
+C’est dans son entourage qu’il a débuté dans la carrière littéraire.
+Grâce à sa protection, probablement, il put approcher la famille royale, notamment la reine Marie d’Anjou, femme de Charles VII et mère de Louis XI et de Charles de France : Regnaud Le Queux fera un éloge vibrant de ce « vray amateur des muses » dans le Baratre infernal.
+
+Avec Jehan Meschineau, docteur en théologie, nous pénétrons dans l’entourage de Charles de France, duc de Guyenne, dont il était le premier chapelain.
+Charles, qui lui accordait sa confiance, en fit un de ses exécuteurs testamentaires.
+
+Jehan Gaudeté occupa un poste important auprès du duc de Guyenne : il était son trésorier des guerres et le demeurera jusqu’à la mort de Charles (24 mai 1472).
+Cet ancien fonctionnaire ducal passera au service du roi de France et remplira la fonction de « général conseiller sur le fait et gouvernement des finances royales » en remplacement de Pierre d’Oriole, nommé chancelier de France par lettres du 2 septembre 1472.
+
+Dans ses vers, Regnaud Le Queux fait l’éloge de ces personnages, mais il n’apporte que des précisions limitées sur leur compte.
+Il semble que les liens d’amitié qui l’ont uni à Meschineau et à Gaudeté remontent à 1469 ; il compose à cette date la Doléance de mégère, imprimée dans le Jardin de plaisance de Vérard, publié vers 1501.
+La même année, Charles de France ayant reçu de Louis XI le duché de Guyenne en apanage, les deux frères ont une entrevue au Pont-de-Braud, près de Bordeaux (7 septembre 1469) : dans la Doléance de mégère, Regnaud Le Queux fait nettement allusion à cette réconciliation.
+Était-il secrétaire d’un des personnages de la suite du roi ou du duc de Guyenne ?
+C’est possible.
+D’ailleurs où, sinon mieux qu’à cette occasion, aurait-il pu rencontrer des gens comme Meschineau et Gaudeté ?
+
+Si l’on examine à qui sont dédiés les manuscrits du Baratre infernal, on s’aperçoit que c’est à des personnes venant de la région Guyenne-Poitou, ou y ayant passé une partie de leur existence.
+Le manuscrit de Rouen (Bibl. mun., 681) étant incomplet, on ne sait auquel de ses amis Le Queux avait destiné ce volume.
+Les manuscrits de Chantilly (Musée Condé, 156) et de Paris (Bibl. nat., f. fr., 450) sont adressés respectivement à André Giron et Jehan Pastureau, que l’auteur nous présente comme ses amis intimes.
+
+André Giron, seigneur de la Garde, a été au service de Charles de France.
+On le trouve également à la cour de Charles d’Orléans, participant aux tournois littéraires qui y étaient organisés.
+Il est intéressant de constater que son ami Regnaud Le Queux a laissé des traces de son passage dans les mêmes milieux : la cour de Guyenne et la cour d’Orléans.
+Il composa, à la demande de la duchesse d’Orléans, Marie de Clèves, un recueil de ballades et de rondeaux (1470), malheureusement perdu.
+La duchesse récompensera Regnaud Le Queux.
+
+Jehan Pastureau, seigneur de l’Hommée, était de la Rochelle, comme nous l’apprend Regnaud Le Queux, qui le tient pour un « grand legisperite ».
+Il ne tarit pas d’éloges sur ce Pastureau.
+Enfin, l’avant-propos, à la gloire du Baratre, a été composé par Michel Daurillant, également originaire de l’Aunis. 
+
+Regnaud Le Queux a vraisemblablement vécu lui-même dans la région Guyenne-Poitou ; en fait, il ne s’en éloignera guère lorsqu’il deviendra précepteur de René de Brosse.
+D’ailleurs le seul rhétoriqueur qui n’ait point gardé le silence sur Regnaud Le Queux est un poitevin précisément, Jean Bouchet, si bien renseigné sur les milieux littéraires de sa province.
+Il faut attendre, en effet, 1516 et le Temple de bonne renommée pour voir apparaître le nom de Regnaud Le Queux dans une œuvre littéraire.
+Jean Bouchet le place au nombre des bons écrivains, aux côtés de Milet, Greban, Georges Chastelain, Castel, Guillaume Alexis, Meschinot et Saint-Gelais.
+C’est également Bouchet qui signale l’existence d’une œuvre perdue de Regnaud Le Queux, la Mansion céleste, sorte de contrepartie du Baratre infernal, dont on n’a conservé aucun manuscrit, pas plus que d’une autre œuvre de Le Queux, le Miroer de court (1471) : tout ce que nous en savons se résume à ce que l’auteur en dit dans le Baratre infernal.
+Dans ce même Baratre, une note de l’auteur apprend qu’il avait composé un Tractatus de mortis relegacione dédié à la reine Marie d’Anjou, femme de Charles VII, mère de Louis XI et de Charles de France ; l’ouvrage est antérieur à 1463.
+Enfin, en 1480, profitant des moments de loisir que lui laissait la charge de précepteur de René de Brosse, il écrit le Baratre infernal, cette grande description de l’enfer dont l’idée était en germe, peut-être, dans le Tractatus, et en tout cas dans la Doléance de mégère.
+
+Ce ne sera pas sa dernière production.
+A la demande de Jean Roussel, possesseur d’un traité d’astrologie d’Albumazar qu’il désirait offrir au roi Charles VIII, Regnaud Le Queux rédigea une sorte de dédicace de vingt-cinq quatrains au souverain, dans laquelle il laissait entendre qu’une place d’historiographe lui conviendrait le mieux du monde.
+Ces vers ont été publiés par E. Droz et A. Piaget (Le jardin de plaisance, t.
+II, p. 70-72).
+
+Les éditeurs modernes du Jardin de plaisance, qui sont les seuls à avoir fait une étude sérieuse sur Regnaud Le Queux, lui attribuent la compilation du recueil paru chez Vérard vers 1501.
+Ils supposent qu’il est l’auteur de l’Instructif de seconde rhétorique et du Donnet baillé au feu roy Charles huytiesme de ce nom.
+Ces deux pièces étant, avec la Doléance de mégère, placées en tête du recueil, ils ont jugé que ce n’était pas par coïncidence, mais que Le Queux, profitant de l’occasion que lui donnait Vérard, avait placé ses propres œuvres à cette place de choix.
+Cette hypothèse intéressante n’avait de poids que dans la mesure où on faisait de Regnaud Le Queux l’auteur de l’Instructif et du Donnet, la Doléance de mégère étant, elle, signée.
+Malheureusement, on ne peut accepter ces attributions.
+N. Dupire a définitivement tranché la question du Donnet (Étude critique des manuscrits et éditions des poésies de Jean Molinet, p. 26, note 1) : le poème est signé, Molinet en est l’auteur.
+
+D’ailleurs la lecture des œuvres de Molinet et de Regnaud Le Queux ne laisse pas de place au doute.
+Si la langue offre des ressemblances, le ton, l’allure générale sont différents.
+H n’y a pas chez Regnaud Le Queux le souffle poétique, l’originalité de Molinet.
+Esprit méthodique et pesant, il écrit des vers qui n’ont dans l’ensemble ni légèreté ni grâce.
+Il ne se livre pas, ou peu, aux prouesses techniques de Molinet.
+Rien dans le ton du Donnet ne rappelle Regnaud Le Queux.
+Tout désigne Molinet comme son auteur.
+
+Quant à l’Instructif, on imagine mal Regnaud Le Queux se cachant sous le surnom de « l’infortuné », lui qui n’a pas manqué de signer toutes ses œuvres.
+Cette modestie est indigne de lui.
+Pas plus que dans le Donnet, on n’y reconnaît la main de Regnaud Le Queux.
+
+Les Vers d’Albumazar restent donc la dernière œuvre qu’on puisse attribuer avec certitude à notre auteur.
+Sa production est relativement abondante ; on peut en dresser la liste suivante :
+
+Œuvres conservées de Regnaud Le Queux : la Doléance de mégère (1469), le Baratre infernal (1480), les Vers d’Albumazar (1490 ?).
+
+Œuvres perdues de Regnaud Le Queux : Tractatus de mortis relegacione (av. 1463), Recueil de ballades et de rondeaux (1470), le Miroer de court (1471), la Mansion céleste (entre 1480 et 1485).
+
+Attributions rejetées : l’Instructif de seconde rhétorique (vers 1500), le Donnet baillé au feu roi Charles VIII (vers 1500).
+
+Regnaud Le Queux mourut dans l’indifférence de ses contemporains, à une date inconnue, vraisemblablement vers 1500.
+Sans Jean Bouchet, il serait même tombé dans un oubli total ; mais le grand rhétoriqueur poitevin lui donnera en 1516 dans son Temple de bonne renommée la place honorable qui lui avait toujours été refusée de son vivant.
+
+
+=== Chapitre II Le Baratre infernal. Analyse de l’œuvre ===
+
+Bien plus que Dante, c’est Boccace (De genealogia deorum) le véritable inspirateur de Regnaud Le Queux, tout au moins dans la première partie de son ouvrage.
+
+Après une introduction générale sur Demogeorgon, Éternité, Chaos, Noise, Pan, sur les trois sœurs fatales et sur Fatum lui-même, inspirée du De genealogia deorum de Boccace, Le Queux expose son dessein et livre le nom du personnage à qui il dédie son œuvre : Jehan Pastureau.
+Pour lui faciliter la lecture du Baratre, il en dresse la table.
+Puis il soumet son livre au jugement de trois personnes expertes dans les choses de rhétorique, Jehan Meschineau, Charles de Gaucourt, Jehan Gaudeté.
+Avec cette ultime préface, nous abordons l’œuvre proprement dite, qui se compose de deux grandes parties distinctes : « description du Baratre infernal selon que le prennent et entendent les gentilz et payens » (fol.
+XXIIII-CIII), et « second livre ou partie seconde du Baratre infernal par la vérification des sainctes escriptures et moreles » (fol.
+CIIII – XIxxXVIII vo).
+
+Dans la première partie, Regnaud Le Queux déverse la somme de ses connaissances sur la mythologie antique, avec un grand nombre de citations tirées d’auteurs latins et médiévaux.
+Les grands pêcheurs (Phèdre, Tantale, Pasiphae, Sysiphe, etc.), dont il nous montre les tourments en enfer, sont un prétexte à moralisation.
+Cette partie n’est pas sans intérêt.
+
+La seconde partie commence par une série d’élucubrations sur l’enfer, les divers noms dont il est appelé, sa situation « au milieu de la terre », cela avec toutes sortes de « proeuves » tirées des « philozophes, orateurs et poetes ».
+L’auteur se lance ensuite dans une description des diables, avant d’aborder un chapitre sur la diversité des peines infernales.
+L’auteur termine par des visions et révélations faites à un certain nombre de personnages de l’enfer et de ses peines, ainsi que des damnés qui les ont méritées.
+La principale de ces visions est celle de Tondal.
+Enfin, c’est la conclusion du Baratre « contre ceux-là qui ne croyent aux visions, revelacions et exemples susdictz », et « qui ne croyent que enfer soit ».
+
+Il ne faut pas chercher dans le Baratre infernal de préoccupations politiques ou sociales, comme il en existe chez Dante.
+Regnaud Le Queux, qui était prudent, n’a pas fait d’allusion à ses contemporains en plongeant tel ou tel d’entre eux en enfer.
+Il a quand même des idées, en gros celles de la bourgeoisie de son époque.
+Il condamne les guerres et les tournois, les joueurs, le clergé dissolu.
+La médecine l’intéresse.
+Enfin, c’est un supersticieux qui croit aux fantômes.
+
+
+=== Chapitre III Les sources ===
+
+Regnaud Le Queux dresse un véritable panorama de la littérature antique.
+La littérature médiévale est mise également à contribution.
+Voici les auteurs qu’il utilise, de première et de seconde main :
+
+Adamancius, super Scolastice Historie lib.
+
+Albericus, apud Boccace, de Genealogia Deorum.
+
+Albert le grand, super Proverbia & lib. de Sacramentis.
+
+Saint Ambroise, de Arrio Arrianaque Heresi.
+
+Saint Anselme, Lib. de Similitudinibus
+
+Apuleyus, Methamorphoseos de Asino Aureo.
+
+Architrenius.
+
+Aristote, sans référence.
+
+Aruncius, sans référence.
+
+Saint Augustin, de Civitate Del, Epistole, de Doctrina Christiana.
+
+Averroes, sans référence.
+
+Bede, de Gestis Anglorum.
+
+Saint Bernard, in Meditacionibus & in Sermonis.
+
+Bernard Silvestre, in Microcosmo.
+
+Blondius Flavius, in Roma Triumphante lib.
+
+Boccace, de Genealogia Deorum.
+
+Boece, de Consolacione.
+
+Cassiodore, lib. de Institutione Scripturarum.
+
+Cirile, Epistole.
+
+Claudis Claudianus, de Bello Marsico.
+
+Dantes, apud Boccace, de Genealogia Deorum.
+
+Darethes (Dares Frigius), in Yliade (Excidium Troiae).
+
+Dydime, apud Eusèbe-Jerome & Lactance (Div.
+Inst. lib.).
+
+Elyus Sparcianus, in Vita eliogabali.
+
+Eusebe, in Chronica Veteri (trad. de saint Jérôme).
+
+Fulgencius (Placiades Fulgencius), in Mithologiis. 
+
+Gaultier (de Chatillon), Alexandreide.
+
+Gervasius (Gervais de Tilbury, Otia Imperialia).
+
+Saint Grégoire, Dyalogorum lib. & super Job Moralium lib.
+
+Guillaume de Paris, lib. de Universo.
+
+Henry de Hesse, super Genesim.
+
+Hermes Trimegistus, Ad Asclepium.
+
+Hesyode, Theogenarie lib. (apud Servius ?).
+
+Homere, Ylias & Edissea.
+
+Horacius (voir Oracius).
+
+Hugues de Saint-Victor, lib. de Anima.
+
+Innocent, de Vilitate Condicionis Humane lib.
+
+Saint Jérôme (voir Eusèbe), Epistole, Contra Jovinianum & Ex Translatione Hystrii Cosmographi (il s’agit de la Cosmographia d’Ethicus).
+
+Jean de Torquemada, super Psalmis.
+
+Josephe, de Judaico Bello.
+
+Julien de Tolède, Pronosticorum Futuri Seculi lib.
+
+Justinus, super Trogo Pompeyo.
+
+Juvenalis, Satire.
+
+Lactancius, Divinarum Institutionum lib.
+
+Laurent de Second Fat (Laurent de Premierfait ?).
+
+Leoncius, apud Boccace, de Genealogia Deorum.
+
+Lescoth, sans référence.
+
+Lucanus, de Bello Punico.
+
+Macrobus, super Sompnio Scipionis, de Saturnalibus, in Sompnio Scipionis super Comento de Republica Marci Tulli Ciceronis.
+
+Marbodus, sans référence.
+
+Marcianus Capella, de Nupciis Mercurii et Philologie.
+
+Marcus Paulus Venetus (Marco Polo), de Partibus Orientis.
+
+Nycolas de Lyra, sans référence.
+
+Oracius, in Poetria Nova, in Odis & Epistole.
+
+Orosius, in Ormesta.
+
+Ovidius, Mythologiarum lib. (voir Fulgence) Metamorphoseos, de Artis Amandi, Heroides & de Fastis.
+
+Palefatus, Lib. de Incredibilibus (apud Eusèbe).
+
+Papyas, Lexicum.
+
+Persius, Satire.
+
+Pétrarque, Rerum Familiarium lib., de Vita Solitaria & de Triumphis.
+
+Petronius, sans référence.
+
+Pierre de Blois, in Epistolis.
+
+Phasus, apus Remigius.
+
+Philochris, apud Eusèbe-Jerome et Macrobe (Saturn.).
+
+Phriculphe, sans référence.
+
+Plato, in Tymeo & in Phedrone.
+
+Plautus, Aulularia.
+
+Plinius, in Naturali Historia.
+
+Plutarchus, in Vita Marci Antoni.
+
+Pomponius Melas, in Cosmographia. 
+
+Pronapides, apud Boccace.
+
+Prosper (d’Aquitaine), de Vita Contemplativa & Ad Radulphum.
+
+Prudencius, de Heresibus lib.
+
+Pthlomeus, in Geographia.
+
+Quintilianus, (de Institutione Oratorio).
+
+Rabanus, de Origine Rerum lib.
+
+Remy d’Auxerre, super Marciani Capelle Comento.
+
+Salustius, Historie.
+
+Seneca, Tragedie & de Sacris Egyptiorum Lib.
+
+Serenus, apud Servius.
+
+Servius, super Virgilio.
+
+Solinus, de Situ orbis lib.
+
+Sophocles, sans référence.
+
+Stacius, Thebays.
+
+Suetonius, de XII Cesaribus.
+
+Symonides, apud Servius.
+
+Theodoncius, apud Boccace.
+
+Saint Thomas, ex Compendio Theologice Veritatis.
+
+Titus Lyvius, sans référence.
+
+Tullius (Cicero), de Divinacione lib., Tusculan. lib., in Philipicis Contra Anthonyum, in Cathilinam Invective lib.
+
+Valerius (Maximus), sans référence.
+
+Valturus (Roberto Valturio), lib. de Re Militari ad Pandulphum.
+
+Varro, de Lingua Latina.
+
+Vincent de Beauvais, in Speculo.
+
+Virgilius, Eneydis lib. & Georgicorum lib.
+
+Vitruvius, Architecture lib.
+
+Ysidorus, Ethimologiarum lib.
+
+Pour que ce tableau soit complet, il faut y ajouter les citations tirées de la Bible :
+
+Vetus Testamentum
+
+Baruch.
+
+Deuteronomium
+
+Ecclesiastes.
+
+Ezechiel.
+
+Genesis.
+
+Isaias.
+
+Jonas.
+
+Judith.
+
+Numeri.
+
+Proverbia Salomonis.
+
+Psalmi.
+
+Reges.
+
+Sapientia.
+
+Novum Testamentum
+
+Acta Apostolorum.
+
+Apocalypsis.
+
+Evangelium Johannis.
+
+Evangelium Luce.
+
+Evangelium Matthei.
+
+Epistole Pauli.
+
+Epistole Petri. 
+
+Il y a trois catégories d’auteurs dans le Baratre infernal : ceux que Regnaud Le Queux dit simplement avoir utilisés, dont il ne donne ni citation, ni référence, ceux qu’il cite d’après une autorité, et ceux qu’il cite de première main, avec des références exactes.
+
+On peut encore faire une distinction entre les sources principales et les sources secondaires.
+Pour l’antiquité, les sources principales sont Virgile, Ovide et leurs commentateurs, Servius et Fulgence, Sénèque et Martianus Capella, avec le commentaire de Remy d’Auxerre.
+Pour le moyen âge, la source principale, c’est Boccace.
+De nombreuses citations sont tirées de la Bible.
+Les auteurs italiens ont une place particulière qu’il convient de signaler : Boccace, Pétrarque, Dante, Marco Polo, Roberto Valturio, Biondo Flavio.
+On en connaît des éditions antérieures à 1480, date de composition du Baratre infernal, que Regnaud Le Queux a pu par conséquent utiliser.
+
+Tout ceci témoigne d’une grande érudition.
+Il apparaît que Regnaud Le Queux, qui avait beaucoup lu, a inséré dans le Baratre la somme de ses connaissances, sans discrétion, il faut bien le dire.
+Il n’en reste pas moins que ce texte est un témoignage précieux de ce qu’un auteur français du xve siècle pouvait avoir lu, à cette époque si importante qui a vu la naissance et le développement de l’imprimerie en Europe.
+
+
+=== Chapitre IV La forme de l’œuvre : langue, style, versification ===
+
+L’œuvre est un mélange de vers et de prose.
+Le procédé remonte assez haut dans la tradition littéraire du moyen âge : on le trouve dans Aucassin et Nicolette, dans le Voir dit de Guillaume de Machaut et dans la Prison amoureuse de Froissart.
+Cette forme hybride a eu du succès chez les réthoriqueurs ; Molinet l’utilise dans des œuvres telles que la Complainte de Grèce, le Trosne d’honneur, le Naufrage de la pucelle, le Chapelet des dames, etc.
+Son disciple, Jean Lemaire de Belges, partagera son goût.
+La littérature latine du moyen âge avait aussi fourni des exemples de ce type.
+L’origine de ce procédé remonte peut-être au De consolatione de Boece.
+
+Un autre procédé de Regnaud Le Queux consiste à terminer ses strophes par un vers-proverbe.
+Cette particularité se trouve aussi chez Molinet dans une œuvre antérieure au Baratre infernal, le Temple de Mars (1476).
+
+L’étude dialectale du texte offre moins d’intérêt que celle du vocabulaire de l’auteur.
+Il y a des traits picards (la diphtongue picarde, par exemple) dans la langue, mais ils ne sont pas très nombreux.
+Le langage de Regnaud Le Queux est celui de la scolastique, il utilise des latinismes, sans doute dans le dessein de créer une langue non vulgaire et digne de la poésie.
+Cela ne l’empêche pas d’employer des expressions familières, des proverbes, quelques archaïsmes, et des mots vraiment rares.
+En ce qui concerne la versification, Regnaud Le Queux emploie en principe soit des décasyllabes rimant ababbcc (dd, quand ses strophes ont neuf vers), soit des octosyllabes rimant de la même façon.
+Quelquefois il a recours à une forme plus rare dont voici le schéma : aaa (huit syllabes) b (quatre syllabes) bbb (huit syllabes) c (quatre syllabes) ccc (huit syllabes) d (quatre syllabes) ddd (huit syllabes) etc.
+
+
+== Deuxième partie ==
+
+
+
+
+== Édition ==
+
+Deux manuscrits autographes de Regnaud Le Queux se trouvent à la Bibliothèque nationale : le Baratre infernal, fr. 450, et les vers d’Albumazar, lat. 7331.
+L’édition du Baratre infernal est établie d’après le manuscrit fr. 450 : c’est un volume in-folio de deux cent trente-huit feuillets.
+Voici l’incipit du Baratre infernal :
+
+Proheme intentant les parties
+
+De pluiseurs buyssons essarties... et l’explicit :
+
+Rendant l’effect de la desserte,
+
+Une ame es cieux, l’autre desserte.
+
+Les manuscrits de Chantilly, Musée Condé, 156 (655), et de Rouen, Bibl. mun., 681 (A297) offrent des rédactions plus courtes du Baratre infernal.
+Ils présentent un nombre restreint de variantes d’un intérêt minime, ne portant que sur des passages sans difficulté particulière.
+
+
+== Le Baratre infernal ==
+
+
+
+
+== Index des noms propres ==
+
+

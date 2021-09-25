@@ -1,0 +1,177 @@
+identifier: ENCPOS_1861_02
+creator: Théodore Hubert
+date: 1861
+title: Étude sur les désinences de la conjugaison française au xiie siècle (d’après une traduction des psaumes exécutée à cette époque et conservée actuellement à la bibliothèque Bodléienne)
+
+
+
+== Introduction. ==
+
+Utilité des travaux spéciaux et complets sur les textes de notre ancienne langue.
+
+Nécessité de ces sortes de monographies pour l’histoire de la formation de la langue française, et pour fonder sur des bases solides la science de l’étymologie, si souvent traitée d’absurde.
+
+Au moyen d’un certain nombre de ces sortes d’ouvrages, on pourra, par la comparaison des textes, connaître l’époque et même le pays de chacun de nos vieux documents, qui sont si précieux à tous égards.
+
+C’est un travail de ce genre que j’ai tenté de faire sur les désinences des verbes qui se rencontrent dans le psautier du xiie siècle.
+
+Les verbes contenus dans ce document confirment la théorie de MM. Raynouard et Diez sur les conjugaisons, théorie admise par M. de Chevallet.
+
+Dans ce travail, je passe en revue les différents temps, modes et personnes.
+J’expose d’abord les terminaisons régulières, puis celles qui offrent des irrégularités.
+
+Je commence par l’infinitif et le participe présent, parce que c’est sur ces deux modes que sont basées les différentes conjugaisons.
+
+
+== Chapitre premier. Infinitif. ==
+
+Les terminaisons de l’infinitif sont :
+
+Pour la 1re conjugaison, er du latin are.
+
+– 2e – ir – ire, ère, ĕre.
+
+– 3e – eir et re – ēre, ĕre.
+
+Vingt infinitifs employés avec le sens de l’impératif.
+
+
+== Chapitre II. Participe passé. ==
+
+La 1” conjugaison a pour désinences :
+
+Au masculin singulier et pluriel, et, ed, ez, é.
+
+Au féminin singulier, ede, ée.
+
+– pluriel, edes, ées. 
+
+La 2’ conjugaison se termine :
+
+Au masculin singulier en il, iz, i.
+
+– pluriel, – it, id, i.
+
+Au féminin singulier, en ite, ide.
+
+– pluriel, – ites, ies.
+
+Il y a quelques participes en ut, uz, comme s’ils étaient de la 3e conjugaison, et quelques autres irréguliers, parce qu’ils proviennent directement du participe latin.
+
+Enfin, pour la 3⁎ conjugaison, les désinences sont : ut, uz, ud.
+
+
+== Chapitre III. Indicatif présent. ==
+
+La 1re personne n’a de désinence dans aucune conjugaison.
+La terminaison e, qui existe de nos jours dans la première, n’est venue que plus tard.
+
+Les autres conjugaisons ont quelquefois l’s paragogique.
+
+La 2e personne est en es, du latin as, pour la 1re conjugaison ;
+
+–  en s, – is, pour les deux autres ;
+
+– et en is, – escis, pour la conjugaison à forme allongée. 
+
+La 3e personne est en et, ed, e (1re conjugaison) ;
+
+–  en t (2e et 3e conjugaisons) ;
+
+– et en ist (escit) pour la conjugaison à forme allongée.
+
+Aucun exemple de la 1re personne du pluriel.
+
+La 2e est en ez, et la 3e en ent pour toutes les conjugaisons.
+
+Quatre exemples de la 3’ personne du pluriel en unt.
+
+
+== Chaptire VI. Futur. ==
+
+Pour toutes les conjugaisons :
+
+rai.
+
+ras.
+
+rat, rad, ra.
+
+rums.
+
+rez.
+
+runt.
+
+Seulement certains verbes ont entre le radical et la terminaison : les uns un e, les autres un i.
+
+
+== Chapitre VII. Conditionnel. ==
+
+Il n’y a que deux exemples de ce mode :
+
+Deperdreit, P. CV, 22.
+
+Repundereient, P. LXIII, 5.
+
+Dans le dernier exemple, il faut remarquer Ve entre le radical et la terminaison. 
+
+
+== Chapitre VIII. Subjonctif. ==
+
+Les trois conjugaisons ont pour désinences :
+
+e.
+
+es.
+
+et, ed, e.
+
+ums.
+
+ez.
+
+ent.
+
+Une assez grande quantité de verbes de tout nombre et de toute personne ont un g entre le radical et la terminaison :
+
+Parolgent, P. XXXIII, 13.
+
+Quelques autres irrégularités.
+
+
+== Chapitre IX. Impératif. ==
+
+A la 2e personne du singulier, la 1re conjugaison a pour désinence e, du latin a.
+
+Trois exceptions en es.
+
+Les autres conjugaisons n’ont aucune désinence ; le radical seul subsiste.
+
+Aucun exemple de 3’ personne ni singulier ni pluriel.
+
+La 1re et la 2e personnes du pluriel sont, pour toutes les conjugaisons, ums, uns, ez. 
+
+
+== Chapitre X. Imparfait du subjonctif. ==
+1" conjugaison. | 2e et 3e conj.
+1" personne du sing. | asse. | isse.
+2e – – | •••••• | isses.
+3e – – | ast, an. | ist, ust (irrég.).
+1re personne du plur. | ...... | ......
+2e – – | ...... | ......
+3e – – | assent. | issent et ussent (irrég.).
+
+
+
+On voit que l’imparfait du subjonctif français vient du plus-que-parfait du subjonctif latin.
+
+
+== Chapitre XI. Participe présent. ==
+
+Les désinences de ce mode sont ant ou anz, d’après les règles du subjectif et du complétif.
+    
+    =========
+    
+
+[1] Cette traduction a été mise au jour par M. Francisque Michel en 1860.

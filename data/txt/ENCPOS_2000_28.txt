@@ -1,0 +1,135 @@
+identifier: ENCPOS_2000_28
+creator: Christian Ménage
+date: 2000
+title: Le De processione Spiritus Sancti[ De Spiritu Sancto] de Théodulfe d’Orléans. Édition, étude des sources et commentaire.
+
+
+
+== Introduction ==
+
+Edité une première fois en 1646 par Jacques Sirmond, sous le titre De Spiritu Sancto, l’ouvrage de Théodulfe d’Orléans est en fait intitulé dans les manuscrits De processione Spiritus Sancti, titre qui mérite d’être rétabli.
+Ce recueil de textes patristiques fut composé à la demande de Charlemagne pour  réparer le concile d’Aix de 809, qui devait introduire la formule du Filioque dans le Credo pour exprimer la double procession du Saint-Esprit.
+Contrairement aux théologiens orthodoxes, les théologiens catholiques affirment en effet que le Saint-Esprit procède du Père et du Fils, Spiritus Sanctus a Patre Filioque procedit, et non pas du Père par le Fils, Spiritus Sanctus a Patre per Filium procedit.
+La controverse était importante à l’époque et se greffait sur l’opposition politique des deux empires d’Orient et d’Occident.
+
+Le florilège composé par Théodulfe révèle l’étendue de sa culture et témoigne de ses méthodes de travail.
+Une nouvelle édition du texte, fondée sur un manuscrit contemporain de l’auteur, permet ensuite d’étudier ses sources : les manuscrits qu’il a vraisemblablement utilisés, ou du moins les bibliothèques avec lesquelles il devait être en relation.
+Enfin sont envisagés les procédés de composition mis en œuvre par Théodulfe.
+
+
+== Sources ==
+
+Cinq manuscrits transmettent l’ensemble du florilège, un sixième ne contient que la préface en vers.
+Quatre manuscrits dont s’est vraisemblablement servi Théodulfe d’Orléans ont été retrouvés.
+
+
+== Première partie Edition ==
+
+
+=== Chapitre premier Théodulfe d’Orléans et le De processione Spiritus Sancti ===
+
+Le Wisigoth Théodulfe d’Orléans est un personnage éminent du règne de Charlemagne, connu essentiellement pour son œuvre poétique et son action pastorale.
+Son florilège commence par une préface en distiques élégiaques et renferme soixante-huit citations tirées de trente-cinq œuvres.
+En tout, Théodulfe cite dix-sept auteurs, mais trois d’entre eux, saint Athanase, saint Augustin et Prosper d’Aquitaine, se voient attribuer des ouvrages qu’ils n’ont pas écrits.
+Théodulfe s’est manifestement efforcé de citer des Pères grecs et a montré sa préférence pour les auteurs espagnols tels que Prudence, dont les vers viennent clore l’ensemble des citations.
+
+
+=== Chapitre II Introduction à l’édition ===
+
+L’édition présente l’intérêt de s’appuyer sur un manuscrit contemporain de l’auteur, le manuscrit London, Br.
+Libr.
+Harley 3024.
+La tradition manuscrite s’est poursuivie jusqu’au début du xvie  siècle.
+Elle comprend le manuscrit Tours, Bibl. mun., 313 (du ixe  siècle), sur lequel a été copié en 1506 le manuscrit Sélestat, Bibliothèque humaniste, 77 ; Milano, Biblioteca Ambrosiana D 106 inf. (xe -xie  siècles) ; Paris, Bibl. nat. de Fr., lat. 1687 (xie siècle) et Paris, Bibl. nat. de Fr., lat. 5941 A (xie  siècle), qui ne contient que la préface.
+Ces manuscrits descendent directement ou indirectement du manuscrit de Londres.
+
+
+=== Chapitre III Edition ===
+
+L’édition s’attache à respecter, dans la mesure du possible, le texte et l’orthographe du manuscrit de Londres.
+L’apparat retient non seulement les variantes des manuscrits, niais aussi des variantes significatives présentes dans les éditions des textes patristiques cités, afin de préparer la recherche des sources manuscrites de Théodulfe.
+
+
+== Deuxième partie Les sources de Théodulfe ==
+
+
+=== Chapitre premier Le manuscrit Berlin, Staatsbibliothek Phillipps 1671 (Rose 78) ===
+
+Le manuscrit Berlin, Staatsbibliothek Phillipps 1671 (Rosé 78), est un recueil de textes doctrinaux contenant quinze citations du florilège.
+La collation des textes n’interdit pas de supposer que  Théodulfe s’en soit servi, même s’il apparaît qu’il ne l’a pas annoté.
+Ce manuscrit était conservé au ixe  siècle à l’abbaye de Fleury, dans le diocèse d’Orléans, ce qui donne à penser que Théodulfe a pu chercher ses sources dans cette bibliothèque proche et riche.
+
+Le manuscrit de Londres donne un texte corrigé par rapport au manuscrit de Berlin ; les corrections seraient donc dues à Théodulfe ou à son secrétaire.
+De plus, ce dernier manuscrit renferme des textes utilisés par Leidrade et par Florus, deux Wisigoths installés à Lyon.
+L’hypothèse de relations entre Théodulfe et la colonie wisigothique de Lyon est plausible.
+
+
+=== Chapitre II Autres manuscrits de Fleury ===
+
+En fait, plusieurs manuscrits de Fleury semblent avoir intéressé Théodulfe, qui en a certainement utilisé deux autres : le manuscrit Orléans, Bibl. mun., 160 (137) du ixe  siècle, contenant le De Trinitate de saint Augustin, dont certaines variantes significatives se retrouvent dans le florilège, et le manuscrit Vaticano, Biblioteca Apostolica Vaticana, Reg. lat. 267 des vie -viie  siècles, contenant l’Ad Monimum de Fulgence de Ruspe, qui a pu parvenir à Fleury dès le début du ixe  siècle.
+En outre, deux autres textes étaient à Fleury au début du ixe  siècle : les Moralia in Job de Grégoire le Grand, dont il reste un fragment du manuscrit, et les Sententiae d’Isidore de Séville, qui sont citées dans un autre florilège composé à l’abbaye.
+
+
+=== Chapitre III Un manuscrit de Saint-Mesmin de Micy : Bern, Burgerbibliothek 224 ===
+
+Une abbaye encore plus proche d’Orléans que ne l’est Fleury pouvait aussi fournir des textes à Théodulfe : l’abbaye Saint-Mesmin de Micy, que certains considèrent comme son scriptorium.
+Le manuscrit Bern, Burgerbibliothek 224 y fut vraisemblablement copié et contient deux textes d’Isidore, les Etymologiae et le De differentiis rerum.
+Les Moralia in Job de Grégoire le Grand s’y trouvaient également à l’époque de Théodulfe, puisqu’un abrégé en est conservé.
+En revanche, un manuscrit de Micy contenant les Sententiae d’Isidore de Séville n’a pas servi à la constitution du florilège.
+
+
+=== Chapitre IV Autres sources ===
+
+Théodulfe d’Orléans tira trente-sept citations de dix-neuf œuvres dont les manuscrits n’ont pas été repérés.
+Il est cependant possible de considérer les variantes des textes et les types de sources utilisés.
+Il a manifestement corrigé le texte du De Trinitate d’Hilaire de Poitiers en sa possession, en recourant à un second manuscrit, selon une méthode critique qu’il a déjà utilisée pour établir le texte de sa Bible.
+
+Théodulfe s’est également servi de trois collections de lettres, et en particulier le recueil des décrétales de la collection canonique Hispana.
+En revanche, il a négligé de citer les canons des conciles où est pourtant abondamment formulée la double procession.
+Ce travail a été confié à l’auteur anonyme d’un autre florilège.
+
+Certains textes étaient courants et se trouvaient facilement ; peut-être étaient-ils même à la bibliothèque épiscopale d’Orléans : le Symbole Quicumque qu’il devait connaître par cœur, ainsi qu’il l’exigeait de ses prêtres ; les poèmes de son compatriote et inspirateur Prudence ; le De civitate Dei de saint Augustin, dont l’influence transparaît dans d’autres parties de son œuvre.
+
+Enfin, des textes suggèrent les liens que Théodulfe avait avec d’autres bibliothèques ; peut-être Bourges, plus probablement Corbie et Tours, même si la mauvaise entente entre Théodulfe et Alcuin avait sans doute terni les relations avec Saint-Martin de Tours à partir de 801-802.
+Les relations avec Lyon paraissent probables, sans toutefois pouvoir être prouvées.
+En revanche, Théodulfe semble ne pas avoir recouru aux manuscrits de l’abbaye de Saint-Denis.
+
+
+== Troisième partie La composition du florilège ==
+
+Théodulfe ne s’est pas contenté de présenter, au gré de ses lectures, les citations patristiques sur la double procession du Saint-Esprit.
+Il a cherché à organiser son travail de compilation afin de guider son lecteur, tout en laissant la place la plus large à la pensée des Pères.
+
+Il fait précéder son florilège d’une préface en vers, par laquelle il dédie son œuvre à l’empereur Charlemagne.
+Le libellas personnifié vient se présenter au dédicataire, selon un procédé rhétorique utilisé par Martial dans l’un de ses poèmes ; l’influence d’Ovide, de Virgile, de Prudence et de Dracontius est aussi perceptible.
+Surtout, Théodulfe sait mettre ses vers au service de la théologie, pour exprimer la double procession : quod Patre procédat seu Prole Spiritus almus(v. 11).
+
+Il cite ensuite quatre groupes de textes classés dans un ordre chronologique général ; les Pères grecs et les Pères latins antérieurs à saint Augustin, l’évêque d’Hippone, puis les Pères postérieurs.
+Théodulfe intervient de trois manières : en choisissant les textes, en ordonnant les citations et en rédigeant les introductions.
+Il extrait en effet certains textes où n’est pas exprimée la double procession, mais qui apportent des arguments en faveur de sa démonstration.
+En revanche, il cite de manière exhaustive tous les passages sur la double procession qu’il a pu trouver dans les œuvres des trois premiers groupes : après saint Augustin, les textes sont plus nombreux et moins pertinents.
+Des variantes apparaissent dans son florilège et ont peut-être été introduites par lui, mais seules deux d’entre elles appuient la double procession : dans le De Trinitate d’Hilaire de Poitiers (citation XI) et dans le Contra Eutychetem de Vigile de Thapse (citation LXI).
+Pourtant il ne semble pas qu’il ait voulu falsifier le texte, car, dans le premier cas, il a pu trouver la variante dans un autre manuscrit et, dans le second, il pouvait se passer de ce texte mineur et l’a probablement trouvé tel quel.
+Il a pris soin d’ordonner les citations, puisque leur ordre n’est pas toujours celui des manuscrits, mais correspond à la progression de la réflexion sur la double procession.
+Sa liberté dans l’agencement est évidente, notamment en ce qui concerne les citations de saint Augustin qu’il tire de diverses œuvres, mais réunit en un seul ensemble.
+Les introductions lui servent à insérer ces extraits dans une structure générale.
+Il ne se contente pas d’y donner le titre de l’œuvre et le nom de l’auteur, en résumant le contenu de la citation, mais déduit parfois la double procession en s’appuyant à l’occasion sur un argument développé dans un texte précédent.
+
+
+== Conclusion ==
+
+Le De processione Spiritus Sancti reflète une pratique de la théologie propre à l’époque carolingienne, fondée sur l’étude et l’assimilation de la pensée des Pères de l’Eglise.
+Son influence postérieure n’est pas négligeable : le traité fut largement réutilisé par Enée de Paris dans le troisième quart du ixe  siècle, copié en Italie du nord aux xe -xie siècles et connu d’Abélard.
+
+Pour composer son florilège, Théodulfe chercha des matériaux dans les bibliothèques de deux abbayes proches de son siège épiscopal, Fleury et Saint-Mesmin de Micy, mais il n’hésita pas à s’adresser à d’autres établissements religieux ; il devait avoir également des liens avec les Wisigoths de Lyon.
+
+Théodulfe semble avoir copié lui-même les extraits cités, ce qui expliquerait l’absence d’annotations indiquant les passages utiles dans les manuscrits.
+Il n’hésitait pas à apporter au texte des corrections orthographiques et grammaticales, ainsi que des variantes.
+Théodulfe d’Orléans s’est donc activement préoccupé de préparer le travail des Pères du concile d’Aix et joua sans doute un rôle important dans l’introduction du Filioque dans le Credo.
+
+
+== Annexes ==
+
+Planches des manuscrits du De processione Spiritus Sancti et des manuscrits utilisés par Théodulfe d’Orléans.
+Tableaux récapitulatifs des collations.
+Index.

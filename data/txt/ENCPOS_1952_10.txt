@@ -1,0 +1,62 @@
+identifier: ENCPOS_1952_10
+creator: Bernard Grémont
+date: 1952
+title: La chronique d’Yves de Saint-Denis
+
+
+
+== Introduction ==
+
+Parmi les œuvres historiques et hagiographiques des moines san-dionysiens figure un recueil latin composé par l’un d’entre eux, nommé Yves, et présenté en 1317 au roi Philippe V le Long par l’abbé de Saint-Denis, Gilles de Pontoise.
+Le troisième livre de ce recueil est une chronique des rois de France, des origines à l’époque de l’auteur.
+
+
+== Chapitre premier éditions partielles et études critiques (Bibliographie). ==
+
+Duchesne a publié quelques fragments de la Chronique, mais les a laissés anonymes.
+Cette édition a été reprise dans le tome XX du Recueil des Historiens de la France, le tome XXI contenant d’autres fragments mis sous le nom du copiste, Guillaume Lescot.
+C’est L. Delisle qui a restitué l’œuvre au moine Yves.
+
+
+== Chapitre II Description des manuscrits. ==
+
+Les mss. fr. 2090-2092 de la Bibliothèque nationale (autrefois un seul manuscrit, aujourd’hui en trois tomes) constituent les deux premiers livres de l’exemplaire offert au roi en 1317 et contiennent une vie latine de saint Denis (avec traduction française), illustrée d’une remarquable suite de miniatures en pleine page.
+
+Le ms. lat. 13836 ne contient que les chapitres 57-168 du troisième livre, c’est-à-dire la Chronique depuis la mort de Dagobert, avec une version française marginale.
+Ce manuscrit représente probablement le troisième livre de l’original.
+
+Le ms. lat. 5286 contient le recueil complet.
+Le texte et les grisailles ont été copiés avant le milieu du xive siècle sur les manuscrits précédents : il est dépourvu de traduction.
+
+La Chronique seule se trouve dans deux autres manuscrits, sans traduction ni illustration : ce sont le ms. lat. fol. 63 de Berlin (milieu du xive siècle) et le ms.
+Reg. lat. 695 du Vatican (xve siècle), copiés tous deux sur le ms. lat. 5286. 
+
+
+== Chapitre III Analyse. ==
+
+La Chronique est un abrégé d’histoire de France, envisagée dans ses rapports avec le culte de saint Denis.
+Elle se présente sous forme de succession chronologique des règnes coupés de récits hagiographiques : miracles opérés par saint Denis ou grâces obtenues par son intercession.
+Nombreux sont les récits merveilleux : délivrance de Dagobert et de Charlemagne des peines de l’Enfer (celle-ci révélée à l’archevêque Turpin), damnation de Charles Martel (à laquelle assiste saint Eucher), guérison du pape Étienne II qui a une vision, voyage de Charles le Chauve aux Enfers et en Paradis, révélation de la mort de Philippe Auguste à un chevalier de Segni, etc...
+La partie la plus originale est le récit de la mort de Philippe le Bel rapporté par le moine Renaud, son confesseur.
+
+
+== Chapitre IV Sources. ==
+
+Les récits hagiographiques sont empruntés à une compilation san-dionysienne des ixe-xiiie siècles : les Vita et actus beati Dyonisii, dont les principales parties sont les Areopagitica d’Hilduin et les Miracula sancti Dyonisii (dont la préface est un premier état des Gesta Dagoberti).
+
+
+== Conclusion ==
+
+Sans grande originalité, cette Chronique a le mérite d’avoir essayé d’unifier en un tout cohérent les traditions aréopagitiques et les miracles de saint Denis dans le cadre de l’histoire dynastique.
+
+
+== Texte de la chronique ==
+
+Édition des chap. 21-35 et 53-56 d’après le ms. lat. 5286 et des chap. 57-168 d’après le ms. lat. 13836.
+
+
+== Appendice ==
+
+Mise en parallèle de quatre textes latins et de quatre textes français sur la légende de Dagobert, dont l’âme est arrachée d’Enfer.
+
+Reproduction de miniatures et de sculptures du tombeau de Dagobert illustrant cette légende.

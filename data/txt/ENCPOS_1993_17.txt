@@ -1,0 +1,227 @@
+identifier: ENCPOS_1993_17
+creator: Régis Rech
+date: 1993
+title: Géraud de Frachet : l’engagement d’un historien au xiiie siècle. Édition de sa Chronique universelle
+
+
+
+== Introduction ==
+
+La Chronique universelle de Géraud de Frachet était considérée au XIX’ siècle comme une compilation sans grande valeur.
+Ce jugement sévère doit être révisé : l’.histoire de sa rédaction et l’étude de ses préoccupations révèlent en effet la personnalité de son auteur qui, par ses idées, apparaît comme un partisan convaincu du roi capétien.
+
+
+== Chapitre premier la famille et la vie de Géraud de Frachet ==
+
+Des sources archivistiques (notamment le fonds de Solignac conservé aux Archives départementales de la Haute-Vienne), autobiographiques (une histoire du couvent dominicain de Limoges) et biographiques (les notices de Bernard Gui consacrées à son compatriote limousin) renseignent, en se complétant fort à propos, sur la famille et la vie de Géraud de Frachet.
+Un certain nombre de points fondamentaux ne se laissent cependant deviner que par l’étude et la tradition manuscrite.
+
+Le premier Frachet connu se prénomme Géraud ; il est chanoine de l’église cathédrale Saint-Étienne de Limoges dans les vingt dernières années du XI’ siècle.
+
+Le père de Géraud, Pierre-Géraud, et l’un de ses oncles, Gautier de Frachet, sont tous deux chevaliers et résident au château de Châlucet, où naît le chroniqueur, le 25 mars 1205.
+
+Son oncle maternel, Guillaume, archidiacre de l’église cathédrale, appartient à la puissante famille des Maumont, dont l’un des membres, le grand-oncle de Géraud de Frachet, Hugues de Maumont, est abbé de Solignac de 1195 à 1240.
+
+Le 25 mars 1226, Géraud fait profession chez les Dominicains au couvent de Saint-Jacques, à Paris.
+Il reste probablement dans la capitale, pour y poursuivre ses études, jusqu’en 1233, acquérant notamment une certaine connaissance du droit canonique.
+
+En 1233, âgé seulement de vingt-huit ans, il est nommé prieur du couvent de Limoges, poste qu’il occupe jusqu’en 1245.
+Il mène à bien le déménagement du couvent, beaucoup trop éloigné de la Cité et du château de Limoges, qu’il transfère dans le faubourg Manigne.
+Il reçoit alors le soutien d’une partie de la bourgeoisie, gagnée au nouvel ordre mendiant, et du clergé, notamment le chanoine du Dorat Aymeri Palmut et l’évêque de Limoges Durand d’Orlhac.
+
+En 1250, Géraud apparaît prieur du couvent de Marseille, où il se lie d’amitié avec l’évêque de la ville, Benoît d’Alignan.
+Il a alors l’occasion de rencontrer le nouveau comte de Provence, Charles d’Anjou.
+
+En 1251, il est nommé prieur provincial de la province de France, qui regroupe toutes les provinces d’oc du royaume, la Provence et le Dauphiné.
+On peut se demander dans quelle mesure l’arrivée de Géraud à ce poste si important n’a pas été favorisée par ses opinions politiques, résolument favorables aux Capétiens, alors même que leur emprise sur l’Occitanie se développe rapidement (Louis IX en Languedoc, Alphonse de Poitiers en Toulousain, Charles d’Anjou en Provence).
+Il exerce cette charge prestigieuse jusqu’en 1259, sillonnant les routes du Midi, mais aussi d’Europe.
+
+De 1260 à 1263, il se retrouve prieur du couvent de Montpellier, après ceux de Limoges et de Marseille.
+Ces postes successifs témoignent sans doute d’une réelle capacité d’administrateur et de gestionnaire.
+
+En 1263, il se retire au couvent de Limoges, où, après avoir exercé à plusieurs reprises la fonction de définiteur, il achève ses jours le 4 octobre 1271.
+Sa carrière chez les Dominicains (1226 à 1271) correspond exactement à la durée du règne de Louis IX.
+
+
+== Chapitre II Chronologie de l’œuvre historique de Géraud de Frachet ==
+
+Géraud écrit tout d’abord, entre 1233 et 1245, des notes sur l’histoire du couvent de Limoges, matériaux plus ou moins reliés entre eux, destinés essentiellement à préserver le souvenir des bienfaiteurs de l’ordre.
+Ces notes sont passées au XVII’ siècle dans une compilation intitulée Memoralia pro conventu Lemovicensi. 
+
+Avant 1245, il rédige aussi une brève chronique sur l’histoire de l’Aquitaine, le De Aquitania, dont le manuscrit 2 de la bibliothèque capitulaire de Bayeux fait connaître la première version.
+
+Ce même manuscrit et le manuscrit Borghèse latin 350 de la Bibliothèque vaticane conservent le texte d’une première version de la Chronique universelle de Géraud, qui s’arrête en 1199.
+Cette première version fut rédigée vers 1248 au plus tard, comme le prouve l’ébauche de continuation contenue dans le manuscrit Borghèse, où la Chronique, en dix notes, est poursuivie de 1204 à 1248.
+
+En 1254, Vincent de Beauvais utilise, pour sa dernière révision du Spéculum historiale (version de Douai), une version de la Chronique universelle qui est plus complète que celle de 1248.
+Géraud de Frachet a donc poursuivi son ouvrage au jour le jour, avant de se décider, en 1266, à le diffuser.
+Cette deuxième version connue par la tradition manuscrite offre un texte se poursuivant jusqu’en 1266, 1268 ou 1271.
+
+En 1254, Géraud rédige une courte chronique sur l’histoire des Dominicains, la Chronica ordinis.
+En 1252, il commence à rassembler des récits sur les fins édifiantes de certains frères.
+En 1252 et 1256, les chapitres généraux de Milan et de Paris reprennent ces préoccupations.
+Géraud se voit confier par le maître général, Humbert de Romans, la mise en forme des matériaux des Vite fratrum, recueil d’anecdotes sur les vies des premiers frères prêcheurs, composé dans l’ensemble des couvents de l’ordre.
+
+Avec les notes sur le couvent de Limoges, la Chronica ordinis et les Vite fratrum, Géraud apparaît comme l’historien « officiel » des Dominicains.
+Il joue un rôle prépondérant dans la conservation de la mémoire au sein de son ordre.
+Les ouvrages composés à cet effet s’inscrivent dans le cadre traditionnel de l’historiographie monastique.
+
+
+== Chapitre III Sources, méthode de compilation et mise en page ==
+
+Les sources. – La chronique d’Adémar de Chabannes fournit la matière principale du De Aquitania, qui utilise en outre la Vita Ludovici de l’Astronome, une chronique de Moissac et les Gesta Francorum d’Aimoin de Fleury.
+
+La principale source de la Chronique universelle est constituée par la chronique de Robert d’Auxerre.
+La version qu’en a connue Géraud de Frachet s’arrête en 1199, alors que le chanoine de Saint-Marien poursuit sa chronique jusqu’en 1211.
+Le seul manuscrit subsistant de cette version intermédiaire, le manuscrit 26 de la bibliothèque de la faculté de médecine de Montpellier, provient de l’abbaye cistercienne de Pontigny.
+Or, les notes concernant cette abbaye contenues dans la chronique de Robert d’Auxerre sont soigneusement recopiées par Géraud de Frachet.
+Ce dernier a donc probablement séjourné, entre 1245 et 1248, au nouveau couvent des Prêcheurs d’Auxerre, ou, plus vraisemblablement, à Pontigny même, où il a pu exercer les fonctions de lecteur, dans le cadre du renouveau des études que connaît alors l’ordre de Robert de Molesmes.
+
+L’autre grande source de la Chronique dans sa première version est l’Historia regum Francorum d’André de Marchiennes.
+La présence dans l’abbaye de Marchiennes à la fin du XIII’ siècle de trois manuscrits de la Chronique universelle, dont deux subsistent aujourd’hui (les manuscrits 798 et 800 de la Bibliothèque municipale de Douai) et l’excellence du manuscrit 800 amènent à penser que Géraud a trouvé l’exemplaire de l’Historia regum Francorum qu’il a utilisé, dans l’abbaye même de son rédacteur.
+
+En outre, Géraud de Frachet mentionne des chroniques qu’il dit avoir personnellement vues à Saint-Médard de Soissons.
+Avec Paris, Pontigny, Marchiennes et Soissons, il semble donc avoir eu une bonne connaissance de la moitié nord du royaume.
+
+Enfin, point capital, il utilise le Spéculum historiale de son confrère Vincent de Beauvais dans la deuxième version de sa Chronique universelle, et celle-ci, à son tour, constitue la source essentielle (95 % des additions) de la version de Douai du Spéculum, révisée en 1254.
+
+La méthode de compilation. – Géraud n’abrège jamais le récit de Robert d’Auxerre, mais il y pratique des coupes.
+Pour les passages conservés, il suit sa source quasiment mot à mot.
+Sa méthode de compilation est donc tout à fait traditionnelle.
+
+Une comparaison des passages retenus et des passages omis pour la période 741-843 permet de s’apercevoir du recentrage de la Chronique dans un cadre plus national.
+Ainsi, les notes concernant l’histoire de l’Orient musulman et de l’empire byzantin sont généralement laissées de côté, de même que celles concernant l’Italie lombarde, quand elles n’interfèrent pas sur l’histoire des rois de France.
+Les nombreux développements d’histoire locale sur les églises d’Auxerre et de Sens ne sont également pas repris par Géraud de Frachet.
+
+Outre des faits historiques et des précisions chronologiques, Géraud de Frachet, qui fut un predicator famosus (Bernard Gui), conserve dans sa Chronique un certain nombre d’anecdotes pouvant fort bien servir A’ exempla.
+
+La mise en page. – La mise en page de la Chronique utilise des techniques mises au point par les Cisterciens et les Mendiants dans les années 1230-1280.
+
+Géraud sépare les paragraphes par des pieds de mouche.
+Des titres rubriqués et de grandes initiales mettent en valeur les six âges du monde, division classique de l’histoire depuis saint Augustin.
+De grandes initiales indiquent aussi les autorités historiographiques censées appuyer le texte : les Macchabées, Flavius-Josèphe, Jules Africain, Eusèbe de Césarée, Jérôme, Bède le Vénérable, Adon de Vienne, Sigebert de Gembloux.
+
+Enfin, des notes indiquent, dans la marge supérieure, les passages sur lesquels l’auteur veut attirer l’attention du lecteur.
+Ces notes marginales sont reprises, dans certains manuscrits, en tête de la Chronique, formant un ensemble qui tient à la fois de la table des matières, dont il possède la suite progressive dans le texte, et de l’index, dont il offre la variété des thèmes repris.
+Malaisément utilisable, ce système hybride de repérage ne connaîtra pas de succès.
+
+Les notes marginales sont le plus souvent strictement documentaires (noms de personnages importants, mentions d’événements remarquables).
+Elles facilitent donc, dans un esprit tout à fait moderne, une recherche purement historique.
+Le prédicateur qui veut repérer des exempla ne peut s’en aider d’aucune façon, faute de notes à connotation morale.
+
+Les thèmes mis en évidence par ces notes marginales résument la vie et les idées de Géraud de Frachet : le pouvoir royal et les changements de dynastie, la croisade contre les Sarrasins et contre les cathares, les ordres religieux des xie-xiie siècles, les écoles de Paris. 
+
+
+== Chapitre IV Les intentions d’une œuvre ==
+
+Géraud manifeste des idées politiques précises dès la premiere version du De Aquitania.
+Il soutient en effet que l’Aquitaine a été libérée des Wisigoths ariens par Clovis, des Sarrasins musulmans par Charles Martel, enfin des Normands païens par Charles II le Chauve.
+En reprenant en outre un passage de la Vita Ludovici de l’Astronome où Charlemagne envoie neuf comtes francs diriger l’Aquitaine, il sous-entend que tout pouvoir en cette province découle du roi.
+
+La première version de la Chronique universelle se caractérise par l’adjonction, au récit de Robert d’Auxerre, de l’histoire du reditus regni Francorum ad stirpem Karoli, qui légitime l’accession au trône d’Hugues Capet, représenté comme un usurpateur chez Robert d’Auxerre.
+En reliant la famille capétienne à la famille carolingienne, Géraud dresse le cadre de l’action qu’il souhaite voir jouée par Louis IX, l’ancien empire de Charlemagne.
+
+Entre 1248 et 1266, la Chronique universelle connaît une révision qui offre des concordances remarquables avec la révision de Douai du Spéculum historiale.
+Les deux ouvrages, en effet, se complètent par des emprunts mutuels, tandis que des textes d’origine diverse, dont un extrait de la chronique d’Adémar de Chabannes, apparaissent en même temps dans l’un et dans l’autre.
+Dans la seconde moitié de l’année 1254, Géraud de Frachet et Vincent de Beauvais ont donc très probablement collaboré à une révision de leurs ouvrages respectifs, unifiant ainsi les thèmes abordés et les idées politiques soutenues.
+L’ampleur des additions du Spéculum empruntées à la Chronique universelle, sur des points fondamentaux comme celui du reditus, et la très haute charge de prieur provincial qu’occupait Géraud en 1254 conduisent à croire que le chroniqueur limousin fut l’initiateur de cette double révision.
+Comme pour le Spéculum, la révision de la Chronique universelle reste inachevée.
+En effet, l’ouvrage ne fut pas diffusé après 1254 : les raisons qui avaient motivé cette double révision étaient probablement circonstancielles.
+
+Les ajouts à la Chronique universelle de la révision de 1254 portent sur le thème de la translation des études de Rome vers Paris sous Charlemagne et sur l’histoire légendaire de cet empereur.
+En exaltant Alcuin, Clément le Scot, Raban Maur et Jean Scot Érigène, tous clercs réguliers, Géraud s’oppose certainement à l’offensive dirigée au sein de l’université de Paris par les clercs séculiers menés par Guillaume de Saint-Amour depuis 1252.
+D’autre part, Charlemagne, par ses succès remportés en Espagne et en Palestine (fondation de Saint-Jacques de Compostelle et libération de Jérusalem), apparaît comme le héros de la Chronique, modèle à suivre par son lointain descendant (par l’entremise du reditus) Louis IX.
+
+Vers 1258, un peu avant le traité de Paris, Géraud complète son De Aquitania, en lui donnant un ton quelque peu pamphlétaire : si jamais le roi de France restitue l’Aquitaine au roi d’Angleterre, il s’en repentira !
+
+En 1266, il se décide enfin à diffuser sa Chronique, très vraisemblablement à la suite des succès remportés par Charles d’Anjou en Italie sur Manfred.
+Il adresse au nouveau roi de Naples un exemplaire de sa Chronique, aujourd’hui perdu, mais dont le manuscrit 5005A de la Bibliothèque nationale est une copie.
+Ce manuscrit contient aussi un traité sur les sybilles, déjà connu à la cour de Philippe-Auguste.
+Ce traité exalte un roi dont le nom commence par K., en qui on reconnaît Charlemagne, et donc Charles d’Anjou, souvent assimilé à l’empereur carolingien au moment de son expédition italienne.
+Il retrace aussi l’action du roi des derniers temps, Constans, qui offre une sorte de programme au nouveau roi de Naples : unification de Rome et de Byzance, croisade contre les païens, conversion des juifs.
+
+En conclusion, Géraud semble avoir rédigé sa Chronique universelle de son propre mouvement, en dehors du cadre dominicain.
+Dans cette œuvre personnelle et dans son De Aquitania, il témoigne du développement du sentiment national dans une province, le Limousin, déchirée entre les rois de France et d’Angleterre au début du XIII’ siècle.
+La famille des Frachet, liée à l’abbaye de Solignac de fondation quasi royale, avait choisi le camp du souverain capétien.
+
+
+== Chapitre V Description des manuscrits ==
+
+Dix-neuf des vingt-cinq manuscrits conservés font l’objet d’une notice codicologique :
+
+Angers, Bibliothèque municipale, ms 668 ;
+
+Bayeux, Bibliothèque capitulaire, ms 2 ;
+
+Douai, Bibliothèque municipale, ms 798 ;
+
+Douai, Bibliothèque municipale, ms 800 ;
+
+Montpellier, Bibliothèque de la faculté de médecine, ms 79
+
+Paris, Bibliothèque de l’Arsenal, ms 1147 ;
+
+Paris, Bibliothèque nationale, ms lat. 4863 ;
+
+Paris, Bibliothèque nationale, ms lat. 4937 ;
+
+Paris, Bibliothèque nationale, ms lat. 4938 ;
+
+Paris, Bibliothèque nationale, ms lat. 5005 ;
+
+Paris, Bibliothèque nationale, ms lat. 5005A ;
+
+Paris, Bibliothèque nationale, ms lat. 5005B ;
+
+Paris, Bibliothèque nationale, ms lat. 5005C ;
+
+Paris, Bibliothèque nationale, ms lat. 5039 ;
+
+Paris, Bibliothèque nationale, ms lat. 5040 ;
+
+Paris, Bibliothèque nationale, ms lat. 12498 ;
+
+Paris, Bibliothèque nationale, ms lat. 14618 ;
+
+Paris, Bibliothèque nationale, ms nouv. acq. lat. 705 ;
+
+Reims, Bibliothèque municipale, ms 1458.
+
+Les manuscrits se divisent en trois familles.
+
+La première famille, contenant la première version de la Chronique, est représentée par deux manuscrits.
+
+La deuxième famille (dix manuscrits) offre un texte se poursuivant jusqu’en 1266.
+Elle dérive d’une copie du manuscrit original.
+Elle seule présente les notes marginales et, dans certains manuscrits, divers traités qui lui font suite (Chronica ordinis, De Aquitania, De decem sibillis).
+
+La troisième famille (treize manuscrits) voit son texte se continuer jusqu’en 1268, 1271 ou 1273, suivant les manuscrits.
+Elle dérive directement du manuscrit original. 
+
+
+== Chapitre VI La diffusion de la chronique universelle de Géraud de Frachet ==
+
+La Chronique universelle a connu une diffusion presque exclusivement nationale.
+Deux manuscrits seulement ont été copiés à l’étranger, l’un à Naples (ms 5005A de la Bibliothèque nationale), l’autre en Castille (ms 2J5 de Madrid).
+Le sud du royaume n’a pas connu l’ouvrage de Géraud de Frachet.
+Les provinces les plus méridionales à l’avoir conservé sont le Limousin et l’Auvergne.
+A la fin du xiiie siècle, on le retrouve à Limoges, Clermont, Clairvaux, Cîteaux, Saint-Denis, Mortemer, Marchiennes.
+Au XV’ siècle, il connaît un certain succès parisien.
+
+Dix-neuf des vingt-cinq manuscrits subsistants ont été copiés avant 1340, un dans la seconde moitié du XIV’ siècle et cinq au xve siècle.
+Après 1340, la Chronique universelle ne rencontre plus de succès : écrite en latin, remontant à la création du monde et s’intéressant théoriquement à l’histoire universelle, elle ne peut plus attirer un public qui attend des chroniques rédigées en français, racontant l’histoire contemporaine et surtout l’histoire nationale.
+
+La diffusion dominicaine de la Chronique universelle semble avoir été très réduite, ce qui encourage l’hypothèse d’une rédaction hors du cadre dominicain.
+En revanche, la diffusion cistercienne fut importante ; six manuscrits au moins proviennent d’abbayes cisterciennes : le manuscrit 1147 de l’Arsenal provient de Clairvaux ; le manuscrit latin 4863 de la Bibliothèque nationale, de Mortemer ; le manuscrit 74 de la Bibliothèque de la faculté de médecine de Montpellier, de Cîteaux ; les manuscrits latins 4937 et 4938 et 5005C de la Bibliothèque nationale, d’abbayes cisterciennes non identifiées.
+
+Au xve siècle, la Chronique universelle entre dans les bibliothèques de particuliers, le cardinal Guillaume Fillastre, le parlementaire Simon de Plumetot et le notaire et secrétaire du roi Jean Budé.
+
+
+== Édition ==
+
+Édition intégrale de la Chronique universelle d’après six manuscrits : les manuscrits 668 de la Bibliothèque municipale d’Angers (A), 1147 de l’Arsenal (C), qui sert de manuscrit de base, latins 5505A (N), 5505B (Pa) et 5040 (Pb) de la Bibliothèque nationale, 800 de la Bibliothèque municipale de Douai (D).
+
+
+== Annexe ==
+
+Édition de De Aquitania d’après le manuscrit 668 de la Bibliothèque municipale d’Angers (A), qui est le manuscrit de base, et le manuscrit 5005A de la Bibliothèque nationale (N).

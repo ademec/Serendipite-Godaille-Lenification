@@ -1,0 +1,176 @@
+identifier: ENCPOS_1937_07
+creator: Madeleine Durantet
+date: 1937
+title: La grande Chancellerie royale sous François Ier (1515-1547)
+
+
+
+== Avant-propos ==
+
+Il y a en France, au xvie siècle, deux sortes de chancelleries : la grande chancellerie ; les petites chancelleries démembrées de la grande et établies auprès des Parlements.
+Le présent travail porte sur la grande, qui est itinérante à la suite du roi et du chancelier.
+
+
+== Introduction ==
+
+On rend des actes intitulés au nom de François Ier en grande et en petite chancellerie, à Milan, pendant la première partie du règne. – Les petites chancelleries ayant une double origine, les unes royale, les autres féodale, ne sont pas soumises à un régime uniforme, en dépit des efforts de la royauté. 
+
+La chancellerie de Bretagne ne sera réduite à l’état de petite chancellerie royale que par Henri II.
+
+
+== Sources ==
+
+
+
+
+== Bibliographie ==
+
+
+
+
+== Première partie Les actes de chancellerie ==
+
+
+=== Chapitre premier formulaire. – Exécution matérielle des actes. ===
+
+Au point de vue diplomatique, les actes de chancellerie se répartissent en trois catégories : chartes, actes sur double queue, actes sur simple queue.
+Aucune n’est inconnue auprès des cours souveraines.
+On ne respecte pas au sens strict la division en lettres de grâce et lettres de justice, ces dernières seules étant du domaine des petites chancelleries.
+La cire verte n’y est utilisée que pour les lettres de grâce de simple justice.
+
+
+=== Chapitre II Parties communes aux actes. ===
+
+Suscription. – Modifications apportées par la politique italienne du roi de 1515 à 1530.
+Bretagne.
+Comté de Blois. 
+
+Clauses finales. – On appelle adresse la formule si donnons en mandement à... qui introduit ces clauses dans les actes de l’autorité royale.
+
+
+=== Chapitre III Élaboration des actes. – Ordre de rédaction. ===
+
+Le sens des mentions de service s’est affaibli en vieillissant :
+
+Par le Boy à la relation de...
+N indique, sans doute possible, que l’acte a été commandé en dehors du roi, par la personne physique ou morale désignée dans la formule.
+
+Par le Boy en son Conseil désigne indifféremment les actes passés au Conseil ou devant le chancelier seul, chef du Conseil.
+
+Par le Conseil est devenu, à notre avis, une formule de petite chancellerie : Conseil y désigne non plus le Conseil du roi, mais celui de la petite chancellerie d’où émane l’acte ainsi souscrit.
+
+Les rôles signés de la main du roi, les registres de secrétaires.
+
+Très souvent la date n’est pas celle du commandement : une règle unique et constante ne paraît pas être appliquée.
+
+
+=== Chapitre IV Contrôle des lettrés. ===
+
+1.
+Signature du notaire. – Par suite d’une certaine spécialisation, l’expédition des actes directement émanés du souverain tend à se concentrer aux mains des secrétaires des finances, au détriment des simples secrétaires du roi.
+
+2.
+Signature en queue du rapporteur. – – Maître des requêtes, général des finances, pour les « lettres de rapport » (catégorie d’ailleurs mal définie).
+Les référendaires, pourvus par commission érigée en titre d’office par François Ier, ne sont que des officiers de petite chancellerie et ils y jouent, pour le rapport des lettres, auprès du garde du sceau, un rôle analogue à celui des maîtres des requêtes auprès du chancelier.
+Un conflit incessant les oppose aux notaires et secrétaires du roi dont ils accaparent une partie des fonctions primitives.
+
+3.
+Contrôle du chancelier.
+
+
+=== Chapitre V Validation. ===
+
+Le sceau. – Sceau de majesté (sceau du Dauphiné ; du Milanais ; sceau d’or appendu au traité du 18 août 1527). 11 est le seul exécutoire par tout le royaume, le seul dont on puisse se servir pour sceller toutes les lettres patentes.
+
+Ses équivalents : grand sceau ordonné (les sceaux établis pour les petites chancelleries portent aussi le nom de sceaux ordonnés, mais ordonnés en tel lieu ; ils sont restreints au ressort de la petite chancellerie considérée), parfois sceau du secret.
+Celui-ci (Arch. nat., K 81, n° 20) scelle toutes les lettres de sceau plaqué et certaines lettres missives : ce dernier emploi a trompé Douët d’Arcq (n° 95).
+Le roi possède, en effet, un signet spécial, cachet pour lettres missives (Arch. nat., J 965, n° 511). 
+
+Signature du roi. – Apposée sur tous les actes émanés directement du roi, auxquels le souverain veut donner une garantie spéciale.
+Signe de validation indispensable aux actes de finances.
+
+
+=== Chapitre VI Régences de Louise de Savoie. ===
+
+Pendant les deux régences (juin 1515-janvier 1516 ; octobre 1524-mars 1526), la chancellerie est dédoublée :
+
+A. Le roi donne des actes scellés, en 1515, du grand sceau (que tient le chancelier Duprat, passé en Italie avec François Ier) ; pendant la captivité en Espagne, du sceau du secret.
+
+B. En France, la grande chancellerie expédie : 1° des actes intitulés au nom de François, scellés, en 1515, d’un petit sceau du roi que tient Mondot de la Marthonie, garde du sceau auprès de la régente ; en 1524, du grand sceau, demeuré en France avec Duprat. – 2° Des actes intitulés au nom de Louise (très généralement ceux commandés directement par la régente), scellés, en 1515, comme en 1525, d’un sceau spécial de régence (Bibl. nat., Mélanges Colbert, vol. 364, n° 304) dont un exemplaire incomplet a été inexactement reconstitué par Douët d’Arcq (n° 170).
+
+
+=== Chapitre VII Taxe. Expédition. Enregistrement. ===
+
+ 
+
+
+== Deuxième partie Le personnel de la chancellerie ==
+
+
+=== Chapitre premier le chancelier. ===
+
+Grand officier de la couronne, chef de la chancellerie et de la justice, conseiller du roi : tels sont et demeureront les titres du chancelier.
+Sous François Ier, les titulaires jouissent, en outre, de pouvoirs étendus en matière de finances, dont ils possèdent même à certaines époques la superintendance.
+Au temps de Duprat, le chancelier est un véritable premier ministre ; mais le procès et la condamnation de Poyet (1542-
+
+1545) restreignent sa puissance ; au même moment l’élévation de ses rivaux futurs, les secrétaires d’Etat, un peu plus tard la division de son office (1551) – \ contre-partie de l’inamovibilité désormais attachée au titre, mais non aux fonctions – l’apparition du surintendant, puis du contrôleur des finances, vont diminuer son rôle, tant à la chancellerie que dans le gouvernement général du royaume.
+
+
+=== Chapitre II Les officiers de chancellerie. ===
+
+Audiencier, contrôleur, chauffe-cire, valet de chaufferie exercent en cour à peu près les mêmes fonctions qu’aux xive et xve siècles ; en petite chancellerie, ils nomment des commis.
+Dès le règne d’Henri II, l’érection de ces commissions en titre d’office formé, la division même de ceux d’audiencier et de contrôleur fourniront, grâce à la vénalité qui s’est installée à la chancellerie comme dans les autres administrations du royaume, des ressources financières à la royauté et rendront de plus en plus théorique la surveillance de la grande chancellerie sur ses démembrements.
+
+Le grand correcteur et rapporteur des lettres de chancellerie n’apparaît pas sous le règne de François Ier, il n’est que l’ancien visiteur des lettres ; mais, à partir de cette date, l’office est toujours joint à une charge de conseiller au Grand Conseil, où le titulaire accomplit un service effectif.
+
+Huissier ; procureur.
+
+
+=== Chapitre III Les notaires et secrétaires du roi. ===
+
+La condition de ces officiers, groupés dans le
+    « Collège des clercs, notaires et secrétaires du roi, maison et couronne de France », et l’organisation de cette compagnie demeurent telles que les ont définies le
+    « Grand Privilège » de 1482, les actes de 1485 (octroi de noblesse) et de 1496 (hiérarchie des membres boursiers du collège).
+Beaucoup ne voient dans la charge qu’un moyen de jouir de nombreux privilèges.
+Le monopole qui leur réserve la rédaction des actes royaux est en partie méconnu dans la pratique : nombreuses dispenses accordées par le roi aux greffiers des cours souveraines, existence des secrétaires de petite chancellerie. 
+
+
+=== Chapitre IV Les secrétaires des finances. ===
+
+Les offices. – Il y en a trois, semble-t-il, qui sont inamovibles et jouissent de nombreux privilèges (lettre d’avril 1520) ; survivance ; 1 200 l. de pension ; 423 1. 2 s. 6 d. t. de gages par an.
+
+Les commissions. – En nombre variable ; pension annuelle : 1 000 1., pas de gages.
+Commis ou officiers remplissent les mêmes fonctions.
+
+Rôle politique de certains secrétaires. (Florimond Robertet, Neufville, Bayard, Bochetel, L’Aubespine.) – Les règlements de 1547 paraissent avoir changé certaines des personnalités chargées des affaires et avoir amélioré leur condition matérielle plus que modifié leurs fonctions.
+
+La charge de secrétaire de la guerre est jointe à celle de contrôleur général des guerres.
+
+
+== Conclusion ==
+
+Le développement du cabinet du roi, avec celui de la puissance des secrétaires d’État, l’affaiblissement prochain de celle du chancelier vont diminuer l’importance réelle de la grande chancellerie ; cela au moment même où les besoins financiers de la monarchie provoqueront, dès la mort de François Ier, une brusque multiplication des offices de chancellerie, des accroissements successifs du collège des notaires et secrétaires et, par suite, des augmentations renouvelées de la taxe des sceaux.
+Désormais, on verra grandir l’indépendance des petites chancelleries qui conduiront le roi à imposer ses sujets afin de subvenir à l’entretien de nombreux officiers.
+
+
+== Appendices ==
+
+
+=== I. Liste des chanceliers et des gardes des sceaux. ===
+
+
+
+
+=== II. Liste des audienciers contrôleurs. ===
+
+
+
+
+=== III. Liste des secrétaires des finances. ===
+
+
+
+
+=== IV. Liste des notaires et secrétaires du roi. ===
+
+

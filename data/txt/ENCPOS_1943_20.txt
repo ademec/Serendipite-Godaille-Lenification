@@ -1,0 +1,149 @@
+identifier: ENCPOS_1943_20
+creator: Clotilde Parra
+date: 1943
+title: Guillaume de Conches et le Dragmaticon Philosophiae. Étude et édition
+
+
+
+== Introduction ==
+
+
+
+
+== Bibliographie ==
+
+
+
+
+== Liste des manuscrits des diverses œuvres de Guillaume de Conches ==
+
+
+
+
+== Première partie La vie, l’œuvre et la pensée de Guillaume de Conches ==
+
+
+=== Chapitre premier la vie de Guillaume de Conches. ===
+
+Très peu de renseignements nous sont parvenus sur la vie de Guillaume de Conches ; les plus sûrs et les plus explicites sont ceux qu’il nous donne lui-même dans le prologue du livre VI du Dragmaticon Philosophiae.
+Il naquit vraisemblablement à Conches vers la fin du xie siècle ; la date de 1180 donnée par ses biographes semble inexacte, du fait que c’est entre 1110 et 1120 qu’il fut l’élève de Bernard de Chartres.
+Il vint à Chartres, attiré sans doute par le renom de Bernard, y fut son élève et professa à son tour.
+Sa réputation comme « maître de grammaire » fut bientôt assez grande pour attirer à Chartres un .
+Jean de Salisbury.
+Toutefois, il ne se consacre pas exclusivement à la grammaire, il étudie avec intérêt les sciences, la physique, la physiologie en particulier.
+Après diverses gloses, il fait paraître son premier ouvrage original, la Philosophia mundi, qui ne tarde pas à lui attirer les foudres des autorités ecclésiastiques : Guillaume, abbé de Saint-Thierry, le dénonce à saint Bernard comme disciple d’Abélard.
+Prudemment, Guillaume de Conches rétractera ses erreurs.
+
+C’est à Chartres, aux côtés de Thierry, qu’il prend part à la lutte contre les Cornificiens ; mais il est mal soutenu et par l’évêque et par ses collègues qui, dit-il, n’hésitent pas à sacrifier la science à leur intérêt personnel, et par les étudiants auxquels les huit années d’études qu’il juge nécessaires semblent fastidieuses.
+Guillaume doit donc quitter l’enseignement officiel.
+Son renom, toutefois, est assez grand pour que Geoffroy le Bel, duc de Normandie et comte d’Anjou (1144-1151), lui confie l’éducation de ses fils.
+La dernière manifestation que nous ayons de l’activité de Guillaume de Conches est le remaniement de la Philosophia mundi, sous forme de dialogue, connu sous le nom de Dragmaticon Philosophiae.
+Une phrase du chroniqueur Aubry de Trois-Fontaines permet de placer la mort de Guillaume de Conches peu après 1154.
+
+Son œuvre nous laisse entrevoir une personnalité intéressante : on devine un esprit curieux, avide de s’instruire, capable d’exposer avec clarté les thèses qu’il s’assimile.
+Professeur, il se montre passionnément attaché à son métier, persuadé au plus haut degré de la dignité de ses fonctions.
+A son amour de la science, il joint un caractère prudent ; il sait ne pas se montrer trop attaché à des idées dangereuses.
+LeDragmaticon nous le fait voir un peu aigri par les diverses mésaventures qui lui sont arrivées dans sa carrière.
+
+
+=== Chapitre II L’œuvre de Guillaume de Conches. ===
+
+L’histoire de l’œuvre de Guillaume de Conches apparaît comme très confuse et la chronologie en est difficile à établir.
+Son héritage littéraire a pu être reconstruit, grâce à quelques indications qu’il nous a données lui-même dans des ouvrages dont l’attribution est indiscutable.
+
+Il a, pour les besoins de son enseignement, glosé Priscien, ceci peu après son entrée en fonctions, vers 1120, semble-t-il.
+
+Il faut ensuite placer une première rédaction de gloses sur la Consolatio Philosophiae de Boèce, puis une première rédaction également de gloses sur le Timée traduit par Chalcidius.
+
+De ces diverses gloses et d’autres lectures est issu le premier ouvrage original de Guillaume, la Philosophia mundi (entre 1125 et 1135), divisée en quatre livres.
+C’est un traité de la « substance » aussi bien créatrice que créée, c’est-à-dire qu’il va de Dieu à l’homme ; il y consacre de longs développements à l’univers et à la terre.
+
+Puis, Guillaume remanie ses gloses, sur le Timée et sur Boèce, antérieurement, semble-t-il, à la lettre de Guillaume de Saint-Thierry à saint Bernard, puisque l’identification
+    « Ame-du-Monde – Saint-Esprit » y est maintenue.
+
+La Philosophia mundi est ensuite reprise et modifiée (entre 1136 et 1141 ?) ; le premier livre, très amplifié, est divisé en trois ; l’ouvrage comprend maintenant six livres.
+
+Enfin, probablement à la demande de son protecteur, Guillaume reprend une troisième fois son œuvre, en modifie la forme et y insère de longs extraits des Quaestiones naturaies de Sénèque.
+Ce dernier remaniement se présente à la manière d’un dialogue entre l’auteur et le duc de Normandie.
+Il se place entre 1136 et 1141. 
+
+Le Moralium dogma philosophorum, que Hauréau a voulu attribuer à Guillaume de Conches, est à retrancher de ses œuvres.
+Il apparaît comme un traité de Cornificien plutôt que comme celui d’un humaniste chartrain.
+
+L’apport de Guillaume de Conches à la littérature scientifique est assez important.
+Ses différentes gloses constitueront un point de départ de travaux ultérieurs ; ses traités originaux ont été souvent copiés et étudiés.
+
+
+=== Chapitre III La philosophie de Guillaume de Conches. ===
+
+Il est nécessaire de replacer la pensée de Guillaume de Conches dans le mouvement intellectuel de son temps.
+
+
+==== 1. Climat intellectuel de la première moitié du XIIesiècle. ====
+
+Il y a trois tendances principales : certains conçoivent la spéculation sous son aspect dialectique, d’autres ne voient la théologie que sous l’angle mystique et d’autres, enfin, tentent de concilier ces deux tendances.
+
+A) Les philosophes. – a) L’École de Chartres. – Etudiée ici dans deux des principaux représentants, Bernard et Thierry, l’École de Chartres apparaît comme essentiellement platonicienne.
+Le souci principal en est de concilier la Genèse et le Timée. – h) L’École de Paris. – Tendances divergentes d’Abélard, préparation des esprits à l’influence d’Aristote.
+Un esprit voisin de celui de Guillaume de Conches est Adélard de Bath, grand voyageur, très ouvert aux influences grecques et arabes.
+
+B) Les mystiques. – C’est dans l’ordre de saint Bernard que Guillaume trouvera son principal adversaire.
+A la suite de son chef, en effet, l’Ecole mystique considère que seul doit compter l’amour de Dieu.
+La théorie des degrés de l’humilité qui mènent à cet amour est fondée sur une étude de l’âme.
+La spéculation scientifique est tenue pour dangereuse.
+
+C) La conciliation : les Victorins. – A Saint-Victor de Paris, des esprits éclairés s’efforcent d’équilibrer le goût de la recherche scientifique et l’expérience mystique.
+Tout en donnant à l’amour de Dieu une place prépondérante dans ses préoccupations, Hugues de Saint-Victor n’en bannit pas l’étude des sciences.
+
+
+==== 2. La philosophie de Guillaume de Conches. ====
+
+A) Métaphysique. – a) Psychologie. – L’âme est. un esprit joint au corps et lui conférant divers pouvoirs.
+Elle a deux séries de facultés : l’une s’attache au sensible, l’autre à Dieu.
+Découlant les unes des autres, elles sont intimement liées.
+Ces diverses facultés sont : la faculté du sensible, l’imaginatio, la raison, l’intelligence (faculté du divin).
+Elles sont secondées par des facultés inférieures : la mémoire, l’opinion, l’ingenium. – h) Théologie. – Guillaume de Conches donne trois preuves de l’existence de Dieu tirées de l’ordre du monde.
+Comme beaucoup de ses contemporains, il s’efforce d’identifier les Personnes de la Trinité avec les attributs qui les caractérisent : le Père est la Puissance, le Fils la Sagesse, le Saint-Esprit la Volonté « ou Bonté.
+Question des Idées, rapports des Idées et de Dieu, des Idées et du Monde.
+En ce qui concerne la cause finale de la Création, Guillaume pense que l’activité de Dieu a pour but sa bonté. 11 ne restreint pas, comme Abélard, la liberté de Dieu créateur en affirmant que Dieu ne pouvait pas ne pas créer.
+Guillaume de Conches a une tendance très nette à restreindre l’activité divine à une activité purement créatrice.
+La liaison entre Dieu et sa créature de prédilection, l’homme, est assurée par les anges.
+
+B) Physique. – a) La matière : Guillaume de Conches professe une théorie atomiste et dynamique de la matière.
+Les quatre éléments : le feu, l’air, l’eau et la terre, ont des lieux naturels vers lesquels ils tendent à aller.
+En outre, ils ont chacun un couple de qualités, ce qui entraîne en eux des mouvements. – b) Le mouvement : classification aristotélicienne du mouvement. – c) Le système du monde : la terre est au centre de l’Univers ; elle se trouve entourée de l’atmosphère qui s’étend jusqu’aux régions lunaires, puis de l’éther.
+C’est dans l’éther que se trouvent les astres, sept d’entre eux sont doués d’un mouvement propre, les autres, dits fixes, sont entraînés dans le mouvement de l’éther.
+Théorie des marées ; étude des phénomènes atmosphériques. – à) La physiologie humaine : étude du corps, de ses facultés et de ses fonctions.
+La caractéristique essentielle de la physique de Guillaume de Conches est la place faite au jeu des forces naturelles et aux qualités fondamentales des éléments.
+
+
+== Deuxième partie Le « Dragmaticon Philosophiae » ==
+
+
+=== Chapitre premier liste et étude des manuscrits. ===
+
+Plus de quarante manuscrit s nous ont transmis cette œuvre.
+Il y a trois textes d’inégale longueur.
+Les manuscrits offrent peu de différences en ce qui concerne le fond du texte.
+
+
+=== Chapitre II Valeur littéraire et intérêt historique du « Dragmaticon ». ===
+
+
+
+
+=== Chapitre III Sources et influences. ===
+
+Guillaume de Conches a puisé largement dans ses commentaires sur le Timée et Boèce, dans les œuvres de Macrobe, de Martianus Capella. 11 utilise aussi beaucoup les écrits des Anciens, Ovide, Virgile, en particulier, soit pour en tirer des citations qui embellissent son texte ou confirment une théorie, soit pour leur emprunter des hypothèses. 
+
+Le Dragmaticon est, en outre, « truffé » de longs passages extraits des Quaestiones naturales de Sénèque.
+II semble même que Guillaume de Conches ait remanié sa Philosophia mundi principalement pour y insérer des passages d’une œuvre dont il vient d’avoir la révélation.
+On peut lui reprocher d’avoir pillé Sénèque sans jamais le citer, alors qu’il ne manque pas de le faire même pour ceux dont il se contente de résumer les théories.
+C’est que ces derniers auteurs sont connus et le plagiat serait flagrant.
+
+L’influence du Dragmaticon Philosophiae se confond avec celle de la Philosophia mundi.
+
+
+== Table analytique du « Dragmaticon » ==
+
+

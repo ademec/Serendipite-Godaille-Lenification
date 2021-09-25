@@ -1,0 +1,154 @@
+identifier: ENCPOS_1904_19
+creator: Pierre Pressac
+date: 1904
+title: La dignité archiépiscopale et l’autorité métropolitaine dans l’Église des Gaules et l’Église de France du ive siècle au concile de Trente (1563)
+
+
+
+== Introduction. – Bibliographie ==
+
+Intérêt de ce travail : c’est l’étude critique d’une institution qui a été très importante au moyen âge : le pouvoir pontifical s’est formé en partie de ses dépouilles.
+C’est aussi un épisode intéressant des rapports de l’Église et de l’Etat dans l’histoire des institutions françaises.
+
+Plan suivi : Tout ce qui a rapport à la dignité, puis tout ce qui a trait au pouvoir effectif, qui se subdivise en trois branches principales : élection – administration – juridiction.
+
+Méthode. – Critique des textes canoniques. 
+
+
+== Livre premier la métropole et l’archevêque ==
+
+
+=== Chapitre premier hiérarchie générale ===
+
+La hiérarchie de l’Église s’est modelée sur la hiérarchie administrative de l’Empire romain.
+La métropole administrative est devenue la métropole ecclésiastique, et l’évêque de la cité métropole est devenu l’évêque métropolitain, avec un certain pouvoir hiérarchique sur les évêques des autres cités de la province.
+Cette évolution est achevée au ive siècle, et nous en trouvons la preuve dans les textes des anciens conciles.
+
+
+=== Chapitre II Les archevêchés des Gaules ===
+
+Ancienne hiérarchie de l’Église des Gaules.
+Anciennes provinces ecclésiastiques ; mention des plus anciens textes où il en est question.
+Principe de l’immutabilité des circonscriptions ecclésiastiques.
+Erection, dans la suite, de trois métropoles : Toulouse, Paris, Albi.
+
+Carte des provinces ecclésiastiques auxe siècle, d’après M. Longnon. 
+
+
+== Livre deuxième la dignité archiépiscopale et le titre d’archevêque ==
+
+
+=== Chapitre premier comment on devient archevêque ===
+
+L’évêque métropolitain est élu par un corps électoral composé des clercs et du peuple de la cité métropolitaine et des évêques de la province.
+Le peuple, puis les clercs, s’éliminent peu à peu, et la fonction électorale finit par être attribuée exclusivement au chapitre.
+Au reste, l’élection de l’évêque métropolitain ne diffère pas de l’élection d’un évêque ordinaire.
+Comme un évêque ordinaire aussi, l’évêque métropolitain doit être sacré et confirmé.
+Il est sacré par ses évêques suffragants, d’après une théorie chère à l’Église primitive qui cherche l’union étroite, pour un but commun, du métropolitain et de ses suffragants ; – – il est confirmé par le pape, qui tient beaucoup à investir le métropolitain par la remise du pallium.
+Le pape, qui investit et confirme les métropolitains, ne tarde pas à s’emparer aussi du sacre, soit par lui-même, soit en déléguant, par bulles, quelqu’un à cet effet.
+
+Naguère, les translations de sièges étaient choses absolument interdites : depuis le ixe siècle, on en voit quelques exemples, et, dans les Décrétales, c’est une matière rigoureusement réservée au pape.
+On voit donc alors des évêques qui deviennent métropolitains et des métropolitains qui changent de siège.
+Dans ce cas, le corps électoral n’élit pas, il postule : la postulation est, en tout, soumise an pape.
+
+Au cas de vacance du siège métropolitain, le collège électoral joue un rôle, mais les textes canoniques attribuent le rôle principal au chapitre métropolitain. 
+
+
+=== Chapitre II Diplomatique archiépiscopale ===
+
+Les évêques métropolitains ne prennent pas anciennement le titre d’archevêque : ce n’est que vers la fin du ixe siècle qu’ils s’en parent à peu près communément : l’examen des souscriptions des conciles est instructif à ce sujet.
+Avant le ixe siècle, par contre, on trouve, très exceptionnellement, quelques évêques non métropolitains honorés, à titre particulier, de la dignité archiépiscopale.
+
+Quelques particularités de la diplomatique archiépiscopale sont encore à signaler : légats-nés du Saint-Siège, etc.
+
+
+=== Chapitre III Prérogatives honorifiques de la dignité archiépiscopale ===
+
+Le principal signe extérieur de cette dignité est le pallium, bande de laine blanche à croix noires qui est devenu l’insigne absolu de la dignité archiépiscopale et de l’autorité métropolitaine.
+
+La remise sert d’investiture, et le pape se réserve cette remise et cette investiture : il en profite pour imposer aux métropolitains la visite ad limina et le serment de fidélité.
+
+Les textes sont nombreux sur le pallium : il est strictement personnel et attaché au siège pour lequel il a été remis.
+
+Exceptionnellement, le pallium a pu être conféré à titre honorifique à quelques évêques (exemple Autun).
+Dans ce cas, naturellement, il ne donne pas l’autorité métropolitaine. 
+
+Les autres prérogatives honorifiques dont il est fait mention dans les textes sont : les sandales, les croix archiépiscopales, et le droit d’officier pontificalement dans toute la province.
+
+
+== Livre III définition et évolution de l’autorité métropolitaine ==
+
+
+=== Chapitre premier role du métropolitain dans le choix et la confirmation de ses suffragants ===
+
+Pour l’élection des suffragants, le métropolitain donnait la licentia eligendi.
+Le pape, au xie siècle, s’empara de cette attribution.
+Le métropolitain présidait aussi le collège électoral, rôle qui lui est reconnu par tous les anciens textes : au viie siècle, l’autorité royale s’empara violemment de la direction de l’élection, et même en vint souvent à nommer directement les évêques.
+Ce n’est qu’au ixe siècle que Louis le Pieux rétablit la liberté des élections, où les grands métropolitains de l’époque jouent un rôle prépondérant et presque exclusif (Hincmar, Foulques, exemples cités).
+Ils sont battus en brèche par le collège des évêques de la province, dont la théorie est exprimée dans les textes des Fausses Décrétales, et l’évolution de l’élection amène le droit d’élire entre les mains du chapitre.
+
+La confirmation et la consécration, d’abord confondues, se distinguent vers les ive-ve siècles.
+
+La confirmation, qui confère le pouvoir de juridiction, appartient aux métropolitains qui, ici encore, ont à lutter contre le pouvoir civil qui donne une confirmation parallèle. 
+
+Le pape, aidé par les évêques suffragants, s’immisce, dès le xe siècle, dans la confirmation, d’abord pour certaines confirmations, ensuite pour toutes, et Boniface VIII pose la nécessité de bulles de confirmation (fin du xiiie siècle).
+C’est peut-être l’attribution la plus importante des métropolitains qui disparaît : le pouvoir civil essaiera en vain, à plusieurs reprises, de la leur rendre, pour l’arracher à la papauté.
+
+La consécration, qui confère le pouvoir d’ordre, appartient au collège des évêques de la province.
+Le métropolitain y joue cependant un rôle important, mais le pape, aux xiie et xiiie siècles, s’empare, comme du reste, de la consécration, d’abord dans certains cas, puis dans tous les cas.
+
+Le serment de fidélité prêté par le nouvel évêque à la métropole disparaît aussi pour faire place au serment prêté au Saint-Siège apostolique.
+
+Quant à la dévolution de l’élection qui se faisait au métropolitain dans certains cas, le pape s’en empare aussi, d’abord (dès le xiie siècle), en cas de vacance in curia, ensuite dans tous les cas.
+
+S’étant emparé aussi de tout le contentieux électoral, le pape, au détriment des métropolitains, est donc devenu seul maître du choix canonique des évêques, métropolitains ou non.
+
+
+=== Chapitre II Le métropolitain, autorité administrative et hiérarchique ===
+
+1.
+Le métropolitain, chef des évêques de la province, a la convocation, la présidence et la direction du concile provincial, qui se réunit deux fois par an pour régler les questions importantes intéressant la province.
+Mais ce concile, à peine libéré, au xe siècle, de l’envahissement du pouvoir civil, tombe en désuétude, n’étant plus d’accord avec les institutions de l’Église moderne, et le métropolitain, qui le goûtait médiocrement, parce que son autorité ne s’y exerçait pas sans contrôle, ne fait rien pour arrêter sa décadence.
+Après le concile de Trente, il ne se réunit plus guère.
+
+2.
+Le métropolitain a aussi, depuis une époque très ancienne, le droit de conférer des bénéfices par dévolution, en cas de négligence du collateur ordinaire.
+Il garde ce droit, soumis à certaines formalités, sauf les atteintes qui lui sont portées par le pouvoir civil et la cour de Rome.
+
+3.
+En cas de vacance d’un diocèse suffragant, ses droits sont battus en brèche par le pape, qui se réserve le droit de nommer des visiteurs, et par le droit de régale du roi.
+
+Par l’évolution des choses, le métropolitain, appuyé sur les textes des premiers conciles, était devenu le chef incontesté de la province.
+Cette puissance ne cesse de grandir, et arrive à son apogée aux ixe-xe siècles.
+Hincmar rêve, à cette époque, l’Église formée d’une sorte de fédération de provinces ; mais la résistance de la papauté (courant créé par saint Boniface, 650) et des évêques suffragants (Fausses Décrétales), triomphe de leurs prétentions.
+
+Le métropolitain exerçait son autorité disciplinaire sur les évêques de sa province par le droit d’asile.
+
+Devenu, surtout après les entraves qu’y apporte le concile de Trente, une simple formalité gênante et onéreuse, ce droit tombe en désuétude.
+Le métropolitain ne garde plus guère sur sa province, que ses privilèges honorifiques. 
+
+
+=== Chapitre III Droits de juridiction des métropolitains ===
+
+1.
+Le métropolitain juge les causes des évêques en synode provincial, mais le pape s’empare des causes majeures des évêques, et déclare le pourvoi en cour de Rome suspensif : ce droit est donc réduit à néant.
+
+2.
+Il juge les sujets de ses suffragants : dans certains cas exceptionnels, en premier ressort ; – parvoie d’appel ; – par voie de dévolution, mais ce troisième droit est également diminué.
+
+Il reste aux officialités métropolitaines le droit de juger les appels des officialités diocésaines, droit qui devient de moins en moins important, d’abord par l’appel à Rome, ensuite par la diminution de compétence des juridictions ecclésiastiques au profit de la justice du roi.
+
+
+== Conclusion ==
+
+Il ne reste donc pas, dans l’histoire moderne, grand’ chose des anciennes attributions des métropolitains : l’appel, quelque droit de dévolution, et des prérogatives honorifiques.
+Peu de tentatives seront faites en leur faveur, et elles émaneront toujours du pouvoir civil, qui les prendra comme tremplin de la lutte contre le Saint-Siège.
+
+La cause des métropolitains n’intéresse personne, et tout le monde a intérêt à leur affaiblissement : l’évolution de l’Église s’opère dans un sens qui leur est défavorable.
+
+C’est l’évolution et la force des choses qui les a faits, c’est l’évolution et la force des choses qui les défait.
+
+
+== Pièces annexes. – Exemples ==
+
+

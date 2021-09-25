@@ -1,0 +1,197 @@
+identifier: ENCPOS_1986_13
+creator: Patrick Le Bœuf
+date: 1986
+title: La tradition manuscrite du De musica de saint Augustin et son influence sur la pensée et l’esthétique médiévales
+
+
+
+== Introduction ==
+
+Saint Augustin a rédigé le De musica entre 386 et 388, à Cassiciacum d’abord, puis en Afrique ; il s’agissait dans son esprit de donner aux chrétiens une encyclopédie des arts libéraux reprenant l’essentiel de l’érudition païenne, mais en tenant compte de la Révélation.
+
+L’influence exercée par l’ouvrage sur la pensée médiévale peut être évaluée au moyen de l’examen des manuscrits eux-mêmes, puis par la recherche des citations qui ont été empruntées au De musica et une étude du contexte où elles s’insèrent.
+
+
+== Première partie Étude codicologique et établissement du stemma ==
+
+
+=== Chapitre premier étude codicologique et paléographique ===
+
+Vingt-neuf manuscrits, s’échelonnant entre le ixe et la fin du xiiie siècle, sont étudiés en détail.
+Cinquante manuscrits, des xive et xve siècles, n’appellent qu’une notice succincte.
+
+
+=== Chapitre II Établissement du stemma ===
+
+L’édition de six très courts passages du De musica permet d’établir le stemma de la tradition, tout au moins pour les seuls cinquante manuscrits qui ont pu être examinés.
+Pour des raisons techniques, un seul manuscrit très ancien n’a pu être étudié : il s’agit du manuscrit Verceil, Biblioteca capitolare CXXXVIII (xe siècle).
+Les exemplaires des xive et xve siècles ont été choisis par échantillonnage et non pour des raisons d’ordre plus méthodique.
+
+
+=== Chapitre III Corrections ponctuelles ===
+
+L’établissement du stemma devrait permettre de corriger l’édition la plus répandue aujourd’hui, celle des Bénédictins, remontant au xviie siècle (reprise dans la Patrologie latine, avec quelques amendements de l’abbé Migne, et par G. Finaert et F.-J. Thonnard, Bruges, 1947).
+
+
+== Deuxième partie Conception « passive » de la tradition manuscrite ==
+
+
+=== Chapitre premier la diffusion du traité ===
+
+L’établissement du stemma n’éclaire qu’un aspect de la tradition : il faut en outre s’efforcer, autant qu’il est possible, d’en retracer les linéaments à la fois chronologiques et géographiques.
+
+Les manuscrits subsistants. – Par chance, l’origine géographique de la quasi-totalité des manuscrits subsistants est assez précisément connue.
+Les manuscrits donnent déjà quelques indications sur la façon dont s’est effectuée la diffusion du traité.
+Ils sont néanmoins insuffisants pour la caractériser complètement.
+
+Les catalogues anciens. – Beaucoup de manuscrits se sont perdus.
+Il est donc indispensable de recourir aux catalogues anciens de bibliothèques médiévales pour ne pas avoir une idée fausse de la diffusion.
+Ainsi, l’Allemagne actuelle ne possède en tout et pour tout qu’un seul manuscrit, et fragmentaire, du De musica, qui soit antérieur au xiie siècle (Munich, Bayerische Staatsbibliothek, Clm. 29382 (2), anciennement Clm. 29049 (4) : mais les catalogues anciens montrent que dès le ixe et X’ siècles, la plupart des grands centres germaniques (Reichenau, Lorsch, Murbach, Saint-Gall, Saint-Emmeram) en possédaient un exemplaire.
+
+Itinéraire du texte. – Il paraît donc possible de reconstituer le voyage du De musica depuis Hippone.
+Le traité s’est diffusé d’abord en Italie du Sud – sa présence est attestée à Vivarium, peut-être du vivant de Cassiodore, en tout cas au début du VII’ siècle –, mais ce n’est pas là qu’il a connu le plus grand succès : il se répand surtout dans les pays germaniques et dans la région qui correspond grosso modo à l’Austrasie.
+Dès les premières années du ixe siècle, voire peut-être la fin du viiie, on le trouve à Tours (Tours, Bibliothèque municipale 286).
+Les artisans de la Renaissance carolingienne et les Irlandais présents sur le continent se chargent de lui assurer une diffusion de plus en plus large.
+
+Entre le ixe et le xiie siècle, la branche germanique de la tradition s’affaiblit progressivement, tandis que le traité se répand vers l’Ouest et le Sud et, probablement par l’intermédiaire de l’abbaye du Bec, vers l’Angleterre.
+
+Au xiiie siècle, les Cisterciens s’en emparent, ainsi que les Franciscains ; c’est au tour de la branche française de la tradition de disparaître peu à peu, relayée par les branches anglaise et italienne.
+Mais bien souvent le traité n’est plus copié intégralement : on ne s’intéresse plus guère, notamment dans les universités, qu’au livre VI, le seul à avoir un ton franchement théologique.
+
+L’humanisme italien des xive et xve siècles s’intéresse au De musica et s’efforce d’en retrouver le texte intégral.
+Au xve siècle, les manuscrits subsistants sont, à une écrasante majorité, italiens ; en second lieu viennent les anglais.
+
+Autres enseignements tirés des catalogues anciens. – Les catalogues anciens sont le plus souvent déjà méthodiques : en fonction de la catégorie dans laquelle le De musica est rangé, on peut établir des déductions sur les perspectives de lecture dont il a fait l’objet.
+
+La plupart du temps, l’accent est mis sur la personnalité de son auteur : saint Augustin est considéré comme une autorité si fondamentale au Moyen Age qu’il constitue le plus souvent un cadre de classement à lui seul, où le De musica trouve naturellement sa place.
+
+Mais il arrive que ce soit la nature même du traité qui est prise en considération : auquel cas on le trouve soit parmi les manuels destinés à l’enseignement élémentaire (arts libéraux, auteurs classiques, poètes) ou, plus spécifiquement, à l’étude de la musique (ce qui est rare), soit parmi les ouvrages de théologie.
+
+
+=== Chapitre II La présentation matérielle du traité ===
+
+L’entourage du
+    « De musica ». – Au sein d’un même manuscrit, il est très exceptionnel que le De musica soit associé avec des traités de grammaire ou de métrique, bien que beaucoup de commentateurs modernes l’aient interprété comme tel ; en revanche, il est arrivé au moins cinq fois (Valenciennes, Bibliothèque municipale 384, Paris, Bibliothèque nationale, latin 7200, Ivrée, Biblioteca capitolare 52, Paris, Bibliothèque nationale, latin 16662, Florence, Biblioteca Laurenziana, Ashburnham 1051) qu’un scribe le copie avec des traités de musique, notamment le De institutione musica de Boèce.
+Mais le cas de loin le plus fréquent est celui où le De musica est intégré à une collection de textes théologiques ou à un recueil de traités augustiniens.
+
+Il apparaît donc que c’est une perspective de lecture théologique qui a prévalu au Moyen Age.
+
+Choix des passages copiés. – Sur les six livres dont se compose le De musica, seul le dernier aborde un sujet réellement philosophique ; cette perspective de lecture appelait donc fatalement la dislocation du texte et un abandon de la partie purement technique du traité.
+Ce phénomène ne s’est opéré qu’au XIIIe siècle, vraisemblablement dans les milieux universitaires, débouchant sur la diffusion d’un texte nouveau, intitulé Sextus musice, expression dont le sens originel semble s’être peu à peu perdu, puisque le manuscrit Vatican, latin 445 (XVe siècle) porte (fol. 88v) : Sextus musice liber unus.
+Tout au long du xiiie siècle, et au xive encore, ce sextus musice est beaucoup plus fréquemment copié que le texte intégral ; en revanche, au xve siècle, la proportion s’inverse, sous l’influence de l’humanisme italien.
+Très rarement, il arrive que la partie technique seule (livre I-V) soit copiée : c’est le cas des manuscrits Londres, British Museum, Harley 228 (xiie siècle), Paris, Bibliothèque Mazarine 3472 (XIVe siècle) et Paris, Bibliothèque de l’Arsenal 350 (xve siècle).
+
+Dans d’autres cas, il arrive que le texte donne lieu à la compilation d’extraits.
+Un disciple de Cassiodore, au début du viie siècle, a fait suivre une version du texte des Institutiones de son maître, version connue sous le nom de « recension △ », d’un florilège d’extraits augustiniens, dont un passage du De musica.
+Un manuscrit de la fin du xiie siècle, provenant du couvent des Feuillants, Paris, Bibliothèque nationale, latin 17161, contient, aux fol. 164-165, un seul extrait du livre VI du De musica, relatif aux rapports de l’âme et du corps : nouveau témoignage de la lecture essentiellement théologique du traité.
+
+Deux manuscrits datant du xiiie siècle, London, British Museum, Royal 4.
+B.X et Avignon, Bibliothèque municipale 228, contiennent le report d’une série de passages du De musica vraisemblablement signalés par un nota marginal sur des manuscrits contenant le texte intégral ; ils constituent donc d’excellents tests pour savoir ce qui a retenu l’attention des lecteurs du traité, en même temps qu’ils montrent la faveur dont il jouissait au xiiie siècle.
+Le manuscrit avignonnais montre, une fois de plus, que ce sont les aspects théologiques qui ont été jugés les plus intéressants.
+
+C’est très vraisemblablement par erreur que le copiste du manuscrit Vatican, latin 480 (xve siècle) a commencé à copier le début du livre VI du De musica.
+La même explication vaut peut-être aussi pour le manuscrit Würzburg, Universitätsbibliothek, Cod. m. ch. q. 2, également du xve siècle, à moins qu’il ne s’agisse d’un exemplaire mutilé.
+
+Les tableaux, signes de prosodie et notes marginales. – Dans le manuscrit Angers, Bibliothèque municipale 486 (xie siècle), certains passages difficiles sont présentés, pour plus de clarté, sur des tableaux : peut-être ce souci de com modité est-il un indice d’une utilisation du traité dans l’enseignement des arts libéraux.
+
+Dans beaucoup de manuscrits, au moins un passage en vers a été scandé par un lecteur désireux de suivre le raisonnement de saint Augustin dans le détail.
+Le système employé n’est original que dans un seul cas, celui du manuscrit Vatican, Chigi A. VII.214 (xive siècle).
+
+La plupart des gloses et notes marginales montrent, une fois encore, que les lecteurs médiévaux ont privilégié l’aspect philosophique du texte, à toutes les époques.
+
+Exceptionnellement, les gloses des manuscrits Vatican, Chigi A. VII.214 et Paris, Bibliothèque nationale, latin 16662 semblent refléter des préoccupations d’ordre spécifiquement musical.
+Les gloses de Londres, British Museum, Royal 5.
+D.X. (fin xiiie siècle) représentent peut-être la norme des commentaires que les milieux franciscains pouvaient faire sur le De musica.
+Celles de Venise, Biblioteca Marciana, Z.71 (xve siècle), probablement dues à un humaniste italien, peut-être le cardinal Bessarion à qui le manuscrit a appartenu, retiennent l’intérêt.
+
+Dès les premières années du ixe siècle (avant 814), le manuscrit de Saint-Martin de Tours (Tours, Bibliothèque municipale 228) a été doté d’un appareil de gloses interlinéraires très développé.
+
+
+=== Chapitre III Versions résumées et commentaires ===
+
+Les
+    « Præcepta artis musicae ». – Il a circulé une version résumée des cinq premiers livres du De musica, rédigée avant le vie siècle et connue sous le nom de Præcepta artis musicae.
+
+Le résumé du livre VI. – Dans les premières années du xiiie siècle a été rédigé un résumé du livre VI, connu par cinq des manuscrits qui ont été étudiés.
+Ce texte insiste surtout sur l’analyse augustinienne des mécanismes de la perception sensorielle.
+
+Les
+    « Expositiunculae in libros beati Augustini de musica ». – Un appareil de gloses a été recueilli sur un manuscrit du xie siècle (Bamberg, Staatsbibliothek, ms.
+Class. 36) et mis sous le titre d’Expositiunculae in libros beati Augustini de musica.
+L’étonnante connaissance du grec qu’il dénote de la part du commentateur, ainsi que la personnalité des auteurs auxquels il emprunte des citations (Origène et Grégoire de Nysse notamment), font penser qu’il s’agit peut-être d’une œuvre de Jean Scot Erigène, ou tout au moins d’un personnage qui lui était proche (certains thèmes abordés rejoignent ceux du Periphyseon, où Jean Scot établit justement des liens très étroits entre le De musica et le Sermo de imagine de Grégoire de Nysse).
+Un examen approfondi du style et du contenu doctrinal pourrait apporter de plus grandes certitudes quant à l’authenticité ou la non-authenticité érigénienne.
+Le manuscrit d’où les gloses ont été extraites peut provenir de Reims, comme d’autres manuscrits érigéniens conservés à Bamberg. 
+
+
+== Troisième partie Conception « active » de la tradition : la postérité du « de musica » ==
+
+
+=== Chapitre premier influences littéraires directes ===
+
+Les traités de grammaire et de métrique. – Les traités de grammaire et de métrique ne font pratiquement jamais appel au De musica.
+
+Les traités de théorie musicale. – Cassiodore, dans le passage de ses Institutiones consacré à la musique (livre II, chapitre V), semble montrer qu’il a lu le De musica, mais il en parle avec une imprécision telle que l’on peut se demander s’il l’a réellement étudié de près.
+Un traité du ixe siècle, provenant de Saint-Amand-en-Pévèle, Scolica enchiriadis, fait plusieurs emprunts au De musica.
+Dans la première moitié du xie siècle, Bernon de Reichenau cite de longs passages du traité de saint Augustin (livre I et livre II) dans son Prologus in tonarium.
+
+Jean des Murs, représentant de ce qu’il est convenu d’appeler l’« aristotélisme parisien », ne cite jamais le De musica ; mais deux manuscrits, donnant de deux de ses œuvres, la Notifia artis musicœ et la Compendium musicae praticæ, une rencension légèrement différente du texte « standard », citent les livres I et II du traité augustinien (Chicago, Newberry Library, ms. 54.1 et Paris, Bibliothèque nationale, latin 14471).
+De même, Pierre de Saint-Denis, disciple de Jean des Murs, fait plusieurs emprunts à saint Augustin.
+Toutes ces citations sont tirées de la partie technique du De musica.
+En revanche, Jacques de Liège, pourtant tenu pour un représentant du « platonisme d’Oxford », n’utilise qu’une seule fois ce texte, dans sa partie théologique, au sujet de la musica cœlestis.
+
+Les traités théologiques. – A l’extrême fin du viiie siècle, Alcuin suit de très près le texte du De musica pour élaborer le plan de son Dialogus de rhetorica et virtutibus.
+On décèle peut-être également des échos du traité augustinien dans deux autres de ses œuvres, le Liber de virtutibus et vitiis et le De animæ ratione.
+Dans la seconde moitié du siècle suivant, Jean Scot Érigéne l’utilise largement, notamment dans le Periphyseon, où il n’en cite que le livre VI. Notker Labeo, au début du xie siècle, a peut-être fait, dans sa traduction allemande du De consolatione Philosophiae de Boèce, une très laconique allusion au livre VI du De musica.
+Une glose du manuscrit Vatican, Chigi A. VII.214 signale l’existence d’un emprunt effectué par Anselme de Cantorbéry (Dialogus de veritate) au livre VI du De musica, qui est également cité par Robert Grosseteste dans son De intelligentiis ; ce dernier en fait un très grand usage dans le De artibus liberalibus, qui en est presque une paraphrase, très proche d’esprit du résumé du livre VI édité plus haut (II. C.2°).
+Dans son Sapientiale, Thomas d’York (mort en 1260) emprunte à saint Augustin sa définition de la beauté  : Pulchritudo est æqualitas numerosa.
+Quant à saint Bonaventure, toute son esthétique « gravite autour du principe tiré du vie livre du De musica » (E. de Bruyne).
+Le traité augustinien, dans son entier (partie technique et partie théologique), semble avoir profondément influencé Roger Bacon dans les chapitres de son Opus majus et de son Opus tertium consacrés à l’utilité de la science musicale pour le théologien.
+Thomas Waleys (De modo componendi sermones) prend appui sur l’autorité de saint Augustin pour affirmer qu’il est licite d’employer les clausules rythmiques dans les sermons.
+En outre, il est possible qu’Alexandre de Halés et Durand de Saint-Pourçain aient également cité le De musica.
+
+
+=== Chapitre II Le de musica et la notation musicale ===
+
+La théorie de William Waite et ses critiques. – Pour W. Waite (The Rhythm of Twelfth-Century-Polyphony, New Haven, 1954), la notation rythmique « modale » ou « proportionnelle » s’est élaborée à Paris à la fin du xiie siècle.
+Depuis quelques aimées, sa thèse, selon laquelle Léonin et Pérotin auraient forgé de toutes pièces le rythme modal, a été mise en discussion par plusieurs auteurs, dont L. Treitler (Musical quarterly, 1979).
+Pour ce dernier, c’est de lui-même, et non par la volonté de certaines personnalités, qu’au xiie siècle, le rythme se serait imposé à la polyphonie parisienne ; au siècle suivant, l’étude de la prosodie classique n’aurait constitué qu’un cadre commode de théorisation a posteriori.
+
+Le livre II du
+    « De musica » et les six modes. – De fait, dès le début du xiiie siècle, Alexandre de Villedieu, dans le Doctrinale puerorum, établit un lien entre les six modes rythmiques et six pieds tirés de la prosodie classique.
+
+De même, un traité anonyme conservé dans le manuscrit Oxford, Bodleian Library, Bodley 77 énumère les pieds classiques avec un exemple pour chacun d’eux et la ligature qui lui correspond dans la notation proportionnelle.
+Ces exemples sont les mêmes que ceux que l’on retrouve chez beaucoup d’autres auteurs : Donat tout d’abord, Censorinus, Isidore, Cruindmelus...
+
+Or, au livre II du De musica, Augustin énumère lui aussi les vingt-huit pieds de la prosodie classique, mais dans le texte originel cette liste ne s’accompagne pas d’exemples.
+Dans le courant du xiiie siècle, peut-être dans le même milieu d’intellectuels anglais liés à l’Université parisienne dont provient vraisemblablement le traité d’Oxford, Bodleian Library, Bodley 77, la liste augustinienne a été interpolée à la fois sur celle de Censorinus et celle d’Isidore (tandis qu’Oxford 77 reprend directement les exemples de Donat), ce qui indiquerait peut-être que des personnages ayant réfléchi sur les problèmes de notation musicale se sont bien servis du De musica, mais au xiiie siècle et non au xiie.
+
+La polyphonie aquitaine. – W. Waite n’appliquait sa théorie qu’à la polyphonie parisienne.
+Or, le manuscrit Paris, Bibliothèque nationale, latin 7231 a très probablement, après 1034, été conservé à Saint-Martial de Limoges où fleurissait une polyphonie présentant certaines analogies avec la polyphonie parisienne.
+On pourrait se demander si le De musica n’a pas pu avoir dans cette région la même influence que celle que W. Waite lui prête à Paris. 
+
+La question d’une possibilité de présence d’un rythme modal dans la polyphonie aquitaine a été examinée par Bruno Stäblein (1963), pour aboutir à la conclusion que ce type de rythme n’est apparu à Saint-Martial que dans le courant du xiiie siècle ; le De musica n’y a donc très vraisemblablement exercé aucune influence.
+
+Partant, il semblerait que l’étude du De musica n’a été liée à celle de la notation proportionnelle qu’au xiiie siècle, à Paris, lui apportant une justification a posteriori ; une glose du manuscrit Paris, Bibliothèque nationale, latin 16662 (manuscrit enchaîné à la Sorbonne), à l’extrême fin du xiiie siècle, atteste l’existence de ce lien.
+
+
+=== Chapitre III Le de musica et l’architecture ===
+
+Il a été affirmé (O. von Simson, 1953 et 1956) que l’esthétique gothique provient des principes énoncés dans le De musica ; l’assertion se fonde sur une influence maximale prêtée au De musica au début du xiie siècle et qui se serait manifestée tout particulièrement à Chartres.
+Or, les manuscrits montrent que le traité n’a exercé une influence réelle qu’aux ixe et xiiie siècles, alors qu’au xiie siècle, au contraire, les intellectuels semblent ne plus y trouver grand intérêt.
+En outre, aucun manuscrit du De musica ne provient de Chartres, ce qui ne saurait constituer une preuve en soi, mais il faut constater que les Chartrains contemporains de la construction de la cathédrale, dont les proportions, calculées sur celles des rapports de consonance, ont fait couler beaucoup d’encre, ne citent pas le texte augustinien.
+
+
+== Conclusion ==
+
+Le regroupement de tous les éléments de l’enquête qui vient d’être menée permet d’ébaucher une reconstitution du voyage du De musica à travers les siècles et les lieux et de retracer l’évolution de la diffusion du traité et des diverses utilisations dont il a fait l’objet.
+Quelques points, certes, demanderaient encore à être précisés, par exemple le rôle du De musica dans la pensée franciscaine, et son sort lors du conflit entre augustinisme et aristotélisme dans l’Université parisienne des xiiie et xive siècles : le cas de Jean des Murs, de Pierre de Saint-Denis et de Jacques de Liège montre que c’est là une question complexe et délicate.
+
+
+== Annexes ==
+
+Edition du résumé du livre VI du De musica (début du xiiie siècle). – Édition partielle des Expositiunculœ in libros beati Augustini de musica et des gloses du manuscrit de Tours, Bibl. mun. 228. 
+
+
+== Illustrations ==
+
+Une série de planches reproduisant un ou deux feuillets des manuscrits antérieurs à la fin du xiiie siècle et du manuscrit des Expositiunculœ in libros beati Augustini de musica.

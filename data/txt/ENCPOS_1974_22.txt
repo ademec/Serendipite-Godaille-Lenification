@@ -1,0 +1,172 @@
+identifier: ENCPOS_1974_22
+creator: Ghislaine Noyé
+date: 1974
+title: Les fortifications de terre dans la seigneurie de Toucy du xe au xiiie siècle
+
+
+
+== Introduction ==
+
+La multiplication des châteaux a été un des éléments déterminants de la mise en place du régime féodal.
+Mais en limitant leur étude à celle des grandes forteresses de pierre, on a longtemps faussé les données du problème.
+Afin de pouvoir approfondir les grandes synthèses réalisées à l’échelle des provinces, l’enquête sur les fortifications de terre ne peut être menée que dans un cadre restreint, correspondant à une petite unité politique.
+La seigneurie de Toucy, qui satisfait à ces conditions, est cependant assez importante pour que l’on puisse y discerner des lignes générales.
+
+
+== Sources et méthodes de travail ==
+
+Les documents contemporains fournissent quelques renseignements.
+Des extraits du cartulaire des évêques d’Auxerre, dont l’original est perdu, sont conservés à la Bibliothèque nationale dans le ms. lat. 17048 et dans les collections de Bourgogne et Baluze.
+Les aveux et dénombrements, à partir du xive siècle, mentionnent souvent les mottes, avec quelques éléments descriptifs.
+Ils sont répartis entre la série P des Archives nationales et la série B des Archives départementales du Nord.
+Les archives des familles seigneuriales sont rassemblées dans les pièces originales de Courtenay et la collection de Lorraine à la Bibliothèque nationale, et surtout dans le fonds considérable récemment déposé par la famille d’Ormesson aux Archives nationales.
+Les séries E, F et G des Archives départementales de l’Yonne ont fourni divers terriers, censiers, plans et contrats.
+
+Enfin, la chronique des évêques d’Auxerre a fourni la trame événementielle.
+
+Cependant, la plupart des fortifications n’ont pu être retrouvées qu’après un dépouillement systématique de la carte d’état-major et du vieux cadastre, complété par une enquête sur le terrain et auprès des habitants.
+
+
+== Première partie La formation de la seigneurie ==
+
+
+=== Chapitre premier le cadre géographique ===
+
+La seigneurie de Toucy est tout entière comprise dans une région naturelle : la Puisaye.
+Sœur jumelle de la Sologne, dont elle n’est séparée que par la Loire, la Puisaye affecte la forme d’un vaste quadrilatère, centré sur Saint-Fargeau.
+Son climat, plus froid et plus tardif que celui du bassin parisien, son humidité constante, due à la prédominance des vents océaniques, enfin la composition de son sol imperméable en font un pays de bocage, d’étangs et de forêts.
+Ses trois terrasses successives, inclinées du sud-est au nord-ouest, sont sillonnées de rivières aux cours marécageux. 
+
+
+=== Chapitre II Le contexte du peuplement ===
+
+Ce pays, difficilement pénétrable, a toujours été moins peuplé que les régions qui l’entourent.
+Il faut pourtant nuancer cette affirmation traditionnelle.
+Dès la période celtique, le plateau est parsemé de centres miniers.
+Les toponymes révèlent une forte densité à l’est de l’Ouanne, qui s’étend ensuite en réseau plus lâche vers l’ouest, avec deux centres importants : Mézilles et Tannerre, là où la route du fer traverse le Branlin.
+
+Ce vieux réduit celtique est encadré par deux artères maîtresses du système routier romain, le long de l’Yonne et de la Loire.
+Les axes transversaux Auxerre-Orléans et Auxerre-Mesves ne font que l’effleurer à Saint-Martin-sur-Ouanne au nord et Entrains au sud.
+Le tracé de ces voies a entraîné la création de villae nombreuses et d’importants sanctuaires.
+
+Mais au cœur même de la Puisaye, les trouvailles faites dans les ferriers montrent que l’exploitation n’en a pas cessé.
+Vieilles routes gauloises réaménagées, ou chaussées nouvelles de scories agglomérées, deux voies secondaires au moins assurent ce commerce du nord au sud.
+Les vastes domaines celtiques, qui formeront le cadre des futures paroisses, subsistent dans leur intégrité.
+Ils ne sont que provisoirement entamés sur leur périphérie par la création de villae nouvelles qui ne résisteront pas à la tourmente des invasions.
+
+Il semble s’être produit par contre une nette expansion durant le haut Moyen Age et les premiers temps carolingiens.
+Tandis que les routes romaines sont toujours fréquentées, de nouveaux itinéraires apparaissent ; deux viennent d’Auxerre : celui des pèlerins, par Moutiers et Saint-Sauveur, celui des armées de Lothaire, par Mézilles et Fontaines.
+Du viie au ixe siècle, de nouveaux habitats sont créés dans les vallées du Loing et de l’Agréau.
+
+
+=== Chapitre III Les événements politiques ===
+
+La seigneurie de Toucy n’est l’héritière d’aucune entité politique.
+Elle s’est constituée à la limite des évêchés d’Auxerre et de Sens, si bien qu’à la fin du xe siècle, son futur territoire se trouve partagé entre les pagi du Gâtinais et de l’Auxerrois.
+Pendant la première moitié du xie siècle, les seigneurs de Courtenay, au nord, et les seigneurs de Narbonne, sur les domaines de l’évêque d’Auxerre, mettent à profit la guerre de succession de Bourgogne pour se rendre indépendants.
+Le comte d’Auxerre, qui contrôlait peut-être encore, au début du xe siècle, l’extrémité nord-ouest du pagus, est rapidement éliminé.
+Il tourne son activité vers le comté de Nevers. 
+
+Tandis que les Courtenay passent sous la suzeraineté encore lointaine du roi, les rapports des évêques avec leurs vassaux se présentent comme une longue lutte, avec des alternatives d’autorité et de démission, selon la personnalité, l’origine sociale des prélats et l’attitude adoptée à leur égard par les comtes de Nevers.
+
+A la fin du xiie siècle, les évêques réussissent à imposer leur autorité par un système de partage des sièges principaux des seigneuries et de châteaux jurables et rendables.
+
+Au cours de toutes ces luttes, les principales mottes ont été élevées ; elles ont servi de point d’appui et d’enjeu.
+S’il est vrai que l’évêque a élevé celles de Toucy et de Saint-Fargeau, à la fin du xe siècle, il n’a pu en garder le contrôle, ni empêcher la construction de nouvelles, et cela sans doute dès le xie siècle.
+
+
+== Deuxième partie Fonction et organisation des fortifications ==
+
+
+=== Chapitre premier les communications ===
+
+Les seigneurs semblent s’efforcer tout d’abord de relier entre elles leurs différentes possesssions.
+A l’ouest, les comtes d’Anjou cherchent au xie siècle à joindre leurs possessions héréditaires à celles du Gâtinais, nouvellement acquises.
+A la même époque, les comtes de Chartres, devenus comtes de Champagne, se font inféoder une ligne de châteaux, dont celui de Saint-Sauveur, comme autant de jalons du sud-ouest au nord-est.
+
+Les évêques eux-mêmes, dès le xe siècle, auraient voulu assurer la protection de leurs possessions occidentales par la construction de Toucy et Saint-Fargeau.
+A leur tour, les seigneurs de Toucy contrôlent les routes essentielles, et les gués. 
+
+
+=== Chapitre II Les frontières ===
+
+Les Capétiens poursuivant une politique de pénétration de la Bourgogne, il semble qu’une marche ait existé à la limite des seigneuries de Châtillon-sur-Loing et Champignelles d’une part, Bléneau et Saint-Fargeau de l’autre.
+Après une période de luttes obscures, une ligne-frontière est matérialisée, au début du xiiie siècle, par des mottes ou maisons fortes, et un système de mouvances précis.
+Les seigneurs cherchent alors à peupler la marche par la création de villes neuves.
+
+
+=== Chapitre III La défense des grands châteaux de pierre ===
+
+Le château de Bléneau est protégé par une véritable ceinture de fortifications secondaires.
+Les accès de ceux de Saint-Fargeau, de Toucy et Saint-Sauveur sont défendus par des positions avancées le long des principaux accès.
+
+A l’inverse, le seigneur de Toucy s’assure de points de contrôle autour des fortifications vassales les plus importantes.
+
+
+=== Chapitre IV Fonction sociale et économique des mottes ===
+
+Outre ce rôle militaire, suffisamment attesté, les mottes servent de résidence permanente au seigneur et à sa famille.
+La basse-cour adjacente contient la chapelle castrale, souvent future église paroissiale du village, et les bâtiments d’exploitation.
+La tradition de retrait des villageois est attestée par la formation de villages à l’intérieur même de ces basses-cours.
+
+Les petits possesseurs de fiefs et les chevaliers eux-mêmes semblent avoir eu pour demeure une motte dès le xiie siècle.
+Les dimensions ne sont pas un critère d’importance : la motte du seigneur de Malicorne est une des plus imposantes.
+Mais le seigneur de Toucy s’adjoint un chapitre ou un prieuré dans chacune de ses résidences.
+
+Enfin, il semble que certaines mottes aient servi à protéger des ensembles d’exploitation sidérurgique (Tannerre). 
+
+
+== Troisième partie Étude archéologique ==
+
+
+=== Chapitre premier le choix du site ===
+
+Certaines mottes se sont installées sur l’emplacement d’habitats fortifiés antérieurs (celtes, gallo-romains) et en ont utilisé certains éléments.
+
+Le choix du site semble en relation avec sa date.
+Les mottes les plus anciennes sont placées sur le rebord des plateaux ou à l’extrémité d’un éperon.
+Les plus récentes sont descendues dans les vallées inondables.
+
+Cette opposition correspond à une différence de forme et d’élévation : les premières sont coniques, plus étroites et plus hautes.
+Le profil de leurs fossés est plus aigu.
+Elles s’échelonnent sur des lignes de fortifications établies au xie siècle.
+
+Les mottes des plaines au contraire sont beaucoup plus larges et de profil surbaissé.
+Leurs fossés utilisent les eaux d’un étang construit spécialement.
+Elles semblent plus tardives et seraient une forme intermédiaire entre la motte et la maison-forte de la fin du xiiie et du xive siècle.
+
+Enfin, on peut retenir comme critère la forme rectangulaire et les basses-cours multiples, également du xiiie siècle.
+
+
+=== Chapitre II Utilisation de la motte dans un ensemble ===
+
+Certaines mottes ont été intégrées dans un château dont elles occupent un angle, ou dans une enceinte urbaine : elles occupent alors le point le plus exposé. 
+
+
+=== Chapitre III Constructions portées par les mottes ===
+
+Les mottes ont d’abord porté de simples tours en bois.
+La pierre fait son apparition dans la première moitié du xiie siècle.
+La plupart étaient entourées d’une palissade ou d’un mur circulaire à la base.
+
+
+=== Chapitre IV Autres types de fortification ===
+
+On trouve de nombreuses haies ou remparts de terre parfois mêlés de pierres et plantés d’arbres.
+
+De nombreuses enceintes de fossés polygonales sont difficiles à dater.
+
+
+== Conclusion ==
+
+Il est impossible d’étudier le problème des origines féodales en Puisaye sans tenir compte des fortifications de terre, autour desquelles s’organisait la vie des communautés rurales et urbaines.
+
+
+== Annexes ==
+
+Notices historiques et archéologiques.
+
+
+== Documentation graphique ==
+
+Plans, profils, photographies.

@@ -1,0 +1,38 @@
+identifier: ENCPOS_1881_11
+creator: Henri Omont
+date: 1881
+title: De la ponctuation
+
+
+
+== I. La ponctuation chez les grammairiens latins dans l’antiquité et au moyen Age. ==
+
+I. Traités des grammairiens latins : Diomède, Donat et ses commentateurs, Dosithée, Cassiodore et Isidore. – Un signe unique, le point, placé en haut, en bas ou au milieu sert à marquer les différentes ponctuations : Distinctio (τελεια στιγμἠ), subdistinctio, media (μέσπ).
+
+Système différent de Marius Victorinus, qui n’admet que deux signes : le point et la virgule.
+
+II. Traités des grammairiens du moyen âge : Pierre Hélie et Alexandre de Villedieu. – Les lexicographes : Papias, Uguccione et Jean Balbi de Gênes. – Les auteurs de Dictamnes : Trasimundus, Thomas de Capoue, Jean de Bologne, Jean de Sicile, Laurent d’Aquilée, Jean Bondi d’Aquilée, Conrad de Mure, Hugues (de Paris), Anonymes. – A la distinctio, subdistinctio et media sont substitués dans l’ordre inverse le comma (, ), colon (.) et periodus ( ;), appelés aussi distinctio media, constans et finitiva. 
+
+Système différent de Buoncompagno, qui n’admet, comme Marius Victorinus, que le point et la virgule (/).
+
+Le punctus comprehensivus (.
+A∸) se trouve chez Buoncompagno pour marquer les noms propres abrégés.
+Il emploie également la majuscule après le point final et pour désigner les noms propres.
+
+Le point d’interrogation, qui se trouvait chez Marius Victorinus marqué par un simple point final, paraît chez Jean de Bologne, et l’anonyme 16716 avec la forme (⸟) qu’il garde jusqu’à la Renaissance.
+
+III. Notices littéraires sur les différents auteurs de traités de ponctuation dont les textes inédits suivent.
+
+IV. Textes inédits des différents auteurs cités plus haut. (xiiie-xve siècles). – Textes inédits des xve et xvie siècles : Gasparin de Bergame, Bichilynus de Spolète, Orobio, Anonymes.
+
+
+== II. Pseudo-ponctuation dans les inscriptions et les papyrus grecs et latins. (ve s. Avant. – ve s. Après j.-c.) ==
+
+Il n’existe aucune ponctuation dans les inscriptions et les papyrus grecs et latins.
+Les signes de ponctuation qui s’y rencontrent servent seulement à couper les mots.
+
+Différentes formes de ces signes ; leur emploi dans les inscriptions et les papyrus grecs et latins.
+
+Chaque élève publiera les positions de sa thèse isolément et sous sa responsabilité personnelle.
+
+(Règlement du 10 janvier 1860, art. 7).

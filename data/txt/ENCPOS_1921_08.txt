@@ -1,0 +1,160 @@
+identifier: ENCPOS_1921_08
+creator: Jean de la Monneraye
+date: 1921
+title: Le régime seigneurial dans le Maine au xviiie siècle
+
+
+
+== Sources et Bibliographie ==
+
+Documents manuscrits et imprimés.
+
+
+== Introduction géographique ==
+
+La province du Maine n’a pas d’unité physique.
+Elle est partagée en deux grandes régions naturelles, le Haut-Maine, pays relativement fertile, à l’Est, et le Bas-Maine, aux cultures pauvres, à l’Ouest.
+Le régime seigneurial, essentiellement rural, se trouve influencé et diversifié par l’état de l’agriculture.
+La Coutume, dans le cadre provincial, et l’action immédiate du pouvoir central sont les éléments d’unification du régime.
+
+
+== Première partie Les bases de l’exploitation seigneuriale ==
+
+
+=== Chapitre premier la propriété foncière et le régime seigneurial ===
+
+La féodalité n’est plus au xviiie siècle dans le Maine qu’un fait économique et le régime seigneurial, l’exploitation d’un domaine foncier, d’où l’importance spéciale du fief avec son domaine (métairies et moulins affermés ; bois, landes, étangs directement exploités) et sa mouvance (composée de fiefs, de terres hommagées, de censives, rarement de francs-alleux) sur laquelle sont perçus l’ensemble des droits féodaux.
+Mouvance et domaine ont une étendue et une composition essentiellement variables.
+Les revenus du domaine l’emportent de plus en plus sur ceux de la mouvance.
+Il existe au Maine un certain nombre de seigneuries importantes et la grande propriété semble prédominer.
+Nobles, ecclésiastiques et, depuis quelque temps, bourgeois, autour des villes commerçantes du Mans et de Laval se partagent la majorité des terres.
+La noblesse mancelle, peu nombreuse, jouit d’une situation pécuniaire relativement bonne.
+
+
+=== Chapitre II Les justices et l’administration seigneuriales ===
+
+Justice. – Union du fief et de la justice dans le Maine.
+La compétence, variable d’ailleurs, des tribunaux seigneuriaux diminue de plus en plus par suite des empiétements des justices royales.
+Malgré leur décadence profonde, les justices seigneuriales se maintiennent encore nombreuses.
+Elles fonctionnent d’une manière très défectueuse : mauvais recrutement des officiers de justice, multiplicité des degrés de juridiction, enchevêtrement des ressorts, nombreux abus.
+
+Administration. – L’administration et la justice se pénètrent.
+Le même personnel tient les assises du fief et gère le domaine du seigneur.
+Les nobles, en effet, résident peu, mettent en régie ou afferment leurs terres.
+Leurs agents usent de procédés parfois arbitraires.
+
+
+== Deuxième partie Les droits et les redevances ==
+
+
+=== Chapitre premier les reconnaissances féodales ===
+
+La procédure de la foi et hommage est un peu moins solennelle qu’autrefois.
+Importance particulière, pour le maintien du régime, de l’aveu et dénombrement dû par les terres nobles et de la déclaration à la charge des censives une fois dans la vie du propriétaire.
+Les frais de ces divers actes, normalement exigés, ne paraissent pas grever beaucoup le budget des paysans.
+
+
+=== Chapitre II Les rentes seigneuriales ===
+
+Les terres nobles doivent des services la plupart du temps très légers.
+Les cens, que paient la majorité des tenures roturières, sont fréquemment « récognitifs ».
+Les rentes en nature, très communes, pèsent lourdement sur les propriétés paysannes, principalement dans le Bas-Maine.
+On rencontre des champarts, mais à l’état sporadique.
+Les dîmes inféodées paraissent peu nombreuses.
+
+
+=== Chapitre III Perception des rentes ===
+
+Cens rendable et amendable sauf exception, solidaire avec une subdivision en frèches, qui dans la plupart des mouvances constituent les unités de perception.
+Il en résulte maints inconvénients.
+Les agents seigneuriaux laissent arrérager les rentes, fraudent sur les mesures, d’où l’augmentation souvent considérable du poids des rentes, qui, d’autre part, ne semblent pas avoir subi de variation depuis des siècles.
+
+
+=== Chapitre IV Autres devoirs et redevances ===
+
+Ni la taille ou aide féodale, ni le droit de garde, n’ont au xviiie siècle de réalité sauf dans les textes.
+A part quelques cantons, les corvées ne paraissent pas bien lourdes.
+Toute trace de servitude personnelle a disparu.
+
+
+=== Chapitre V Les droits de mutation ===
+
+On perçoit les lods et ventes à l’occasion de très nombreux contrats.
+Le taux en est du douzième d’après la Coutume, mais dans l’usage il est du dix-huitième, ou même moins, par suite de- remises.
+Le droit de ventes et issues confisque en principe le sixième, en fait le neuvième du bien aliéné dans d’assez nombreuses seigneuries.
+Le rachat, beaucoup moins souvent réclamé, n’affecte que les terres nobles.
+Le seigneur tire un sérieux revenu des droits de mutation surtout des lods et ventes.
+Le retrait féodal, doublé du droit de cession encore en usage, provoque quelques plaintes.
+
+
+== Troisième partie Les Monopoles ==
+
+
+=== Chapitre premier les banalités ===
+
+Elles sont nombreuses.
+La plus générale, comme la plus lourde, demeure la banalité du moulin.
+Tout bas justicier peut avoir son moulin.
+Le seigneur afferme celui-ci assez cher et ses sujets sont obligés de s’en servir en abandonnant au meunier pour paiement un seizième du grain moulu.
+Les moulins rapportent peu.
+Les meuniers abusent de leur monopole et leurs fraudes et exactions ne se comptent plus.
+Dans le Bas-Maine, une corvée spéciale, dite traînage de meules, vient encore aggraver la charge des sujets.
+Moulins à drap, fours, pressoirs banaux existent aussi, quoique plus rares.
+Le droit de banvin tend à disparaître.
+L’opinion mancelle se plaint unanimement des banalités.
+
+
+=== Chapitre II Les péages ===
+
+Les édits réglementent minutieusement ces droits que possèdent seules quelques seigneuries importantes.
+On les afferme et ils sont perçus suivant un tarif qui n’a pas varié depuis des siècles.
+Leur revenu, plutôt faible sauf pour les péages par eau, n’augmente pas.
+Les frais élevés de perception, ceux d’entretien des voies de communication, obligent de nombreux seigneurs à l’abandon de leurs péages.
+De son côté, le pouvoir central en a supprimé beaucoup pendant tout le xviiie siècle.
+Il reste à peine dix-huit péages et autant de bacs seigneuriaux dans le Maine sous Louis XVI.
+
+
+=== Chapitre III Les droits de foires et de marchés ===
+
+Les seigneurs font la police, entretiennent les installations des marchés et procurent aux marchands les mesures, qui varient à l’infini.
+En échange de ces services, ils perçoivent des droits divers, dont le plus important est le droit de minage sur la vente du blé.
+Les droits de foires et de marchés entraînent beaucoup d’abus.
+
+
+=== Chapitre IV Chasse, pêche et colombier ===
+
+La chasse reste rigoureusement interdite aux roturiers.
+Ce qui n’empêche pas d’ailleurs le braconnage, sévèrement réprimé.
+Ce monopole gêne assez gravement l’agriculture.
+De même celui de colombier ou de fuie.
+
+
+== Quatrième partie La portée du régime seigneurial ==
+
+
+=== Chapitre premier poids du régime seigneurial. S’est-il aggravé à la fin de l’ancien régime ? ===
+
+I. C’est la multiplicité des redevances et des droits, les abus et les tracasseries de l’administration seigneuriale qui, dans la plupart des cas, viennent augmenter le poids d’un régime supportable en soi.
+Celui-ci prélève sur le revenu des paysans certainement moins que la dîme, beaucoup moins que l’impôt royal. 
+
+II. La réaction seigneuriale a été marquée dans le Haut-Maine à la fin de l’Ancien Régime par la rénovation générale des terriers, laquelle a remis en usage des pratiques désuètes et rétabli d’anciens droits.
+Sauf sur ce point, on ne constate pas de recrudescence du régime féodal, qui par endroits s’atténuerait même à cette époque.
+
+
+=== Chapitre II Les paysans et les seigneurs ===
+
+La rude noblesse mancelle s’est policée et les petits tyrans sont fort rares au xviiie siècle.
+La bonhommie et la bonté marquent bien souvent les rapports du noble et du paysan.
+
+Mais ce dernier constate l’absence quasi complète de services rendus par la noblesse à la communauté villageoise et sent d’autant plus le poids assez lourd que lui impose le régime seigneurial.
+C’est par des manifestations de joie et, malgré son humeur facile, quelquefois par des violences contre les propriétaires fonciers et leurs biens que le cultivateur manceau accueillera la Révolution, consacrant elle-même la ruine d’un système depuis longtemps déjà en irrémédiable décadence.
+
+
+== Conclusion ==
+
+
+
+
+== Pièces justificatives ==
+
+

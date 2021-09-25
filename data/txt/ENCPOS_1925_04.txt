@@ -1,0 +1,125 @@
+identifier: ENCPOS_1925_04
+creator: Charles Brouard
+date: 1925
+title: Les Hôtes dans le Moyen Âge
+
+
+
+== Avant-propos ==
+
+Le présent travail a pour objet l’étude des hôtes au moyen âge dans la période antérieure au xe siècle.
+
+
+== Première partie Époque mérovingienne ==
+
+
+=== Chapitre premier les hôtes dans la loi wisigothique ===
+
+Il est fait mention d’hôtes dans la loi wisigothique, mais le mol n’a pas de sens spécial.
+
+
+=== Chapitre II L’hospitalité burgonde ===
+
+C’est le régime de l’installation des Burgondes en Lyonnaise.
+
+A. Les Burgondes sont appelés en Lyonnaise par les senatores Gallici « ut tributa reipublicae potuissent renuere ». 
+
+B. Seule, parmi les modes d’hospitalité en usage dans l’Empire, l’hospitalité de cantonnement des troupes permettait de recevoir les arrivants, mais elle devait être modifiée.
+
+C. La Loi Gombette permet de reconnaître qu’il en fut ainsi.
+
+Ressemblance entre l’hospitalité de cantonnement et l’hospitalité d’après la loi Gombette :
+
+1° Les rapports entre Burgondes et Romains à raison de l’installation des Burgondes sur les biens des Romains furent spécialement nommés des rapports d’hospitalité ;
+
+2° L’installation des Burgondes se fit par des partages que la loi réglait ;
+
+3° Il n’y eut pas expropriation brutale, mais des arrangements individuels entre Burgondes et Romains, hôtes réciproques, au lieu d’hospitalité.
+
+Preuves du 1er point :
+
+a) Le titre 38 mis à part, les textes où figure le mot hôte ont trait aux rapports entre Romains et Burgondes installés sur le même bien ;
+
+b) Inversement, dans la plupart des textes relatifs aux rapports entre Romains et Burgondes installés sur le même bien, on emploie soit le mot hôte soit le mot hospitalité.
+
+Preuves du 2e point :
+
+Examen des litres 13, 31, 54, 67 et de la Constitution d’Ambérieux, art. 12 : tous ces textes précisent des taux de partage et rendent présumable que les premiers partages portèrent sur les seuls biens-fonds, à parts égales.
+
+Preuves du 3e point :
+
+Quelques -textes font entrevoir des. arrangements, entre hôtes réciproques ; pas un ne laisse croire à l’expropriation générale des domaines. 
+
+Différence entre l’hospitalité de cantonnement romaine et l’hospitalité d’après la loi Gombette :
+
+Le soldat ne faisait que passer ; le Burgonde vivait à demeure avec sa famille : les biens de l’hôte burgonde et ses droits ne pouvaient être les mêmes que ceux du soldat cantonné.
+
+Deux questions se posent :
+
+1° Sur quels biens porta le droit de l’hôte burgonde ?
+
+2° Quelle fut la nature du droit de l’hôte burgonde sur ces biens ?
+
+1re question.
+
+Ce droit porta sur des biens ruraux, non pas sur tout le patrimoine de l’hôte romain, mais vraisemblablement sur un ager, ensemble de biens assez distinct et important pour que le fisc romain en ait fait l’unité de description des biens fonciers.
+La perte de la Formula gallicani census, l’imprécision des textes littéraires (Eucharisticos de Paulin de Pella, lettres de Sidoine Apollinaire, poésie d’Ausone) ne permettent de connaître qu’imparfaitement l’importance de l’ager.
+
+2e question.
+
+1re théorie : le Burgonde fut propriétaire des biens en sa part.
+Tous les textes de la loi, même le titre 55, viennent à l’appui de cette théorie ou s’accordent avec elle.
+
+2e théorie : le Burgonde ne fut qu’un tenancier soumis à des redevances.
+
+Cette théorie se fonde :
+
+Sur les textes de la loi Gombette relatifs à la procédure, à la prescription, aux tertiae ;
+
+Sur des analogies avec la loi wisigothique.
+
+Textes de la loi Gombette.
+
+1° Le titre 55, art. 2, réserve aux Romains de plaider finihus agrorum qui hospitalitatis jure a Barbaris possidentur : donc les propriétaires sont les Romains et non les Barbares. 
+
+Critique de l’argument : ce peut n’être qu’une règle tutélaire.
+
+2° Le titre 79, art. 1, établit, en faveur du Burgonde, le privilège d’une prescription rapide contre son hôte : le Burgonde n’est donc pas propriétaire.
+
+Critique : le passage ne peut s’appliquer à une hypothèse d’hospitalité ; mais le titre réunit, en ordre logique, les règles sur la prescription que l’on peut attendre d’un titre sur la prescription : il est donc à éliminer de la discussion.
+
+3° Les titres 79 (art. 1) et 57 prouvent que le Burgonde payait à son hôte des redevances périodiques, les tertiae : il n’est donc pas propriétaire.
+
+Critique : le titre 57 doit être éliminé comme le titre 79 : il est sans rapports avec l’hospitalité.
+
+Analogies avec la loi wisigothique.
+
+D’après les articles 8 et 17, titre I, livre X, de la loi wisigothique, le Wisigoth doit à l’hôte romain des redevances, les tertiae : donc il n’est pas propriétaire.
+
+Critique : l’examen de tout le titre I du livre X montre que le Wisigoth ne paie pas de redevance, mais qu’il est propriétaire.
+
+Conclusion : le titre 84 et même le titre 55 prouvent que le Romain resta propriétaire des biens remis à son hôte.
+Mais le titre 84 permet d’entrevoir l’évolution de l’hospitalité burgonde.
+
+Causes de sa disparition.
+
+Effets politiques de l’hospitalité.
+
+Effets économiques.
+
+Indices d’une hospitalité nouvelle d’intérêt économique .
+
+
+== Deuxième partie Époque carolingienne ==
+
+Les Polyptyques montrent que :
+
+1° Les hôtes, cultivateurs de biens nommés hospitia sont libres, colons, lides ou serfs ; les hôtes ne sont donc pas une classe de la société, mais les tenanciers des hospitia ;
+
+2° Ils tiennent leurs hospitia de contrats privés et non de droit héréditaire ;
+
+3° Les hospitia sont affectés au service d’églises ou bien disséminés, en très petit nombre, entre les manses, sur les fiscs ;
+
+4° Ils sont le plus souvent de faible valeur et leurs redevances sont minimes ;
+
+L’hospitalité paraît ainsi avoir été le mode de culture des terres ingrates.

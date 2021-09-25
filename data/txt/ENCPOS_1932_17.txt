@@ -1,0 +1,165 @@
+identifier: ENCPOS_1932_17
+creator: Nicole Verlet-Réaubourg
+date: 1932
+title: Histoire de l’ancienne Maison de Sully
+
+
+
+== Introduction ==
+
+
+
+
+== Table des matieres ==
+
+
+
+
+== Bibliographie générale ==
+
+
+
+
+== Premiere partie Chapitre preliminaire ==
+
+Enumération des divers états sous lesquels est connue la Chanson d’Antioche : au xiie siècle ; à l’époque du remaniement de Graindor, c’est-à-dire à l’extrême fin du xiie ou au début du xiiie siècle ; à la fin du xiiie siècle ; en 1356.
+Les traductions en prose. 
+
+
+=== Chapitre premier l’œuvre de Richart. – Le poème des Chétifs ===
+
+Beaucoup d’œuvres écrites pour raconter la croisade datent de l’expédition ou des années qui l’ont suivie.
+Il n’y a rien d’impossible, quoiqu’on n’en ait aucune preuve, qu’il en soit de même pour le premier état de la Chanson d’Antioche.
+La seule chose qu’on sache sur l’auteur, c’est son nom de Richart et sa qualité de pélerin qui indique non pas exactement qu’il ait été à la croisade, mais au moins en Terre Sainte.
+
+Graindor affirme à plusieurs reprises que Richart faisait partie de l’expédition.
+La date de son œuvre peut être fixée approximativement au moyen d’un passage de la Chronique de Lambert d’Ardres, si on admet que la cantilena Antiochena est l’œuvre de Richart.
+On possède peut-être un débris de l’œuvre de Richart se composant de douze laisses monorimes et contenu dans trois des manuscrits.
+
+Le poème des Chétifs, que Pigeonneau croyait l’œuvre de Graindor, est l’œuvre d’un chanoine de Saint-Pierre d’Antioche et fut composé sur la demande de Raimond, prince d’Antioche, qui mourut en 1147 ; il a dû être connu en France avant le milieu du xiie siècle, puisqu’Albert d’Aix s’en est servi.
+
+
+=== Chapitre II Rapport de l’œuvre d’Albert d’Aix avec la première version de la chanson d’Antioche et des Chétifs ===
+
+Albert d’Aix s’est inspiré des chansons de geste.
+Il donne un grand nombre de noms propres en langue vulgaire.
+Sybel. dans son Histoire de la Première Croisade a, le premier, montré qu’Albert avait dû connaître la Chanson d’Antioche.
+Pigeonneau affirmait le contraire, mais son hypothèse est insoutenable.
+
+Albert d’Aix a, en outre, fait de nombreux emprunts à la Chanson des Chétifs, surtout en ce qui concerne Pierre l’Ermite.
+
+Nombreuses comparaisons de textes d’Albert et de la Chanson d’Antioche.
+
+
+=== Chapitre III Le remaniement de Graindor ===
+
+On ne connaît de Graindor que ce qu’il nous en dit lui-même, c’est-à-dire qu’il était originaire de Douai, et qu’il s’est proposé de remanier l’œuvre de Richart.
+Mais il fait plus : son œuvre forme un tout allant du début de la Croisade jusqu’à la bataille d’Ascalon.
+Paulin Paris l’a divisé en trois parties, Chanson d’Antioche, Chanson des Chétifs, Conquête de Jérusalem.
+
+La Chanson d’Antioche renouvelle l’œuvre de Richart mais la croisade de Pierre l’Ermite, que Graindor y ajoute, ainsi que d’autres passages moins importants, est extraite des Chétifs.
+
+Quoique consacrée par l’usage, la division de Paulin Paris est arbitraire, puisque la Chanson d’Antioche commence par un épisode des Chétifs et que ceux-ci se continuent jusque dans la Chanson de Jérusalem.
+
+
+=== Chapitre IV La première version du chevalier au Cygne ===
+
+Le manuscrit, Bibl.
+Nat., fr. 12558, qui a servi de base à notre édition, donne du Chevalier au Cygne une leçon unique et anonyme, comprenant trois branches, Elioxe, le Chevalier au Cygne, Enfances de Godefroi de Bouillon.
+Cette leçon est si différente de l’œuvre de Renaut qui se rencontre dans les autres manuscrits, qu’il est possible de l’attribuer à Graindor.
+
+
+=== Chapitre V Les sources de Graindor ===
+
+Graindor se sert surtout de la Chanson de Richart et de la première version des Chétifs.
+Il a pu utiliser également un poème dont il n’existe plus aucune trace pour la suite de la Croisade.
+Il connaissait d’autres chansons de geste auxquelles il fait quelques allusions, ainsi qu’à certains passages de l’Ecriture Sainte.
+
+
+=== Chapitre VI Les emprunts de Graindor aux historiens latins ===
+
+Pigeonneau croyait que Graindor avait fait une compilation des Gesta de l’Anonyme, d’Albert d’Aix et même de Guibert de Nogent.
+
+Paulin Paris, au contraire, avait cru que Graindor était la source de nombreux passages des chroniqueurs latins de la première croisade.
+
+Gaston Paris a montré que Graindor s’était servi d’un seul récit latin, celui de Robert le Moine, pour la partie de son poème allant de la prise d’Antioche à la bataille livrée devant cette ville à l’armée de Corbaran. 
+
+
+=== Chapitre VII La traduction en prose du xiiie siècle ===
+
+Paulin Paris la croyait faite sur le manuscrit Bibl.
+Nat., fr. 12558, Pigeonneau sur le fr. 1621.
+Elle a certainement été faite sur le ms.
+Bibl.
+Nat., fr. 795, ainsi que nous le prouvons par de nombreux rapprochements.
+
+
+=== Chapitre VIII Le remaniement de la fin du xiiie siècle ===
+
+Il est contenu dans deux manuscrits, Arsenal 3139 et Bibl.
+Nat., fr. 12569, qui tous deux abrègent considérablement la Chanson d’Antioche ; ils suppriment le récit des démêlés avec Alexis, la marche des Croisés en Asie-Mineure et la bataille du Val de Gurhénie, mais ils continuent le poème de la Croisade, l’un jusqu’à la prise de Saint-Jean d’Acre, l’autre jusqu’à la mort de Baudoin le Lépreux.
+
+
+=== Chapitre IX Derniers remaniements de la chanson d’Antioche ===
+
+La chanson d’Antioche ne forme plus qu’un petit épisode de l’énorme compilation de trente mille vers composée en 1356 par un poète hennuyer.
+Cette compilation est appelée le Chevalier au Cygne et Godefroi de Bouillon.
+Le poème d’Antioche y est très déformé, de telle sorte qu’il y perd beaucoup de sa valeur historique. 
+
+
+=== Chapitre X Travaux dont la chanson d’Antioche a été l’objet. ===
+
+Du xive au xixe siècle, le poème d’Antioche est totalement oublié.
+Michaud y fait le premier allusion.
+Paulin Paris en donne en 1848 une édition sans grand caractère critique.
+
+Bibliographie du sujet.
+
+
+== Deuxième partie Transmission du texte ==
+
+Le texte est connu par les mss. de la fin du xiiie s.
+Bibl.
+Nat., fr. 12558, 1621, 786, 795, 12569, et le ms.
+Arsenal 3139 daté de 1268.
+Les quatre premiers donnent la version de Graindor et les deux derniers celle de la fin du xiiie siècle.
+
+
+== Edition des 4.000 premiers vers ==
+
+
+
+
+== Edition de cinq interpolations ==
+
+
+
+
+== Analyse de la fin de l’ouvrage ==
+
+
+
+
+== Table des noms de personne et de lieu ==
+
+
+
+
+== Glossaire ==
+
+
+
+
+== Table des rimes ==
+
+
+
+
+== Itineraires et sejours des Croisés d’apres la chanson d’Antioche ==
+
+
+
+
+== Cartes et Planches ==
+
+

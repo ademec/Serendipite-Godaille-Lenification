@@ -1,0 +1,92 @@
+identifier: ENCPOS_1936_06
+creator: Raymond Flambard
+date: 1936
+title: Jean Scot Erigène, traducteur de Maxime le Confesseur
+
+
+
+== Table des matières ==
+
+
+
+
+== Avant-propos ==
+
+Cette étude, visant à faire connaître en Jean Scot la physionomie de l’helléniste, déterminera comment il conçoit le genre de la traduction.
+Elle suppose l’édition historique de Maxime et une critique nouvelle de la traduction érigénienne.
+
+
+== Sources – Bibliographie ==
+
+
+
+
+== Première partie == 
+
+
+=== Chapitre premier la traduction ; le milieu ; le traducteur. ===
+
+Le règne de Charles le Chauve marque une époque dans le mouvement des traductions du grec en latin ; nous y replaçons celle des Ambigua de Maxime le Confesseur, exécutée par Jean Scot Érigène, helléniste réputé.
+Mais si les difficultés particulières et la longueur exceptionnelle du texte ont entraîné une certaine lassitude du traducteur, celui-ci a déjà quelque expérience du genre.
+
+
+=== Chapitre II Le maxime de Jean Scot. ===
+
+Privés du manuscrit grec dont se servit Jean Scot, nous devons avoir recours à une édition historique des Ambigua ; reconstitution externe, surtout interne, par la confrontation de la traduction érigénienne avec le texte de Maxime tel qu’il nous est conservé.
+
+
+=== Chapitre III La traduction de Jean Scot ; la tradition manuscrite. ===
+
+La traduction intégrale nous est connue grâce à deux manuscrits : le Mazarine 561 (M) et Arsenal 237 (A) ; le folio 9 du manuscrit Vatican Regina 596 a été détaché de M ; contemporains l’un de l’autre, ils sont rédigés d’après un archétype perdu ; différent à l’origine, M a corrigé son texte sur A, sans obéir au sens. 
+
+
+=== Chapitre IV Le vocabulaire de la traduction. ===
+
+Nous devons tenir compte des erreurs matérielles de lecture : lettres grecques mal groupées, méprise sur l’accentuation, les esprits.
+Gêné par la variété extrême du vocabulaire grec, Jean Scot trouve dans les glossaires les mots du vocabulaire concret.
+La langue théologique et philosophique manifeste l’indépendance de Jean Scot à l’égard de ses instruments de travail ; il interprète les mots insolites par l’étymologie, prétexte à la confusion, qu’augmentent la lassitude et la hâte.
+Les mots invariables (surtout les particules) et les mots composés montrent la souplesse du grec en face de la pauvreté du latin ; la notion du mot propre n’existe pas ; par ignorance ou affectation, Jean Scot garde des mots grecs.
+
+
+=== Chapitre V La morphologie. ===
+
+Les flexions nominales sont généralement bien interprétées (erreurs sur les déclinaisons contractes) ; les formes verbales à radicaux divers, inégalement reconnues ; les personnes, les temps et les voix sont l’objet de confusion ; les élisions et les crases, mal résolues.
+
+
+=== Chapitre VI La syntaxe. ===
+
+L’inattention explique la violation de quelques règles d’accord.
+En latin, l’absence d’article, élément essentiel de la souplesse syntaxique du grec, explique l’embarras de Jean Scot, les gaucheries de sa traduction et ses « procédés » (emploi de ipse) pour y suppléer.
+Dans sa hâte, il n’a pas toujours transformé les cas grecs selon les besoins de la syntaxe latine.
+L’emploi des temps et des modes, parfois incertain, l’est avant tout dans les propositions subordonnées où Jean Scot tente d’introduire les habitudes de la langue grecque (substitution du tour analytique à la proposition infinitive ; traduction du participe).
+
+
+=== Chapitre VII Stylistique. Les principes du traducteur. ===
+
+Sauf quelques figures de style, introduites ou reproduites, malgré le parti pris de variété et le désir d’être clair, Jean Scot, latiniste émérite, vise à la traduction littérale, qui l’oblige à s’écarter du latin classique.
+
+
+=== Conclusion ===
+
+I. L’obscurité, le latin conventionnel sont les conséquences des principes adoptés par Jean Scot et de sa rédaction hâtive.
+
+II. On s’explique ainsi la destinée de la traduction : Jean Scot, son auteur, la cite dans son De diuisione naturae ; des lecteurs ont glosé quelques mots, quelques phrases ; mais l’auteur médiéval des
+    « Ex traits » de Maxime, s’il s’est servi de la traduction érigénienne, l’a entièrement remaniée.
+
+
+== Deuxième partie Édition du texte des Ambigua traduits par Jean Scot ==
+
+
+=== Commentaire ===
+
+
+
+
+== Glossaire gréco-latin ==
+
+
+
+
+== Photographies ==
+
+

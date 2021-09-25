@@ -1,0 +1,105 @@
+identifier: ENCPOS_1867_03
+creator: Paul-Louis Cauwès
+date: 1867
+title: Influence du droit romain sur la jurisprudence civile du xiiie siècle, étudiée principalement dans les Olim
+
+
+
+== Histoire externe ==
+
+1.
+La formation des écoles de droit nationales est due à la propagande des glossateurs de Bologne. – 2.
+Les disciples des glossateurs fondent un enseignement régulier dans le nord comme dans le midi de la France : à la fin du douzième siècle, l’école de Montpellier brille d’un vif éclat sous Placentin et Azon ; Odofredus et Mathieu d’Angers, à Paris ; Vacarius, en Angleterre. – 5.
+La prohibition de l’étude du droit romain à Paris, en Catalogne, en Angleterre, n’arrête pas cet essor : Université de lois d’Orléans. – 4.
+Caractère pratique de l’enseignement et des travaux de l’école des glossateurs : Placentin, de Varietate actionum ; Tancredi, Ordo judiciarius ; Durandi, Speculum.
+Nombreuses traductions en langue vulgaire des Institutes de Justinien et des neuf premiers livres du Code. – 5.
+Tentatives de fusion du droit romain et du droit coutumier : Livre de Jostice et de Plet ; Pierre de Fontaines, Établissements dits de saint Louis ; Pierre de Belle-Perche, Jacobi, Jean Faber. – 6.
+Le droit romain pénètre dans la jurisprudence : Beaumanoir, coutumes locales du treizième siècle, établissements et assises de l’Échiquier de Normandie, anciennes constitutions du Châtelet, Olim. – 7.
+Les Olim sont des registres de cour.
+Leur rédaction n’est pas faite dans l’intérêt des parties litigantes ; elles ne peuvent obtenir expédition des décisions judiciaires.
+Parallèle entre le record de cour (proprio sensu) et l’actio judicati.
+
+APPENDICE : Notices bibliographiques. – 1° Documents sur les glossateurs et sur les jurisconsultes du treizième siècle. – 2° Œuvres de Placentin, de Rogerius, de Vacarius. – 3° Œuvres de Berberius, Petrus Ravennatis, Petri de Bella Pertica et de quelques autres jurisconsultes.
+
+
+== Histoire interne ==
+
+LIVRE I. – 1.
+Tout enfant né d’une mère serve est serf, et l’enfant d’un servus adsciptitius et d’une femme libre est libre. – 2.
+La condition de l’enfant est déterminée par la meilleure des conditions que la mère a eues au cours de sa grossesse. – 5.
+Il n’y a plus de servitude proprement dite au treizième siècle. – 4.
+Les actes d’affranchissement contiennent, au profit du serf, restitutio natalium. – 5.
+L’Église reconnaît aux verba de præsenti la même force qu’au mariage solennel.
+Le parlement réagit le premier contre les verba de præsenti. – 6.
+Le dédit qui accompagne les fiançailles est obligatoire. – 7.
+La preuve du mariage par attestation de l’évêque a son origine dans la Novelle LXXIV, cap. 4. – 8.
+L’indissolubilité du mariage subit quelques exceptions légales au treizième siècle. – 9.
+La femme peut intenter la plainte d’adultère contre son mari. – 10.
+L’origine du mariage putatif est dans la loi 4, Cod. de Incest. nupt. – 11.
+Les enfants nobles ou roturiers ont une action contre leurs parents pour obtenir une dot. – 12.
+En général, il y a égalité entre la dot et la donation propter nuptias. – 13.
+Sous tous les régimes, le mari exerce les actions qui compètent à sa femme. – 14.
+Sous le régime dotal, la dot est aliénable avec certaines formalités. – 15.
+Le S.C. Velléien existe au treizième siècle, mais au profit seulement des femmes mariées, qui peuvent y renoncer. – 16.
+Les enfants incestueux ou adultérins ne peuvent être légitimés. – 17.
+La légitimation, en droit civil, confère la successibilité.
+Règle canonique contraire. – 18.
+Une puissance paternelle analogue à la patria potestas existe au treizième siècle. – 19.
+Le fils de famille acquiert au père qui jouit en droit commun d’un usufruit paternel. – 20.
+Cette puissance paternelle cesse par l’émancipation, qu’il ne faut pas confondre avec la venia ætatis, également en usage. – 21.
+L’adoption est admise dans le Midi aux termes du droit de Justinien. – 22.
+Le bannissement est assimilé, soit à la deportatio, soit à la relegatio, suivant les cas. – 25.
+On connaît, au treizième siècle, une tutelle légale du père et une tutelle légitime du plus proche héritier, sauf optio tutoris pour le mineur. – 24.
+Il y a tutelle pour les biens donnés à l’enfant, à condition d’être soustraits à la compagnie des père et mère, pour les vilenages de l’enfant en garde ou de l’orphelin de père et de mère qui n’a que des vilenages. – 25.
+En principe, le tuteur représente le mineur en justice.
+Exception en matière immobilière à cause de la suspension de prescription.
+Exception dans tous les cas où il y a incertitude sur la question de droit débattue. – 26.
+A Paris, la restitutio in integrum est promise jusqu’à vingt-cinq ans. – 27.
+Le mineur de vingt-cinq ans ne peut être restitué que s’il a été lésé. – 28.
+Il peut renoncer au bénéfice de restitution.
+
+LIVRE II. – 1.
+La rédaction des contrats devant la juridiction est un souvenir du dépôt des actes à la curie. – 2.
+La fortune d’or n’appartient pas au roi si elle est un trésor proprement dit. – 3.
+L’emphytéose, mode le plus fréquent de tenure dans le Midi, est l’analogue de la censive du Nord. – 4.
+Les provinces de franc-alleu naturel sont celles qui avaient obtenu le Jus italicum. – 5.
+Le possesseur de bonne foi ne fait pas siens les fruits naturels. – 6.
+Contrairement au droit romain, la voie possessoire est fermée après débat au pétitoire. – 7.
+La prescription acquisitive trentenaire n’exige encore ni titre ni bonne foi. – 8.
+Le créancier gagiste, à cause d’une fausse interprétation du droit romain, ne peut prescrire contre l’actio pignoratitia directa. – 9.
+La prescription des servitudes exigeait titre et possession de vingt ans. – 10.
+On peut prescrire pro herede. – 11.
+Quant au transport de propriété, les donations sont régies dans le Nord par le droit antéjustinien. – 12.
+Un droit de retour légal, au cas de prédécès du donataire sans enfants, a lieu au profit du donateur même étranger. – 13.
+Les donations entre époux, si ce n’est celles à cause de mort, sont interdites. – 14.
+Le don mutuel est encore inconnu au treizième sièle. – 15.
+Le donateur peut s’obliger à la garantie. – 16.
+Dans beaucoup de pays du Midi, le testament doit être insinué et souscrit par sept témoins. – 17.
+L’institution solennelle d’un héritier n’est pas une condition de validité du testament dans plusieurs provinces méridionales ; dans d’autres, elle est essentielle, et la substitution pupillaire elle-même est usitée. – 18.
+Le testament est rompu par l’agnation d’un posthume. – 19.
+Solutions contradictoires données à la question de savoir si les filles, qui ont renoncé, par contrat de mariage, à la succession paternelle, peuvent venir au partage ; les textes qui les y admettent, exigent d’elles la collatio dotis. – 20.
+L’origine de l’exécution testamentaire est romaine. – 21.
+Les enfants du premier lit jouissent d’un droit de dévolution, sans privilége d’aînesse. – 22.
+Dans le Midi, il y a représentation en ligne collatérale et privilége de double lien.
+
+LIVRE III. – 1, La vente, le louage et, en général, les contrats à titre onéreux, peuvent être rescindés pour lésion. – 2, Le bénéfice de discussion est accordé au fidéjusseur. – 5.
+Ne pas confondre le Plège et le fidéjusseur. – 4, Les fidéjusseurs n’ont pas le bénéfice de division. – 5.
+Ils ont le bénéfice cedendarum actionum, à condition de le requérir avant le payement. – 6.
+Le défendeur doit fournir la caution judicatum solvi. – 7.
+On envisage la clause pénale comme obligation conditionnelle, – 8.
+L’exceptio non numeratæ pecuniæ est encore le droit commun. – 9, Bien que la règle Ex pacto actio non oritur soit abandonnée, la convention de gage pro mutuo contrahendo n’est pas obligatoire civilement. – 10.
+La vente n’est pas simplement productive d’obligations : elle a pour objet la translation de la propriété ; mais le marché sur la chose d’autrui est tenable. – 11, L’acte de vente contenant clause de dessaisine et décharge du prix, opère mutation entre les parties, mais non au regard de l’ayant cause du vendeur, même postérieur, entré en possession. – 12.
+Les arrhes jouent le rôle de dédit.
+
+LIVRE IV. – 1.
+Le système formulaire est en vigueur auprès des juridictions ecclésiastiques. – 2.
+Le demandeur, dans toute action, déduit toutes les causes sur lesquelles il peut fonder sa demande. – 3.
+La procédure de la Novi operis nunciatio est usitée. – 4.
+En matière réelle immobilère, le juge de la situation du bien litigieux est seul compétent. – 5.
+Le compromis ne vaut que si les parties ont stipulé une peine. – G. Devant les juridictions séculières, on exige du procureur du demandeur la cautio de rato. – 7.
+Dans le Midi, à la fin du treizième siècle, l’appel n’est plus une sorte de prise à partie du juge. – 8.
+Esquisse sommaire d’une procédure : nombreux emprunts au droit romain.
+
+Chaque élève publiera les positions de sa thèse isolément et sous sa responsabilité personnelle.
+
+{Règlement du 10 janvier 1860, art. 7.)

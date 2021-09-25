@@ -1,0 +1,92 @@
+identifier: ENCPOS_1873_05
+creator: Théophile Dufour
+date: 1873
+title: Étude sur la diplomatique royale de Bourgogne-Jurane (888-1032), suivie d’un régeste des actes rodolphiens
+
+
+
+== Introduction ==
+
+§ 1er.
+Les sources historiques proprement dites, chroniques et annales, n’offrent sur le second royaume de Bourgogne que des informations extrêmement rares. – De là, pour l’étude de cette période, l’utilité toute spéciale des documents diplomatiques, chartes privées et actes royaux. – C’est à ces derniers, de beaucoup les plus importants, que le présent travail est consacré : quelques renseignements seront néanmoins empruntés aux actes intervenus entre des particuliers.
+
+§ 2.
+Sources diplomatiques. – Originaux. – Cartulaires. – Autres copies. – Caractères paléographiques des originaux.
+
+§ 3.
+Division des actes royaux en deux classes : les actes solennels ou diplômes (comprenant les préceptes et les jugements), et les actes non solennels. – On ne retrouve pas d’actes correspondant au pouvoir législatif du roi. 
+
+
+== Chapitre Ier préceptes ==
+
+§ 1er.
+Dénominations diverses qui leur sont données. – Il n’est point nécessaire, ni souvent possible, de subdiviser préalablement les préceptes en plusieurs catégories.
+
+§ 2.
+Invocation. – Elle figure en tête de tous les préceptes. – Traces de l’ancienne invocation tachygraphique. – L’invocation à la Trinité est la plus générale, mais on en rencontre beaucoup d’autres.
+
+§ 3.
+Suscription. – Nom du souverain : ses variantes orthographiques. – Formule qui l’accompagne : la plus fréquente est divina favente clementia. – Titre royal et épithètes. – Le titre de rex n’est pas accompagné de la désignation du pays ou du peuple sur lequel s’étendait l’autorité des Rodolphiens. – Dans trois préceptes seulement, qui datent de la fin du règne de Rodolphe III, la suscription porte Burgundionum ou Burgundiorum rex. – Un diplôme du même prince, dont l’authenticité peut être suspectée, offre Alamandorum rex. – Qualifications données aux Rodolphiens par les chroniqueurs contemporains et par les chartes privées : rex Burgundiæ ou Cisalpinæ Galliæ, – rex Jurensis ou Viennensis, – rex in Gallia, – rex Alamannorum vel Provinciæ, etc. – Elles diffèrent selon les provinces. – On ne trouve jamais rex Arelatensis.
+
+§ 4.
+Préambule. – Il est souvent d’ordre politique. – Préambules simples et préambules solennels. – Cette formule manque dans quelques préceptes de Rodolphe III, tous postérieurs à 1010.
+
+§ 5.
+Exposé. – Conjonction de transition. – Clause de notoriété ou de promulgation, dont la forme varie peu. – Narratio proprement dite. – Sous Rodolphe Ier et sous Conrad, la concession est toujours faite à la suite d’une demande adressée au roi par l’intéressé lui-même. – Au contraire, pendant le règne de Rodolphe II en Italie et les dernières années de Rodolphe III. les requêtes sont transmises par l’intermédiaire de personnages haut placés, patentes homines palatini. – Principaux intercesseurs auprès de ces deux rois. – Les conseillers. – Influence prépondérante de la reine Ermengarde : faiblesse de la royauté. – Intérêt que présente à ce sujet l’exposé des diplômes. – Considérations pieuses. – Titres pompeux que se donne le roi. – Il emploie la première personne du pluriel : ego est très-exceptionnel. – Formule finale de l’exposé, destinée à le relier au dispositif.
+
+§ 6.
+Dispositif. – Son importance pour les renseignements historiques, géographiques, juridiques, commerciaux, etc. – Localités imaginaires dues à des lectures fautives. – C’est surtout à l’aide des expressions usitées dans le dispositif qu’on peut distinguer diplomatiquement, parmi les préceptes, les donations ou concessions, – les restitutions, – les confirmations simples, – les confirmations solennelles ou collectives, – les immunités.
+
+§ 7.
+Clauses finales de garantie ou clauses comminatoires. – Peines spirituelles et imprécations. – Peines temporelles ; la moitié de l’amende est attribuée à la camera regis : erreur de D. Bouquet sur le sens de cette expression.
+
+§ 8.
+Annonce des signes de validation. – Usage constant de cette formule. – Le seul précepte où elle manque a été précisément conservé en original. – Manus et annulas. – Le monogramme est quelquefois omis dans l’annonce, mais il n’en figure pas moins au bas de l’acte.
+
+§ 9.
+Souscriptions. – Leur place à la suite du texte.
+
+I. Souscription du roi. – Sa forme. – Description des monogrammes des quatre souverains de Bourgogne d’après les diplômes originaux. – Altérations dues aux cartulaires. – Erreurs de Du Gange : il omet plusieurs types, et ceux qu’il donne sont infidèles ou n’appartiennent pas en réalité aux Rodolphiens. – Différences des monogrammes des trois Rodolphe. – Confusions avec celui de Raoul, roi de France. – Monogramme de Conrad sur des monnaies frappées à Lyon. – Du parti qu’on peut tirer de ce signe de validation pour distinguer les originaux des copies figurées et pour aider à contester l’authenticité de certaines pièces. – Quel est l’auteur du monogramme ?
+Il faut adopter ici l’opinion qu’a soutenue M. Sickel pour les diplômes carolingiens : la losange centrale était tracée par le roi et exécutée après coup, le reste était l’œuvre du chancelier.
+
+II. Souscription du chancelier. – Comment elle est conçue. – Organisation de la chancellerie royale. – Archi-chanceliers, chanceliers et scribes de Rodolphe Ier, – de Rodolphe II en Bourgogne et en Italie, – de Conrad, – de Rodolphe III. – – Nombreuses erreurs et omissions des listes de D. Bouquet et du Nouveau Traité de diplomatique. – Aimon et Gérold, chanceliers de Conrad, sont deux évêques de Genève. – Diplômes souscrits par des personnages qui ne faisaient point partie de la chancellerie. – Il faut distinguer la chancellerie royale proprement dite de celle de Saint-Maurice d’Agaune. – Rôle de cette seconde chancellerie. – Souscription en vers de l’un de ses notaires.
+
+§ 10.
+Date. – Elle se compose habituellement de trois parties :
+
+I. Date de temps précédée du Data. – Éléments ordinaires : jour du mois, an de l’Incarnation, an du règne et indiction. – Éléments exceptionnels : jour de la lune, épacte. – L’indiction n’est pas constante et elle finit par devenir rare ; elle est d’ailleurs le plus souvent inexacte, surtout sous Rodolphe II. – Pour le commencement de l’an de l’Incarnation, Rodolphe Ier, son fils et son petit-fils, ont suivi le style natal. – Rodolphe III, au contraire, a adopté le style pascal dès 994, au moins pour la Bourgogne transjurane, car dans la Cisjurane il paraît s’en être tenu au système de ses prédécesseurs. – An du règne : difficultés qu’offre cette notation chronologique et détermination de son point de départ. – De la date de la mort de Rodolphe Ier ; discussion pour prouver qu elle doit être placée en 911, et non pas en 912, comme M. de Gingins avait voulu le démontrer dans une dissertation spéciale ; preuve certaine fournie par un acte privé transcrit dans le cartulaire de Lausanne et suivi d’une investiture faite au bout de l’an et jour ; confirmation tirée de la manière dont Rodolphe II a compté les années de son règne en Bourgogne dans ses premiers diplômes italiens. – Conrad a au moins deux systèmes pour le calcul de ses années de règne : dans l’un il part de 937, dans l’autre de 940. – Variété plus grande encore dans les chartes privées datées du règne de ce prince : le mode de computation a varié selon le lieu où l’acte était dressé et selon l’écrivain qui tenait la plume.
+Il faut supposer qu’il doit remonter soit à la mort de Rodolphe II, soit au retour de Conrad en Bourgogne, soit à son couronnement, soit à l’époque où il fut définitivement reconnu dans chacune des provinces de son royaume. – Rodolphe III a également deux procédés différents : tantôt il prend pour point de départ la mort de son père (19 octobre 993), tantôt il compte comme première année de son règne les derniers mois de 993, et comme seconde l’année 994.
+
+II. Date de lieu débutant par l’Atum. – Pérégrinations fréquentes des Rodolphiens. – La capitale est Vienne depuis le traité de 933. – Résidences royales. – Expéditions et voyages des souverains de Bourgogne en dehors de leurs États. – Lieu de leur sépulture.
+
+III. Invocation finale ou apprécation. – Sa forme complète et ses formes abrégées.
+
+§ 11.
+Sceau. – Sa place, – son mode d’application, – sa forme, – ses dimensions, – sa matière, – sa couleur ; – figures et légendes. – Description et dessins des quatre sceaux rodolphiens : deux sont inédits. – Le sceau de Conrad, figuré dans le cartulaire de Saint-André-le-Bas, étant de majesté ne peut appartenir à ce prince. – Prétendus sceaux de la reine Berthe plaqués sur les deux copies de la charte de fondation du monastère de Payerne (962) : ils sont postérieurs de plus de deux siècles.
+
+§ 12.
+Résumé et conclusions. – Langue et style des préceptes. – Acte faux : concession en faveur de Guillaume de Caritat. – Actes suspects. – Grands officiers de la maison du roi mentionnés dans les diplômes. – Le comte du palais. 
+
+
+== Chapitre II Jugements ==
+
+Leur importance au point de vue de l’histoire et du développement des institutions juridiques. – Leur rareté. – Leur forme : elle n’a pas la même fixité que celle des préceptes ; si elle tient quelquefois du diplôme, elle peut aussi se rapprocher de la notice.
+
+
+== Chapitre III ==
+
+
+=== Actes non solennels ===
+
+Ce qu’il faut entendre sous ce nom. – Origine et nature du pouvoir des Rodolphiens sur l’abbaye d’Agaune. – Leur titre de rector : actes qu’ils ont rendus en cette qualité, avec l’assentiment exprès du prévôt, et plus tard de l’abbé. – Dénominations de ces actes, dont la plupart sont de Rodolphe III. – Ils procèdent du diplôme, mais leur forme s’est successivement simplifiée, soit par la suppression, soit par le changement d’une ou plusieurs parties du discours diplomatique. – Le préambule, par exemple, manque constamment. – Souscriptions de témoins. – Par une nouvelle altération, il arrive souvent que l’acte n’est plus même rendu au nom du roi : on se borne à y mentionner son consentement. – Actes analogues relatifs aux possessions de l’abbaye de Saint-André-le-Bas, dont Conrad et Rodolphe III ont eu aussi le gouvernement.
+
+
+=== Régeste des actes rodolphiens ===
+
+Avant-propos. – Travaux de Bréquigny, – Bœhmer, – Forel, – Hidber. – Plan de ce nouvel essai : il comporte une analyse détaillée des actes avec indication de la source qui a servi à chaque éditeur, original, cartulaire, copie ou publication antérieure. – Établissement du meilleur texte, variantes. – Notes à propos de chaque acte. – Bibliographie.
+
+RÉGESTE comprenant 154 numéros.
+
+Chaque élève publiera les positions de sa thèse isolément et sous sa responsabilité personnelle.
+
+(Règlement du 10 janvier 1860, art. 7.)

@@ -1,0 +1,197 @@
+identifier: ENCPOS_2016_09
+creator: Claire Le Borgne
+date: 2016
+title: Pour une paléographie des inscriptions : enjeux et limites. Le corpus des inscriptions lapidaires financées par des sénateurs à Rome entre le iiie et le ve siècle
+
+
+
+= Introduction =
+
+Rares sont les études consacrées à l’aspect paléographique des inscriptions lapidaires antiques.
+Le corpus étant extrêmement large, il a été privilégié de le circonscrire sociologiquement, chronologiquement et spatialement afin non seulement d’étudier l’évolution de la graphie, de la gravure et de la mise en page mais aussi de s’interroger sur le rapport entre le statut social du commanditaire et le niveau de réalisation de l’inscription.
+Aux iie et iiie siècles a lieu le passage d’une écriture commune ancienne à une écriture commune nouvelle, un phénomène mis en lumière par Jean Mallon.
+Il semblait pertinent de s’interroger sur les répercussions possibles de cette évolution de l’écriture commune sur la lettre monumentale.
+Il semblait également intéressant de se demander si, à l’image du pape Damase et des réalisations filocaliennes au ive siècle, les sénateurs étaient sensibles à l’apparence des inscriptions commanditées par eux.
+Toute cette période est riche sur le plan historique : ces trois siècles sont marqués par une succession de crises politiques, économiques et de renouveaux, notamment sur le plan culturel.
+Si les témoignages épigraphiques sont plutôt rares au iiie siècle, ce n’est plus le cas au ive où on note un usage important de ce moyen de communication de la part de l’ordre sénatorial, dans une ville toujours davantage délaissée par le pouvoir impérial.
+Après 410 et le sac de Rome, on constate un écroulement marqué de la pratique épigraphique et de sa qualité, qu’il faut sans aucun doute relier au contexte politique et économique d’une ville dépeuplée d’une grande partie de ses habitants pendant tout le ve siècle.
+Il était donc essentiel de garder à l’esprit les événements politiques de l’époque et de les confronter à la documentation sénatoriale, pour étudier la représentation formelle des sénateurs à travers les inscriptions qu’ils ont fait réaliser.
+Ces dernières ont été réparties en différentes catégories (votives, funéraires, honorifiques, commémoratives de travaux publics, actes), selon le prisme de la destination.
+Le postulat de départ de cette étude est qu’il n’y a pas une capitale monumentale gravée, figée dans ses proportions et dans ses traits, tout au long de l’Empire, mais qu’elle subit des modifications, plus faibles que l’écriture commune mais bien réelles, et qu’on ne gravait pas les mêmes capitales selon qu’elles étaient destinées à être exposées sur un forum ou dans une catacombe.
+
+
+= Sources =
+
+La documentation est uniquement épigraphique, dans la mesure du possible consultée sur place dans les différents lieux de conservation : dans les musées à Rome et à Naples, sur les forums, dans des palais privés, dans de nombreuses églises et au Vatican, dans quelques catacombes, ou encore au musée du Louvre.
+Pour compléter certaines lectures, il a été fait usage de photographies et de photographies de calques par estampage.
+La qualité de conservation des inscriptions est très inégale et le pourcentage d’inscriptions parvenues jusqu’à nous avec leur support est faible et constitue un des handicaps de cette étude, d’autant plus que leur datation n’est pas toujours aisée.
+
+
+= Première partie. Des lettres =
+
+
+== Chapitre premier. Terminologie ==
+
+L’étude paléographique pour l’Antiquité est confrontée à un problème de terminologie entre les systèmes d’écriture définis par les épigraphistes et ceux définis par les paléographes, notamment pour le Moyen Âge.
+Un effort d’harmonisation et une remise à plat sont nécessaires.
+
+
+== Chapitre II. Lettre à lettre ==
+
+Chaque lettre de l’alphabet (Z compris, même s’il n’y en a que deux occurrences) est étudiée par forme et par type d’inscription.
+
+On constate une élongation des lettres pendant l’Antiquité tardive, des traits de moins en moins jointifs, en particulier au ve siècle.
+On note aussi l’émergence de formes courantes au Moyen Âge, comme le A à traverse brisée qui apparaît au ive siècle.
+La panse du P, tout comme celle du R, diminue et s’arrondit au fil des siècles en lien avec la verticalité sans cesse accrue des lettres.
+Le P à panse fermée est extrêmement rare aux premiers siècles de l’Empire, comme l’a indiqué Arthur Ernest Gordon.
+Il cohabite avec le P à panse ouverte aux iiie et ive siècles et devient omniprésent dans la seconde moitié du ve siècle.
+
+Le modèle classique de la capitale monumentale s’estompe : les empattements dépassent de part et d’autre du trait (dans le cas du E ou du F par exemple).
+
+
+= Deuxième partie. Des lettres agencées =
+
+
+== Chapitre premier. Les lettres hautes ==
+
+Outre quelques I longs au iiie siècle, on trouve régulièrement aux siècles suivants sur les inscriptions honorifiques et commémoratives les lettres F, L puis les lettres F, L, T plus hautes que les autres.
+Ce phénomène n’est pas sans rappeler ce que l’on constate sur les manuscrits de la fin de l’Antiquité.
+Il peut s’agir, au-delà d’un souci esthétique, d’un besoin initial de distinguer le F du E et le L du I.
+
+
+== Chapitre II. Les ligatures ==
+
+Elles peuvent être le reflet de la pratique d’un artisan ou du souhait du commanditaire.
+
+Elles sont rares dans notre documentation (quatre cas).
+
+
+== Chapitre III. Les chiffres ==
+
+Jean Mallon a montré la permanence de l’ancienne écriture commune dans l’écriture des chiffres.
+Ainsi le six est parfois indiqué sous la forme de ce que les épigraphistes ont longtemps considéré comme un episemon et qui est en réalité un V et un I ligaturés.
+On ne trouve plus pour les siècles qui nous intéressent de I plus longs encadrant les quatre barres du chiffre quatre comme cela était parfois le cas aux premiers siècles.
+
+
+== Chapitre IV. Les pleins et les déliés ==
+
+Contrairement aux siècles précédents où la capitale géométrique était l’expression visuelle du niveau social de son commanditaire, on ne trouve plus que rarement cette capitale dans l’Antiquité tardive pour le même type d’inscription.
+Par ailleurs, on trouve au iiie siècle de nombreuses inscriptions en capitale rustique, avec des pleins et des déliés, reflétant probablement un tracé préalable au pinceau.
+
+
+== Chapitre V. Le système abréviatif ==
+
+Interponction. — D’une interponction triangulaire entre chaque mot, on passe progressivement, sans que celle-ci ne disparaisse totalement pour autant, à une interponction réduite aux seules abréviations.
+D’autre part, on trouve plus fréquemment d’autres signes d’interponction, comme les hederae distinguentes ou des végétaux cruciformes.
+
+Trait au-dessus des titres honorifiques. — La présence de traits au-dessus des titres sénatoriaux abrégés apparaît au ive siècle, avec une première occurrence au début du siècle et une généralisation à partir de la fin du ive - début du ve siècle.
+Deux inscriptions adoptent un système abréviatif différent : au lieu d’être surmontées de traits, les lettres du titre sénatorial sont agrémentées de signes triangulaires identiques à ceux utilisés comme points séparatifs.
+
+Mise en valeur de la dernière ligne. — Une importance visuelle est souvent donnée à la dernière ligne d’inscriptions, qu’elles soient honorifiques, funéraires ou encore commémoratives (travaux publics).
+Elle est alors encadrée de signes végétaux et est souvent centrée.
+
+Les abréviations. — Elles sont globalement peu nombreuses, à part pour certaines catégories de termes.
+Les inscriptions ont de plus en plus l’aspect de textes et non plus d’une succession d’abréviations formalisées compréhensible par un public semi-alphabétisé.
+Il y a une perte d’immédiateté de la lecture, par la forme aussi : les textes sont plus longs et les lettres plus petites et moins géométriques.
+Les abréviations par suspension sont les plus courantes tandis que les abréviations par contraction sont rares, si on exclut le cas de co (n) s (ul) très courant sous l’Empire.
+
+Au ive siècle, certains titres honorifiques sont abrégés différemment, ce qui reflète peut-être une perte d’habitude.
+À cette époque apparaît aussi sur les inscriptions funéraires une abréviation jusqu’alors inusitée, s (ub) d (ie).
+
+
+== Chapitre VI. La mise en page ==
+
+Les mots coupés en fin de ligne. — Les mots coupés en fin de ligne sont surtout présents sur les inscriptions où les mots ne sont pas abrégés, à l’exception des titres honorifiques.
+Ils sont alors divisés en respectant la coupure syllabique.
+Mais ce phénomène reste modéré (trente-trois inscriptions).
+
+Disposition du texte sur les bases honorifiques et sacrées. — La plupart de ces inscriptions ont fait l’objet d’une mise en page même minimaliste.
+À partir des ive et ve siècles, les textes prennent la forme de textes libres et non plus d’une succession d’abréviations formelles.
+Le texte transmet en outre un système de valeurs propre à la haute noblesse.
+D’autre part, il rappelle les formes et usages des lettres : l’épigraphie répond donc à un choix conscient de mettre sur pierre un texte de forme littéraire.
+On retrouve dans son agencement même les caractéristiques d’une page écrite à la main, avec une marge gauche respectée tandis que la marge droite est inégale.
+Au niveau de la forme, on trouve de fortes similarités avec le contenu des documents épistolaires : un goût pour la rhétorique redondante et l’usage d’adjectifs, de superlatifs absolus, de périphrases pour exprimer les charges.
+
+Fréquemment, l’espace du dédicant est distingué de celui consacré au dédicataire par des lettres de taille plus petite ou un espace.
+
+
+= Troisième partie. Des lettres agencées sur un support : des lettres gravées =
+
+
+== Chapitre premier. L’inscription et son support ==
+
+L’étude paléographique d’inscriptions n’est pas strictement identique à celle d’écritures réalisées au calame par exemple.
+Le support exerce des contraintes qui sont propres à chaque pierre (tendre, dure) et qui conditionne la gravure des lettres (taille ou traits accessoires par exemple).
+
+Un processus intellectuel : l’élaboration du texte. — Les études d’Edmond Le Blant ou de René Cagnat suggèrent qu’il devait exister des recueils de modèles circulant dans l’ensemble du monde romain.
+Nous disposons aussi d’exemples de lettres impériales transcrites sur pierre ou d’épitaphes composées par des poètes et destinées à être gravées.
+Il reste néanmoins difficile d’établir la mesure de l’implication du commanditaire dans l’élaboration intellectuelle de l’inscription.
+
+La « minute ». — Jean Mallon a distingué trois moments dans la genèse d’un document épigraphique : la rédaction de la minute du texte, sa transposition sur la pierre (l’ordinatio, destinée à guider la main du lapicide) et l’incision.
+La phase de la minute peut être saisie, en négatif, par la présence de fautes de gravure du lapicide qui seraient dues à une mauvaise lecture d’une minute écrite en écriture commune.
+
+L’ordinatio. — L’ordinatio est la phase essentielle de l’étude paléographique des inscriptions : dans quelle mesure reflète-t-elle le ductus propre à l’écriture ou est-elle le résultat d’un dessin géométrique ?
+C’est dans ce subtil équilibre propre à chaque inscription que les conclusions d’ordre paléographique peuvent émerger.
+Aux iiie-ve siècles, l’ordinatio est bien moins qu’aux siècles précédents le résultat d’une méticuleuse mise en page, tant pour ce qui est de la hauteur des lignes, de l’espace qui sépare les lettres, que de la hauteur de celles-ci, de leur proportion ou de leur jeu d’ombrage et ce, même dans le cas d’inscriptions dédiées à l’empereur ou exposées sur les portes d’accès de la Ville.
+
+Les lignes-guide. — Elles constituent l’élément de base de l’ordinatio.
+Parfois réalisées à la pointe sèche, elles sont la plupart du temps invisibles à l’œil nu et probablement effectuées à l’aide d’un autre outil.
+Toutes les inscriptions ne sont cependant pas réalisées après élaboration de lignes-guide et les lignes ont alors tendance à onduler ou pencher.
+D’autre part, bien que des lignes-guide soient présentes, les lettres sont parfois maladroitement agencées à l’intérieur de l’espace que les lignes définissent.
+Il peut être difficile dans ces deux cas d’estimer si les lettres étaient directement gravées sans dessin préalable.
+
+Un peu d’archéologie expérimentale. — Les inscriptions que nous observons aujourd’hui sont le fruit d’une gravure.
+Nous avons tendance à négliger cet élément dans le cadre d’une analyse des formes des lettres.
+Or, pour avoir une perception plus fine des contraintes que peuvent exercer le support et le geste de la gravure, rien ne remplace l’expérimentation.
+Ce fut l’occasion de s’interroger sur l’étape de l’ordinatio et sur le degré de technique possédé par le graveur, à partir de calques et de photographies, complétés de mesures, des tituli sélectionnés.
+
+Lettres alvéolées. — Même dans le cas de capitales monumentales géométrisées, on trouve des éléments issus d’une modification de l’écriture manuelle, tel un P ouvert devenu fermé au fil du temps, c’est ainsi le cas pour les lettres alvéolées présentes sur l’arc de Septime Sévère et celui de Constantin.
+
+
+== Chapitre II. Termes antiques utilisés ==
+
+Le flou dans les termes employés (lapidarius, marmorarius, faber, artifex, sculptor…) par certaines sources peut s’expliquer par un manque de connaissances des termes spécifiques de la part de certains auteurs.
+Il peut aussi refléter une grande porosité des activités du tailleur de pierre, de la carrière à la sculpture, selon ses compétences.
+
+La distinction dans les sources antiques entre la phase d’ordinatio (le terme n’apparaît que sur l’enseigne bilingue de Palerme) et celle de l’incision n’est pas toujours claire.
+
+
+== Chapitre III. Repérage des artisans ==
+
+On sait peu de choses sur les auteurs des inscriptions.
+Différents témoignages font émerger des esclaves, des affranchis ou, sur le limes, des soldats.
+Aucun atelier n’a été découvert en fouilles à Rome ou dans ses environs.
+Néanmoins, à partir de l’étude des inscriptions (forme des lettres, disposition), quelques mains ont pu être identifiées.
+
+
+== Chapitre IV. Le phénomène de remploi : comment le quantifier ? ==
+
+Le remploi est très fréquent pendant l’Antiquité tardive.
+Il est cependant difficile à identifier avec certitude, faute de traces visibles d’une ancienne inscription ou d’une réutilisation du support sur une autre face.
+D’autres éléments, comme la profondeur du champ épigraphique dans le cas de bases moulurées ou le type de base, ont été envisagés.
+
+
+= Petite mise en application. Datation par la paléographie =
+
+Il s’agit d’une mise à l’épreuve des constatations réalisées lors de cette étude et appliquées aux inscriptions datées paléographiquement par des épigraphistes, en respectant la typologie définie pour cette étude.
+Au-delà de cet exercice, ce fut aussi l’occasion de mettre en lumière des cas uniques de formes de lettres, invitant à garder à l’esprit que nos conclusions ne reposent que sur un corpus lacunaire.
+
+
+= Conclusion =
+
+Bien que cette étude ait été cantonnée à un corpus défini par des commanditaires d’un important niveau social, force est de constater que les pratiques épigraphiques ne sont pas aussi figées et conservatrices qu’on pouvait le penser avant de commencer cette étude.
+Des tendances se dessinent, avec par exemple un usage important de la capitale dite rustique au iiie siècle, un goût pour des textes longs avec peu d’abréviations et une accentuation de la verticalité des lettres au ive et plus encore au ve siècle.
+Les inscriptions reflètent les changements de la société romaine.
+Outre une évolution du contenu qui exprime un changement de mentalité, de culture, on constate un effondrement progressif de la production épigraphique, pour des motifs variés, une évolution du goût et la perte d’un savoir-faire technique.
+Ce dernier aspect est lié aussi à une production d’inscriptions toujours plus faible ; c’est un cercle vicieux.
+Dans la même optique, on relève une augmentation de l’incorporation des lettres cursives parmi les formes capitales, traduisant sans doute une perte d’habitude d’emploi du système graphique de la capitale dite classique.
+Enfin, il convient de rappeler qu’au cours des derniers siècles de l’Antiquité tardive apparaissent des formes de lettres et des usages abréviatifs qui ont eu une longue existence au cours du Moyen Âge.
+
+
+= Annexes =
+
+Tableau de formules funéraires présentes dans les inscriptions ; tableau (interponction) ; planches de dessins de bases (amorce d’une typologie de bases romaines). — Index de correspondance des inscriptions (numéro d’édition princeps / numéro dans le catalogue).
+
+Cette étude est accompagnée d’un catalogue réunissant deux cent vingt-trois inscriptions datables avec une assurance majeure et soixante-seize inscriptions pour lesquelles les données internes ne permettent pas de déduire une datation précise.
+Chaque document a été traité dans sa complexité, en tenant compte d’une pluralité de critères paléographiques et épigraphiques.
+Des abécédaires viennent compléter l’analyse de l’évolution des formes de lettres de la première partie en les resituant dans un système graphique précis.

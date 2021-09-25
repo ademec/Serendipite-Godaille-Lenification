@@ -1,0 +1,250 @@
+identifier: ENCPOS_1898_02
+creator: Louis Brandin
+date: 1898
+title: Les Loazim de Gerschom ben Juda (950 ?-1028)
+
+
+
+== Bibliographie. ==
+
+
+
+
+== Introduction. ==
+
+
+
+
+== Chapitre premier. ==
+
+§ 1.
+Les loazim et les recueils de loazim, dits glossaires hébréo français, s’étendent du dixième au quinzième siècle.
+Au dixième et au onzième siècles, ce sont presque les seuls documents français pouvant servir à la reconstitution de la langue parlée en France.
+Au douzième et au treizième siècles, ils sont encore d’une utilité capitale pour l’étude de la prononciation.
+Au quatorzième et au quinzième siècles ce sont de simples objets de curiosité.
+
+§ 2.
+Il ne faut aborder ce genre très spécial de documents qu’après avoir pris certaines précautions : 1° Par suite de l’isolement où ils vivaient et de l’exil qui pouvait les frapper d’un moment à l’autre, les Juifs usaient généralement d’une langue où l’on trouve de nombreux archaïsmes (phonétique, morphologie, lexique) ; 2° les commentaires postérieurs aux commentaires de Raschi dérivent de l’enseignement de cet illustre rabbin, et la plupart des auteurs les suivent à la lettre deux siècles encore après sa mort.
+On en trouve une preuve absolue en comparant les loazim qu’on lit dans le commentaire de Raschi sur la Genèse, et les mots tirés de la même Genèse et qui sont dans le glossaire 302, fonds hébreu de la Bibliothèque nationale.
+
+Par contre, les manuscrits que nous avons des commentaires de Gerschom et de Raschi sont bien postérieurs à l’époque où ces commentaires ont été composés ; mais l’ignorance des scribes, qui ne comprenaient pas ce qu’ils lisaient et qui se contentaient de dessiner ce qu’ils avaient sous les yeux, nous a conservé des formes fort anciennes : nous avons pour ainsi dire le fac-simile des manuscrits contemporains.
+
+
+== Chapitre II. ==
+
+L’essentiel, sur les auteurs qui ont employé des loazim, a été dit par A. Darmesteter et Ernest Renan (d’après M. Neubauer).
+Je fais quelques rectifications au sujet de Gerschom de Metz, des loazim de Isaac Halevy ben Jehouda, de Jehouda ben Eleazar, de Moïse d’Angleterre, et sur le glossaire 302 de la Bibliothèque Nationale (voir l’Appendice final).
+
+
+== Appendice à l’introduction. ==
+
+L’alphabet de transcription, d’après les documents manuscrits de Gerschom de Metz, de Raschi, et les neuf glossaires hébréo-français. – La transcription est particulièrement délicate pour les textes non ponctués.
+D’autre part, l’alphabet hébraïque n’est pas purement phonétique ; il n’a pu violer certaines règles de la grammaire hébraïque, et une transcription purement littérale défigurerait absolument les mots français.
+Il a pu aussi subir l’influence de la graphie de ces derniers. 
+
+
+== Chapitre premier. Vie et œuvres de Gerschom. ==
+
+La date de sa naissance est douteuse.
+Il est mort en 1028.
+Né à Metz, il enseigne le Talmud à Mayence.
+Nous avons de lui des
+    « Ordonnances » et des Commentaires sur Taanith, Baba-Bathra, Menachot, Bekhorot, Arakhin, Temura, Kéréthot, Meïlah, Tamid et Choullin.
+Le traité de Moëd Katan qui lui est parfois attribué, ne renferme que des loazim postérieurs par la forme et de dialecte différent.
+
+M. Epstein a nié que Gerschom fût l’auteur de ce commentaire de Mayence.
+Mais il s’appuie sur de faibles témoignages, et le doute n’est plus permis au sujet de l’authenticité de cette attribution à Gerschom, après les citations de R. Nathan ben Jechiel, et après l’étude des loazim de Gerschom.
+
+Les loazim sont contenus dans six manuscrits : 1° le Baba-Bathra est contenu dans quatre manuscrits (A, B1, B2, B3).
+A, B1, B2, = Bodléienne 416.417.418.
+B3. = Musée brit. addit. 27.196 ; 2° Menachot, Bekhorot, Arakhin, Kérétot, Temura, Meïlah, Tamid et Choullin, dans G. (Biblioteca Angelica, Rome) ; 3° Taanith – Munich, Bibl. roy., 216.
+
+Dans les manuscrits ponctués, la ponctuation a été ajoutée postérieurement.
+Dans C on reconnaît deux ponctuateurs, l’un français, l’autre italien.
+
+
+== Chapitre II. ==
+
+Les loazim de Gerschom sont au nombre de cent vingt-neuf.
+Deux sont italiens, deux allemands, quatre slaves ; les autres sont français.
+Ils servent d’explication à des mots hébreux d’ordre technique (médecine, architecture, outils, termes de métier, plantes, animaux, etc.), que les élèves ne comprenaient pas facilement.
+
+Ce sont les mots suivants : 
+N° d’ordre. | EXPLICATION | Transcription française des loazim. | Transcription hébraïque des loazim. | PASSAGE | Mot hébreu glosé.
+1 | s’est accroupi | ăcropid | – ’Sinpx | Is. 46. 1 | VDD
+2 | des ancres | ancres | c’xnpùx | B. b. 73 a | n
+)) | anciis | cnpjx | » |  
+3 | chambre latérale | ăpăndiz | y>-ùpx | B. b. 6. a. | XDB11 ?
+» | ăpendiz |   | »» |  
+4 | nettoyer en frottant | ăplănir |   | Ch. 25. a. | « P©
+5 | tige du lin | aréste | xaü’nx | B.d. 26 a. | KFipn
+6 | écume du vin | ăscume | Xüipü’N | Bb.97. b. et Ch. 105 b. | N’Bin
+7 | garni d’éclisses | asulé d |   | Men. 41. a. | ’D1CD
+8 | dévidoir | atredol ⁎ |   | Ch. 60. a. | Xn’nWCD
+9 | l’autour | austior | nroDix | Ch. 52. b. | Y3
+10 | orge sauvage | avéne | xi’px | Men. 70. b. | bvw nbac ;
+11 | lard | bacons | e’iipp | Ch. 17 a. | □>2’171- ’hrz
+12 | balance | balenz | Y^> ? | B. b. | pîKK
+13 | baies, fruits du laurier | bayes | □ ?’>□ | B. b. 81 a. | ’2’2
+14 | tresses de chanvre non tissées | bendèlis |   | Bek. 29 b. | ’D’n
+15 | basa (italien) | boso | 1D1D | Bb. 89 b. | 212DEÎX
+buis | bois | □•’•a | » |  
+
+
+
+1.
+Z = 1 mouillée.
+N° d’ordre. | EXPLICATION | Transcription française des loazim. | Transcription hébraïque des loazim. | PASSAGE | Mot hébreu glosé.
+16 | broche | broche | xpnn | Bek. 37. b. | ■HD
+17 | panier que les femmes portent sur la tête | carenk | – |ùip | Bb. 85 b. | xn’jp
+18 | chambre | chamere | XlïDp | Bb. 7. a. | XTPEDX
+19 | articulation où commence le pied | chavile | x’P’axp | Ar. 19. b. | XHIPD’X
+20 | graver sur métal | clivér | va’bp | Ch. 25 a |  
+21 | clochette | clojète | xrœbp | Ar. 10. b. | Xinu
+22 | clostür (allemand). | closter | nwùp | B. b. 11. b. | XTDSX
+)) | clostir | n’tsc’ibr | » |  
+23 | se conchia | conchiăd | ix’paip | Is. XLVI. 1. | □np
+24 | le corail | coral | ‘rnp | Bb. 80 b. | XFPD2
+25 | rhume de cerveau | corze | ymp | Ch. 105 b. | □ D“) 2
+26 | coste | cos | cnp | Bb. 16 b. | ny’i’p
+26 | coste | cost | aenp | » |  
+27 | gâtés (œufs) | covediz | y>-=ip | Ch. 64. b. | m-inon orra
+28 | safran | cro | np | Bb. 16 b. | xpcm XÜ3115
+)) | crocu | ipnp | » |  
+29 | vin de marc | covét | toaip | Bb. 90 a. | ion
+30 | lobe du foie | ébre | X13K | Ch. 38. b. | ~32H -isn
+
+
+N° d’ordre | EXPLICATION | Transcription française des loazim. | Transcription hébraïque des loazim. | PASSAGE | Mot hébreu glosé.
+31 | chambre latérale | enpendif |   | B. b. 6. a. | XDnï1 ?
+32 | entier | entir | l’BJN | Ch. 8 b. | MT-ID
+33 | entrailles | éntrélu | v^itorK | Ch. 113. a | NP331 X11X
+34 | sièges | faldestoro | nia &’ibD | Men. 96 | ’pobn
+35 | couvertures de laine | feltres | EIIÛPD | Bek. 29. b. |  
+36 | partie de la jambe | festel | i ? E£”’D | Ch. 42. b. | n^ip
+37 | plis d’une étoffe | frans | ÜSID | Men. 42. b. | pnu
+38 | colline de sable | gravéle |   | B. b. | jtOTÜ
+39 | grappe | granés |   | Ch. 90. b. | 1212
+40 | l’ambre gris | hambre | N130S | Ker. 8. a. | DD3
+41 | les os des iles | hanjes | O’VMi | Ch. 93. a | Knois^p
+42 | la harpe | harpe | ND 171 | Ar. 10. a. | SDÙ
+43 | le houblon | homlon |   | Ch. 47. b. | DWD
+44 | chaumière | hute | NDin | B. b. 6. b. | rpis
+45 | l’os de File | iliér | i^bx | Ch. 8. b. | ’bDD
+46 | l’estomac | istemekel | 1WippX | Ch. 50. b. |  
+47 | gémir, être malade | isturdir | Tni’IDÇW | Ch. 51. a. | lire
+48 | étuve | istuve | N3110CN | Ch. 51. a. | XD’ID’K
+
+
+N° d’ordre | EXPLICATION | Transcription française des loazim. | Transcription hébraïque des loazim. | PASSAGE | Mot hébreu glosé.
+49 | chevrons | jabrons |   | B b. 60. a | pni
+50 | chouette | jute | XW’ | Ch. 63 a | niBivac⁎ niX3
+51 | chmiel (slave) | kméel | < U W | Ch. 47 b | niw
+52 | plante | lasre | xnpb | Ch. 58. b. | rm^n
+53 | pelotte de fil | lémsél |   | Ch. 95. b. | xnrp
+54 | lente | lentre | XlCà’1 ? | Taan. 25. b. |  
+55 | laîche | lèsche | xpc1 ? | Ch. 16. b. | Nt3JX“KMCD
+56 | limace | limaz |   | Bek. 38 a. | •ubn
+57 | laurier | lôr | H1 ? | B b. 4. a. | KÙB“
+58 | bosse | maldruve | xambn | Bek 43. a. | mton
+59 | boutons (maladie caractérisée par) | malent | 12 jhc | Ch. 51. a. |  
+60 | malles, sacs de cuir | malhes | trnbo | Bb. 67. b. | ponno
+  |   | males | Ü’JD | »» |  
+61 | masser | maséyr | – n’®D | Ch. 10 a | s D1D
+62 | mât de navire | mast | aç’P | Taan. 21 a | X’ipDX
+63 | poutre du pressoir | mays |   | Bb. 67. b. | xnebto c
+64 | filet | mésèles | Ü’JÜ’C | Ch. 51. b. | •nto’p
+65 | alliage de métaux | métal |   | Bb. 89. b. | p“) tDD\i
+
+
+N° d’ordre. | EXPLICATION | Transcription française des loazim. | Transcription hébraïque des loazim. | PASSAGE | Mot hébreu glosé.
+66 | des mayençois (monnaie) | Mokenzés ZA |   | Ch. 62. b. | nmsn
+67 | la mousse | molse | upic | Ch. 62. b. | sitx ’DHD U’S
+68 | mouche | mosche | XpülÛ | Ch. 58. b. | X2T1
+69 | moucheron | moscheron |   | Ch. 58. b. | xps
+70 | saumure | muZe | XbJlD | Ch. 49. b. |  
+71 | mauerfette (allemand) | murfate | XDBHD | B. b. 6. a. | xrnsx
+)) | murfatna | XJODIID | )) |  
+72 | le rectum | nédèl | bT3 | Ch. 50. a. et. b. | xnup
+73 | safran d’Orient | oriental | btoynx | B. b. 16. b. | xpu’i
+safran d’Orient | orientél | b’ar^x | » |  
+74 | jambages de la porte | ouistre | XIBU’IX | Bb. 61 a. | xSbn xpna
+75 | orties | ortyes | u^tsux | Ch. 62. b. | ’sbn
+76 | jambages de la porte | ouseryes | U^-IUIX | B. b. 69 n. | □’JID bu nusbo
+77 | panicata (italien) | panicata | xop/jp | Men. 75. b. | 7’371
+78 | pers | pérs | im | Ch. 62 b. | 311X1 ’bnis
+79 | becfigue | pigfige | ■KJErs | Ch. 102. b. | xrribp
+80 | pipe | pipe | XZ’E | Ar. 10. a. | b’bn
+81 | pleço (slave) | pléza | xsbs | Ch. 54 a | N-’T XED
+
+
+N° d’ordre | EXPLICATION | Transcription française des loazim. | Transcription hébraïque des loazim. | PASSAGE | Mot hébreu glosé.
+82 | porreaux | pores |   | Ch. 47 b. | ’FIBB
+83 | porche | porje | N^liB | B. b. 61. a. | nMn xpis
+84 | pôlière | posle | xh’ciD | B. b. 98. a. | ’vp ?’p
+85 | râteau | réstel, rastèl | 1 ? W-) . ’jDCZB | B. b. 36. b. | NB’Ü
+86 | rames | rayms |   | B. b. 73. a. | CWITOH
+87 | rouge | robje | X’B’n | Ch. 28 a. | NB 5
+88 | se contracter | ronzir | T’îj‘1 | Ch. 44 a. | T’I’D’
+89 | rupture | rumpedure | XTHBÇn | Ch. 57 a. | ntoiCB ?
+90 | brisé | rumpid | T^BDIB | Ch. 28 a. | HEOC’B
+91 | se briser | rumpir | T’BCT) | Ch. 10 a. | DS73
+92 | litière, chaise à porteur | sanboje | KJlBjC’ | Bb. 78 a. | ’SW NPBBBD
+93 | couleur rougeâtre | sankoltre | nîobipûü | Men. 42. b. | « 5’2 X’BJD
+94 | sapin | sape | N B G ? | B. b. 80. b. | NOtOlB
+95 | soie | séy | ■nÇ » | Is. XLVI. 1. |  
+96 | seigle | sigle | xbrc | Men. 70. b. | X’Iïf’T
+97 | scie à blé | sisèle | N‘ 5 ü | Ch. 17. a. | "l’Xp 510
+98 | souris (nerf) | soriz | yrn© | Ar. 19. b. | miap
+99 | creux de rochers | spands | CTIBBC ? | Ar. 25. a. | XX1XB
+
+
+N° d’ordre. | EXPLICATION | Transcription française des loazim. | Transcription hébraïque des loazim. | PASSAGE | Mot hébreu glosé.
+100 | palissade | spize | arc© | B. b. 8. a. | T>yn ’DD
+101 | épi | spicu |   | Ker. 6. a. | n : nbirtf
+102 | taupe | talpe | xaba | Ch. 74. b. | ■’Dlü
+103 | tapis veloutés | tapiz, tapid | Y’EÇ. "ptÇ | B. b. 13. b. | ’pinça
+101 | tarières | tarédres | C’IT’TLO | Ar. 23. b. | p-sw
+105 | teh (slave) | téyg | P’, LO | Ch. 76. a. | KDipiy
+106 | tilleul | tél | b’ë | Ch. 51. b. | NFinOP
+107 | cartilage de l’oreille | tendrom |   | Bek. 37 a | oincn
+108 | teigne | téñe |   | Ch. 85. b. | ■□T
+109 | ternage | ternure | xnj-its | B. b. 28. b. | XPDSDN
+110 | Titan | Titon | ptra | Meil. 17. b. | jvbon p
+111 | tonnerre | tonédre | NTTJID | Ch. 86. a. | DWI
+112 | tore (plante) | tore | X1W | Ch. 59. a. | xm’iD
+113 | trebono (slave) | trébunu |   | Ch. 8. b. | ’bîo
+114 | blé de trois mois | treméys |   | Bb. 36. a | jbobi
+115 | vallée | valéde | XT’bs | Ch. 31. a | xnpD
+116 | vergettes | vérges | O”1’–)’ ? | Ch. 90. b. | mwibs
+117 | garance | waranze | yjxin | Ch. 28. a. | N 2 b
+
+
+N° d’ordre. | EXPLICATION | Transcription française des loazim. | Transcription hébraïque des loazim. | PASSAGE | Mot hébreu glosé.
+118 | cerclage | zarcliz | y^pn ? | Ch. 25. a. | □ D1D
+119 | cymbales | zémbes | 0⁎22’’ 2 | Ar. 10. b. | bis5s
+120 | centre des nerfs du jarret | zencron |   | Ch. 74. b. | pnun KDIS
+121 | sangle | zéngle | xbnm | Bb. 78. a. | pan
+122 | levier coudé | zicoñe | xuip’a | Bb. 167. a. | xpum
+123 | ? | hodolinki | ■’pùbnin | Ch. 25. b. | ?
+124 | ? | k m z | V ? P | Tamid 29 b. | ?
+125, 126 | ? | bérdedeten, ordgo | ÎÎ ?“P ?. uni | B. b. | ?
+127 | ? | sorsemin | pnonw | Ch. 55 b. | .?
+128 | 9 | blft |   | Bb. 2 b. |  
+129 | ? | copiz | V’rip | Taan. 18. b. | ?
+
+ 
+
+
+== Chapitre III. Tableau phonétique du français parlé à Mayence à la fin du xe siècle par un juif messin. ==
+
+
+
+
+== Appendice le glossaire 302 fonds hébreu de la bibliothèque nationale ==
+
+1° Il a été composé entre 1260 et 1330 et très probabloment après 1288.
+
+2° Il est ponctué partout, sauf au folio 2 b et 3 a, le ponctuateur (le même que le scribe) ayant sauté de 2 a à 3 b en revoyant son manuscrit.
+
+3° Le dialecte est le dialecte de Troyes et non le bourguignon.

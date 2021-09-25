@@ -1,0 +1,114 @@
+identifier: ENCPOS_1869_03
+creator: Frédéric Jouön [Des Longrais]
+date: 1869
+title: Essai sur les premiers traités de poétique française
+ 
+
+
+== Historique et analyse des traités ==
+
+I. Préliminaires. – Les grands ouvrages, qui comprennent le cercle des sept arts, font de la poétique un appendice de la rhétorique ; de plus, ils ne lui donnent que le sens restreint de métrique latine.
+Nous y trouvons à peine, avant le quatorzième siècle, quelque allusion à la versification populaire.
+
+Brunetto Latini, moins méthodique, nous est plus utile : il nous explique, dans un passage intéressant de sou Trésor, la nature du vers en langue d’oil.
+
+Dès le onzième siècle, les métriques latines accordent une place aux élégances nouvelles du mètre.
+Nous avons de cette époque, sinon des traités, du moins des recueils d’exemples pour le vers latin rimé.
+Mais ce n’est qu’au quatorzième siècle que nous rencontrons un véritable art des proses, l’ars rhyhtmicandi, qui précède immédiatement, dans l’ordre de date comme dans l’ordre logique, notre « art de dictier. »
+
+II. Il faut remarquer cependant qu’avant l’art de dictier, des écrits techniques avaient consigné les règles de la poésie du Nord, déjà savante.
+Ces ouvrages sont perdus.
+
+III. Eustache Deschamps est le premier auteur français qui nous ait laissé un travail didactique sur la poésie de son temps (1592).
+
+IV. Presque à la même époque, Jacques Legrant, en traduisant son Sophologium, y ajoute le chapitre « des Manières de rimer. »
+
+V. Nous analyserons, non pas dans l’ordre chronologique, mais en rapprochant les plagiaires des originaux, les ouvrages qui suivent :
+
+L’Art de dictier de E. Deschamps ;
+
+Le chapitre de l’Archiloge ;
+
+La Rhétorique de Molinet ;
+
+Le Jardin de plaisance et fleur de rhétorique ;
+
+Un Traité anonyme, publié par M. de Montaiglon ;
+
+Le manuscrit 12454, fonds, fr.
+Bibliothèque impériale. 
+
+VI. Après ce dernier traité, dont la date approximative est 1521, les poétiques entrent dans une phase toute différente : elles deviennent grammaticales.
+Fabri, Sibilet, Ch.
+Fontaine, sont an début de cette nouvelle période, que nous n’aborderons pas.
+
+
+== Étude comparative ==
+
+I. Sens des termes généraux employés dans les différents traités : Rhétorique, dits, dictier, rime, taille, couple, etc.
+
+II. Quantité syllabique. – Elle se réduit à peu près à la distinction des syllabes parfaites (masculines) ou imparfaites (féminines).
+On s’occupe cependant de la valeur de quelques diphthongues.
+
+III. Élision de l’e muet. – L’élision est facultative, à moins que la syllabe féminine ne tombe après l’hémistiche.
+Dans ce cas, si elle rencontre une voyelle, elle doit s’élider.
+
+IV. Hiatus. – On semble défendre l’hiatus de l’e fermé et d’une autre voyelle.
+
+V. Syncope et apocope. – Les Rhétoriques en citent des exemples.
+Quelques apocopes sont regardées comme archaïques.
+
+VI. Césure. – La nécessité du repos dans le vers héroïque et dans l’alexandrin est formellement établie.
+
+La division du vers en hémistiches s’appelle quadrure.
+
+La césure doit être précédée d’une syllabe forte « ayant vrai son de voyelle » et non d’une muette.
+
+La syllabe féminine, qui vient après la césure et est suivie d’une consonne, ne compte pas plus que si elle était en fin de vers.
+
+VII. Les traités de rhétorique ne disent rien de l’enjambement.
+
+VIII. De la rime. – La recherche de l’identité absolue des finales est un des principaux caractères de la versification du quinzième siècle.
+On peut suivre dans les Arts de rhétorique la progression de l’exigence en fait de rime.
+
+L’assonance y est proscrite sous le nom de rime rurale.
+
+Le mot léonine a trois acceptions ; il signifie : la meilleure des rimes dans un sens général, la rime des deux dernières syllabes, la rime plate.
+
+IX. Succession des rimes. – La disposition monorime est passée sous silence.
+
+Dès le commencement du seizième siècle, l’alternance des rimes masculines et féminines est fortement recommandée.
+
+Le tercet est signalé comme une nouveauté dans le ms. 12434.
+
+X. Longueur du vers. – Le vers se fait de tout nombre de syllabes, depuis une jusqu’à douze syllabes (masculines) seulement.
+On condamne le vers de neuf ou de onze syllabes.
+Le petit vers qui change la mesure doit être, en règle générale, de la moitié du grand vers qui le précède : il s’appelle vers brisié, copé, et dans certains cas, clos et ouvert.
+
+Le vers libre n’est admis que dans le lai.
+
+XI. La stance est de toute dimension, depuis le sixain jusqu’au quatorzain.
+Le quatrain n’est pas employé.
+
+Dans la ballade et le chant royal, la règle s’établit de proportionner la longueur du couplet au nombre des syllabes du dernier vers.
+
+XII. Des genres principaux. – Les genres ne changent pas entre les deux dates extrêmes des traités que nous étudions.
+Ce sont toujours le chant royal, le serventois, la ballade, le lai, le virelai.
+Mais ils se doublent, se triplent et admettent mille combinaisons ; ils se déforment aussi l’un par l’autre : on laye la ballade, on balade le virelai.
+Le chant royal reste un peu plus simple.
+
+A la fin de cette période, on tient compte, dans les rhétoriques, des rhythmes applicables à la scène et aux chroniques rimées.
+
+CONCLUSION. – Les traités de rhétorique donnent une idée exacte de l’état de la poésie française au quinzième siècle.
+Leur succession nous montre la rime se perfectionnant jusqu’à l’abus, chaque genre se compliquant de plus en plus pour en arriver aux limites dernières de la recherche frivole.
+Sans valeur au point de vue de la philologie, ils peuvent servir à déterminer l’apparition de certaines coupes de vers et de plusieurs usages modernes de rime.
+Enfin ils ont un caractère qui leur donne quelque intérêt historique ; ils sont nationaux, ils n’ont rien emprunté aux poétiques latines ou provençales.
+
+
+== Bibliographie ==
+
+Appendice. – Extraits de l’Archiloge Sophie et du Jardin de plaisance.
+
+Chaque élève publiera les positions de sa thèse isolément et sous sa responsabilité personnelle.
+
+(Règlement du 10 janvier 1860, art. 7.)

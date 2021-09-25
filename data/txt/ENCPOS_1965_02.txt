@@ -1,0 +1,143 @@
+identifier: ENCPOS_1965_02
+creator: Phuong Nghi Dang
+date: 1965
+title: Les institutions du Viet-Nam au xviiie siècle
+
+
+
+== Sources ==
+
+Les sources européennes se composent des correspondances, mémoires et relations de voyage.
+Presque toutes les relations de voyages ont déjà été publiées.
+On trouve des sources inédites aux archives des Missions étrangères de Paris (Tonkin, vol. 654 à 701, et Cochinchine, vol. 727 à 801), aux Archives nationales (K 1374, dossier 14 ; F5A 22 et C1l à 4, série Extrême-Orient, du fonds des colonies), aux archives du Ministère des Affaires étrangères (Asie, Mémoires et Documents, t. 15, 19, 20, 21), à la Bibliothèque nationale (fr. 9769 et 24880, n.a.fr. 1530, 9347 et 9354).
+
+Les sources locales ont presque toutes été imprimées sous forme d’éditions de textes et de traductions en quôc-ngu ou en français ; ce sont des annales et des compilations officielles ou semi-officielles dont le Lich-Triêu Hiên Chuong Loai-Chi constitue la source la plus importante.
+
+
+== Introduction ==
+
+Au xviiie siècle, le Vietnam, de son ancien nom Annam, nominalement gouverné par les rois Lê, était partagé en deux seigneuries indépendantes, le nord sous la domination des Trinh et le sud sous celle des Nguyên.
+
+Contrairement à une opinion répandue, l’Annam n’était ni un pays féodal, ni un pays à traditions démocratiques, mais un simple état monarchique avec une très forte majorité de paysans libres et égaux entre eux (99 %) et une faible minorité de privilégiés (nobles et mandarins) et d’opprimés (demi-libres et non-libres).
+
+
+== Première partie Le pouvoir central ==
+
+Le droit annamite comme le droit chinois gravitait autour de l’idée de l’ordre universel et, par conséquent, de la croyance à une interaction entre l’univers et la société. 
+
+
+=== Chapitre premier le pouvoir royal ===
+
+La royauté ne peut être étudiée que du point de vue juridique, car le pouvoir effectif était détenu par chacun des deux seigneurs.
+
+La royauté annamite avait un caractère profondément religieux et c’est aux « rites » que se rapportaient toutes les activités.
+Monarque absolu, le roi avait tous les droits, mais il devait respecter ses devoirs de pontife suprême et d’éducateur du peuple sous peine de se voir retirer le mandat qu’il avait reçu du ciel.
+Ce mandat étant révocable, l’hérédité monarchique n’était pas automatique, mais le principe de la transmission du trône de mâle en mâle par ordre de primogéniture fut toujours admis, sous réserve cependant des droits du cadet plus méritant.
+Jusqu’à sa mort, le roi régnant avait la faculté de nommer son successeur sans se sentir lié par ses déclarations antérieures.
+
+
+=== Chapitre II Les auxiliaires du pouvoir royal ===
+
+Le roi ne gouvernait pas seul, mais avec des fonctionnaires ou mandarins dont le mode de recrutement normal résidait dans les concours publics.
+
+Leur cursus honorum comportait neuf degrés, divisés chacun en deux classes.
+On distinguait deux ordres de mandarins, les civils et les militaires ; en 1739, un troisième ordre fut institué, celui des eunuques, pas pour longtemps il est vrai, car il fut aboli l’année suivante ; ces eunuques restèrent comme auparavant assimilés aux autres mandarins.
+Les mandarins des trois premiers degrés étaient nommés directement par le roi, en fait par les seigneurs, et les autres sur présentation des mandarins en fonction.
+Pour leur avancement, leur destitution ou leur abaissement, on se fondait sur les résultats d’examens fonctionnels ; cette institution si équitable fut cependant ternie par la vénalité des offices.
+Cette dernière ne fut pas inventée par Trinh Giang en 1721, comme on l’a cru ; elle existait bien auparavant, mais les titres mandarinaux conférés étaient jusqu’alors fictifs.
+
+
+=== Chapitre III Les organes du pouvoir central ===
+
+Au nord, l’administration reposait sur six ministères ou bô lesquels furent supplantés en 1718 par six départements ou phiên créés par les Trinh.
+Ministères et départements devaient toujours soumettre leurs décisions au contrôle de six bureaux appelés khoa.
+La Cour des censeurs ou ngu-su-dai et le bureau des règles ou phap-ty, créé en 1748, devaient réprimander tous les mandarins fautifs, quels qu’ils fussent, et détourner les rois ou seigneurs de leurs erreurs.
+Le pouvoir législatif revenait à des conseils de gouvernement, en particulier au Grand Conseil du seigneur Trinh, appelé ngu-phu-phu-liêu.
+Le seigneur avait aussi l’habitude de se réunir en conseil privé, avec quelques intimes, pour discuter des affaires du royaume.
+Le Conseil général de gouvernement comprenait tous les mandarins des trois premiers degrés, membres de droit ; les autres ne pouvaient y participer que sur nomination expresse du seigneur.
+
+Au sud, le gouvernement était confié à trois services ou ty, remplacés en 1744 par six ministères, et à quatre grands mandarins appelés les quatre piliers.
+Le Conseil général était composé de tous les principaux mandarins sous la présidence de ces quatre piliers et la haute présidence du seigneur Nguyên.
+
+
+== Deuxième partie Les institutions sur le plan local ==
+
+
+=== Chapitre premier l’administration locale ===
+
+Le nord comportait onze dao ou provinces et le sud douze dinh (à partir de 1744).
+Dao et dinh étaient subdivisés en phu, les phu en huyên ou châu et ces derniers, en xa, thôn, ou villages.
+
+Chaque dao ou dinh était sous la direction d’un gouverneur militaire.
+Au nord, il était assisté d’un thua-ty et contrôlé par le hiên-ty, au sud, il avait à ses côtés trois services correspondant à ceux de la capitale.
+Dans les phu, huyên et châu se tenaient les bureaux du tri-phu, tri-huyên et tri-châu.
+Au niveau des villages, on trouvait la commune, groupement organisé pour satisfaire à ses propres besoins.
+Ses chefs ou xa-truong étaient d’abord nommés par les tri-huyên dont ils dépendaient étroitement, mais, à partir de 1735, leur choix fut laissé aux villageois qui les élisaient à la pluralité des voix ; et ce fut depuis lors que les communes acquirent leur autonomie.
+
+
+=== Chapitre II La justice ===
+
+Le droit annamite était très souple et non rigoureux comme certains le croient.
+L’étude du droit n’était pas interdite.
+
+La justice était déléguée.
+Les mandarins représentants du roi étaient en même temps juges ; il n’y avait pas de distinction entre l’ordre administratif et l’ordre judiciaire.
+Le premier souci du législateur était de réduire les procès, par suite il manifestait une grande hostilité envers ceux qui vivaient de la justice et ne tolérait que la procédure accusatoire.
+La latitude du pouvoir des mandarins-magistrats était tempérée par le système des examens professionnels.
+Les juges étaient responsables des sentences qu’ils rendaient et pouvaient être incriminés en cas de décision injuste.
+
+L’organisation de la justice était caractérisée par une multiplicité de tribunaux aux compétences très variées.
+Les cours souveraines étaient repréentées par la Cour des censeurs et le Conseil de gouvernement.
+Un ultime recours était ouvert aux parties sous forme d’un mémoire adressé au seigneur le jour de ses audiences publiques.
+Au nord, Trinh Doanh créa en 1747 le « recours aux cloches » qui consistait à sonner une clochette installée au palais seigneurial et à remettre une requête au fonctionnaire de service accouru.
+
+
+=== Chapitre III Les institutions financières ===
+
+La monnaie de circulation consistait en de petites pièces de cuivre (et de toutenague au sud à partir de 1736) appelées dông.
+La fonte était un monopole royal, mais il n’y eut pas d’ateliers royaux spécialisés jusqu’en 1760, date à laquelle un hôtel de la monnaie fut établi dans chaque province du nord.
+
+Les impôts étaient perçus suivant les trois principes d’égalité entre tous les contribuables, de contrainte dans le payement et de bienveillance du gouvernement.
+
+Le commerce était médiocre.
+Les bateaux devaient payer un droit de douane aux postes de surveillance et la perception était affermée à des mandarins.
+Les taxes sur les produits naturels comme le sel, le cuivre furent seulement créées en 1720 par les Trinh et étaient ignorées au sud.
+
+Les impôts personnels étaient levés par tête suivant un tarif fixe sans aucun égard pour le degré de richesse de chacun ; ils étaient fondés sur les registres de recensement de la population.
+Comme beaucoup en étaient exemptés, les impôts ne chargeaient en fin de compte que les paysans.
+Ils comprenaient le qui tiên (appelé sai-du au sud), qui était l’impôt personnel proprement dit, les corvées ou dao dich et le diêu, charge contributive créée en 1722 au nord en remplacement des corvées et prestations en nature.
+
+L’impôt foncier frappait tout le monde sans distinction de classe ; il était intimement lié au régime de la propriété foncière.
+On distinguait la propriété foncière privée et la propriété publique.
+Les premières furent imposées pour la première fois en 1723.
+
+Au nord, l’administration du trésor revenait à six trésoreries ou cung, rouages des six départements, auxquelles étaient rattachés des bureaux de perception et de recettes appelés hiêu.
+Dans les quatre provinces centrales et dans celle de Thai-Nguyên, les impôts, perçus auparavant sur place par des agents envoyés de la capitale, furent versés, en 1751, par les habitants à la Cour elle-même.
+Au sud, la rentrée des impôts était sous la responsabilité du tuong-thân-lai-ty, devenu ministère des finances en 1744. 
+
+
+=== Chapitre IV Les institutions militaires ===
+
+Le service militaire était obligatoire ; une grande partie du contingent restait chez elle et formait des réserves.
+Le recrutement était fondé sur les rôles de familles et spécialement sur le classement des habitants en catégories.
+En principe, on ne prenait que les trang-hang ou hommes robustes.
+
+Les soldats habiles et expérimentés pouvaient être promus sous-officiers ou officiers, mais le recrutement des mandarins militaires se faisait surtout par examen et concours : les concours militaires (so-cu et bac-cu) furent institués en 1724 au nord, peu après la création d’une école militaire en 1721 ; les lauréats des concours littéraires ayant une certaine connaissance de l’art militaire étaient aussi choisis.
+
+Toute l’armée était divisée en dinh, co, dôi et thuyên.
+Dinh, co et dôi étaient des noms différents des régiments et non des subdivisions l’un de l’autre, qui ne furent instituées que sous les Tây-Son.
+On distinguait les troupes destinées à la garde du roi, à celle du seigneur, à celle de la capitale, à celle des provinces et enfin à celle des frontières et points stratégiques.
+Au nord, le pays était partagé en cinq régions militaires ou ngu-phu commandées par des chuong-su et thu-su.
+Au sud, ces régions étaient constituées par les dinh.
+
+L’équipement des troupes était à la charge du gouvernement.
+Les soldats étaient exemptés d’impôts personnels ; leur solde médiocre différait selon les régiments et leur lieu d’origine.
+Ils étaient payés par leurs capitaines sur les bénéfices en villages accordés à ces derniers.
+
+
+== Conclusion ==
+
+La dernière étape de réorganisation avant l’avènement de la dynastie des Nguyên en 1802 coïncide avec l’arrivée au pouvoir des Tây Son.
+Le roi Quang-Trung fit de nombreuses innovations sans être cependant un souverain aux idées révolutionnaires.
+Il créa la carte d’identité appelée tin-bai, centralisa l’armée et développa l’instruction.
+Malgré l’intelligence des affaires de l’État et l’amour du peuple qui présidaient à certaines dispositions des législateurs Trinh, Nguyên et Tây-Son, leurs efforts furent mis en échec par la routine et la mauvaise volonté des mandarins ainsi que par l’incompréhension de tous.

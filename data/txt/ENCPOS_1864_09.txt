@@ -1,0 +1,131 @@
+identifier: ENCPOS_1864_09
+creator: Henry Lemonnier
+date: 1864
+title: Études sur la Lex romana Visigothorum et l’administration romaine sous la domination des Visigoths
+
+
+
+== Introduction. ==
+
+Ce travail sera divisé en deux parties : dans la première, j’étudierai la loi elle-même, et j’examinerai les diverses controverses auxquelles elle a donné lieu ; dans la seconde, je verrai quels renseignements elle peut fournir sur l’état des Gallo-Romains au sixième siècle, et l’organisation judiciaire et administrative au sud de la Gaule.
+
+Pour mieux comprendre le caractère de la loi et de la domination des Visigoths, il n’est pas inutile d’exposer, en peu de mots, l’histoire de leur établissement en Gaule et de leurs rapports avec les Romains pendant tout le cinquième siècle.
+
+De tous les Barbares, les Visigoths étaient les plus civilisés, grace à leur fréquent contact avec les Romains et à leur séjour en Italie.
+
+Lorsqu’ils prirent possession du sud de la Gaule, ils étaient alliés de l’empire et ne rencontrèrent de résistance ni dans les armées impériales, ni dans les populations opprimées par les Romains et avides de changement.
+
+Jusqu’en 476 les Visigoths ne sont encore que des auxiliaires de l’Empereur.
+La chute de l’Empire les laisse maîtres absolus du pays.
+
+Alaric, souverain incontesté de tout le sud de la Gaule, conçoit l’idée de refondre entièrement les lois romaines et de créer un code unique pour les Romains soumis à sa puissance.
+C’est la Lex romana.
+
+Plusieurs raisons ont dû le décider à accomplir ce projet :
+
+L’impuissance où il se trouvait d’imposer aux Romains les lois visigothiques ou de fondre les deux droits en un seul ;
+
+La tendance générale de l’époque, et surtout des Barbares, à diviser et à multiplier les juridictions ;
+
+Enfin, les lois romaines donnaient au souverain un pouvoir que les Visigoths n’auraient jamais reconnu, et il comprit que promulguer la loi romaine, en son nom, c’était prendre de droit possession du pays qu’il n’avait jusqu’alors possédé que de fait.
+
+
+== Première partie. ==
+
+Caractère général de la loi romaine des Visigoths.
+Examen de quelques points controversés.
+Par qui et comment a-t-elle été composée ?
+Le recueil que nous possédons est-il complet ?
+Les arguments qui tendent à prouver le contraire sont plus spécieux que sérieux.
+
+Méthode particulière adoptée par les rédacteurs pour l’exposition de l’ouvrage de Gains : quelle en est la raison ?
+On est réduit sur ce point à des conjectures, mais la comparaison de l’ouvrage de Gains avec celui de Paul et l’examen de ce dernier permettent d’affirmer que le texte des sentences de Paul a dû être respecté par les interprètes.
+
+Quel degré de confiance faut-il accorder à l’interprétation ?
+Les commentateurs qui l’ont accusée d’inexactitude ont jugé la question au point de vue exclusif du droit romain.
+Les changements qu’elle apporte à la loi sont, au contraire, l’expression fidèle des changements qui se sont produits dans les mœurs et dans le droit.
+
+La Lex romana Visigothorum est une loi toute romaine, et qui n’a pas subi l’influence du droit des Visigoths.
+Il n’est pas un passage qui puisse venir à l’appui de l’opinion contraire.
+
+Résumé : Malgré quelques imperfections, ce code est un document d’une haute importance, et les notions qu’il fournit, surtout sur le droit public, méritent d’être étudiées sérieusement. 
+
+
+== Deuxième partie. Organisation administrative et judiciaire des romains. ==
+
+
+=== Chapitre Ier. ===
+
+Au sixième siècle, comme sous l’Empire, l’unité administrative et judiciaire, c’est la province, et son organisation présente encore de nombreuses traces de l’ancienne organisation romaine.
+
+La Lex romana place à la tète de la province un magistrat qu’elle nomme judex ou rector provinciæ.
+Ce judex n’est-il autre qu’un comte goth, ou existait-il concurremment avec lui ?
+Ce qui semble au moins résulter d’un grand nombre de passages de la loi, c’est qu’il était assujetti pour l’administration à toutes les prescriptions de la loi romaine.
+
+Le rector provinciæ est le juge ordinaire de toutes les affaires, sauf des affaires peu importantes réservées à des juges inférieurs, et dont l’appel est porté devant lui.
+Il a la haute juridiction sur les curiales et sur les autres magistrats de la province.
+
+Il est assisté d’un officium ; énumération des officiers qui le composent, assessores, cancellarii, etc.
+
+Fonctions administratives du rector provinciæ.
+
+La Province se subdivise en civitates : la capitale est la civitas metropolitana ; au-dessous des civitates sont les loca, réunissant, sous une seule dénomination, plusieurs espèces de localités.
+
+
+=== Chapitre II. ===
+
+Quel est dans la loi romaine la signification du mot civilas ?
+Il semble désigner non pas seulement la ville proprement dite, mais le chef-lieu d’une circonscription territoriale administrative.
+
+L’organisation municipale subsiste entièrement, et l’élection apparaît fréquemment pour toutes les charges et dignités de la cité.
+
+Les principaux fonctionnaires de la civitas sont les curiales ; leur condition sous les rois visigoths ; caractère de leurs fonctions : ils forment, pour ainsi dire, un conseil de la ville, dans lequel se recrutent tous ses magistrats.
+
+Leurs fonctions peuvent se diviser en trois parties.
+
+Règlement des affaires administratives. 
+
+Enregistrement des actes de la juridiction volontaire.
+
+Participation à l’administration de la justice.
+
+État de la curie, ses privilèges, sa juridiction, des employés qu’elle a sons ses ordres.
+
+Le magistrat placé à la tête de la cité est le defensor civitatis, chargé de veiller aux intérêts de la ville et de la curie.
+Ses fonctions administratives et judiciaires.
+
+Le curator pacis et l’assertor sont des magistrats secondaires, chargés surtout de l’administration.
+
+Services inférieurs établis dans la cité : les collegiati, corporati.
+
+Quelques mots sur les loca et leur organisation.
+
+Les judices pedanei : leurs fonctions.
+
+Juridiction spéciale du commandant militaire ; il en est peu question dans la loi romaine.
+
+Juridiction spéciale des évêques établie à côté de la juridiction civile et attirant à elle les procès des clercs, quelquefois même des laïques.
+
+
+=== Chapitre III. État des personnes. ===
+
+Ingénus ; nobles, soldats, clercs, etc.
+
+Affranchis, leur condition, leurs devoirs.
+
+Colons.
+
+Esclaves du roi, de la cité, des particuliers : modes d’affranchissement.
+
+Juifs.
+Leur condition.
+
+Résumé.
+En quoi semble avoir consisté la domination des Visigoths ?
+Juridiction supérieure ; droit d’appel au prince : répartition et levée des impôts.
+Le tributum, les vectigalia.
+Le fisc ; ses administrateurs ; administrateurs des domaines royaux.
+
+Que devint après 507 la Loi romaine ?
+Quand cessa-t-elle d’être en vigueur ?
+Son influence sur la Loi germaine des Visigoths, et son importance à l’époque de la renaissance du droit romain.

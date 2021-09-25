@@ -1,0 +1,165 @@
+identifier: ENCPOS_1855_04
+creator: Émile-Léon Gautier
+date: 1855
+title: Essai sur la poésie liturgique au Moyen Âge : proses, tropes, offices rimés, suivi d’une histoire de la versification latine à la même époque
+
+
+
+== I proses. ==
+
+CHAP. I. – Ancienneté des proses : elles remontent au neuvième siècle. – Nolker Balbulus, religieux de l’abbaye de Sainl-Gall, composa les siennes vers 860, d’après celles de l’antiphonaire de Jumiéges. – Il offre à Liutward, évêque de Verceil, son Liber sequentiarum. – Le document principal sur lequel s’appuie celte opinion est le prologue de ce dernier livre, dont l’authenticité n’est pas contestée.
+
+CHAP. 11. – Preuves en faveur de l’opinion précédente. – § 1.
+Ecrivains du moyen âge. – Passage du De casibus monasterii Sancti Galli, par Ekkehard le jeune (onzième siècle). – Ekkehard, biographe de Notker (commencement du treizième siècle). – Honoré d’Autun. – Raoul de Tongres. – Guill.
+Durand. – § 2.
+Ecrivains modernes ; le cardinal Bona, etc.
+
+CHAP. III. – Réfutation des opinions contraires. – L’abbé Lebeuf ; Gerbert ; MM. Villemain et V. Leclerc. – Critique d’une prose attribuée à Alcuin. – Résumé des trois premiers chapitres, propositions établies jusqu’ici.
+
+CHAP. IV. – Composition du Graduel. – Depuis une époque très-reculée, qui paraît être celle même de la constitution de l’Antiphonaire par saint Grégoire le Grand, le dernier Alleluia du Graduel est suivi d’une série de neumes que l’on chantait sur la dernière syllabe a du mot Alleluia – Preuves de cette proposition tirées de douze écrivains du moyen âge, du huitième au treizième siècle
+
+CHAP. V. – Des différents noms donnés par les anciens auteurs à ces neumes de l’Alleluia, et particulièrement du mot séquence. – Des deux sens donnés à ce mot, et quel est le sens primitif. – Etymologies diverses du mot sequentia, proposées par les auteurs du moyen âge et les modernes ; réfutations de Guill.
+Durand, Chemnitius, Clichtove, Prelorius, Gerbert, et de MM. V. Leclerc et Ch.
+Barthélemy.
+
+CHAP. VI. – Des autres noms donnés aux neumes de l’Alleluia : 1° Neumæ ; 2°Jubili ; 3° Melodiæ ; 4° Cantilenæ. – Explication des mots : neumatizare, jubilare, protrahere.
+
+CHAP. VII. – Les neumes de l’Alleluia étaient abandonnés ou négligés dans les églises quand Adrien Ier envoya à Charlemagne des musiciens de Rome. – Fondation des écoles musicales de Saint-Gall et de Metz. – Pierre et Romanus, leurs fondateurs, s’exercent surtout dans la composition des neumes de l’Alleluia.
+
+CHAP. VIII. – Distance parcourue jusqu’ici.
+
+CHAP. IX. – Proposition énoncée d’après tout ce qui précède : les premières proses n’ont été que des paroles écrites sur une musique préexistante (c’est-à-dire sur les neumes où séquences du dernier Alleluia du Graduel), afin de graver plus facilement cette musique dans la mémoire des exécutants : 1° preuves tirées des écrivains du moyen âge et des modernes ; 2° de la musique des proses ; 3° de quelques usages liturgiques ; 4° des rubriques des tropaires ; 5° du texte même des proses et surtout de leurs commencements.
+
+Deux propositions, corollaires de la précédente : 1° l’on n’a pas fait en général de nouvelle musique pour les premières proses ; 2° les proses ne semblent avoir été à l’origine qu’un moyen mnémotechnique.
+
+CHAP. X. – Les proses n’ont pas été admises par toutes les églises, et n’ont point fait disparaître les mélodies ou séquences primitives qui se chantaient sur la dernière syllabe de l’Alleluia. – Des mss. 887 et 1087 de la B.I.
+
+CHAP. XI. – Des proses des neuvième, dixième et onzième siècles et de leurs caractères distinctifs : 1° musique.
+Faute de l’étudier, on risque de tomber dans les plus grandes erreurs sur le style même des premières proses ; 2° paroles.
+Elles ne renferment en général aucune trace de versification, mais sont servilement calquées sur la musique avec les points d’arrêt voulus, et avec des versets qui, chantés sur la même phrase musicale, devaient avoir deux par deux le même nombre de syllabes et les mêmes pauses. – Réfutation du système de M. Mone ; 3° exécution des proses.
+
+CHAP. XII. – Des livres qui renferment les proses à cette époque. – Liber sequentiarum de Notker. – Séquentiaires et tropaires. – Mss. 887, 1087, 1118, 1120, 1121, 1139, anc. fds. latin, 1017, suppl. lat. de la B.I.
+
+CHAP. XIII. – D’une révolution complète dans la manière de composer les proses, qui a lieu au commencement du douzième siècle. – Celle révolution, que personne encore n’a signalée, a lieu a la fois dans la musique et dans les paroles de la prose :
+
+1° La musique des proses cesse entièrement de consister en ces neumes de l’Alleluia, sur lesquels on calquait les paroles.
+Ce sont des mélodies vraiment originales et qui suivent les paroles :
+
+2° Quant aux paroles des proses, elles sont envahies par le système de la versification latine rimée ; on les compose avec d’anciens vers qui n’ont gardé de l’ancienne métrique que la quantité des pénultièmes, mais où la rime et la numération des syllabes sont devenues des lois constantes et essentielles. – Le vers trochaïque tétramètre catalectique, est celui de tous qui fournit le plus de rhythmes à la prose. – Une fois maître de ces deux principes, de la rime et de la numération des syllabes, on les développe de mille manières, on entrelace les rimes et les vers en oubliant de plus en plus l’origine antique de ces derniers. –
+
+Adam de Saint-Victor est le représentant le plus distingué de cette nouvelle poésie.
+
+CHAP. XIV. – D’Adam de Saint-Victor. – De l’abbaye de Saint-Victor, de ses hommes illustres au douzième siècle. – Adam ; sa patrie, sa vie, sa mort, ses épitaphes.
+
+De ses ouvrages autres que ses proses ; réfutation de D. Brial.
+
+Des proses d’Adam de Saint-Victor connues jusqu’à ce jour.
+
+Découverte d’environ cinquante proses inédites, pour la plus grande partie, ou restées jusqu’à ce jour sans nom d’auteur.
+
+Publication de toutes ces proses d’après les mss. de la B.I. (fds.
+Saint-Victor.)
+
+Influence de ces compositions sur celles du même genre qui furent faites depuis.
+
+CHAP. XV. – Histoire sommaire des proses, depuis le douzième usqu’au seizième siècle. – Proses-types. – Symbolisme. – Décadence depuis le quatorzième siècle, et caractères auxquels on peut reconnaître les proses de cette époque.
+Conclusion. 
+
+
+== II tropes. ==
+
+Notions préliminaires. – Qu’appelle-t-on trope en liturgie ?
+
+CHAP. I. – De l’antiquité des tropes. – Deux systèmes, l’un, celui de Bona, qui les fait postérieurs au dixième siècle, l’autre qui les fait plus ou moins antérieurs à ce siècle.
+
+CHAP. II. – Nouvelle opinion proposée. – Les tropes remontent au dixième siècle. – Du ms. 1118 de la B.I. sur lequel nous appuyons notre opinion et d’une pièce renfermée dans ce ms. qui peut en faire remonter tous les tropes a la fin du dixième siècle.
+
+Les tropes auraient été favorisés dans leur développement par la croyance en la fin du monde au commencement du onzième siècle.
+
+CHAP. III. – Étymologies diverses données au mot trope, et de la véritable.
+
+CHAP. IV. – Les proses et les tropes ont-ils absolument la même origine, comme on l’a prétendu ? – Les proses diffèrent des tropes en ce qu’elles ne sont pas desinterpolations qui coupent un texte. – Les tropes diffèrent des proses : 1° en ce qu’ils n’ont pas été écrits sur une musique préexistante (sauf peut-être ceux de Kyrie et ceux de l’intérieur du Graduel) ; – 2° en ce qu’ils n’ont pas été un moyen mnémotechnique.
+
+CHAP. V. – Les tropes des églises latines n’ont d’autre rapport que le nom avec les tropaires des Grecs.
+
+CHAP. VI. – Les tropes ne sont pas une institution ecclésiastique régulière, mais une pratique pieuse née dans quelques monastères.
+
+CHAP. VII. – Les tropes ont pu donner naissance aux mystères liturgiques ; tropes dramatiques de l’introït de Noël et de celui de Pâques, tirés du ms. 1118.
+
+CHAP. VIII. – De la composition des tropaires de cette époque. – Saint-Martial de Limoges. – Analyse sommaire des mss. de la B.I., 1118, 887, 1121, anc. fds., 1017, suppl. latin.
+
+CHAP. IX. – Caractères des tropes des dixième et onzième siècles.
+
+CHAP. X. – Énumération des tropes placés à cette époque aux différentes parties de la sainte Messe. – Citations nombreuses de tropes inédits de l’Introit, du Kyrie, ad rogandum episcopum, avant l’épître, du Graduel, ad sequentiam, du Sanctus, de l’Agnus Dei, de la communion et de l’Ite missa est. – Acclamations. – Publication de qq. tropes du ms. 887, et d’une partie considérable du tropaire inédit de la B.I. 1121 (de Noël à la Pentecôte).
+
+CHAP. XI. – Révolution dans la manière de composer les tropes, au douzième siècle.
+La versification syllabique et rimée les envahit.
+On en fait encore quelques-uns pour la messe, mais on en fait surtout pour les autres parties des saints offices, qui ont le caractère de vrais cantiques, et que M. Ed.
+Duméril a sans doute eu tort de prendre pour des chants populaires.
+
+CHAP. XII. – Enumération des tropes de la seconde époque.
+
+§ 1er. – Tropes de la messe, du Kyrie, du Gloria, de. l’épître et du Sanctus.
+
+§ 2. – Tropes des autres offices, du Tu autem, du Benedicamus ; tropes dans le genre de ces derniers, mais sans indication spéciale du moment où on les chantait.
+
+§ 3. – Publication d’une partie des manuscrits 4880 et 3719.
+
+Appendice. – De quelques pièces latines qui se rapprochent assez de nos motels et oratorios. 
+
+
+== III offices rimés. ==
+
+CHAP. Ier. – Origine des antiennes et des répons dans l’Église latine.
+
+CHAP. II. – Les plus anciens offices riniés remontent au douzième siècle Ils sont en vogue au treizième, et plus tard on va jusqu’à rimer, pour certaines fêtes, les oraisons de la messe.
+Exemples.
+
+CHAP. III. – Publication d’offices rimés, d’après le bréviaire de Metz, et autres inédits.
+
+
+== IV histoire sommaire de la versification latine au moyen Age. ==
+
+CHAP. Ier. – Du fondement de la versification antique.
+Discussion entre MM. Vincent et B. Jullien, et opinion émise.
+De deux tendances dans la poésie latine qui devaient un jour amener la ruine de l’ancienne métrique.
+
+CHAP. II. – Qu’au moyen âge on n’a point cessé de connaître et de cultiver l’ancienne versification latine.
+Poétiques de cette époque.
+
+CHAP. III. – Tendances dans la poésie latine populaire et liturgique à l’assonance et à la numération des syllabes.
+
+CHAP. IV. – Progrès de ces deux tendances.
+Exemples cités de siècle en siècle.
+
+CHAP. V. – Application des principes précédents.
+Petite histoire du vers iambique dimètre.
+
+CHAP. VI. De la rime.
+Qu’elle est distincte de l’assonance Qu elle naît au onzième siècle.
+Exemples de vers latins rimés de celte époque (inédits).
+Du vrai sens des mots consonnant et léonime.
+
+CHAP. VII. – Quelques mots sur l’origine de la poésie romane.
+
+CHAP. VIII. – Distance parcourue jusqu’ici et propositions établies.
+
+CHAP. IX. – Révolution capitale dans la poésie latine liturgique a la fin du onzième siècle ou au commencement du douzième : 1° Suppression définitive et légale de l’ancienne quantité prosodique, sauf aux pénultièmes ; 2° introduction de la rime dans des vers qui ne l’avaient pas encore reçue.
+
+CHAP. X. – Entre tous les vers de l’antiquité qui ont influé sur la formation de la poésie latine rimée, celui de tous qui a en le plus d’influence, à beaucoup près, c’est le trochaïque tétramètre catalectique.
+On peut dire que toute la poésie rimée du douzième siècle dérive de ce vers.
+Son histoire antérieurement a ce siècle.
+
+CHAP. XI. – Ses transformations au douzième siècle, et comment se sont-elles succédé ?
+
+CHAP. XII. – Des strophes dérivées de ce vers dans la nouvelle versification latine.
+
+CHAP. XIII. – Des autres vers de l’antiquité qui entrèrent corrompus et défigurés dans celte nouvelle poésie : asclépiade, iambique dimètre, etc.
+Bientôt on perd de vue l’origine de tons ces vers, surtout celle du trochaïque septenarius ; on entrelace capricieusement dès le douzième siècle les rimes et les vers d’un nombre inégal de syllabes.
+C’est la ruine définitive de la prosodie antique ; c’est le triomphe de la versification moderne.
+
+CHAP. XIV. – Des différentes espèces de vers dans la poésie latine rimée.
+
+CHAP. XV. – Des principales espèces de strophes.
+
+Projet d’une publication complète de la poésie liturgique du moyen âge.

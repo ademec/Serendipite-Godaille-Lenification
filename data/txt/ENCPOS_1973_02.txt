@@ -1,0 +1,204 @@
+identifier: ENCPOS_1973_02
+creator: Anne-Marie Chagny-Sève
+date: 1973
+title: Le chapitre cathédral de Clermont des origines à 1560. Son organisation, sa vie, ses membres
+
+
+
+== Introduction ==
+
+Cette étude du chapitre cathédral de Clermont se place essentiellement à un point de vue institutionnel et religieux.
+L’étude du temporel est délibérément exclue.
+Le terme de notre travail se justifie par la perte du pouvoir d’élection de l’évêque en 1560 (et non en 1516).
+
+
+== Sources ==
+
+Les sources principales de notre documentation se trouvent aux Archives du Puy-de-Dôme.
+Le fonds du chapitre (sous-série 3G) comporte une grave lacune : l’absence quasi-complète de registres de délibérations capitulaires (il n’en subsiste que quelques feuillets).
+Ont aussi été consultés les fonds de l’évêché, des autres collégiales et de la ville.
+Des compléments ont été apportés par le département des manuscrits de la Bibliothèque nationale, quelques séries des Archives nationales et les registres des papes publiés.
+
+
+== Chapitre préliminaire le cadre clermontois de la vie des chanoines ==
+
+Dans la ville de Clermont où les clercs sont très nombreux, le chapitre cathédral occupe l’intérieur de l’enceinte des Cinq-Portes, au sommet de la butte où est bâtie la cathédrale.
+Là, se trouvent, avec les bâtiments capitulaires, l’évêché et la maison de ville.
+Le chapitre est donc installé au centre de la vie politique et religieuse de la cité. 
+
+
+== Première partie Organisation du chapitre ==
+
+
+=== Chapitre premier les chanoines ===
+
+Le nombre de trente-six chanoines figurant dans les statuts semble théorique.
+La différence de statut entre les trente chanoines « libres » et les six « hebdomadiers » est considérable.
+Seuls les derniers sont astreints à la prêtrise et à l’assistance continuelle aux offices et ils n’ont pas voix délibérative au chapitre, ce qui a provoqué de leur part plusieurs sursauts d’indépendance, notamment en 1515, où ils ont été proches du succès.
+La collation des prébendes appartient au seul chapitre.
+Tout nouveau chanoine prête sur la
+    « Canone » (recueil de statuts composé en 1291) un serment de fidélité au chapitre.
+
+
+=== Chapitre II Les dignitaires ===
+
+Au nombre de quatre (prévôt, abbé, doyen et chantre), les dignitaires jouissent de privilèges honorifiques et temporels.
+Seul le chantre a un rôle effectif.
+Les archidiacres sont toujours des chanoines et on trouve un théologal parmi les membres du chapitre dès le xive siècle.
+
+
+=== Chapitre III Prébendes et rémunérations ===
+
+Les revenus des chanoines étaient composés des « gros fruits » de la prébende versés proportionnellement au temps de résidence à Clermont, un supplément étant accordé à ceux qui avaient accompli les huit mois annuels prévus par les statuts et aux dignitaires, et du « manuel », distributions liées à l’assistance aux offices.
+Des livraisons exceptionnelles complétaient les gros fruits dont le montant était faible.
+
+
+=== Chapitre IV Les offices canoniaux ===
+
+Les principaux officiers, bailes, juges, trésoriers, gardes de l’édifice, des sceaux, des reliques, etc., assuraient le bon fonctionnement de l’institution et la gestion de ses biens.
+Il n’y avait pas de cursus honorum et le cumul était possible. 
+
+
+=== Chapitre V Choriers et personnel ===
+
+Les clercs du chœur, ou choriers, assuraient le service divin et diverses tâches cultuelles et administratives (liseur de la Canone, sous-chantre, cellerier, pointeur, etc.).
+Des enfants de chœur et leurs maîtres et de nombreux petits officiers clercs et laïcs (sacristain, notaire, etc.) au service du chapitre augmentaient l’influence de celui-ci dans la ville.
+
+
+== Deuxième partie Les activités du chapitre ==
+
+
+=== Chapitre premier les assemblées capitulaires ===
+
+Deux chapitres généraux dans l’année et deux chapitres hebdomadaires réunissaient les chanoines dans la chapelle Saint-Nicolas, extérieure à la cathédrale.
+La présence y était obligatoire.
+
+
+=== Chapitre II Les activités religieuses ===
+
+Le chapitre jouissait de divers privilèges accordés par le pape (possibilité de célébrer en temps d’interdit, libre choix d’un confesseur, etc.).
+Les chanoines étaient contraints d’assister à l’une des trois heures dites « principales » de l’office journalier (matines, messe de la Vierge et vêpres) en plus de la messe du jour.
+A l’occasion de fêtes tant civiles que religieuses, le chapitre organisait pour toute la ville messes et processions.
+La chapelle Sainte-Croix de la cathédrale était le siège d’une paroisse dont étaient membres d’office l’évêque et tous les serviteurs, familiers et habitués du chapitre.
+Les chanoines assuraient le service des fondations ; parmi celles-ci, les vicairies (office religieux le plus souvent hebdomadaire lié à un autel donné), nombreuses, étaient confiées aux choriers et représentaient un apport important de ressources.
+Les chanoines se réservaient plutôt les cérémonies fastueuses.
+Une union de prière avec le chapitre de Langres, existant dès le xiiie siècle, a duré plusieurs siècles. 
+
+
+=== Chapitre III Le chapitre auxiliaire de l’évêque ===
+
+Les chanoines remplirent pendant les premiers siècles leur fonction de conseillers de l’évêque ; mais peu à peu, à partir du début du xiiie siècle, ils se consacrèrent à leurs propres affaires.
+Il est rare que l’évêque choisisse parmi eux vicaires ou officiaux.
+Lorsque le siège épiscopal était vacant, ils administraient le diocèse, non sans difficulté au sujet de la Régale, notamment au début du xive siècle.
+
+
+=== Chapitre IV La juridiction du chapitre ===
+
+Le chapitre revendiquait pour son tribunal, qui siégeait dans la tour de la Monnaie, une compétence étendue (exemption ratione personne non seulement des membres du chapitre mais de tous les officiers et de leur famille, quel que soit le lieu du délit, exemption ratione loci pour tous les délits commis dans un lieu appartenant au chapitre, etc.).
+Si les deux juges capitulaires se montraient sévères pour les délits commis envers le chapitre, ils étaient indulgents pour les autres, notamment les affaires de mœurs impliquant chanoines et choriers.
+Les peines infligées étaient souvent d’ordre spirituel.
+
+
+=== Chapitre V Activités intellectuelles et artistiques ===
+
+Un nombre important de chanoines avaient une formation juridique.
+Une bibliothèque capitulaire permettait de poursuivre des études.
+Nombre de chanoines possédaient des livres ; le chantre Roger Benoîton, qui mourut en 1480, avait une collection particulièrement riche en ouvrages anciens ou récents.
+Quelques-uns ont laissé des œuvres originales (historiques, etc.).
+Représentations de mystères et travaux artistiques sont les seules manifestations collectives de l’intérêt porté par le chapitre aux activités de l’esprit.
+
+
+== Troisième partie Relations du chapitre avec l’extérieur ==
+
+
+=== Chapitre premier le chapitre et la ville ===
+
+Les mêmes familles se retrouvaient au chapitre et dans le corps de ville.
+Une collaboration entre les chanoines et les magistrats urbains existait en matière charitable et religieuse.
+La construction de l’horloge (1408), le choix du maître d’école et du prédicateur de carême sont faits en commun.
+Le chapitre manifeste sa mauvaise volonté pour le guet aux murailles vers 1460-1480 et refuse d’être assujetti aux taxes municipales.
+
+
+=== Chapitre II Le chapitre et le diocèse. Les rapports avec l’évêque ===
+
+L’élection de l’évêque et sa réception. – Le chapitre élit l’évêque de Clermont ; il a défendu avec succès son privilège contre les empiètements des rois et des papes.
+H protège à l’avance ses prérogatives en faisant prêter un serment à l’évêque le jour de sa réception.
+
+Rapports avec l’évêque et son entourage. – Le chapitre se sentait fort car l’évêque était de droit chanoine.
+Des conflits ont marqué la plupart des épiscopats, à propos des redevances dues par l’évêque, du pouvoir épiscopal, de la suprématie du chapitre dans l’enceinte des Cinq-Portes et des privilèges honorifiques que le chapitre refusait de reconnaître.
+Les officiers de l’évêque étaient eux aussi tenus de prêter serment au chapitre.
+
+Les conflits de juridiction. – L’évêque refusait de reconnaître l’exemption des choriers et la franchise des maisons des chanoines.
+Le pape Urbain V supprima une grande partie des privilèges du chapitre par une bulle de 1363 mais ce dernier réussit en 1438 à la faire casser par Eugène IV et triompha lors du traité conclu en décembre 1446 avec l’évêque Jacques de Comborn, ancien chanoine.
+
+
+=== Chapitre III Le chapitre et le diocèse rapports avec les autres chapitres et les ordres religieux ===
+
+Les signes extérieurs de la supériorité du chapitre (sonnerie de cloches, port du surplis dans l’enceinte des Cinq-Portes, vêtements), son autorité religieuse (convocation aux processions, interventions dans les cérémonies), les rapports d’ordre institutionnel en font un corps puissant et redouté.
+En effet, le chapitre a fondé plusieurs collégiales dans le diocèse ; à Clermont, celle de Saint-Pierre en 1242, au xiiie également, celle d’Herment.
+H intervenait dans les élections d’abbés notamment à Chantoin où s’étaient établis, lors de la sécularisation du chapitre au milieu du xiie siècle, les chanoines désireux de continuer la vie commune ; bien des supérieurs de monastères lui prêtaient encore serment au xiiie siècle. 
+
+
+=== Chapitre IV Le chapitre et le diocèse. Le chapitre patron de plusieurs cures ===
+
+Une cinquantaine de cures réparties dans le diocèse sont à la présentation du chapitre et sont dispensées des droits de visite de l’évêque.
+Les chanoines ou choriers curés ne sont pas tenus à la résidence personnelle.
+Ces cures constituent pour le chapitre un réel moyen d’influence.
+
+
+=== Chapitre V Le chapitre et les autorités religieuses et civiles ===
+
+Mis à part leur refus de reconnaître la primauté de l’archevêque de Bourges, les chanoines ont entretenu de bonnes relations avec les autorités.
+Dès 1096, le pape Urbain II confirmait les privilèges du chapitre ; ses successeurs ont fait de même.
+Sauf au xive siècle où ils ont été en butte à l’hostilité d’Urbain V, les chanoines ont toujours été assurés de l’appui pontifical.
+Se disant de fondation royale, le chapitre a obtenu régulièrement des rois de France des lettres de sauvegarde, le privilège de ne comparaître que devant les maîtres des Requêtes du Palais et d’autres prérogatives.
+Il a su néanmoins éviter toute ingérence dans ses affaires.
+
+
+== Quatrième partie Les hommes et l’institution ==
+
+
+=== Chapitre premier résidence et mode de vie ===
+
+Les chanoines, richement vêtus, habitaient depuis la sécularisation des maisons individuelles et avaient des serviteurs souvent choriers.
+Si une vingtaine d’entre eux accomplissaient leurs huit mois de résidence, les autres, notamment les dignitaires, étaient très souvent absents. 
+
+
+=== Chapitre II Le recrutement ===
+
+Entre le xiie et le xve siècle, le recrutement local décroît progressivement : de 60 % aux xiie et xiiie siècles, il passe à 50 % à la fin du xiiie et à 40 % au xive siècle.
+La création du diocèse de Saint-Flour en 1317 a eu une influence certaine.
+Bien des chanoines proviennent du Midi, de l’Ouest et de la région parisienne, amenés entre autres par les évêques étrangers au diocèse.
+Une partie d’entre eux appartiennent à la riche bourgeoisie de Clermont et les dignités sont régulièrement accaparées par les grandes familles nobles de la région (par exemple d’Auvergne au xiie siècle, de La Tour, de Cros, au xiiie et xive, de Montboissier et de Montmorin au xve siècle).
+Le népotisme était chose courante et les dynasties familiales ne sont pas rares.
+
+
+=== Chapitre III Les carrières ===
+
+Peu de chanoines restaient confinés à Clermont.
+Nombreux étaient les possesseurs d’autres canonicats, ceux de Paris et de Lyon étant les plus recherchés.
+Plusieurs membres du chapitre, presque tous des dignitaires, ont accédé à l’épiscopat.
+Divers chanoines ont exercé des fonctions auprès du Saint-Siège (chapelain, protonotaire apostolique).
+Dans le siècle, la carrière la plus courante était celle de conseiller au Parlement : là encore, on retrouve de nombreux dignitaires.
+
+
+== Conclusion ==
+
+Le chapitre cathédral de Clermont, orgueilleux et procédurier, occupé surtout à défendre ses prérogatives, semble assez indifférent aux problèmes de son temps.
+Il est une puissance essentiellement locale, malgré ses fonctions extérieures remplies surtout par ses dignitaires.
+A Clermont, et en Auvergne, son prestige est grand. 
+
+
+== Appendices ==
+
+Style chronologique. – Liste des évêques. – Notes sur la Canone. – Calendrier liturgique. – Liste des vicairies. – Liste biographique des membres du chapitre.
+
+
+== Album de photographies ==
+
+
+
+
+== Pièces justificatives ==
+
+

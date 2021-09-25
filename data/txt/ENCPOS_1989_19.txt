@@ -1,0 +1,85 @@
+identifier: ENCPOS_1989_19
+creator: Christophe Pavlidès
+date: 1989
+title: L’Histoire ancienne jusqu’à César (première rédaction). Étude de la tradition manuscrite. Étude et édition partielle de la section d’histoire romaine
+
+
+
+== Introduction ==
+
+L’Histoire ancienne jusqu’à César est, avec les Faits des Romains, la plus ancienne compilation française d’histoire antique et la plus lue ; les deux textes ont souvent été copiés à la suite l’un de l’autre et ont été utilisés par les compilateurs postérieurs.
+Le titre d’Histoire ancienne jusqu’à César a été forgé par Paul Meyer, qui a constaté la variété de titres plus ou moins trompeurs que donnent les manuscrits.
+
+Destinataire, date et auteur. – Le prologue en vers que donnent deux manuscrits nomme le protecteur de l’auteur, Roger IV, châtelain de Lille de 1208 à 1230.
+Des allusions aux événements contemporains incitent à dater le texte des années 1213-1214, et en tout cas des premièers années de pouvoir de Roger IV. L’auteur de l’Histoire ancienne est inconnu ; on a parfois proposé de l’identifier avec Wauchier de Denain, traducteur de Vies des Pères et peut-être auteur de la seconde continuation de Perceval ; mais aucun élément décisif ne permet encore de trancher sur ce sujet.
+
+Composition du texte. – Le manuscrit le plus complet du texte est le manuscrit français 20125 de la Bibliothèque nationale de Paris.
+On a pris l’habitude d’en diviser le texte en sept sections (outre le prologue en vers, fol. 1-2 v) : Genèse (fol. 3-83), Assyrie et Grèce (fol. 83-89), Thèbes (fol. 89-117 v), Minotaure, Amazones et Hercule (fol. 117 v-123), Troie (fol. 123-148), Enée (fol. 148-177), Rome (fol. 177-375 v).
+Cette dernière section peut être divisée comme suit : Assyriens, chronologies (fol. 177-179) ; Rome I (fol. 179-198 v) ; Mèdes et Perses, Judith et Esther (fol. 198 v-220 v) ; Macédoine (fol. 220 v-258 v) ; Rome II (fol. 258 v-369 v) ; Rome III, Crassus et César (fol. 369 v-375 v) : cette dernière sous-section n’est présente que dans quelques manuscrits.
+
+Seuls le prologue et la première section ont fait l’objet d’une édition (M.C. Joslin, 1985).
+L’histoire de Rome, bien qu’elle représente plus du tiers du texte, avait jusqu’à présent été pratiquement négligée par la critique au profit des sections dont les thèmes sont ceux des romans antiques.
+
+Seconde et troisième rédactions. – Au xive siècle, l’Histoire ancienne a été remaniée : la section Troie a été remplacée par un long roman de Troie en prose intégrant des épîtres traduites d’Ovide ; la sous-section sur la Macédoine a été supprimée et celle sur les Mèdes et les Perses a été permutée avec Rome I.
+
+Au xve siècle, une troisième rédaction a combiné le texte des deux premières avec les développements d’histoire sacrée de la Chronique dite de Baudouin d’Avesnes.
+
+
+== Première partie La tradition manuscrite de la première rédaction ==
+
+
+=== Chapitre premier les manuscrits ===
+
+La première rédaction semble avoir connu une large diffusion : on en conserve en effet plus de soixante manuscrits ou fragments : Aberystwyth, National Library of Wales 5027 E (Ab). – Aylsham, Blicking Hall 6931 (Ay). – Bruxelles, Bibliothèque royale 9104-9105 (B1) ; 9650-9652 (B2) ; 10175 (B3) ; 18295 (B4). – Carpentras, Bibliothèque municipale 1260 (Ca). – Chantilly, Musée Condé 726 (Ch). – Cologny, Bibliothèque Bodmer 160 (Cl). – Copenhague, Bibliothèque royale Thott 431 (Co). – Dijon, Bibliothèque municipale 562 (D). – Florence, Medicea riccardiana 3982 (F). – Genève, Bibliothèque publique et universitaire fr. 72 (G). – La Haye, Bibliothèque royale 78.
+D.47 (H). – Londres, British library Royal 16 G VII (L1) ; Harley 3316 (L2) ; Additional 12029 (L3) ; 15268 (L4) ; 19669 (L5) ; 25884 (L6) ; Egerton 912 (L7). – Londres, Maison Maggs (Lm). – Mâcon, Archives départementales de Saône-et-Loire, H 362 (Ma). – New-York, Pierpont Morgan Library, collection W.S. Glazier 23 (Ng). – New-York, Pierpont Morgan Library M 212 (Np). – Paris, Bibliothèque de l’Arsenal 5081 (Pa). – Paris, Bibliothèque nationale, fr. 39 (P1) ; fr. 64 (P2) ; fr. 168 (P3) ; fr. 182 (P4) ; fr. 246 (P5) ; fr. 250 (P6) ; fr. 251 (P7) ; fr. 256 (P8) ; fr. 677-678 (P9) ; fr. 686 (P10) ; fr. 687 (P11) ; fr. 821 (P12) ; fr. 1386 (P13) ; fr. 1407 (P14) ; fr. 9682 (P15) ; fr. 9685 (P16) ; fr. 12586 (P17) ; fr. 17177 (P18) ; fr. 20125 (P19) ; fr. 20126 (P20) ; fr. 22986 (P21) ; fr. 24149 (P22) ; nouv. acq. fr. 3576 (P23) ; nouv. acq. fr. 3650 (P24) ; nouv. acq. fr. 6774 (P25) . –  Paris, Assemblée nationale 1263 (Pb). – Pommersfelden, Schlossbibliothek 295 (Po). – Princeton, University Library, collection Garrett 128 (Pr). – Rome, Bibliothèque Casanatense 233 (R). – Tours, Bibliothèque municipale 953 (T1) et 974 (T2). – Vatican, Vatican latin 5895 (Pa). – Venise, Bibliothèque Marciana, fr.
+II (223) (Ve). – Vienne, Bibliothèque nationale 2576 (W).
+
+On peut ajouter à ces manuscrits une miniature de Jean Fouquet se trouvant au Louvre et représentant le couronnement d’Alexandre.
+
+Il faut également compléter cette liste par quelques manuscrits actuellement non localisés, passés en vente publique ces dernières aimées : Kraus, 1983, Catalogue 165, n° 6 et Christie, Manson and Wood, 20/5/1983, n° 49 (ancien Hearst 8) ; Sotheby, 26/11/1985, n° 107.
+
+On ignore ce que sont devenus les manuscrits Barrois 908 et 1704.
+
+On a écarté de la liste ci-dessus le manuscrit 1850 de la Bibliothèque municipale de Tours, composé de miniatures découpées et collées qui proviennent, en fait, d’un manuscrit de la troisième rédaction et non de la première (au contraire de l’opinion jusqu’ici admise), comme le prouvent notamment les sujets sur David et Salomon.
+
+Apparemment, T2 n’avait encore jamais été signalé comme manuscrit de l’Histoire ancienne.
+
+
+=== Chapitre II Éléments de classement ===
+
+Limites de l’étude. – Il ne saurait être question ici d’un classement complet et définitif : les manuscrits n’ont pu être tous examinés et il est, de surcroît, probable que d’autres exemplaires du texte restent à découvrir.
+Par ailleurs, on a comparé les manuscrits uniquement à partir de la section romaine, ce qui en exclut plusieurs qui soit ne la possèdent pas, soit la présentent de façon trop fragmentaire, et ce qui laisse de côté les différences souvent profondes que peuvent offrir les autres sections d’un manuscrit à l’autre.
+Enfin, on s’en est tenu à l’étude du texte, sans prendre en compte l’illustration (du reste, les études iconographiques de tel ou tel groupe de manuscrits confirment nos propres conclusions).
+
+Classement. – Les manuscrits ont été classés à partir de quatre longs passages du texte qui s’avèrent être absents ou interpolés dans un certain nombre de cas : le classement a été ensuite affiné, à partir de deux passages assez courts, où vers et prose se trouvent mêlés : les passages en vers connaissent, en effet, un sort très inégal selon les manuscrits.
+
+Il en ressort que P19 est bien le manuscrit le plus propre à être édité : c’est le plus complet, le plus homogène, celui qui maintient le plus grand nombre de morceaux en vers ; c’est aussi l’un des plus anciens (dernières décennies du xiiie siècle).
+On peut lui rattacher le groupe formé par les « manuscrits des croisades » et ceux qui leur sont proches : B3, D, L4, P3 (malheureusement incomplet), P10 et P15 ; ces six manuscrits présentent un texte extrêmement proche de celui de P19 pour la prose, et sont les seuls à comporter l’épilogue sur César avec P6 (en partie) et P18 (en partie également).
+En revanche, ils ne maintiennent pas tous les passages en vers. 
+
+L’éditeur de la Genèse avait eu recours pour les vers à W, qui est le seul manuscrit, avec P19, à donner le prologue du texte.
+Mais le manuscrit W a été plusieurs fois remanié et ne peut être d’aucun secours pour la section romaine, dont il donne un texte tout à fait atypique.
+Il faut donc avoir recours à d’autres manuscrits : à P5 et P23 pour certains morceaux en vers, et au groupe formé de H, L5, P8, P18, P20, Ve pour d’autres.
+Mais aucun des manuscrits étudiés ne comporte à lui seul tous les passages en vers de P19.
+Fort heureusement, les qualités internes de P19 permettent de lui accorder ici toute confiance.
+
+Quant aux autres manuscrits examinés, l’étude de la section romaine ne suffit pas à justifier leur emploi pour une édition critique de Y Histoire ancienne.
+
+
+== Deuxième partie Les sources de l’histoire romaine ==
+
+Rappel sur les sources principales des sections déjà étudiées du texte. – L’auteur s’est surtout servi, pour la Genèse, de la Vulgate, de Flavius Josèphe et de Pierre le Mangeur ; pour Thèbes, du Roman de Thèbes ; pour Troie, de Darès ; pour Énée, de Virgile et du commentaire de Servius ; pour Alexandre, de Julius Valerius.
+En de nombreux endroits, il a utilisé Orose et la Chronique d’Eusèbe-Jérôme.
+
+Les sources de l’histoire romaine. – La section romaine a été analysée chapitre par chapitre, d’après P19, fol. 177-198 v et 258 v-369 v ; les passages posant problème et, notamment, tous les passages en vers ont été transcrits.
+
+L’auteur a surtout utilisé Orose (Historia adversum paganos) et Eutrope (Breviarium ab urbe condita).
+Ponctuellement, il a également utilisé la Chronique d’Eusèbe dans la version de Jérôme, l’Historia scholastica de Pierre le Mangeur, l’Historia Britonum du Pseudo-Nennius, le commentaire de Servius sur l’Énéide, les Étymologies d’Isidore de Séville ; il a sans doute utilisé Valère-Maxime et ses abréviations ; pour l’histoire de Romulus, il semble avoir connu des traditions liées au Pseudo-Aurelius Victor.
+Par ailleurs, il cite l’Écriture de mémoire et connaît bien certaines légendes de saints (les Sept Dormants d’Ephèse et sainte Agathe) ou de fondations de villes (Reims, Tournai, Trèves) ; il fait de Tongres une grande puissance maritime antique, sans qu’il soit possible de déterminer s’il se fonde ici sur une source précise.
+
+En tout état de cause, le traitement de ces légendes, comme celui des sources antiques, ne laisse aucun doute sur l’identité d’auteur entre l’épilogue sur César et le reste du texte. 
+
+
+== Troisième partie Édition partielle du texte ==
+
+On a édité, d’après P19, le court passage sur les Assyriens et les chronologies qui le complètent (fol. 177 a-179 a), ainsi que Rome I (fol. 179 a-198 a) ; de Rome II, on a édité le début (la guerre contre Pyrrhus, fol. 258 d-264 a) et la fin (Pompée en Palestine, fol. 368 c-369 d), suivie de Rome III (Crassus et César, fol. 369 d-375 c).

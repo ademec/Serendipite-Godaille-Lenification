@@ -1,0 +1,280 @@
+identifier: ENCPOS_1970_04
+creator: Christine Bischoff
+date: 1970
+title: L’Hortus deliciarum d’Herrade de Landsberg : essai de reconstitution du texte
+
+
+
+== Introduction ==
+
+Anéanti lors du bombardement de la Bibliothèque de Strasbourg, dans la nuit du 24 au 25 août 1870, l’Hortus deliciarum, vaste encyclopédie de la fin du xiie siècle, n’est plus accessible aux chercheurs qu’à travers des copies et des calques qui, dus à quelques érudits du xixe siècle, transmettent une partie de ses miniatures et de son texte.
+
+Seuls les calques ont été publiés dans leur totalité.
+Constituant un véritable répertoire iconographique, ils ont servi de base à de nombreuses études.
+
+En revanche, on ne dispose que d’éditions très partielles et souvent médiocres du texte : sa publication, il est vrai, fut toujours différée en raison de l’aspect fragmentaire et quelque peu incohérent que présentent les copies.
+L’existence même de ces fragments justifie cependant une telle entreprise, dont il convient de ne point oublier les limites.
+
+
+== Première partie Le manuscrit ==
+
+
+=== Chapitre premier l’abbaye de Hohenbourg à l’époque d’Herrade ===
+
+Fondée à la fin du viie ou au début du viiie siècle par le duc d’Alsace Adalric, père de sainte Odile, l’abbaye de Hohenbourg en Alsace était en pleine décadence lorsque, vers 1150, Frédéric Barberousse en confia la direction à l’abbesse Relinde qui, y introduisant la règle de saint Augustin, s’attacha à rétablir l’ordre et la discipline.
+
+Herrade, qui lui succéda en 1167, poursuivit cette tâche.
+On est très mal renseigné sur l’origine de cette abbesse, qu’une tradition tardive rattache à la famille de Landsberg.
+Attestée pour la première fois en 1508 par Wimpheling, dans son catalogue des évêques de Strasbourg, cette appartenance n’est pas plus mentionnée dans l’Hortus deliciarum que dans l’obituaire d’Etival et dans le nécrologe de Truttenhausen qui, composé à partir de 1460, fait pourtant une large place aux membres de la famille de Landsberg.
+
+La nouvelle abbesse fit preuve, dans de nombreux domaines, d’une activité considérable.
+Sur le plan matériel, elle s’efforça de consolider le patrimoine de son abbaye.
+Sur le plan spirituel, elle fut à l’origine de deux fondations : afin d’assurer la célébration régulière des offices à Hohenbourg, elle s’adressa aux prémontrés d’Etival qui, en 1178, établirent un prieuré à Saint-Gorgon, puis, vers 1183, aux chanoines augustins de Marbach en Haute-Alsace, qui envoyèrent douze des leurs à Truttenhausen.
+
+A l’époque de Relinde et d’Herrade la communauté de Hohenbourg, pour qui fut composé l’Hortus, ne comptait pas moins de quarante-six chanoinesses et treize converses, issues, pour la plupart, de la noblesse alsacienne et souabe.
+
+
+=== Chapitre II Histoire du manuscrit ===
+
+Rien ne permet de savoir ce que fut le destin de l’Hortus deliciarum au moyen âge.
+Au début du xvie siècle, le manuscrit d’Herrade était encore à Hohenbourg, où l’humaniste Jérôme Guebwiler eut l’occasion de le feuilleter.
+Après l’incendie qui, en 1546, ravagea les bâtiments de l’abbaye, marquant ainsi la dispersion définitive des religieuses, il parvint entre les mains de l’évêque de Strasbourg, qui le conserva dès lors dans son château de Saverne.
+C’est là qu’il se trouvait lorsque le P. Jean Busée en prit connaissance vers 1600, pour son édition des œuvres de Pierre de Blois.
+
+On ignore la date et la raison du transfert de l’Hortus à la chartreuse de Molsheim.
+Il y fit l’objet, en 1695, d’une copie, malheureusement disparue avec l’original, et y fut conservé avec un soin jaloux qui explique le silence des érudits des xviie et xviiie siècles.
+
+Lors de la confiscation des biens d’Église, il rejoignit, avec la bibliothèque des Chartreux, le dépôt central du district de Strasbourg.
+Il y fut revendiqué par un membre de la famille de Landsberg qui, après avoir obtenu gain de cause, en novembre 1794, dut le restituer à l’administration.
+Cet épisode nous vaut la première notice descriptive du manuscrit d’Herrade.
+
+Déposé en 1803, avec le fonds dont il faisait partie, dans le chœur du Temple Neuf, l’Hortus était considéré à juste titre comme la richesse la plus représen tative de la Bibliothèque de Strasbourg.
+Très souvent consulté, il fit l’objet de plusieurs études.
+A côté de la monographie que lui consacra Chr.
+M. Engelhardt, il convient de mentionner les travaux d’A. Le Noble et de Ferdinand Piper.
+Sous le règne de Louis-Philippe, le comte Auguste de Bastard d’Estang en obtint communication à Paris et le garda pendant plus de dix ans à son domicile.
+Après un séjour de trois mois à Berlin, en 1848, le précieux manuscrit réintégra enfin la Bibliothèque de Strasbourg dont il partagea le sort en 1870.
+
+Dès lors, son histoire n’est plus que celle des tentatives de reconstitution dont il fit l’objet.
+On retiendra, en l’occurrence, les noms des chanoines Straub et Keller, puis, plus tard, du chanoine Joseph Walter qui, portant l’essentiel de leurs efforts sur les miniatures, consacrèrent de longues années à cette tâche.
+
+
+=== Chapitre III Description du manuscrit ===
+
+Des éléments de descriptions sont fournis par la monographie de Chr.
+M. Engelhardt.
+Pour certains points de détails, il est utile de se référer aux travaux qui se fondent sur une étude directe du manuscrit.
+
+Datation. – Il est peu aisé d’assigner une date exacte à la composition de l’Hortus deliciarum, car, en raison du genre littéraire auquel elle appartient, l’œuvre d’Herrade fut soumise à de nombreux remaniements.
+
+Cependant, plusieurs indications chronologiques sont fournies par le manuscrit lui-même.
+La plus ancienne date qu’on y relève est 1159.
+Elle précède une pièce computique qu’on ne doit pas attribuer à Herrade.
+Une seconde mention est donnée en tête d’une table pascale : Facta est hec pagina MCLXXV. Enfin, la liste des papes recèle deux autres indices : elle est de la même écriture jusqu’au pontificat de Lucius III (1181-1185), tandis que le pontificat de Clément III (1185-1191) a été ajouté par une main différente.
+
+L’identification de deux œuvres utilisées par Herrade pour sa compilation confirme ces données : l’Historia scholastica de Pierre Comestor a été diffusée à partir de 1173 environ et les poèmes de Gautier de Châtillon sont à dater de la même époque.
+
+Aspect matériel. – Les dimensions considérables et la richesse des miniatures qui en occupaient plus d’un tiers faisaient de l’Hortus deliciarum un manuscrit de luxe.
+Il comptait trois cent vingt-quatre feuillets avant sa destruction.
+Une inscription du xive siècle en dénombrait cependant trois cent quarante-deux.
+Il est donc possible que certaines feuilles aient survécu au désastre de 1870. 
+
+
+=== Chapitre IV État du texte ===
+
+La proportion des textes publiés est infime.
+Si l’on doit au P. Busée l’édition intégrale du grand poème sur l’Eucharistie de Pierre le Peintre, qu’il attribue par erreur à Pierre de Blois (Petri Blesensis opéra, Mayence, 1600), c’est Chr.
+M. Engelhardt qui nous a transmis l’essentiel des pièces poétiques de l’Hortus (Herrad v.
+Landsperg, Stuttgart-Tubingen, 1818, p. 119-169).
+La liste des treize cents gloses allemandes qu’il joint à sa monographie permet de combler certaines lacunes.
+
+Des notes manuscrites de Dom Pitra conservent quelques fragments (Paris, abbaye Sainte-Marie), mais l’essentiel du texte qui demeure est fourni par les différentes copies fragmentaires faites sous la direction du comte de Bastard et conservées à la Bibliothèque nationale (Nouvelles acquisitions françaises 6045 et 6083).
+
+Six cent dix des mille deux cents textes assemblés par Herrade nous sont parvenus, transcrits intégralement ou par fragments.
+Les autres ne sont pas irrémédiablement perdus : lorsqu’ils ont des titres assez précis, il est possible, sans toutefois pouvoir leur assigner des limites précises, de les retrouver dans l’œuvre de laquelle ils ont été extraits.
+
+
+== Deuxième partie ==
+
+
+=== Chapitre premier le contenu de l’Hortus deliciarum ===
+
+Le titre de l’Hortus deliciarum renseigne non seulement sur l’inspiration de l’œuvre qu’il désigne, mais encore sur la nature de cette œuvre.
+Les ouvrages, au demeurant assez nombreux, que l’on connaît sous ce nom sont toujours des anthologies de textes spirituels.
+
+L’étude du contenu de l’Hortus doit permettre de faire apparaître un plan, dont on distingue mai les articulations à première lecture.
+
+Les premiers textes ont trait au Créateur, à la hiérarchie céleste, aux attributs de la Trinité, puis à la création.
+La compilation s’ordonne ensuite autour des grands thèmes de l’Ancien Testament. 
+
+A partir du feuillet 85, l’intérêt se porte sur les Évangiles, autour desquels s’agencent les matériaux rassemblés par Herrade.
+L’évocation de la Passion est complétée par le grand poème de Pierre le Peintre sur l’Eucharistie, celle de la Résurrection par la description détaillée, empruntée à Rupert de Deutz, des cérémonies de la nuit pascale.
+
+A quelques considérations sur les premières communautés chrétiennes, fait suite un tableau de l’Église, corps mystique du Christ, dont le double aspect spirituel et visible fait l’objet de longs développements où l’allégorie domine.
+
+L’œuvre s’achève par une description détaillée de la fin du monde, du jugement dernier et de la béatitude des élus dans la Jérusalem céleste.
+
+
+=== Chapitre II Le plan ===
+
+Le plan de l’Hortus deliciarum est essentiellement déterminé par le déroulement de l’histoire du Salut.
+
+Quatre parties principales apparaissent dans l’œuvre d’Herrade.
+La première est consacrée à l’ancienne Alliance, qui annonce et prépare l’avènement du Christ ; la seconde se propose de montrer la réalisation de la Rédemption dans la venue du Christ, dans sa vie publique, dans sa Passion et dans sa Résurrection ; l’Église, dans tous ses aspects, fait l’objet de la troisième et des considérations eschatologiques achèvent cette vaste fresque.
+
+Si un souci de composition indéniable préside aux deux premières parties, les thèmes qu’évoque la troisième ne s’enchaînent pas en fonction d’un schéma rigoureux et les redites sont multipliées dans la dernière.
+
+Ce plan, qui, dans ses grandes lignes, est celui du Symbole des apôtres, n’est pas sans présenter des analogies avec celui des sommes théologiques du xiie siècle comme l’Elucidarium d’Honorius Augustodunensis, le De sacramentis d’Hugues de Saint-Victor et les Sentences de Pierre Lombard.
+L’œuvre d’Herrade diffère cependant de ces ouvrages par l’importance accordée à la littérature exégétique et par la place faite aux considérations scientifiques.
+Par certains aspects, elle peut aussi être rapprochée du Liber floridus.
+Mais son intention de se limiter au domaine sacré oppose Herrade à Lambert de Saint-Omer.
+
+
+=== Chapitre III Les caractères de la composition ===
+
+L’Hortus deliciarum groupe environ douze cents textes de provenance variée.
+Les titres qui précèdent ces extraits constituent les seules divisions du manuscrit.
+Les sources sont indiquées avec une précision plus ou moins rigoureuse, fixée par la nature des recensions utilisées. 
+
+Pour définir les objets qu’elle se propose d’étudier, Herrade use simultanément de plusieurs procédés.
+L’accumulation et l’association n’en sont que les plus visibles.
+Ni les redites ni les digressions ne sont cependant évitées.
+
+La manière dont Herrade traite les textes qu’elle cite, obéit à des lois imposées par un souci d’unité.
+Les extraits choisis doivent, en effet, apparaître comme autant d’éléments constitutifs d’un ensemble organisé.
+C’est à ce principe qu’il faut attribuer des retouches et des adaptations qui aboutissent, dans certains cas, à une véritable normalisation.
+
+
+=== Chapitre IV Les sources de l’Hortus deliciarum ===
+
+Herrade n’a pas cherché à faire œuvre originale, mais, de son propre aveu, s’est bornée à rassembler tous les éléments qu’elle a pu recueillir ex diversis sacre et philosophice scripture floribus.
+
+La liste de ses sources, telles qu’elles se trouvent citées dans l’Hortus est la suivante :
+
+Anshelmus.
+
+Apocalipsis (In Apocalipsi, commentaire anonyme).
+
+Auctoritates.
+
+Augustinus.
+
+Augustinus.
+In Libro supplicationum.
+
+Aurea Gemma.
+
+Beda.
+
+Beda.
+In Genesi.
+
+Cantica canticorum (commentaires).
+
+Confessio sancti Leonhardi.
+
+Disputatio sancti Silvestri contra Judeos.
+
+Elucidarium.
+
+Eusebius Cesariensis episcopus Sermo Eusebii Cesariensis.
+
+Fabulae In fabulis.
+
+Freculfus.
+Historia Freculfi episcopi hystoriographi.
+
+Gemma anime.
+
+Gennadius.
+
+Gregorius.
+
+Itinerarius Clementis.
+
+Ivo.
+
+Jheronimus.
+Ecclesiastica historia.
+
+Jheronimus.
+Epistola Jheronimi ad Fabiolam.
+
+Johannes Crisostomus.
+
+In quodam kalendario.
+
+Liber Methodii episcopi et martyris.
+
+Maximus episcopus.
+
+Petrus Lombardus. 
+
+Quidam astrologus.
+
+Raimundus Massiliensis.
+
+Rupertus.
+
+Salemon.
+
+Scolastica historia.
+
+Sermo cujusdam doctoris.
+
+Sermo Matthei apostoli.
+
+Smaragdus.
+
+Spéculum Ecclesie.
+
+Spéculum sancte Marie.
+
+Vita sancti Servatii.
+
+L’étude de ces sources, qui permet d’entrevoir la composition de la bibliothèque dont disposait l’abbesse de Hohenbourg, révèle souvent des particularités intéressantes.
+Les Pères ne sont jamais cités de première main.
+Le Liber supplicationum attribué à saint Augustin doit être rendu à Jean de Fécamp.
+
+L’Aurea Gemma semble devoir être considérée comme une version très remaniée des Etymologies d’Isidore de Séville.
+Herrade en fait un usage constant.
+Les deux parties de la chronique universelle de Fréculphe de Lisieux, séparées dans la plupart des manuscrits, sont utilisées.
+
+Une place considérable est faite aux auteurs du xiie siècle.
+A côté de Pierre Lombard, dont les Sentences sont abondamment citées, Honorius Augustodunensis fournit environ quatre cents textes empruntés à l’Elucidarium, à la Gemma animae et au Speculum Ecclesiae.
+Les passages tirés de l’Elucidarium présentent des gloses qui constituent, semble-t-il, autant d’indications sur les sources de ce traité.
+
+Rupert de Deutz jouit, lui aussi, d’une faveur particulière : des livres entiers du Liber de divinis officiis ont été transcrits par Herrade et l’on trouve trace, également, de son commentaire sur le Cantique des cantiques.
+
+L’Hortus contient en outre de nombreux fragments isolés.
+Certains, très souvent attestés, appartiennent en quelque sorte au patrimoine commun de la littérature latine du moyen âge.
+D’autres constituent des témoins uniques.
+C’est ainsi qu’un texte de Raymond de Marseille n’a pu être identifié dans aucun des deux traités récemment découverts de cet auteur mal connu du xiie siècle.
+
+
+=== Chapitre V Les poésies ===
+
+L’Hortus deliciarum contenait quarante-cinq pièces poétiques, qui ont presque toutes été copiées.
+D’inspiration religieuse ou morale, elles se trouvaient insérées dans le manuscrit à la place que commandaient leurs sujets.
+Souvent accompagnées de notes musicales, disposées suivant le système de Guy d’Arezzo, elles étaient pourvues de gloses abondantes destinées à en faciliter l’intelligence. 
+
+A une exception près, aucun nom d’auteur n’était avancé.
+Mais il ne faut pas tirer argument de ce silence pour attribuer toutes les pièces à l’abbesse de Hohenbourg.
+Seul, le poème dédicatoire est peut-être de sa composition.
+
+Certaines poésies doivent être rendues à Hildebert de Lavardin, Pierre le Peintre et Gautier de Châtillon.
+Les deux pièces de circonstance qui, à la fin du manuscrit, célèbrent le Hohenbourg, livrent en acrostiche le nom de leurs auteurs, qui étaient probablement des familiers de l’abbaye : Hugo sacerdos et (Hohenburgensibus) Coradus.
+
+
+== Conclusion ==
+
+L’étude des sources de l’Hortus deliciarum permet de jeter quelque lumière sur la place exacte qu’il convient d’attribuer à Herrade.
+Si l’état actuel des recherches interdit de tirer des conclusions définitives sur l’origine des manuscrits qui les transmettent, les textes rassemblés par l’abbesse de Hohenbourg, puisés à la double source de la théologie monastique traditionnelle et de la scholastique naissante, constituent, pour les historiens des idées et de la spiritualité, un témoignage irremplaçable.
+Aussi ne doit-on regretter que plus vivement la disparition d’un manuscrit exceptionnel à tous les égards.
+
+
+== Édition ==
+
+Table des auteurs et des œuvres utilisés par Herrade.
+
+Index des citations scripturaires.

@@ -1,0 +1,130 @@
+identifier: ENCPOS_1908_11
+creator: Géraud Lavergne
+date: 1908
+title: Le langage parlé en Bourbonnais aux xiiie et xive siècles
+
+
+
+== But et plan ==
+
+Entreprise pour préciser et compléter les pages consacrées à l’idiome du Bourbonnais par M.E. Goerlich, dans son Burgundische Dialekt (Heilbronn, 1889), la présente étude emprunte ses éléments à divers documents d’archives inédits, rédigés dans le pays, entre 1265 et 1325. – Les plus importants sont les aveux et dénombrements originaux, rendus, pour les années 1300-1302, à Robert de Clermont, seigneur de Bourbon, actuellement aux Archives Nationales, série P (registres 454 à 469).
+Ils sont la plus sincère image de la langue hybride, mais déjà fortement francisée, du Bourbonnais au début du xive siècle.
+
+Dans une première partie, on étudie les graphies employées en Bourbonnais au moyen âge, pour établir dans quelle mesure elles correspondent aux sons du parler local.
+
+Dans une seconde partie, on indique, par rapport à celle du français commun de la fin du xiiie siècle, les caractères généraux et particuliers de la phonétique bourbonnaise.
+
+
+=== I graphies ===
+
+1.
+VOYELLES. On observe, dans les documents du Bourbonnais, l’équivalence complète de a et de e, de o et de u devant les nasales ; – celle de ai, ae, ei, e ; – celle de oi et de oe (oie dès 1265, oe et oue à Saint-Amand, 1300). – Provenances diverses de eu, et de ou (à côté des anciennes graphies o et u). – Les diphtongues nasales : ain, aen, ein, en et in ; oin, oen.
+
+2.
+CONSONNES. – A côté des faits communs, au XIIIe siècle, à tout le domaine de la langue d’oïl, redoublements de consonnes au commencement, au milieu et à la fin des mots ; – restitutions étymologiques de lettres devenues muettes ; – confusion de s sourde et de s sonore ; z et x finaux pour s ; tz, h ajoutés comme ornement.
+On relève en Bourbonnais des habitudes graphiques bourguignonnes (m pour n + cons. ou n finale), provençales (ñ = nh, hn ; l mouillée = lh, hl), poitevines (cz, zc pour ss, ç).
+
+On remarquera le redoublement calligraphique de F, L, P, T, s, initiaux après un monosyllabe : enffié, alla, asson ; cc pour ss ; ig pour ñ finale ; th et ph.
+
+
+== II phonétique ==
+
+
+=== 1° Voyelles ===
+
+A. a se conserve comme tonique libre : prat (Lapalisse, Gannat, Huriel). – Il s’affaiblit en -et, -iet à la 3e pers. sing. des parfaits à terminaison tonique : brizet, mariet (Verneuil, Gannat). – Après une mouillure il tend à passer de -ié à -é : chef.
+
+Subsistent également a atone initial devant une mouillure : rasin, ; intertonique : Margarita ; final : gota, fema, au-dessous de la ligne Hérisson, Souvigny, Jaligny.
+Valeur de cet a à la posttonique ; il passe à i sous l’influence de la mouillure : Techi, à Lapalisse.
+
+Le suffixe -arium résiste à la diphtongaison, et donne partout -er, -ere (-eir, -eire au sud). -Ere passe à -eri à Lapalisse, sous l’influence d’une mouillure : Valeri (Valière).
+
+Le suffixe -acum, -iacum, et son développement en Bourbonnais :
+
+1° ac > at à Montluçon, Montmarault, Gannat ; 2° ec >. et > e, à Lapalisse, Verneuil, Hérisson ; 3° ic > it > i qui gagne dans la zone de et ; -4° ai au nord.
+
+È. Résistance générale de è tonique libre à la diphtongaison en -ié, surtout devant n : Estenes, et tr : Peres.
+
+Passage de e atone à i en diverses positions : piage ; signor ; diens.
+
+É. Fréquence de la forme ei, provenant de é tonique libre, avant 1300.
+Elle se conserve postérieurement à Lapalisse et à Gannat.
+Sous l’influence française, ei devient partout ailleurs wae (noté par oi, oie, oe), sauf devant l et n mouillées. – Discussion de la graphie ai pour oi.
+
+É atone initial ou intertonique passe à i dans yritiers, damiseaus.
+
+Ò tonique libre est passé au son simple eu (malgré la persistance, au sud, de la graphie ue), qui se réduit localement à ü, surtout devant l mouillée : Vernuil. – Comme pour è, on remarque une tendance de ó à la non diphtongaison (verbes pouvoir et mouvoir).
+
+Ò tonique entravé passe à ou : houmes, pourte. 
+
+Résistance générale de ó tonique libre à devenir eu (seignour, priour, oreour, terrour). – ó ton. + mouillure devient wae (oi, oe, oue) ou reste ó (ou) : bois, bos.
+
+Au.
+Conservation de l’ancienne graphie au à Rochefort et Gannat.
+Devenu ó, au passe dialectalement à ó (ou) : chouse, pou – Analogie des sons au et ou.
+
+
+=== 2° nasalisation. ===
+
+1.
+An (en). – Importance de la confusion d’a et d e devant les nasales : modifications apportées de ce fait au son des atones initiales et intertoniques. – Conservation sporadique du son en {in) : dedins, diminche, à Verneuil.
+
+2.
+Aen (ain, aen, ein, en, in) passent parfois à an : sant ; – iaen devient ian ; dian à Verneuil. – La nasalisation et les verbes.
+
+3.
+On (un).
+
+4.
+Waen (oin, oen, malgré Goerlich), et la disparition du son de ou. – La graphie ain.
+
+Cas de nasalisation progressive : monte, monton.
+
+
+=== 3° Vocalisation. ===
+
+1.
+Al.
+Passage général à au ; exception pour quelques noms propres : Chalvin, à Lapalisse. – Formes de quel.
+
+2.
+El passe à eau, iau. – Le groupe eau est souvent réduit à ea : chatea.
+
+Influence de l’analogie sur cels (ceaus), els (eaux) et avec (aveaus).
+
+3.
+I + l dans fieus.
+
+
+=== 4° passage de e à à devant 1 et r. ===
+
+Issarpant (Isserpent, n. de l.) ; ale (elle). 
+
+
+=== 5° réduction progressive des hiatus. ===
+
+
+
+
+=== 6° consonnes. ===
+
+Conservation de b et d médiaux ; Genebriera, rende, sporadiquement.
+Chute de f, de t, de s, et de / à la finale ; amuissement d’r finale. – Chute de s devant consonne et de n devant l : Moluçon. – N instable à Lapalisse ; cas douteux.
+
+Modifications de sons ; ch en g : dimenge ; g en ch : grandie ; s en ch : Hérichon. – l et n pour l et n mouillées.
+
+G devant a devient ja, je.
+
+C + a atone entravé passe à cha et quelquefois à che : Chepeaus.
+
+C + a atone libre passe à cha dans le sud, généralement à che, et sporadiquement à chi : chivaler.
+
+
+== Appendice ==
+
+Les aveux au point de vue diplomatique : aveux en forme personnelle et impersonnelle : notice minutée et rôle des juridictions (archiprêtres).
+
+
+== Carte de la répartition des aveux ==
+
+

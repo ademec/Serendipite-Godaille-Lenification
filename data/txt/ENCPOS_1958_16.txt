@@ -1,0 +1,151 @@
+identifier: ENCPOS_1958_16
+creator: Marie-Ange Palewska
+date: 1958
+title: Recherches sur le Bonum universale de apibus de Thomas de Cantimpré, suivies de l’édition des exempla d’après la traduction française faite pour Charles V en 1372
+
+
+
+== Avant-propos ==
+
+
+
+
+== Sources – Bibliographie ==
+
+
+
+
+== Première partie L’auteur ==
+
+
+=== Chapitre premier le milieu historique et le témoignage de Thomas de Cantimpré. ===
+
+Le Bonum universale de apibus, œuvre morale et traité d’édification, appartient à l’histoire par les exempla qu’il contient.
+Si Thomas de Cantimpré a évoqué les grands événements politiques de la première moitié du xiiie siècle (plus précisément des environs de 1180 aux environs de 1260), lutte des Capétiens et des Plantagenets, lutte de la Papauté et de l’Empire, affaire de la succession de Flandre, invasion mongole en Europe orientale, croisades, ce n’est que pour servir de cadre aux histoires qu’il raconte, pour créer autour d’elles un climat authentique et vraisemblable, leur assurant une plus grande crédibilité.
+Plus important est son témoignage en ce qui regarde certains événements de caractère religieux et auxquels il s’est particulièrement intéressé : prédication de la croisade en Flandre, hérésie de Guillaume Corneille d’Anvers, développement de l’ordre des Frères Prêcheurs, discussion sur la pluralité des bénéfices, affaire du Talmud, querelle de l’Université et des ordres mendiants. 
+
+
+=== Chapitre II Vie et œuvres de Thomas de Cantimpré. ===
+
+Né probablement à Leuw-Saint-Pierre, près de Bruxelles, aux environs de 1200, Thomas de Cantimpré, de famille noble, est voué tout jeune à la prêtrise.
+Après avoir étudié pendant onze ans aux écoles d’une ville épiscopale, Liège ou Cambrai, il entre à l’abbaye de Cantimpré vers 1216 et se transporte ensuite au couvent des Frères Prêcheurs de Louvain en 1232.
+D’abord élève d’Albert le Grand à Cologne, il achève ses études à Paris de 1237 environ à 1240.
+De retour en Flandre, il est lecteur, puis sous-prieur, du couvent de Louvain, et probablement prédicateur général.
+On ignore la date exacte de sa mort, que nous pensons pouvoir fixer aux environs de 1270.
+
+Même si l’on peut diviser les œuvres de Thomas de Cantimpré en deux groupes distincts, le premier comprenant les vies de saints, la Vita Joannis abbatis primi monasterii Cantipratensis et ejus Ecclesiae fundatoris, le Supplementum ad vitam B. Mariae d’Oignies, la Vita Christine virginis Mirabilis dictae, la Vita B. Margaritae Iprensis, la Vita Piae Lutgardis virginis sanctimonialis ordinis Cisterciencis in monasterio Aquiriensi, l’Hymne en l’honneur de Jourdain de Saxe, le second, le De Naturis rerum et le Bonum universale de apibus, l’ensemble de son œuvre répond à un même souci : celui de l’édification et de l’instruction morale des fidèles.
+
+
+=== Chapitre III La personnalité de Thomas de Cantimpré. ===
+
+Thomas de Cantimpré ne nous a pas parlé expressément de lui, mais il est possible, à lire son œuvre, de dégager les principaux traits de sa personnalité.
+Celle-ci est dominée par une foi vivante qui, bien loin d’être celle d’un philosophe ou même d’un théologien, est avant tout celle d’un croyant.
+Elle est à la base de sa vocation religieuse, de sa piété, de son humilité.
+Elle se manifeste par son zèle apostolique que nous révèle sa vocation de prédicateur, de confesseur, d’écrivain.
+Elle s’exprime dans son amour de la sainteté, dans sa haine du péché et son ardeur à le combattre.
+Thomas de Cantimpré, placé dans le milieu mystique et dévot du Brabant du xiiie siècle, vit par ailleurs en étroit contact avec le surnaturel.
+Il aime les reliques et fonde la valeur d’un témoignage sur la valeur morale de ceux qu’il interroge.
+
+Nature impulsive et ardente, active et laborieuse, tempérament passionné, curieux, ami du merveilleux, bavard et sociable, Thomas de Cantimpré déploie dans son œuvre les innombrables ressources de son imagination et un certain talent de conteur.
+Il apparaît fidèle dans ses amitiés, polémiste acharné, original par son goût des sciences naturelles, apôtre et réformateur infatigable.
+
+
+== Deuxième partie Le « Bonum universale de apibus » ==
+
+
+=== Chapitre premier le milieu littéraire et l’originalité de l’œuvre. ===
+
+Le Bonum universale de apibus, traité de morale et d’édification sans grande originalité de pensée, vaut par ses exempla, qui donnent à l’ouvrage un caractère éminemment pratique.
+Mais son intérêt tient aussi au fait que, par sa présentation, il se situe dans la ligne des ouvrages issus du Physiologus, qu’il a été écrit dans le double but de servir à l’histoire dominicaine, d’une part, de fournir aux prédicateurs un matériel abondant, de l’autre.
+
+C’est des Vitae Fratrum de Géraud de Frachet, du Dialogus miraculorum de Césaire d’Heisterbach, des Sermones vulgares de Jacques de Vitry, du Traité des sept dons du Saint-Esprit d’Étienne de Bourbon, qu’il faut rapprocher le Bonum universale de apibus, pour marquer sa place exacte dans la littérature contemporaine.
+
+
+=== Chapitre II Histoire du texte. ===
+
+De nombreux manuscrits du Bonum universale de apibus ont été conservés dans les bibliothèques de France et de Belgique.
+La comparaison des textes de ceux conservés à la Bibliothèque nationale de Paris et à la Bibliothèque royale de Bruxelles permet d’établir que le Bonum universale de apibus a eu deux éditions, toutes deux adressées à Humbert de Romans, maître général de l’ordre des Frères Prêcheurs de 1254 à 1263, la première sans doute produite en 1262, la seconde au début de 1263.
+
+La répartition des manuscrits, généralement d’origine monastique, dans les différentes bibliothèques de France permet d’affirmer le succès de l’œuvre dans une région limitée au nord et à l’est de la France et comprenant Paris.
+Le même fait est attesté par une traduction flamande, conservée dans un manuscrit de la Bibliothèque royale de Bruxelles, et une traduction allemande, conservée dans celle de Strasbourg.
+
+La traduction française, faite pour Charles V, en 1372, s’inscrit dans le cadre général du plan d’instruction morale et politique préconisé par ce roi.
+Elle est représentée par un exemplaire unique et original, ayant appar tenu à la librairie de Charles V et qui est le manuscrit 9507 de la Bibliothèque royale de Bruxelles.
+Œuvre d’un anonyme, elle offre une traduction généralement fidèle, faite d’après la première édition du Bonum universale de apibus.
+
+L’œuvre de Thomas de Cantimpré a été éditée jusqu’en 1627.
+Une traduction française d’après la seconde recension manuscrite a été donnée en 1650, par un frère prêcheur de Bruxelles, Frère Vincent Willart.
+
+
+=== Chapitre III Sources et composition. ===
+
+Thomas de Cantimpré a généralement indiqué les sources qu’il avait utilisées pour la partie didactique de son ouvrage.
+Ce sont essentiellement l’Ancien et le Nouveau Testament, saint Augustin, saint Benoît, Boèce, saint Ambroise, Bède, des vies de saints, saint Bernard, Pierre le Chantre, Albert le Grand, Guillaume de Conches, Gauthier de Châtillon, et, parmi les écrivains de l’Antiquité classique, Térence, Lucain, Priscien, Valère-Maxime, Aristote, Pline l’Ancien et surtout Sénèque.
+
+Le Bonum universale de apibus se divise en deux livres de longueur très inégale : le premier, De Prelatis, comprend vingt-cinq chapitres et constitue le sixième de l’ouvrage environ, le second, De subditis, en compte cinquante-sept dans les manuscrits correctement numérotés, cinquante-six dans les autres.
+Dans chaque livre, la composition des chapitres reste constante.
+Elle comporte : quelques lignes relatives aux abeilles, une moralisation, s’appuyant sur les sources énumérées ci-dessus et sur des exempla, parfois un bref retour au texte.
+
+Le but de l’auteur semble avoir été de décrire quel devait être le monastère idéal, tout en relevant les fautes, les manques et les abus qu’il avait sous les yeux.
+Aperçu des sujets traités dans chaque chapitre du Bonum universale de apibus.
+
+
+== Troisième partie Les « exempla » ==
+
+
+=== Chapitre premier définition et classification. ===
+
+Le Bonum universale de apibus, par le nombre des exempla qu’il contient, par la place que ceux-ci occupent dans l’œuvre, par l’utilisation qui a pu en être faite dans la suite, peut déjà être considéré comme un véritable recueil d’exempta.
+Il est, par là, témoignage de son époque et de l’importance prépondérante prise alors par l’exemplum, dans les sermons et traités d’édification.
+On peut définir l’exemplum comme un récit, une historiette, une moralité, une description, une fable ou une parabole, pouvant servir de preuve à l’appui d’un exposé religieux, doctrinal ou moral.
+Chaque exemplum forme lui-même un tout et joue un rôle d’illustration, analogue à celui de l’image.
+
+Les exempla du Bonum universale de apibus, par leur très grande diversité, échappent en fait à une classification.
+Nous avons, cependant, réparti les trois cent dix-sept exempla de l’œuvre entre neuf des types définis par l’abbé Welter, soit : l’exemplum historique, l’exemplum pieux, l’exemplum de type hagiographique, l’exemplum prosopopée, l’exemplum conte, l’exemplum légendaire, l’exemplum profane, l’exemplum moralité, l’exemplum personnel.
+Les catégories exemplum profane et exemplum moralité sont peu représentées.
+
+
+=== Chapitre II Origine et influence. ===
+
+Les exempla du Bonum universale de apibus sont le fruit de l’expérience et des souvenirs de l’auteur.
+Dans le cas où il n’a pas été lui-même acteur ou témoin oculaire des événements, c’est le plus généralement par des témoignages oraux que Thomas de Cantimpré a connu les faits qu’il nous rapporte dans ses exempla.
+Ses principaux informateurs ont été les Frères Prêcheurs eux-mêmes, les religieux et les laïcs qu’il a rencontrés en parcourant les routes et avec lesquels il a été mis en contact par son ministère, le cercle de ses intimes du Brabant.
+
+Il est impossible de connaître l’influence exacte qu’eurent les exempla du Bonum universale de apibus.
+On peut trouver, cependant, quelques témoignages isolés de leur succès.
+Ils ont pu, par ailleurs, entrer en grand nombre dans des collections particulières d’exempla par l’intermédiaire desquelles ils ont été vulgarisés.
+Cent trente-cinq d’entre eux se retrouvent dans le Magnum speculum exemplorum édité à Douai, en 1603, par Jean Major.
+
+
+=== Chapitre III Les « exempla » et l’histoire. ===
+
+L’intérêt essentiel des exempla du Bonum universale de apibus est de nous renseigner sur la vie religieuse de la Flandre et du Brabant dans la première moitié du xiiie siècle.
+Très originale dans ces régions à cette époque, celle-ci se caractérise par le grand nombre de prélats, religieux et laïcs remarquables, vivant dans ces pays, par l’importance prise par les femmes dans la vie religieuse, par la coloration mystique de tout le mouvement dévot, par les rapports sans cesse établis entre le monde réel et le monde surnaturel.
+
+Thomas de Cantimpré, moraliste, a aussi laissé un intéressant témoi gnage sur les mœurs de son époque et son œuvre est un important recueil de légendes et de thèmes populaires.
+
+
+== Appendices ==
+
+I. Prologue de la traduction française.
+
+II. Table des chapitres.
+
+III. Chapitre des abeilles, extrait du De naturis rerum, de Thomas de Cantimpré.
+
+IV. Hymne composée en l’honneur de Jourdain de Saxe, texte latin et traduction française du xive siècle, extraite du manuscrit 9507 de la Bibliothèque royale de Bruxelles.
+
+
+== Édition des exempla tirés du bien universel d’après l’exemple des mouches a miel ==
+
+
+
+
+== Table des noms de personnes et de lieux ==
+
+
+
+
+== Table alphabétique des exempla ==
+
+

@@ -1,0 +1,172 @@
+identifier: ENCPOS_1935_15
+creator: Lucienne Lasnet-Meusy
+date: 1935
+title: La chronique de Sainte-Bénigne
+
+
+
+== Sources ==
+
+
+
+
+== Bibliographie ==
+
+
+
+
+== Introduction ==
+
+
+
+
+== Chapitre premier le plus ancien manuscrit. ==
+
+Le seul manuscrit ancien que nous possédions de la Chronique de Saint-Bénigne, celui de la Bibliothèque de Dijon (n° 591) date du milieu du xie siècle.
+Il comprend en outre le premier cartulaire de l’abbaye.
+
+Description sommaire du manuscrit.
+L’écriture est régulière, c’est la libraria usitée au xie siècle.
+Des graphies dues à des fautes d’audition laissent supposer que le texte a été dicté.
+L’aspect en est généralement net et ne décèle pas d’hésitation.
+On relève cependant des négligences matérielles dues à des corrections apportées après coup : soit renvoi à une note marginale, soit substitution d’un nouveau passage à un passage préalablement poncé.
+Au milieu d’un folio, la suppression du texte primitif forme parfois des vides qui semblent attendre une addition.
+
+Le manuscrit a été mutilé en plusieurs endroits.
+Les folios anciens 1 à 3, 49 et 50, qui manquaient à la Chronique ont été remplacés au xviie siècle.
+Les lacunes du Cartulaire n’ont pas été comblées.
+L’écriture de celui-ci rappelle, en plusieurs endroits, celle de la Chronique.
+Il semble que l’ordre primitif de ces actes ait été remanié.
+De certains, il n’y a que des fragments ; d’autres, plus anciens que la Chronique, sont rattachés au cahier par une couture récente.
+
+
+== Chapitre II Les copies. ==
+
+Elles sont au nombre de douze.
+Huit transcrivent le texte intégralement ; quatre n’en donnent que des extraits.
+Trois seulement ont été étudiées par l’abbé Bougaud dans son édition (Analecta Divionensia).
+La plupart sont du xviie siècle et proviennent de bibliothèques de Parlementaires.
+On peut les ranger en deux classes :
+
+CLASSE B. Elle comprend quatre manuscrits : ils dérivent soit directement, soit par des intermédiaires du ms. 591 de Dijon.
+
+B. La Chronique de Bèze (Bibl.
+Nat., lat. 4997) peut être considérée en partie comme une œuvre originale, en partie comme une copie.
+En effet, le moine Jean de Bèze, qui écrivit avant 1135 l’histoire de son monastère, utilisa la Chronique de Saint-Bénigne à laquelle il emprunta textuellement une préface et la suite des faits généraux qui pouvaient servir de cadre à son récit.
+Le manuscrit ne nous donne donc que des fragments de la Chronique de Saint-Bénigne.
+Sa date lui confère pourtant une valeur singulière ; car ayant copié la Chronique cinquante ans à peine après sa rédaction, Jean de Bèze nous fournit un texte très voisin de celui de l’archétype.
+Ce texte n’est pas exactement celui du manuscrit 591 de Dijon.
+A côté de graphies sans intérêt, il contient une variante importante : un long passage tiré du Liber Historiae sur la mort de Brunehaut.
+Le manuscrit de Dijon s’en tient, à ce sujet, à quelques mots empruntés à la Vita Columbani.
+
+Peut-être a-t-il existé un autre manuscrit de la Chronique de Saint-Bénigne qui donnait de cette mort une version plus détaillée.
+Peut-être Jean de Bèze a-t-il complété lui-même ce que lui fournissait son modèle au moyen du Liber Historiae.
+La variante que nous venons de signaler ne reparaît dans aucune des copies de la Chronique, ce qui rend le problème particulièrement délicat.
+Trois autres copies du xviie siècle dérivent du manuscrit 591 de Dijon ; deux sont fragmentaires : B1 Bibl.
+Nat., Collection Dupuy, n° 842 ; B- Bibl.
+Nat., Collection Baluze, n° 139.
+Une transcrit intégralement le texte : B3 Bibl.
+Nat., lat. 12.821.
+
+Deux constatations nous induisent à penser qu’elles transcrivent directement celui-ci :
+
+a.
+Elles signalent une lacune dans le texte précisément à l’endroit où manquent deux feuillets anciens au ms. de Dijon.
+
+b.
+Elles transcrivent des actes tirés du Cartulaire qui fait suite à la Chronique.
+
+CLASSE C. Elle comprend huit manuscrits, dont sept contiennent intégralement le texte ; un seul (Bibl.
+Nat., Collection Duchesne, n° 102) n’en donne que des extraits.
+
+C. Le ms. 196 de la Bibliothèque de Lyon, copie de la Chronique faite à la fin du xvie siècle par Cl.
+Enoch Virey, secrétaire du Prince de Condé, est le plus représentatif de la classe C.
+
+C1 Bibl.
+Nat., lat. 5.651.
+Cette copie pleine d’erreurs et de non-sens aurait servi à l’édition de d’Achery.
+
+G1a Bibl.
+Nat., lat. 10.937 reproduit exactement C1.
+
+C 1b Bibl.
+Arsenal, n° 992, texte corrigé par le Père Chifflet pour servir à une édition.
+
+C1c Bibl.
+Nat., lat. 12.822.
+Copie soignée et correcte provenant de Saint-Germain-des-Prés.
+
+C2 Bibl. de Dijon, n° 1.023.
+
+C 3 Bibl. de Troyes, n° 380, appartenait au Président Bouhier.
+
+Ces manuscrits présentent des traits communs :
+
+1.
+Ils sont tous postérieurs à 1519, puisqu’ils renferment une continuation de la Chronique écrite avant la mort de l’abbé Cl. de Charmes, survenue à cette date.
+
+2.
+Aucun d’eux ne contient la copie d’actes tirés du Cartulaire.
+En outre, la partie du titre qui annonçait ce Cartulaire dans le manuscrit ancien ne s’y trouve pas.
+
+3.
+Les variantes sont de trois sortes :
+
+a.
+Certaines, négligeables pour l’établissement du texte, sont dues à un copiste du xvie siècle, qui, suivant l’habitude des érudits de cette époque, substitue des termes de latin classique à des ternies de la langue du Moyen-Age.
+
+b.
+Les autres proviennent soit d’interpolations soit d’intercalations dans le texte de notes marginales anciennes et de sous-titres du xve siècle. 
+
+c.
+Les dernières proviennent de la transcription fautive d’un manuscrit qui ne peut être antérieur au xiiie siècle.
+Les confusions faites par le copiste entre certaines lettres, dans les noms propres en particulier, ne peuvent résulter en effet que de la lecture erronée de caractères usités seulement à partir du xiiie siècle.
+
+
+== Chapitre III Les éditions. ==
+
+Aux trois éditions antérieurement connues, il convient d’ajouter celle qu’avait préparée le Père Chifflet et qui est restée manuscrite.
+
+I. Le premier, un Jésuite, le Père Rouvière publia dans les
+    « Preuves » de Reomaus (histoire de Moûtier-Saint-Jean) des fragments de la Chronique empruntés à une copie interpolée de la classe C.
+
+II. D’Achery, en 1656, édita intégralement le texte de la Chronique et la Continuation du xvie siècle dans son Spicilège.
+Il transcrivit une copie fautive, C1 sans doute, puis essaya de rétablir le texte en faisant collationner cette copie avec le manuscrit conservé dans le chartrier de Saint-Bénigne.
+
+Malheureusement il ne semble pas avoir profité du ms. 591 de Dijon.
+
+III. Le Père Chifflet prépara, vers 1656 également, une édition de la Chronique (ms. 992 de la Bibl. de l’Arsenal), qui devait faire partie d’un important travail : Divio Christiana (Bibl.
+Nat., Collect.
+Baluze, n° 143) au cours duquel étaient examinées les questions posées par l’étude du texte et de ses sources.
+Edition et commentaires restèrent inédits.
+Celle-ci devait reproduire le texte du ms. 591 de Dijon dont le Père Chifflet défend l’ancienneté et la valeur dans une dissertation fort pertinente.
+
+IV. En 1875, parut dans les Analecta Divionensia, une édition de la Chronique due à l’abbé Bougaud.
+Elle reproduit le ms. 591 de Dijon, mais sans appuyer ce choix sur l’examen critique des différentes copies D’autre part, elle donne du ms. du xie siècle une transcription parfois défectueuse.
+
+
+== Conclusion ==
+
+L’examen du manuscrit 591 de Dijon permet une hypothèse : il représenterait un premier état de la Chronique remanié par l’auteur.
+Celui-ci aurait transcrit, à la suite du texte, l’ancien Cartulaire qui nous est parvenu en partie seulement et dans un ordre différent.
+
+L’unique variante du ms. de Bèze prouve qu’il n’a pu exister de ms. ancien de la Chronique dont le texte fût très différent du ms. 591 de Dijon.
+Les manuscrits de la classe C dérivent tous d’une copie fautive : leurs variantes sont donc inutilisables, même pour rétablir les feuillets manquants, puisqu’ils ont eux-mêmes fourni le texte de ceux-ci.
+
+L’examen critique du ms. 591 de Dijon, l’étude des copies et celles des éditions nous amènent à choisir comme texte de base à notre édition le ms. 591 de Dijon, et lui seul.
+Il faut donc le respecter scrupuleusement, car il offre toujours un sens satisfaisant et peut-être nous a-t-il conservé l’autographe lui-même. 
+
+
+== Texte de la chronique ==
+
+
+
+
+== Variantes et notes ==
+
+
+
+
+== Pièces justificatives ==
+
+

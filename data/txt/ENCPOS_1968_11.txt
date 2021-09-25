@@ -1,0 +1,158 @@
+identifier: ENCPOS_1968_11
+creator: Henri Hugonnard-Roche
+date: 1968
+title: L’œuvre astronomique de Thémon Juif, maître parisien du xive siècle
+
+
+
+== Introduction ==
+
+Pierre Duhem attira, le premier, l’attention sur le maître parisien Themo Judei qu’il considérait comme l’un des principaux savants du xive siècle.
+Il n’en connaissait pourtant que les
+    « Questions » sur les Météorologiques d’Aristote et ignorait l’œuvre astronomique de ce
+    « Thémon, le fils du Juif » dont Lynn Thorndike devait signaler, sans cependant jamais l’analyser, une
+    « Question sur le mouvement de la lune ».
+Il faut y ajouter un
+    « Commentaire » et des
+    « Questions » sur la Sphère de Sacrobosco retrouvés par M. Guy Beaujouan dans un manuscrit de la Bibliothèque Colombine de Séville.
+
+
+== Première partie Biographie et culture scientifique de Thémon ==
+
+
+=== Chapitre premier vie et œuvres ===
+
+A la biographie de Thémon tracée par P. Duhem, qui se fonde sur le Livre des procureurs de la nation anglaise, peuvent être ajoutés quelques éléments nouveaux.
+Après 1’« inception » de Thémon, en 1349, à la Faculté des arts de Paris, sous ia présidence du célèbre astrologue Domenico da Chivasso, la trace du nouveau maître se perd, dans le Livre des procureurs, pour réapparaître à Erfurt en 1350.
+Le manuscrit Paris, Bibl. nat., nouv. acq. lat. 625 conserve, dans sa première partie, les textes copiés, vraisemblablement par Thémon lui-même, quelque temps avant son départ de Paris et peu après son arrivée à Erfurt.
+En cette ville, Thémon enseigna au monastère bénédictin de Saint-Jacques-des-Écossais où il fut rector scolarium.
+Il revint à Paris, au plus tard en 1353, et fut alors procureur de la nation anglaise.
+En 1361, Albert de Saxe occupe la charge de receveur de la dite nation en remplacement de Thémon dont le nom disparaît dès lors définitivement du Livre des procureurs.
+Mais certains indices laissent penser que Thémon appartint encore, jusqu’en l’année 1371 au moins, au collège de Sorbonne (manuscrits 1021 et 1228 de la Bibliothèque de l’Arsenal).
+
+Outre les œuvres déjà citées portant sur les Météores, la Sphère et le mouvement de la lune, Thémon a écrit la discussion d’un sophisme (ms.
+Erfurt, Amplon.
+F 313).
+Il dit aussi être l’auteur de plusieurs ouvrages actuellement perdus (Questions sur le traité pseudo-euclidien De ponderibus et sur le douzième livre de la Métaphysique d’Aristote).
+Enfin, il déclare avoir fait une lecture du Tractatus de proportionibus de Thomas Bradwardine.
+
+
+=== Chapitre II La culture scientifique de Thémon ===
+
+Fidèle à la tradition cosmologique d’Aristote et d’Averroès, Thémon porte intérêt à l’hypothèse d’al-Biṭrūjī qui sauve les apparences des mouvements célestes sans l’aide d’excentriques et d’épicycles.
+Il adopte la théorie des mouvements d’accès et de recès de la sphère des étoiles fixes imaginée par Thābit ibn Qurra.
+Il cite encore Ibn abī’l-Rijāl (Haly Abenragel), al-Battānī, et surtout al-Farghānī.
+Ses principales sources astronomiques sont – outre, naturellement, la Sphère de Sacrobosco qu’il commente – la Theorica planetarum Gerardi, la Theorica planetarum de Campanus, l’Almageste de Ptolémée, l’Astronomie de Geber et l’Almagestum parvum de ce dernier auteur, qu’il attribue à Ptolémée.
+
+En matière de géométrie, Thémon se réfère aux Éléments d’Euclide (dans la version de Campanus de Novare) et au De speris de Theodosius.
+Les mentions les plus intéressantes se rapportent à des traités du corpus archimédien, le De mensura circuli d’Archimède lui-même, l’anonyme De isoperimetris, surtout le De curvis superficiebus de Johannes de Tinemue.
+
+Quelques traités d’optique sont cités par Thémon : l’Optique d’Euclide, le De crepusculis d’Alhazen, l’Optique de Witelo, le De specierum multiplicatione de Roger Bacon. 
+
+La partie la plus originale de la
+    « Question » composée par Thémon sur le mouvement de la lune intéresse les problèmes de physique mathématique étudiés à Oxford à la suite de Thomas Bradwardine.
+Outre le Tractatus de proportionibus de celui-ci et le De motu de Gérard de Bruxelles qu’il cite fréquemment, Thémon utilise les Regule solvendi sophismata de William Heytesbury, les Probationes conclusionum attribuées à ce dernier auteur et le Liber calculationum de Richard Swineshead.
+Enfin il connaît la démonstration du « théorème de l’accélération uniforme » contenue dans la Summa de John of Dumbleton, dont il a copié une Expositio cap. 4 Bardwardini de proportionibus dans le manuscrit Paris, Bibl. nat., nouv. acq. lat. 625.
+
+
+== Deuxième partie Le commentaire et les questions sur la sphère de Johannes de Sacrobosco ==
+
+
+=== Chapitre premier présentation des textes ===
+
+Le Commentaire et les Questions de Thémon sur la Sphère de Sacrobosco sont conservés dans un manuscrit du xve siècle, aujourd’hui coté 82-1-18 à la Bibliothèque colombine de Séville.
+Ce volume fut acheté à Milan, en février 1531, par Fernand Colomb, fils bâtard du découvreur de l’Amérique.
+Aucune date ne peut être assignée à la composition de ces œuvres par Thémon.
+Le Commentaire ne se présente guère que comme une paraphrase du Traité de Sacrobosco.
+Les vingt-cinq questions qui suivent le Commentaire en sont indépendantes.
+
+
+=== Chapitre II Analyse des questions sur la sphère ===
+
+Dans les deux premières questions, Thémon examine si la science du traité de la Sphère a pour objet tout l’univers, si les définitions de la sphère que Sacrobosco emprunte à Euclide et à Theodosius sont bonnes. 
+
+H concilie la cosmologie des corps sphériques d’Aristote avec l’astronomie des excentriques et des épicycles selon la méthode employée par Ptolémée lui-même dans ses Hypothèses des planètes (troisième question).
+Il adopte l’ordre des planètes de Ptolémée, mais il connaît le système d’Héraclide du Pont, sans pourtant nommer son auteur.
+
+Thémon admet, dans la quatrième question, que le centre de gravité de l’ensemble des graves est le centre du monde.
+Au contraire, dans ses Questions sur les Météores, il pense que le centre de gravité de la terre seule est au centre du monde.
+Albert de Saxe, dans ses Questions sur la Physique et le De Celo d’Aristote, montre la même hésitation que Thémon sur ce sujet.
+
+Contrairement, semble-t-il, à Buridan, Nicole Oresme et Albert de Saxe, Thémon admet l’existence d’une sphère immobile au-delà de la sphère du premier mouvement (huitième question).
+Il est suivi, en cela, par Pierre d’Ailly qui, dans ses Questions sur la Sphère, reprend ses arguments.
+
+Un même rapprochement s’impose entre les exposés dans lesquels Thémon (neuvième question) et Pierre d’Ailly prouvent le mouvement du ciel et l’immobilité de la terre.
+Des sondages ont montré que l’argumentation développée par le premier dans les Questions sur la Sphère forme souvent le fondement de l’exposé du second dans ses Questions sur le même traité.
+
+Dans une remarque de sa question sur la figure de la terre (douzième question), Thémon, décrivant une méthode qui permet de vérifier la sphéricité de la terre par la mesure, répétée sous diverses latitudes, d’un degré du méridien, formule l’un des problèmes fondamentaux de la géodésie, que l’on trouve énoncé, de la même façon, par Albert de Saxe dans l’une de ses Questions sur le De Celo.
+La similitude de cette dernière question avec celle de Thémon est, par ailleurs, presque parfaite.
+
+Dans les autres questions, Thémon examine encore si le premier mobile est mû d’orient en occident ; si la terre est comme un point relativement au firmament ; si les pôles sont mus ; si les sphères inférieures sont mues de plusieurs mouvements simultanés ; si le ciel, le feu, l’eau et l’air sont sphériques ; si l’écliptique et l’équateur sont deux vrais cercles se coupant obliquement sur la sphère ; s’il y a précisément équinoxe lorsque le soleil est au premier point du Bélier ou de la Balance ; si la latitude et même la longitude peuvent être déterminées par l’élévation du pôle sur l’horizon ; si les déclinaisons maximales du soleil sont égales aux distances des pôles du zodiaque aux pôles du monde ; si les temps du lever et du coucher des signes doivent être mesurés par référence au mouvement de l’équateur ; si, en tout horizon, le temps du lever d’un signe est égal au temps de son coucher ; si les jours naturels sont égaux ; si la variation de la durée du jour artificiel est proportionnelle à la variation de latitude ; si un quart septentrional seulement de la terre est habitable ; s’il faut admettre l’hypothèse des excentriques et des épicycles pour sauver les apparences des mouvements des planètes ; si la lune est toujours éclipsée par l’interposition de la terre entre elle-même et le soleil ; si l’éclipse de soleil se produit toujours à la nouvelle lune. 
+
+
+== Troisième partie La question sur le mouvement de la lune ==
+
+
+=== Chapitre premier présentation du texte ===
+
+L’énoncé de la Question est celui-ci : on demande s’il est nécessaire, à supposer la vérité des théories, que la lune ou quelqu’une des planètes soit mue avec des degrés inégaux de mouvement, la variation de ces degrés étant uniforme ou non.
+
+En fait, la Question traite du seul cas de la lune.
+Elle se présente sous la forme de six articles précédés de six arguments et suivis des réfutations très brèves de ces arguments.
+Chacun des articles apparaît comme la relation d’un débat contradictoire portant sur un sujet qui n’est lié au problème du mouvement de la lune, du moins en ce qui concerne les quatre derniers articles, que par le développement sophistique de l’argument correspondant.
+
+La Question fut effectivement disputée par Thémon, en 1350, à l’école du monastère de Saint-Jacques-des-Écossais à Erfurt, vraisemblablement selon les modalités alors en usage chez les théologiens lors des joutes dialectiques les plus solennelles.
+Au cours d’une première séance publique, Thémon, assisté de respondentes, répliqua à ses contradicteurs.
+Dans une seconde séance, il reprit l’examen des questions agitées dans la dispute précédente pour donner à celle-ci sa forme définitive et son expression exacte : de cet exposé les manuscrits conservent la rédaction.
+
+
+=== Chapitre II Analyse ===
+
+Dans le premier article, Thémon étudie, en termes de dynamique, les mouvements célestes et leurs causes efficientes.
+Il attribue ces mouvements à l’action de moteurs immatériels et sans étendue, les intelligences des sphères.
+En ce qui concerne le monde sublunaire, il conçoit la relation qui lie la vitesse à la force et à la résistance sous la forme traditionnelle d’une simple proportion nalité.
+Il ne fait mention ni de la fonction dynamique imaginée par Thomas Bradwardine, ni de la théorie de l’impetus de Buridan.
+L’énoncé de cinq de ses sept conclusions est très semblable à l’énoncé des conclusions de Nicole Oresme dans la neuvième de ses Questions sur la Sphère de Sacrobosco.
+
+Considérant, dans le deuxième article, les mouvements de la lune d’un point de vue cinématique, l’auteur définit la vitesse relative d’un mobile mesurée par référence à un repère donné (sa vitesse angulaire, par exemple), et il la distingue de la vitesse intrinsèque de ce mobile mesurée par l’espace linéaire effectivement parcouru par le point le plus rapide du mobile.
+Il établit géométriquement la proposition suivante : tout point décrivant la circonférence d’un cercle avec une vitesse angulaire uniforme par rapport à un point de ce cercle autre que son centre, est nécessairement mû avec une vitesse intrinsèque non uniforme.
+Prenant en considération l’uniformité de la vitesse angulaire du centre de l’épicycle de la lune sur son excentrique, par rapport au centre du monde, il conclut alors à la non uniformité du mouvement moyen de la planète et, par suite, à l’inégalité de ses degrés intrinsèques de vitesse instantanée.
+Il mentionne, dans son exposé, des Questions composées par lui sur le traité pseudo-euclidien De ponderibus.
+
+Le troisième article a pour objet premier une étude de l’action exercée par la lune sur le monde sublunaire.
+Il se rapporte, en réalité, pour sa plus grande partie, à une discussion du problème de la causalité, ceci dans une perspective qui n’est ni scientifique, ni ontologique, mais logique.
+
+Cherchant à évaluer, dans le quatrième article, la proportion des vitesses du soleil et de la lune (celle-ci étant supposée décrire son excentrique), Thémon fonde ses démonstrations sur les théorèmes de Thomas Bradwardine et de Gérard de Bruxelles qui expriment la proportion des vitesses de deux sphères, de deux cercles, de leurs circonférences ou de leurs diamètres, en fonction de la proportion des mesures des sphères, des cercles, des circonférences ou des diamètres.
+Dans le cours de la discussion, la relation dynamique de Bradwardine apparaît transposée dans le domaine cinématique sous une forme équivalant à l’expression : = (T1)n avec n = S, et S2 étant les espaces, T, et T,
+
+S2 (T2) V2 1 2 12 les temps, V1 et V2 les vitesses.
+Thémon, pourtant, conçoit la relation liant vitesse et espace comme une relation de proportionnalité, la mention du temps restant généralement implicite.
+
+Dans le cinquième article, l’auteur démontre les théorèmes, établis par les maîtres anglais de Merton College, à propos des mouvements, soit uniformément accélérés ou ralentis, soit soumis à une accélération continûment croissante ou décroissante.
+Il emprunte ces démonstrations, pour l’essentiel, aux Probationes conclusionum attribuées à William Heytesbury et aux Regule de motu locali que contient le Liber calculationum de Richard Swineshead.
+
+Dans le dernier article, Thémon admet qu’il est possible que la lune soit mue du mouvement d’un cercle ou d’une sphère excentrique au monde.
+Pour la description du système physique correspondant à l’hypothèse mathématique des excentriques et des épicycles, il renvoie à la Question composée par lui sur le douzième livre de la Métaphysique d’Aristote. 
+
+
+=== Chapitre III Manuscrits et méthode d’édition ===
+
+Le texte de la Question sur le mouvement de la lune est conservé dans trois manuscrits : Vienne, Nationalbibl., 5337, xive-xve s., ff. 179 v°-184 v° (V) ; Erfurt, Wissensch.
+Bibl., Amplon., F 380, xive s., ff. 42 r°-48 r° (E) ; Erfurt, Wissensch.
+Bibl., Amplon., F 313, xive s., ff. 121 r°-142 v° (F).
+Les manuscrits F et F ont été directement consultés à Erfurt, le manuscrit V a été utilisé sur microfilm.
+Les meilleurs copies, V et E, sont incomplètes.
+L’édition est faite d’après F pour la première partie du texte, d’après E pour la seconde, d’après F pour la dernière.
+
+
+== Conclusion ==
+
+Les doctrines soutenues par Thémon, dans les Questions sur la Sphère, en matière de dynamique terrestre et céleste, apparaissent très semblables à celles d’Albert de Saxe.
+Plus que les écrits de celui-ci, les Questions de Thémon sont vraisemblablement une source importante des principes exposés par Pierre d’Ailly dans ses Questions sur la Sphère de Sacrobosco.
+Par ailleurs, Thémon est probablement l’un des tout premiers maîtres qui, sur le continent, aient tenté d’assimiler les enseignements de physique mathématique dispensés par les professeurs anglais de Merton College à Oxford.
+Certains de ses calculs sont comme une étape sur la voie qui mène à l’invention des exposants fractionnaires par Nicole Oresme.
+
+
+== Édition de la question sur le mouvement de la lune ==
+
+Anna gratie 1350 disputata erat questio Erfordie apud Scotos per magistrum Themonem cuius tytulus erat talis : Utrum necessarium sit, supposita veritate theoricarum, lunam vel aliquam planetarum inequalibus gradibus motus, vel uniformiter difformiter vel difformiter difformiter, moveri...

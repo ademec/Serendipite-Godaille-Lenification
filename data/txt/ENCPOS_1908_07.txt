@@ -1,0 +1,149 @@
+identifier: ENCPOS_1908_07
+creator: Emmanuel Flicoteaux
+date: 1908
+title: Étude sur les Eclogae et le Liber officialis d’Amalaire précédées d’une notice biographique
+
+
+
+== Introduction ==
+
+L’identité d’Amalaire. de Metz avec Amalaire de Trêves doit être définitivement admise.
+
+
+== Bibliographie ==
+
+
+
+
+== Première partie ==
+
+
+=== Notice biographique ===
+
+Il n’est pas fait mention des noms de Fortunatus et de Symphosius avant le xie siècle.
+Adémar de Chabannes lui donne seul ce dernier nom (Bibl. nat., lat. 2400).
+Amalaire est originaire du diocèse de Metz.
+Elève d’Alcuin à l’école palatine.
+Séjour probable à Lyon sous Leidrad.
+Il est abbé commendataire. – Placé sur le siège de Trêves vers 809, Amalaire est réellemen t évêque de ce diocèse : opinion contraire de M. Marx. – Ambassade d’Amalaire à Constantinople (printemps de 813-printemps de 814).
+Il ne s’arrête pas à Rome au retour. – Amalaire ne reprend pas possession du siège de Trêves ; il s’adonne aux études liturgiques ; lettre à Hilduin (vers 819). – Il n’y a point de preuve qu’Amalaire ait rédigé la règle des chanoines au concile d’Aix-la-Chapelle (816). – Il est envoyé par le concile de Paris (825) auprès de Louis le Pieux. – Voyage à Rome (sept. 831-mars 832).
+But de sa mission.
+Séjour à Corbie. – Il est placé comme archevêque en 834 à la tête de l’Église de Lyon. – Lutte de Florus contre Amalaire. • – Le Contra, Amalarium inédit de Metz (Salis 65 – fol. 435) doit être attribué à Florus.
+Cet opuscule prouve qu’Agobard avait engagé la querelle. – Les autres écrits contre Amalaire. – Condamnation d’Amalaire au concile de Kiersy (838).
+Dernières années d’Amalaire.
+Il écrit sur la prédestination ; il envoie le Liber officialis à Charles le Chauve. – La réputation d’Amalaire va sans cesse en augmentant après sa mort.
+Il est considéré comme saint à partir du xie siècle.
+Il ne doit pas être confondu avec saint Fortunat, évêque de Trèves.
+
+
+== Deuxième partie Les Eclogæ de officio missæ ==
+
+
+=== I ===
+
+Liste des manuscrits que nous possédons actuellement. 3 classes : 1° Zurich 102, dont le texte diffère très nota- blement de celui des autres manuscrits ; 2° Erfurt 64 et Bibl. nat., lat. 1248 contenant la conclusion publiée par M. Mönchemeier (Amalar von Metz) ; 3° Saint-Gall 446, 614 ; Einsiedeln 110, etc. – Copies du xvie et du xviie siècle. – Editions de Baluze et de Mabillon d’après les manuscrits de Saint-Gall.
+Gerbert (Monumenta veteris liturgiæ) a publié les Eclogæ, sous forme de questions et de réponses, d’après un ms. du ixe siècle de l’abbaye de Saint-Blaise. – Manuscrits des Eclogæ mentionnés dans divers catalogues de bibliothèques du moyen âge.
+
+
+=== II ===
+
+Les Eclogæ sont comptées aujourd’hui au nombre des écrits d’Amalaire.
+Au xviie siècle, Dupin et dom de Vert émettent des doutes sur leur authenticité.
+M. Mönchemeier a remarqué le premier l’étrange état dans lequel nous est parvenue cette compilation.
+
+1° L’introduction et le sommaire ne correspondent pas au développement.
+Le sommaire annonce des chapitres qui ne se trouvent pas dans le corps de l’ouvrage, par ex. sur le Kyrie eleison, le Gloria in excelsis, etc. ; d’autres chapitres qui se trouvent dans le corps de l’ouvrage ne sont pas mentionnés au sommaire, par ex. le De statione episcopi, le De secle episcopali, etc.
+
+2° On ne trouve pas développée dans certains chapitres l’idée exprimée dans le paragraphe correspondant du sommaire, par ex. pour l’Introït.
+
+3° Les chapitres des Eclogæ se suivent dans le plus grand désordre, ainsi, il est question du Canon de la messe avant la Préface ; le chapitre De secreta est interrompu par le De fractione oblatarum et repris après le De pace annuntiata.
+
+4° On trouve même, à l’intérieur de certains chapitres, des coupures et interpolations, par ex. le chapitre De pace annuntiata.
+
+Conclusion : les Eclogæ ne nous sont pas parvenues dans l’état où Amalaire les a écrites. – Erreur de M. Mönchemeier qui fait des Eclogæ l’EmBolis mentionné par Florus et place la composition de l’écrit vers 838.
+
+
+=== III ===
+
+Nous possédons encore deux fragments d’une Expositio missae dans le ms. 102 de Zurich. – Raisons pour lesquelles cette Expositio doit être attribuée à Amalaire. – En tête du premier fragment (fol. 78-83) figurent l’introduction et le sommaire qui se trouvent au commencement des Eclogæ avec un paragraphe de plus :
+    « Qualiter occurat... ».
+Le sommaire et ce que nous avons du premier fragment correspondent parfaitement quant au sens, par exemple pour l’Introït, le Kyrie eleison, le Gloria.
+Ce premier fragment s’arrête à l’Offertoire, il appartient à la première partie de l’Expositio missæ.
+
+Le second fragment (fol. 83-87) appartient à la seconde partie de l’Expositio missæ, annoncée au sommaire par le paragraphe
+    « Qualiter occurat ».
+
+L’Expositio missæ a été dédiée à Pierre de Nonantola.
+
+Les Eclogæ ne sont que des extraits de cette Expositio et du Liber officialis, par ex. les chapitres De Romano ordine et De sede episcopali se trouvent dans le Liber officialis, le chapitre De epistola n’est qu’un amalgame de fragments de la première et de la seconde partie de l’Expositio missæ. – Emploi de la méthode symbolique dans les Eclogæ.
+La conclusion des mss. d’Erfurt et de la Bibl. nat. faisait aussi partie de l’Expositio missæ. 
+
+
+== Troisième partie Le liber officialis ==
+
+Amalaire avait annoncé clans sa lettre à Pierre de Nonantola le projet de rédiger un traité sur l’Office divin.
+Lettre d’Amalaire à Hilduin ; il se renseigne sur différentes questions liturgiques ; ressemblances frappantes entre certains passages de cette lettre et certains passages du Liber officialis.
+
+Pourquoi l’ouvrage d’Amalaire doit être appelé Liber officialis.
+
+
+=== I ===
+
+Énumération et description des manuscrits actuellement existant de l’ouvrage.
+Date de la composition : le Liber officialis est offert à Louis le Pieux, probablement en 825 ; il est revu et corrigé après le voyage d’Amalaire à Rome (831-832).
+On peut donc distinguer deux rédactions.
+Différences entre les deux rédactions.
+Dans la seconde rédaction Amalaire ajoute la préface :
+    « Postquam scripsi libellum... » ; il change complètement le chapitre 15 du livre I, les chapitres 22-33 du livre IV, etc.
+
+Les manuscrits de la première rédaction contiennent les uns les trois premiers livres, les autres les quatre livres.
+Le quatrième livre est ajouté après coup par Amalaire vers 827. – Mss. contenant trois livres : Bibl. nat., lat. 1938,2399, 2401, 2852, nouv. acq. lat. 329, etc.
+Mss. contenant quatre livres : lat. 9421 et Saint-Gall 278.
+
+Les manuscrits lat. 1938 et 2852 omettent le passage :
+    « Triforme est corpus... ». 
+
+Les manuscrits de la seconde rédaction : Arras 699, Bibl. nat., lat. 2400, 12033 n’offrent pas entre eux de différences notables.
+Le ms. lat. 11580 présente à plusieurs reprises le texte des deux rédactions, par ex. livre IV, chap. 22.
+Le texte du ms. lat. 12033 a été revu et augmenté sur le ms. lat. 11580. – Editions du Liber officialis.
+
+
+=== II ===
+
+Sources.
+Ecrits des Pères : Origène, saint Grégoire de Nazianze, saint Jean Chrysostome, saint Cyrille d’Alexandrie, saint Augustin, saint Jérôme, saint Ambroise, saint Cyprien, saint Grégoire le Grand, Isidore de Séville, Bède.
+Moins souvent employés : Flavius Josèphe, Cassiodore, Boèce, Grégoire de Tours, décrétales d’Innocent Ier, de saint Léon ; canons des conciles ; Liber pontificalis, Libellas de sacris ordinibus (anonyme), les Ordines romani.
+
+Livres liturgiques : sacramentaire, antiphonaire, plusieurs missels et lectionnaires.
+
+But, méthode.
+Amalaire se propose autant d’édifier que d’instruire, c’est l’origine de sa méthode symbolique.
+Il n’insiste pas sur le côté historique, par exemple pour les vêtements sacerdotaux.
+Théorie spéciale d’Amalaire sur la messe : il la considère comme la commémoration de la vie du Sauveur.
+Variété du symbolisme d’Amalaire.
+Manque d’originalité.
+Exactitude, précision, parfois esprit critique.
+
+
+=== III ===
+
+L’influence du Liber officialis sur la littérature liturgique du moyen âge va toujours en augmentant ; nombre relativement considérable de manuscrits de cet ouvrage. – Au xie siècle, Florus oppose à la méthode allégorique d’Amalaire l’explication littérale des prières de la messe.
+La méthode historique de Walafrid Strabon.
+
+Au xe siècle, application timide du symbolisme dans l’Explication de la messe de Rémi d’Auxerre.
+
+Au xie siècle, emprunts au Liber officialis par Bernon de Reichenau, Jean de Bayeux.
+Le Micrologue.
+
+Au xiie siècle, l’influence d’Amalaire devient considérable : Hugues de Saint-Victor, Rupert de Tuy.
+Exagération de la méthode amalarienne dans Honorius Augustodunensis.
+
+Au xiiie siècle, persistance du symbolisme : Sicard de Crémone, Guillaume Durand.
+Protestation d’Albert le Grand (Opus de mysterio missæ). – Les abrégés du Liber officialis : la Collectio de ordine romanæ ecclesiæ, l’Institutio beati Amalarii. – L’abrégé de Guillaume de Malmesbury.
+
+On a faussement attribué à Amalaire le Supplementum du ms. lat. 2400 de la Bibl. nat. et le Liber officiorum, ms. 1736 de Trêves.
+
+
+== Appendice ==
+
+Liste des écrits d’Amalaire ; œuvres perdues. – On doit aussi attribuer à Amalaire des travaux sur l’Écriture sainte.

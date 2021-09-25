@@ -1,0 +1,178 @@
+identifier: ENCPOS_1909_11
+creator: Jean Longnon
+date: 1909
+title: Essai sur la chronique de Morée, édition de la version française précédée d’une introduction historique et philologique sur les diverses versions de cette chronique
+
+
+
+== Avertissement – Bibliographie ==
+
+
+
+
+== Introduction ==
+
+1° Aperça historique sur la, principauté de Morée. – La quatrième croisade. – Conquête de Constantinople ; organisation de l’empire latin (1204). – Ruine rapide de la plupart des Etats de cet empire ; par contre, prospérité de la principauté de Morée. – Organisation de la principauté. – Décadence au xive siècle.
+L’histoire de la « conquête » de la Morée s’arrête à 1311. – Les rapports de la France et de la Grèce du xive à la fin du xviiie siècle : Charles de Valois, Guy Dauphin, Louis II de Bourbon, Boucicaut, Charles VIII, le duc de Nevers, les antiquaires français. 
+
+Résultats de la rencontre des Francs et des Grecs ; influence sur la vie des deux races ; développement de la Grèce.
+
+2° Sources de l’histoire de la conquête de la Morée (1204-1311). – Souvenirs de l’établissement des Francs dans la vie grecque : langue, mœurs, légendes et traditions populaires.
+
+Monuments de l’époque franque : églises, monastères et châteaux ; tombes et inscriptions ; monnaies ; sceaux et armoiries.
+
+
+=== Textes narratifs ===
+
+Historiens romans. – Origines : Villehardouin ; Henri de Valenciennes ; Aubry de Troisfontaines ; chroniques diverses. – Histoire de la Morée au xiiie et au commencement du xive siècle : Sanudo ; Muntaner ; textes divers.
+Versions romanes de la Chronique de Morée (française, aragonaise, italienne).
+
+Historiens grecs. – Version grecque de la Chronique de Morée ; textes qui dérivent de cette version ; historiens byzantins.
+
+
+=== Textes diplomatiques ===
+
+Recueils spéciaux à la Morée. – Recueils généraux. – Principaux fonds d’archives français et étrangers.
+
+
+== Chapitre I La chronique de Morée ==
+
+Contenu des diverses versions. – Rapports entre les versions : relation étroite entre la chronique grecque et la chronique française ; valeur secondaire de la chro nique italienne ; la chronique aragonaise est une œuvre à part.
+
+La Chronique de Morée a été peu répandue.
+Mentions qu’on en trouve.
+
+Valeur historique. – La Chronique de Morée en général ; caractère légendaire de la première partie : la croisade ; l’empire latin ; la conquête de la Morée ; le prétendant Robert ; le mariage de Geoffroy II. – – Importance historique de la dernière partie, malgré quelques confusions. – Renseignements nombreux et précieux sur les institutions, la vie publique et privée et la géographie de la Morée franque.
+
+La chronique française en particulier : généralement moins complète que la chronique grecque ; elle contient cependant un certain nombre de détails qu’on ne trouve pas dans celle-ci. – Chronologie : ère mondaine de Constantinople, année et indiction commençant au 1er septembre. – Comment rectifier le tableau chronologique.
+
+Valeur littéraire. – Simplicité de la narration ; caractère merveilleux et romanesque du récit ; « grâce épique » de la chronique française.
+
+La langue : expressions picardes ou wallonnes ; mots empruntés à des langues étrangères, principalement à l’italien.
+
+
+== Chapitre II Les études sur la chronique de Morée ==
+
+Premières mentions dans Meursius, Allatius, Du Cange, Boivin.
+
+Buchon. 11 publie pour la première fois le poème grec (1825) et la chronique française (1845). – Il place la rédaction de cette dernière entre 1332 et 1346 ; l’au leur aurait été un chevalier français ; la chronique grecque dériverait de la chronique française et aurait été faite par un gasmule.
+
+Hopf en 1852 : il fixe la date de la chronique grecque entre 1350 environ et 1388.
+
+Ellissen (1856) croit à un original commun ; il déclare interpolés les vers sur lesquels se fonde Hopf.
+Cette interpolation est peu probable.
+
+Hopf en 1867-1871 : les deux textes français et grec reposent sur un original perdu dont la chronique française tient lieu. – L’auteur était peut-être un vénitien. – Publication de la chronique italienne qui dérive du poème grec.
+
+Terrier de Loray (1880) : le poème grec serait le prototype de la chronique française. – Fragilité de ses arguments qui ne prouvent rien contre l’hypothèse d’un original commun.
+
+M. Morel-Fado (1885) publie la chronique aragonaise. – Il la croit dérivée d’un texte français plus complet que celui que nous possédons.
+
+Schmitt en 1889 : il croit que le poème grec est le prototype du texte français.
+Il reprend l’hypothèse d’Ellissen sur l’interpolation des vers 8467-8469 du poème grec, ce qui lui permet d’en fixer la rédaction à 1330 avant celle de la chronique française. – Arguments : la chronique française se rapporte à un « conte » ; elle est plus résumée que le poème grec ; certains passages de celui-ci auraient été mal compris par le chroniqueur français ; le poème grec est plus développé que les autres versions.
+Ces arguments ne prouvent encore rien contre l’hypothèse d’un original commun.
+
+Le texte italien dériverait du manuscrit de Copenhague de la chronique grecque.
+
+Les manuscrits de la chronique grecque : le manuscrit de Copenhague, le plus ancien, aurait été écrit par un catholique franc ou par un gasmule. – Pourquoi nous ne croyons pas qu’il ait pu être rédigé par un Franc.
+
+Le manuscrit de Paris rédigé par un Grec de religion et de nationalité, après 1388.
+
+La chronographie de Dorothée dérive du manuscrit de Copenhague.
+
+La chronique aragonaise : l’auteur s’est servi d’autres sources que de la Chronique de Morée. – Il aurait vu également la chronique grecque, ce qui ne nous paraît pas probable.
+
+Le prototype aurait été rédigé par quelqu’un de la maison de Bartolomeo II Ghisi, châtelain de Thèbes. – Ce prototype serait le manuscrit de Copenhague du poème grec.
+Pourquoi nous n’admettons pas ce dernier point.
+
+Gaston Paris (1889) croit que le poème grec et le manuscrit de Bruxelles remontent « indépendamment à une forme plus étendue de l’œuvre française ».
+
+Schmitt en 1904 : Il donne une nouvelle édition de la chronique grecque, dans l’introduction de laquelle il reprend sa thèse.
+Nouveaux arguments tirés des noms propres et de certaines expressions de la chronique française. – Le prototype ne serait plus le manuscrit de Copenhague, mais un texte grec aujourd’hui perdu.
+L’auteur en serait un gasmule ou plutôt un Franc.
+
+L’épisode d’Hélène dans le second Faust.
+Gœthe a-t-il eu pour source la Chronique de Morée ?
+
+M. Adamantios (1906).
+Importance de son étude.
+
+1.
+La principauté de Morée.
+
+2.
+La chronique grecque. – L’édition de Schmitt. – Examen de la Chronique : indications sur l’auteur. – Pourquoi nous croyons, à l’encontre de M. Adamantios. que l’auteur du prototype pouvait être un Vénitien. – L’auteur de la chronique grecque est un gasmule ; les auteurs du manuscrit de Paris et du manuscrit de Turin sont des Grecs purs.
+Quelques remarques linguistiques.
+
+3.
+Le pseudo-Dorothée s’est servi de la chronique grecque. – Le véritable auteur de la chronographie du pseudo-Dorothée pouvait être un Vénitien.
+
+4.
+La version italienne. – Caractère de cet abrégé.
+Elle dérive peut-être de la version grecque de Turin.
+
+5.
+La chronique française. – Les omissions de la première partie sont-elles le fait d’un copiste ?
+Nous ne le croyons pas. – Rapports entre le poème grec et le texte français au point de vue historique et au point de vue littéraire. – Les déformations de certains noms propres ne prouvent pas, comme le croyait Schmitt, que le texte français dérive du poème grec.
+
+6.
+La chronique aragonaise. – L’auteur s’est-il servi de la chronique grecque ? c’est peu probable à notre avis. – L’auteur s’est servi d’autres sources que de la Chronique de Morée. – Valeur historique et littéraire de la chronique de Heredia.
+
+7.
+Le prototype de la Chronique de Morée. – Ce ne peut être ni la chronique française, ni le poème grec, qui contiennent chacun des renseignements qu’on ne trouve pas dans l’autre.
+Ils dérivent donc d’un original commun.
+Cet original s’arrêtait-il à 1292 ?
+Contrairement à M. Adamantios nous ne le pensons pas.
+
+Les textes officiels de la principauté. – Valeur historique de la chronique de Morée.
+
+Conclusion : le Livre de la conquête a été écrit principalement d’après les livres officiels. – Le poème grec, comme le texte français, dérive de ce prototype ; la chronique aragonaise du texte français, et la chronique italienne et le pseudo-Dorothée du texte grec. – Nous acceptons cette conclusion sauf en ce qui concerne la chronique aragonaise. 
+
+
+== Chapitre III Notre conclusion sur les origines de la chronique de Morée ==
+
+La chronique française n’est pas originale ; c’est le résumé d’une autre chronique, comme le montrent diverses mentions et la comparaison avec le poème grec. – Elle a été rédigée entre 1341 et 1346.
+
+La chronique grecque n’est pas originale non plus : la comparaison avec le texte français et certaines phrases, semble-t-il, montrent que l’auteur y a résumé une chronique antérieure.
+Elle a été rédigée après 1341 ; le manuscrit de Copenhague avant 1388, le manuscrit de Paris après 1388. – L’auteur de la version grecque était vraisemblablement un gasmule ; les auteurs des versions grecque de Paris et de Turin étaient des Grecs purs.
+
+La chronique italienne est un simple résumé de la version grecque de Turin, résumé fait au xve ou au xvie siècle par quelqu’un qui connaissait la Grèce.
+
+La chronique aragonaise se classe à part.
+Elle est originale par sa composition.
+Commandée par Heredia, elle fut achevée en 1391.
+L’auteur a eu comme source principale la Chronique de Morée, dans sa version originale, croyons-nous.
+
+L’original est mentionné dans la chronique française.
+Il a été fait principalement d’après les textes officiels de Morée ; il s’étendait jusque vers 1303 et a dû être rédigé entre 1303 et 1331, plutôt à la fin de cette période.
+Il a appartenu vers 1330 à Bartolommeo II Ghisi et a peut-être été fait pour lui.
+
+Raisons qui nous portent à croire que l’original avait été rédigé en italien, plus spécialement en dialecte vénitien : l’envahissement des Italiens en Morée au xive siècle ; l’original appartenait à un Vénitien ; raison invoquée par Hopf ; les italianismes dans la chronique grecque ; concordance des italianismes dans les textes grecs et français ; les italianismes dans la chronique française (expressions, mots, phrases, noms propres).
+
+
+== Appendices ==
+
+
+=== Sommaire de la chronique française ===
+
+
+
+
+=== Notice chronologique sur les grands feudataires de Morée et les principaux souverains de Grèce ===
+
+
+
+
+=== Description du manuscrit de la chronique française ===
+
+
+
+
+== Texte de la chronique française ==
+
+(Nous suppléons aux lacunes de la chronique française par un résumé de la chronique grecque et nous complétons ce texte en donnant en note les variantes des autres versions.)
+
+
+== Photographies, dessins, carte ==
+
+

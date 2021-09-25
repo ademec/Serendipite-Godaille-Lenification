@@ -1,0 +1,294 @@
+identifier: ENCPOS_1908_03
+creator: Paul M. Bondois
+date: 1908
+title: Catalogue des actes de François II, roi de France (10 juillet 1559-5 décembre 1560)
+
+
+
+== Introduction contribution à l’étude de la chancellerie royale et des lettres royaux au xvie siècle le règne de François II ==
+
+AVANT-PROPOS. – But du travail.
+Les sources.
+Le plan.
+Caractère vague de l’organisation administrative de la chancellerie.
+Bibliographie. 
+
+
+== Livre I les officiers et l’organisation de la chancellerie royale (1515-1589) ==
+
+
+=== Chapitre premier le chancelier ===
+
+1.
+La place du chancelier parmi les grands officiers de la couronne et son importance dépendaient de son influence personnelle.
+
+2.
+La nomination du chancelier appartenait au roi ; il était choisi parmi les magistrats ou les ecclésiastiques.
+Son titre était inamovible.
+
+3.
+Les privilèges du chancelier étaient surtout de nature financière (droits de visa, dons, etc.).
+Sa fonction s’entourait du prestige des marques extérieures.
+
+Les attributions du chancelier étaient triples : il était le chef de la chancellerie ; il avait un rôle judiciaire et législatif ; il exerçait parfois une autorité politique.
+
+Mais, quoique inamovible, il était entièrement à la disposition du roi qui pouvait se passer de lui en créant un garde des sceaux.
+
+
+=== Chapitre II Le garde des sceaux ===
+
+Le garde des sceaux était un fonctionnaire qui avait toutes les attributions du chancelier, sauf le titre. – Les gardes des sceaux du xvie siècle. 
+
+
+=== Chapitre III L’audiencier et le contrôleur, le rôle des maîtres des requêtes ===
+
+1.
+L’audiencier présentait les lettres du chancelier à l’audience du sceau et les faisait délivrer aux parties.
+Il était l’officier comptable.
+Le nombre de ces officiers fut multiplié au xvie siècle.
+Ils avaient de nombreux privilèges.
+
+2.
+Le contrôleur assistait l’audiencier.
+
+3.
+Le rôle des maîtres des requêtes consistait à « rapporter » sur les actes avant l’audience du sceau à laquelle ils assistaient.
+Leurs noms étaient parfois portés dans les mentions de présence ; ils pouvaient présider les petites chancelleries. – Les maîtres des requêtes sous le règne de François II.
+
+
+=== Chapitre IV Les secrétaires et notaires du roi ===
+
+1.
+La nomination des secrétaires appartenait au roi (lettres de création ou de survivance).
+Le secrétaire passait un examen devant le chancelier et les membres du Parlement.
+Il était reçu par l’audiencier et devait faire enregistrer ses provisions (marc d’or).
+
+2.
+Le nombre des secrétaires augmenta : de 60, il monta à 120.
+Pendant tout le xvie siècle, il y eut de nouvelles créations qui furent ensuite supprimées.
+
+3.
+Le recrutement des secrétaires était opéré avec soin parce que certains d’entre eux pouvaient approcher du roi.
+En 1568, des arrêts du Parlement exclurent de la corporation des secrétaires les protestants. 
+
+4.
+Le titre de secrétaire du roi était une sorte de diplôme qui donnait accès aux fonctions de greffier du Grand Conseil, de secrétaires et greffiers des Cours souveraines, de secrétaires d’Etat. – La distribution des secrétaires dans les différents services, d’après les Catalogues de François Ier et de François II.
+
+5.
+Hiérarchie des notaires. – 1° Au point de vue financier, on distinguait les gagers et les boursiers.
+En 1559, il y avait 20 grands boursiers, 20 moyens boursiers, 19 petits boursiers et 58 gagers ; droits financiers des notaires. – 2° Spécialisation administrative : les secrétaires des finances signaient les lettres de finance et même tous les actes royaux. – 3° Les secrétaires d’Etat furent primitivement quatre des secrétaires des finances spécialement désignés par le règlement de 1547 pour signer les actes de chancellerie.
+En 1559, ils prirent le nom de secrétaires d’Etat à propos du traité de Cateau-Cambrésis.
+Ce titre apparaît pour la première fois sur les provisions de Robertet d’Alluye, le 14 mars 1559, et non le 26, sur celles de Laubespine, comme Fauvelet du Toc l’a inexactement prétendu.
+Les secrétaires d’Etat sous François II étaient : Bourdin, Laubespine, les deux Robertet.
+
+Cependant, leur signature ne suffisait pas à authentiquer les actes : on retrouve encore les mentions de présence après l’apparition des secrétaires d’État, et cela contrairement aux affirmations de Fauvelet du Toc et de Luçay. – Ils étaient suppléés par les secrétaires des finances. – La division géographique du département des secrétaires d’Etat de 1547 ne fut pas observée pendant le règne de François II. Le travail se distribuait au petit bonheur, et suivant le besoin des cas, ce qui est prouvé par l’examen des signatures du catalogue d’actes.
+
+6.
+Le rôle des secrétaires du roi consistait à dresser les minutes des actes et à les faire recopier par leurs clercs.
+Cependant, de graves abus se produisirent dans l’expédition des actes.
+Des mesures royales essayèrent d’y remédier (décembre 1538, décembre 1539, 18 mars 1561).
+Les notaires eurent aussi à lutter contre la jalousie des autres corps constitués.
+
+7.
+Les privilèges étaient nombreux.
+C’étaient des confirmations générales, des exemptions spécifiées, des privilèges locaux ou des privilèges d’un caractère spécial.
+Les notaires étaient « privilégiés parmi les privilégiés ».
+
+
+=== Chapitre V Les chauffecires ===
+
+Les chauffecires (au nombre de 4) assistaient à tour de rôle à l’audience et scellaient les actes.
+Ils devaient ne pas savoir lire et avaient d’importants privilèges.
+
+
+== Livre II les petites chancelleries ou chancelleries ordinaires ==
+
+Les petites chancelleries établies auprès des Cours souveraines prirent un grand développement au xvie siècle.
+Elles étaient organisées d’une manière identique à celle de la Grande chancellerie, et virent se multiplier le nombre de leurs officiers.
+Elles pouvaient expédier des lettres de justice et de collation, et des copies de leurs actes particuliers.
+Ces chancelleries avaient des sceaux spéciaux.
+Les caractères particuliers de leurs actes étaient la date du lieu et la signature « par la Cour ».
+Ces chancelleries s’efforcèrent de lutter contre l’autorité du chancelier, et eurent à subir les empiètements des chancelleries présidiales. 
+
+
+== Livre III les actes royaux ; leurs caractères diplomatiques ==
+
+
+=== Chapitre premier les lettres patentes ===
+
+1.
+Les grandes lettres patentes sont les lettres scellées, sur lacs de soie verte et rouge, de cire verte.
+Elles ont une formule de notification générale et ne sont datées que du mois.
+Ces lettres sont des actes qui dépendent entièrement de la volonté royale.
+
+2.
+Les lettres sur double queue sont scellées, sur double queue de parchemin, de cire jaune ; elles présentent la formule : « à tous ceux qui ces présentes lettres verront, salut », et sont datées du jour.
+
+3.
+Les mandements sur simple queue sont datés du jour et ont une adresse particulière, déterminée avec soin par un protocole minutieux.
+
+
+=== Chapitre II Les actes émanés du roi ===
+
+1.
+Les lettres closes et les lettres de cachet étaient des actes de caractère plus personnel ; elles étaient fermées d’un cachet de cire rouge ; elles débutent par la formule « de par le Roy », et portent les adresses extérieures à la manière des anciennes lettres.
+Ces lettres avaient la même valeur que les mandements.
+
+2.
+Les lettres missives se distinguaient par l’adresse particulière ; elles ne présentent pas la formule « de par le Roy » et se terminent par une formule de salutation.
+
+3.
+Les brevets étaient rédigés sous la forme de procès-verbaux.
+
+4.
+Les instructions étaient rédigées par articles pour les officiers chargés de missions particulières.
+
+5.
+Les lettres de sceau plaqué étaient des actes expédiés directement par le roi, mais ouvertes.
+Elles débutaient par la formule « de par le Roy » et étaient validées par la signature du roi et le contre-seing du notaire.
+Les acquits se rattachent à cette catégorie d’actes.
+
+
+=== Chapitre III Matière, langue, écriture ===
+
+1.
+Pour la matière, on employait surtout le parchemin, quelquefois le papier.
+
+2.
+La langue employée généralement était le français, quelquefois le latin (actes de nature religieuse ou diplomatique). – Le cas des privilèges des Suédois du 26 mars 1559-1560.
+
+3.
+L’écriture des originaux était arrondie et facile à lire, mais celle des minutes était très personnelle.
+
+
+=== Chapitre IV Étude du document ===
+
+1.
+Dans le protocole initial, la suscription présente des variétés pour les actes relatifs au Dauphiné et à la Provence, pour les actes de François II comme roi d’Ecosse, et de Henri III comme roi de Pologne. 
+
+2.
+Pour le texte, il faut remarquer que l’on ne trouve le préambule que clans les actes législatifs.
+La notification, l’exposé et le dispositif sont généralement confondus.
+
+3.
+Les clauses finales sont injonctives, prohibitives, dérogatoires, réservatives et comminatoires.
+
+4.
+La formule de corroboration et du bon plaisir. – Différentes formes de la formule de corroboration.
+On ne trouve jamais : « car tel est notre bon plaisir », comme l’a déjà montré M. de Mas Latrie.
+
+
+=== Chapitre V Signatures et mentions extra-sigillum ===
+
+1.
+A droite de l’acte se trouve la signature du roi et celle du secrétaire.
+La question du secrétaire de la main est difficile à résoudre.
+La signature du secrétaire d’Etat ou des finances ne semble pas autographe.
+La répartition géographique des secrétaires d’Etat n’est pas observée durant le règne de François II. Souvent cette signature est suivie de l’indication de la présence d’un maître des requêtes (le rapporteur).
+Les mentions de présence des membres du Conseil n’ont pas disparu.
+
+2.
+A gauche, les mentions de l’audience du sceau sont le « visa » du chancelier et le « contentor » du délégué de la confrérie des notaires, qui percevait le droit de la corporation.
+
+3.
+Les mentions d’enregistrement sont placées sans ordre.
+Ce sont celles du Parlement, de la Chambre des comptes et des Cours souveraines.
+
+Il faut distinguer l’enregistrement pur et simple et l’enregistrement qui suppose la vérification préalable (Parlement, Chambre des comptes), qui donna naissance au droit de remontrance.
+
+L’enregistrement à la Chancellerie (registres du Trésor des Chartes) avait lieu pour les intérêts relatifs aux particuliers (actes scellés sur lacs de soie : lettres de grâce).
+On inscrivait sur les originaux des mentions diverses : dates de prestation de serment des officiers, mentions de vidimus, etc.
+
+
+=== Chapitre VI Les sceaux ===
+
+Type général du sceau de majesté. – Sceaux spéciaux. – Le cachet royal.
+
+
+=== Chapitre VII Les expéditions des actes ===
+
+1.
+Les caractères distinctifs des originaux sont l’aspect soigné, l’écriture sans ratures, la largeur des marges et les alignements réguliers.
+Les originaux sont toujours scellés.
+
+2.
+Les duplicata.
+
+3.
+Les vidimus.
+
+4.
+Les collations.
+
+
+== Livre IV essai d’un classement juridique des actes ==
+
+1° Actes législatifs.
+
+2° Lettres de grâce.
+
+3° Lettres de justice et de finance.
+
+Les classements du xvie siècle, les tentatives de Papon, les classifications du « stile » de la Chancellerie manquent de netteté. 
+
+
+=== Chapitre premier les actes législatifs ===
+
+Les déclarations sont scellées sur double queue de cire jaune, et datées du jour.
+Il est difficile de saisir la différence des édits et des ordonnances, actes scellés sur lacs de soie et datés du mois.
+
+
+=== Chapitre II Lettres de grâce ===
+
+Les lettres de grâce, caractérisées par la formule de grâce, étaient accordées par le bon vouloir du roi et comprenaient :
+
+1° Les lettres de juridiction gracieuse (abolitions, rémissions difficiles à distinguer, réhabilitations et pardons).
+
+2° Lettres de grâce individuelles.
+
+3° Lettres de grâce collectives.
+
+
+=== Chapitre III Lettres de justice ===
+
+1.
+Lettres de justice proprement dites.
+
+A. Sur double queue : lettres de grâce à plaider ; lettres de bénéfice d’inventaire.
+
+B. Sur simple queue : répits, sauvegardes, congés, états et surséances, debitis, committimus, compulsoires, complaintes, anticipations, pareatis, ajournements, rescisions, reliefs d’appel, requêtes civiles. 
+
+2.
+Lettres administratives. – Lettres sur double queue : pouvoirs et retenues. – Lettres sur simple queue : commissions, passages, sauf-conduits, sûretés et défenses.
+
+3.
+Lettres de finances. – Lettres sur double queue : provisions d’effets, collations, pensions. – Lettres sur simple queue : dons, féautés et serments.
+
+
+== Appendices ==
+
+I. Les taxes de chancellerie au xvie siècle.
+
+II. Les chancelleries présidiales.
+Leur création.
+Leur organisation.
+Leurs actes.
+Les chancelleries sous Charles IX et Henri III. Empiètements et luttes.
+Pièces justificatives de l’appendice II.
+
+
+== Pièces justificatives ==
+
+
+
+
+== Catalogue des actes de François II (1793 numéros) ==
+
+
+
+
+== Appendices au catalogue ==
+
+I. Itinéraire de François II.
+
+II. Essai d’un catalogue des lettres missives de François II (169 numéros).

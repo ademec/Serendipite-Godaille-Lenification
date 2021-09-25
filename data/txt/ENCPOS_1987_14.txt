@@ -1,0 +1,347 @@
+identifier: ENCPOS_1987_14
+creator: Anne-Claude Lamur
+date: 1987
+title: Recherches sur le chansonnier de troubadours M (Paris, Bibl. Nat. fr. 12474)
+
+
+
+== Introduction ==
+
+Les chansonniers de troubadours, témoins tardifs et fragmentaires de la poésie lyrique occitane des xiie et xiiie siècles, sont assez mal connus : seules ont été étudiées les sources des manuscrits et les relations qui les unissent.
+Mais de nombreux aspects, comme l’étude de la conception et de la réalisation matérielle des chansonniers, celle du comportement des scribes vis-à-vis du texte, de la langue qu’ils utilisent et de l’histoire des manuscrits restent inconnus : c’est autour de ces points que s’organise l’étude du chansonnier M (Paris, Bibliothèque nationale, fr. 12474).
+
+
+== Première partie Structure et réalisation matérielle ==
+
+
+=== Chapitre premier la structure du manuscrit ===
+
+La classification méthodique. – M propose un classement élaboré, en quatre parties : chansons, sirventes, descorts, tensos.
+Néanmoins, ces principes sont parfois enfreints : si l’Estampida de Raimbaut de Vaqueiras apparaît parmi les descorts, c’est que le copiste la considère comme un descort.
+Mais la présence de sirventes parmi les cansos ou vice versa est peut-être due au fait qu’il s’agit de pièces répertoriées sous un auteur n’apparaissant que dans une seule section méthodique (ce qui n’est pas le cas de tous les poètes), peut-être en raison de sa réputation : tel poète connu surtout pour ses chansons d’amour aura vu toute son œuvre, y compris les sirventes, recensée parmi les cansos.
+
+La succession des poètes. – Le plan idéal que certains érudits ont cru déceler dans les chansonniers (troubadours renommés et prolifiques d’abord, petits troubadours ou dont nous avons conservé peu d’œuvres ensuite, anonymes enfin) est absent de M, comme de nombreux chansonniers : seul le hasard semble être responsable de la succession des poètes.
+Même en ce qui concerne les dix premiers poètes, pour lesquels certaines habitudes sont décelables, M se montre individualiste.
+
+
+=== Chapitre II La table ===
+
+La présence de la table des matières compense l’absence de rigueur dans la succession des poètes.
+
+La présentation. – Les pièces de chaque auteur sont alignées sous son nom, avec une ligne d’intervalle entre chaque poète.
+
+Les erreurs d’inattention. – Les erreurs d’inattention sont peu fréquentes : certaines pièces sont omises à leur place, d’autres voient leur incipit modifié ; quelques initiales sont fautives : ces faits attestent que la table a été réalisée avant la rubrication.
+
+Absence de certaines corrections. – On s’aperçoit que le réviseur, lorsqu’il est intervenu sur le texte, n’a pas reporté ses corrections à la table : elle devait encore être séparée du corps du manuscrit.
+
+Les corrections propres à la table. – Dans certains cas, en réalisant la table, le copiste apporte des corrections ou des modifications : il remet à leur place des pièces détachées de l’ensemble des œuvres du même auteur, attribue à un seul poète les poésies recensées dans le texte sous deux attributions possibles et corrige des leçons fautives.
+
+
+=== Chapitre III De possibles améliorations ===
+
+Le travail du correcteur. – On n’a de traces du travail du réviseur que dans de rares cas, quand le scribe n’a pas reporté dans le texte la correction proposée : le ou les mots sont restés, écrits en petit, dans la marge au lieu d’être grattés.
+Dans d’autres cas, le correcteur signale par une croix les initiales (rubriquées) à ajouter ou modifier.
+
+Des pages blanches. – Certains feuillets sont restés blancs, soit dans l’attente infructueuse de l’arrivée de nouvelles pièces, soit pour que le lecteur puisse lui-même compléter son manuscrit.
+C’est ce qu’a fait un lecteur du xive siècle, qui a ajouté aux folios 225v-226 une pièce inconnue des autres chansonniers, Axi com cell qu’e-ll mar es perillats, écrite dans une langue où se mélangent les faits occitans et des traits typiquements catalans.
+Cette pièce est éditée ici.
+
+
+=== Chapitre IV La réalisation matérielle ===
+
+L’écriture. – Le chansonnier est tout entier de la même main, aisément identifiable comme une main italienne de la fin du xiiie ou du début du xive siècle (comparable à celle qui a copié le chansonnier D).
+
+La mise en page. – Le format (220 × 170 mm) est un gage de clarté et de maniabilité.
+La mise en page aérée et la disposition en strophes séparées chacune par une ligne confirment cette impression.
+
+La décoration. – Seuls quelques chansonniers occitans sont enluminés : AIKNMHERC. Si les chansonniers d’origine languedocienne (CER) présentent des motifs purement décoratifs, les manuscrits italiens en revanche représentent les troubadours eux-mêmes.
+Ceux de ces chansonniers qui contiennent les vidas y trouvent l’inspiration des miniatures.
+Les autres, comme M, en sont réduits à donner des vignettes stylisées.
+Celles de M représentent le plus souvent un cavalier tenant un bâton fleurdelysé, peut-être l’emblème de la fonction troubadouresque (Peire Cardenal tient, lui, un globe doré).
+Quatre autres miniatures sont individualisées : Peire Vidal et Bertran de Born sont représentés en cavaliers combattants, Jaufre Rudel embrassant une dame dans un jardin, Guiraut de Borneilh, le premier, en train de réciter, assis devant un livre.
+Si cette dernière enluminure, placée au fol.
+I, a peut-être pour mission de caractériser l’ensemble du recueil, les trois autres pourraient être dues à la réputation qu’avaient ces poètes dans le milieu où elles ont été réalisées.
+Quant au but de leur réalisation, il semble n’être que décoratif.
+
+Le style des illustrations du chansonnier M le différencie de tous les autres manuscrits : le caractère gothique des enluminures, de même que la présence de nombreux grotesques dorés dans les marges, atteste que la décoration est l’œuvre d’un artiste picard.
+Or la présence à Naples d’un atelier picard dans les années 1315-1340 a été récemment mise en évidence.
+Le royaume de Naples sous les Angevins était en effet le principal centre attractif de la péninsule pour les Français, après le remplacement des cadres italiens par l’entourage de Charles I. D’ailleurs, l’influence française sur la miniature napolitaine était déjà grande avant l’arrivée des Angevins.
+D’autre part, les lettres filigranées du chansonnier M peuvent être rapprochées de celles de deux autres manuscrits exécutés à Naples sous Charles I, un recueil de chroniques (Paris, Bibliothèque nationale, lat. 5005 A) et une traduction du Al-Hawi (Paris, Bibliothèque nationale, lat. 6912).
+Tous ces indices permettent d’affirmer avec assez de certitude que le chansonnier M a été enluminé (et donc réalisé) à Naples dans une période intermédiaire entre les deux manuscrits de Charles I et le groupe de l’atelier picard opérant sous Robert : soit sous le règne de Charles II, au tournant des xiiie et xive siècles. 
+
+
+== Deuxième partie Copie, compilation et remaniement ==
+
+
+=== Chapitre premier copie et compilation : des sources multiples ===
+
+Les conclusions de Gröber et Avalle. – Gröber reconnaît au chansonnier M plusieurs sources qui le lient à T3b, Db, R, C, V, aux chansonniers de Miquel de la Tor et de Bernat Amoros, et au L. in Ass. de Barbieri ; Avalle le place dans la même constellation, d’origine languedocienne, y, que CGQRT.
+
+Nécessité d’examiner les leçons des chansonniers. – L’examen des liens créés entre les manuscrits par les leçons permet de préciser, voire de modifier, les conclusions de ces deux érudits.
+
+M hérite d’un texte déjà contaminé. – Dans le cas de Bertran de Born, la tradition du texte est extrêmement confuse, les manuscrits s’alliant et se séparant sans cesse.
+Pour Peire Cardenal, les chansonniers ont une position beaucoup plus ferme.
+Néanmoins, M, qui d’ordinaire fait groupe avec TDb, rejoint parfois contre eux la famille issue du Libre de Miquel de la Tor, IKRC.
+
+A notre niveau de la tradition, la dégradation continue. – A leur tour, les compilateurs des chansonniers que nous avons conservés modifient le texte en mêlant plusieurs sources.
+
+M utilise deux sources différentes. – Dans deux pièces de Peire Cardenal, on a la preuve que le copiste a utilisé, pour combler une lacune de son modèle, un autre manuscrit apparenté non au groupe TMDb mais à l’autre famille : les vers ajoutés prennent place dans un espace laissé blanc en vue de cette correction, et donnent la version d’IKRC, pour des pièces dans lesquelles M suivait TDb.
+
+Le problème des doublets. – La présence de doublets n’atteste pas forcément une double source : deux pièces placées sous leur auteur, puis, anonymes, dans la section des descorts, n’en présentent pas moins exactement le même texte : c’est que le copiste a puisé dans son stock de pièces pour constituer une section méthodique.
+Deux autres pièces figurent sous deux auteurs différents, et les textes sont également très dissemblables : il y a bien ici double source ; un dernier texte, apparaissant deux fois sous le même poète, mais dans deux versions légèrement différentes, ne permet pas de tirer de conclusions certaines.
+
+Le problème des « unica ». – Trois chansons, cinq tensos et surtout vingt et un sirventes (parmi lesquels les six pièces connues de Raimon de Tors de Marseilha) sont des unica dans M. Le grand nombre d’unica parmi les sirventes est peut-être dû au fait que des pièces liées à un contexte historique et poli tique très précis se démodent plus aisément, surtout face à un public décalé dans le temps et dans l’espace.
+
+
+=== Chapitre II Copie et remaniement ===
+
+Variantes de mots : substitutions. – Les substitutions, conservant ou non le sens du passage et du mot, peuvent avoir plusieurs motifs : la prédilection du copiste pour certains mots, ses tendances stylistiques (celui de M aime particulièrement le procédé de répétition, si cher aussi à Peire Cardenal), le désir de corriger une rime (à un mot déjà présent à la rime peut être substitué un autre), l’amélioration de la formulation (l’ajout d’une syllabe peut éviter un hiatus ou une ambiguïté de prononciation), la recherche d’une meilleure adaptation au contexte, la correction d’une erreur supposée (le copiste ayant mal compris le sens d’un passage), l’influence de l’environnement culturel du copiste (c’est sûrement ce qui a motivé l’introduction du nom de Robert Giscart, le conquérent normand de l’Italie du sud, dans une pièce de B. de Born, Lo coms a mandat e volgut, où il n’avait rien à faire, variante qui vient appuyer l’hypothèse d’une origine napolitaine du manuscrit), l’influence de la langue ou du dialecte du copiste (elle peut entraîner le remplacement de certains mots par d’autres, mieux connus ou plus courants dans la région d’origine du copiste), les erreurs de lecture, la transmission orale (elle peut expliquer la substitution à certains mots de leurs synonymes exacts, ayant qui plus est le même nombre de syllabes).
+Un peu marginales sont les variantes aboutissant au remplacement d’un mot par une autre forme du même terme (essentiellement dans des buts métriques), les variantes concernant des noms propres (bien sujets à altération, surtout dans un pays étranger, mais plus difficilement à substitution, dans la mesure où un scribe italien est presque sûr de se tromper), et les variantes intervenant dans des séries de mots (il s’agit de la modification d’un mot dans une série sous l’influence d’une séquence stéréotypée).
+
+Variantes de mots : ajouts, omissions. – Le plus souvent, un ajout entraîne forcément une suppression (pour préserver la métrique), et vice versa ; mais rares sont les exemples où on peut distinguer laquelle des deux modifications est première par rapport à l’autre.
+
+Modifications grammaticales et syntaxiques. – Il y a plusieurs types de modifications grammaticales : la modification d’un accord jugé incorrect, les modifications touchant les verbes (mais les modifications de temps ou de mode sont rarement dues seulement à une cause grammaticale), les modifications touchant l’ordre des mots (mais elles ne révèlent pas, dans le chansonnier M, une structure syntaxique privilégiée), les modifications touchant la construction (elles non plus ne présentent aucune constante).
+
+Modification du temps et du nombre. – Les modifications de type morphologique, entraînant une modification du temps et du nombre, peuvent s’exercer sur la personne des verbes (une proposition prend parfois plus de poids si son verbe est exprimé au pluriel), le temps des verbes (dans certains cas, une telle modification peut s’adapter mieux au contexte), le nombre des noms (seuls les compléments peuvent voir leur nombre modifié sans entraîner une transformation de la proposition entière), et enfin toute une proposition, au moins le sujet et le verbe (une modification morphologique de ce type entraîne souvent une transformation syntaxique).
+
+Modification de vers : transfert de vers à vers de mots ou expressions. – Il arrive que certains mots d’un vers soient placés dans le suivant ou le précédent, parfois dans le but d’améliorer l’énoncé, et le copiste doit alors les suppléer là ou il les a pris, ou parce qu’une modification dans un vers a nécessité d’éliminer un mot (pour préserver le mètre), qu’il faut alors placer ailleurs.
+
+Modification de vers : erreurs de rime. – Les erreurs de rime sont peu courantes dans les passages étudiés : dans certains cas, la difficulté à réaliser une variante peut obliger le copiste à placer à la rime un mot qui ne convient pas ; mais alors, le plus souvent, le vers n’est pas coupé convenablement ; en effet, c’est la rime, plus que le rythme, qui permet au copiste de visualiser les coupures des vers.
+Le preuve de cette importance de la rime est l’extrême régularité graphique avec laquelle le scribe la note, à la différence de la plupart des copistes des autres manuscrits.
+
+Modifications de vers : erreur dans la coupe. – Outre celles qu’engendrent les problèmes de rime, certaines erreurs n’ont pas d’autre cause que la distraction, qui fait que le scribe oublie de noter un point entre deux vers.
+Ces erreurs interviennent en particulier quand le scribe a noté un vers après coup, dans un espace laissé blanc.
+D’autres exemples témoignent d’une réelle réflexion : à la pièce 335-6, les vers des trois dernières strophes, qui présentent chacun deux rimes intérieures, sont coupés en tronçons en fonction de ces rimes ; c’est donc bien le son (ou la répétition d’une même graphie) qui constitue la marque du vers.
+
+Modifications de vers : erreurs de métrique. – Certaines erreurs de métrique n’ont aucune autre raison que la distraction, ou une erreur du copiste.
+Dans d’autres cas, l’explication est plus intéressante : il arrive que le copiste ajoute, sous l’influence du rythme habituel du décasyllabe (4-6), une syllabe au deuxième hémistiche d’un vers coupé 5-5 (donc ressenti comme irrégulier) ; parfois, quand une incertitude pèse sur le nombre de syllabes d’un vers pendant toute une pièce, le copiste cherche à résoudre ce problème en choisissant un mètre et en essayant de s’y tenir (au besoin en modifiant les leçons).
+
+Modifications de vers : à partir de la base commune. – Un vers peut être remanié par le copiste, quand son original est lacunaire (ou corrompu), à partir d’un fragment plus ou moins important de la leçon donnée par l’ensemble de la tradition : le schéma d’ensemble du vers peut être conservé, les termes seuls étant modifiés (dans le cas d’une énumération par exemple) ; parfois en revanche, si quelques mots de la version commune sont conservés, ils sont la base d’un vers différent par sa structure.
+Il arrive enfin que seul le mot-rime soit préservé.
+Dans ce cas comme dans le précédent, il s’agit le plus souvent de combler une lacune du modèle.
+
+Modifications de vers : sans base commune. – Parfois, le vers remanié n’a plus rien en commun avec celui des autres manuscrits : le sens est alors très rarement conservé.
+Néanmoins, il n’arrive presque jamais que le vers nouveau n’ait aucun sens, car un remaniement si important suppose assez de réflexion pour aboutir à une signification au moins correcte.
+Pour réaliser ces réfections, le copiste a pu s’inspirer d’un vers proche, en calquant la formulation ou en lui empruntant quelques mots ; il arrive aussi qu’il utilise une expression stéréotypée (ou un passage entier), prise ailleurs dans le corpus (ce qui suppose une imprégnation réelle de la poésie des troubadours) ; il se peut enfin que le vers ajouté glose le précédent.
+Mais dans de nombreux cas, il est impossible de voir au remaniement une autre source que l’imagination de son auteur.
+
+Interversion ou déplacement de vers. – Le déplacement de vers peut résulter de plusieurs causes : le copiste peut vouloir, en intervertissant deux propositions, donner plus de clarté à la phrase.
+Mais il peut y avoir des raisons moins conscientes : l’absence de structure contraignante de la phrase (dans le cas d’une énumération par exemple), et l’identité de sens de deux vers peuvent également entraîner un déplacement ; dans ces deux cas, il est vraisemblable qu’il faut souvent incriminer la tradition orale.
+
+Vers existant seulement dans M. – Il arrive que certains vers soient présents seulement dans un manuscrit : si dans certains cas il est le seul à avoir conservé le texte original, dans d’autres la lacune était aussi dans son modèle, et son compilateur a été plus habile que les autres.
+
+Modification de l’ordre des strophes. – Seules la première strophe et la tornada conservent systématiquement leur place.
+Les autres strophes voient leur ordre souvent modifié, résultat des incertitudes de la tradition orale ou de la combinaison par le scribe de plusieurs sources plus ou moins complètes.
+
+Variantes à origine graphique : confusions, erreurs de lecture. – Les variantes à origine graphique peuvent se borner à transformer un mot par la modification de l’initiale, ou d’une lettre quelconque (mais dans ce cas, le texte nouveau est rarement excellent) ; il peut s’agir aussi d’une mauvaise interprétation d’un texte pourtant correctement lu (les mots sont alors coupés différemment).
+Il arrive même que des erreurs de ce type aboutissent à la transformation d’un vers entier.
+
+Problèmes sans réponse : blancs et espaces vides. – Quand il ne sait qu’écrire, le scribe laisse un espace blanc, qu’il complète ensuite, s’il le peut, d’après les indications du réviseur : le mot nouveau ne s’insère jamais exactement dans l’espace ménagé.
+Parfois, un blanc est laissé pour copier une strophe entière, preuve que le copiste en connaissait l’existence et la place, mais ne pouvait pas la lire sur son modèle.
+
+Des variantes qui n’en sont pas. – Le manuscrit présente parfois, seul de tous, une version correcte ; d’autres fois, en revanche, deux versions antagonistes coexistent, sans qu’aucune ne soit l’œuvre d’un remanieur : c’est l’auteur lui-même qui a repris son texte (et ce phénomène ne concerne pas uniquement les tornadas). 
+
+
+=== Chapitre III Copie et déduction : un embryon de critique du texte ===
+
+A plusieurs reprises, le copiste de M a réfléchi sur l’auteur d’une pièce : dans le cas d’une attribution douteuse, il fait suivre le nom de l’auteur supposé de la mention ut dicitur (mais ce type de précisions n’est pas repris à la table) ; dans d’autres exemples, il cherche à donner un auteur à une pièce anonyme, et trouve dans le texte des indices pour l’attribuer, dans un cas à un clerc, et dans un autre à una donna de Tolosa.
+
+
+=== Conclusion ===
+
+Si l’on ne voit pas se dessiner une politique cohérente de transformations du texte, on se rend bien compte de la dégradation qu’ont fait subir à l’original des troubadours des générations de copistes.
+
+
+== Troisième partie Étude philologique ==
+
+
+=== Chapitre premier la graphie ===
+
+Pour marquer l’élision de α ou o suivi de e, le copiste soude les deux voyelles.
+
+La lettre y est d’un usage peu fréquent.
+
+Le résultat du suffixe latin -aticum est toujours noté age.
+
+La lettre g seule note le son /g/ devant toutes les voyelles, ainsi que le son /dž/ devant e et i.
+Devant a, o, u, c’est i qui représent ce son.
+
+Le h initial, placé essentiellement dans des mots où il est étymologique, disparaît dès que le terme concerné est soudé au mot précédent.
+
+Le son /k/ est noté essentiellement c devant a, o, u, et q seul devant e et i.
+
+Le /l/ est noté ilh le plus souvent, et parfois, en finale, ill.
+Dans certains mots apparaît un ll final (qui n’est pas forcément étymologique).
+
+Le l est géminé après r essentiellement dans le verbe parllar.
+Ce trait se retrouve dans différents manuscrits florentins.
+
+Le /n/ est toujours noté inh.
+
+Le n dit caduc tombe généralement devant s, se maintient devant voyelle et h, et aux sixièmes personnes des verbes ; à la rime, le même parti est conservé pendant toute une pièce.
+Devant consonne, il n’y a pas de règle. 
+
+/s/ intervocalique est représenté par ss, iss, s, en fonction de son origine.
+
+/s/ issu d’un son latin appuyé est noté s, ss, rarement z à l’intervocalique, s ou z en position appuyée.
+L’affriquée initiale est notée c.
+
+/z/ est noté s ou z (ou ç), parfois is.
+Le suffixe -itia aboutit à esa.
+La lettre ç note les sons /z/, /s/, /ts/, et s’emploie parfois en composition avec h (peçhat).
+
+La flexion est marquée par s, sauf après g (représentant /tš/), t (mais tz est souvent réduit à z) et n (en alternance avec s).
+
+
+=== Chapitre II La phonétique ===
+
+– arius donne le plus souvent ier, -aria aboutit généralement à iera.
+
+/é/ suivi de w est diphtongué (sauf, le plus souvent, dans leu).
+
+/é/ suivi de palatale peut être ou non diphtongué.
+
+Le suffixe latin -ense donne parfois eis.
+
+Dans certains mots, on note, en position non accentuée, une hésitation entre e et i.
+
+E prosthétique est parfois omis (surtout dans le verbe estar).
+
+En syllabe initiale, on peut trouver une alternance entre e et o.
+
+Devant /l/, /ó/ est toujours diphtongué.
+Devant une autre palatale, ce phénomène connaît des exceptions.
+
+En syllabe initiale, certains mots présentent une alternance o/u.
+Ce phénomène transparaît aussi sous la graphie française ou.
+
+Le o se substitue parfois à u comme deuxième élément de diphtongue.
+
+La diphtongue au peut se réduire à o.
+
+/b/ latin aboutit à /dž/, noté le plus souvent i.
+
+/ka/ latin donne généralement ca, sauf dans les mots de la famille de chantar et chauzir.
+
+/kt/ latin final donne tantôt /tš/, noté g ou ch, tantôt /t/ (et non it) ; même si /tš/ est plus fréquent, la répartition se fait en fonction de la flexion, g et ch n’étant presque jamais fléchis.
+En position intervocalique, le traitement palatal domine aussi.
+
+Dans cuidar, le groupe /gt/ est le plus souvent palatalisé en finale, mais ne l’est que rarement en position intervocalique.
+
+/d/ latin est noté tantôt i (à l’initiale et en position appuyée), tantôt g : les deux traitements coexistent en position intervocalique et en finale, créant une incertitude quant au son représenté.
+
+/k/ médiopalatal est parfois palatalisé, parfois non.
+
+Le traitement du groupe /ga/ est tout aussi inconstant, bien que la palatalisation soit numériquement plus importante (et constante à l’intervocalique).
+
+P final passe parfois à h devant s.
+
+La sonorisation de la dentale s’étend à la conjonction de coordinataion et ; de même, un son /z/ euphonique se place après le mot qe (rarement après la préposition a).
+
+/y/ latin intervocalique est noté le plus souvent i, rarement g (devant e) : ce qui peut indiquer le son /dž/.
+
+Z (ou ç) remplacent parfois, à l’initiale, le son /dž/ : il s’agit d’un italianisme. 
+
+
+=== Chapitre III La morphologie ===
+
+L’article défini au cas sujet singulier est le au masculin, li ou la au féminin.
+Au masculin pluriel, li est parfois remplacé par ll.
+
+Les démonstratifs présentent des formes en elh au cas sujet masculin singulier et pluriel, des formes en i au féminin singulier ; on note l’existence des formes aicell e aiqest.
+
+Au pluriel, l’adjectif possessif est tantôt lur, tantôt lor, ces formes n’étant presque jamais fléchies.
+
+Le pronom personnel de la troisième personne au féminin est parfois el ; au masculin pluriel, la forme el coexiste avec il.
+Aux cas obliques, il y a alternance entre les formes en e et les formes en i (me, mi), mais sans spécialisation.
+A la troisième personne du pluriel, lur est la forme la plus fréquente.
+Le pronom atone li peut être représenté par ll.
+
+Les verbes en ar ne prennent pas de voyelle finale à la première personne du singulier.
+
+A la troisième personne au singulier du présent de l’indicatif, les verbes anar, estar et far prennent un i final.
+
+A la première personne du singulier du présent de l’indicatif, far donne fatz exclusivement.
+
+A la deuxième personne du pluriel, les désinences des verbes sont souvent réduites à s (rarement à la table) ; à cette personne, on trouve (surtout au parfait) la désinence stz.
+
+A la troisième personne du pluriel, les terminaisons des verbes en ar et er varient au présent et à l’imparfait de l’indicatif, et au présent du subjonctif.
+
+Le futur des verbes en ar est basé sur la lettre e (chanterai).
+
+Le verbe poder présente quelques formes particulières : pueis pour puesc, po pour pot (même devant voyelle), pon pour podon.
+
+
+=== Chapitre IV Remarques de syntaxe ===
+
+Le scribe soude très souvent la préposition a (et d’autres particules monosyllabiques, prépositions, adverbes, articles, conjonctions, adjectifs, pronoms, mais plus rarement), au mot qui la suit, comme si elle en faisait partie.
+
+Le scribe suit généralement les règles de la déclinaison à deux cas, non sans faire quelques erreurs (les plus fréquentes étant l’omission de la désinence aux mots terminés par g ou ch notant /tš/).
+
+Les seules phrases réellement imaginées par le copiste lui-même sont les rubriques introduisant les œuvres de chaque troubadour.
+
+
+=== Conclusion ===
+
+Le copiste est un italien (peut-être florentin), connaissant bien l’occitan, mais également habitué à copier des textes en français.
+Il réussit à s’exprimer avec clarté et cohérence à travers des systèmes graphiques qui, pour certains, lui sont propres.
+
+
+== Quatrième partie L’histoire du manuscrit ==
+
+
+=== Chapitre premier la préhistoire du manuscrit ===
+
+L’étude de la décoration, la variante introduisant le nom de Robert Giscart, et le fait que le manuscrit apparaît pour la première fois à la fin du xve siècle à Naples permettent de voir en cette ville le lieu d’origine du manuscrit M. Si la recherche dans les comptes des trésoriers des Angevins et les-tentatives de reconstitution de leur bibliothèque (qui comprend surtout des ouvrages religieux, de médecine et des classiques) n’ont pas donné de résultats, la présence des troubadours dans le sud de l’Italie dès l’époque suève plaide en faveur de cette hypothèse.
+
+
+=== Chapitre II IL Cariteo ===
+
+On ne sait par quel intermédiaire le manuscrit passa aux mains du poète napolitain d’origine catalane Benedetto Gareth.
+Ce personnage connut sous le règne de Ferrant de Naples un réel rôle politique, mais acheva sa vie comme simple particulier, occupé exclusivement de son œuvre.
+Avec son neveu, le catalan Casassagia, il lisait, commentait et traduisait son précieux Libro Limosino (M), et s’en inspirait même pour son œuvre poétique : pour lui, la poésie des troubadours était encore bien vivante.
+
+
+=== Chapitre III Angelo Colocci ===
+
+A la mort de Gareth, Colocci acheta le chansonnier à sa veuve (non sans créer des remous à Naples).
+Personnage de premier plan dans la Rome du deuxième quart du xvie siècle, l’évêque de Nocera figure parmi les précurseurs du renouveau de l’intérêt pour les troubadours en Italie.
+Il a couvert le chansonnier M de très nombreuses annotations témoignant de son application à apprendre la langue et à s’imprégner de la pensée des troubadours : pour lui, la lyrique occitane était un objet d’étude, et, outre M, il posséda plusieurs autres recueils.
+
+
+=== Chapitre IV Les copies du chansonnier M ===
+
+Copie et traduction de Bartolomeo Casassagia. – Le neveu de Cariteo, Casassagia, a effectué pour Colocci une copie et une traduction de neuf pièces de Folquet de Marseille et des pièces d’Arnaut Daniel que contient le chansonnier M. Ce travail se trouve dans les manuscrits du Vatican lat. 4796 et lat. 7182.
+
+La copie m (Vatican, lat. 3205). – g de Jeanroy est appelé ici m : c’est une copie effectuée au début du xvie siècle (peut-être à l’occasion du départ de M de Naples, à l’initiative du marquis de Montesarchio), et possédée par Colocci puis Fulvio Orsini.
+Le texte de M est presque intégralement repris.
+
+La copie m’ (Bologne, Biblioteca universitaria 1290). – La copie g2 de Jeanroy, appelée ici m’, a été réalisée au xvie siècle dans un contexte qui nous est inconnu, et donne le même texte que M mais de façon fragmentaire et désordonnée.
+
+Le
+    « L. in Asc. » de Gianmaria Barbieri. – Le L(ibro) in Ass (icelle), aujourd’hui perdu, était possédé par le provençaliste modénois Barbieri, et contenait essentiellement des poésies identiques à celles de M, mais aussi deux pièces conservées uniquement par N.
+
+Les copies de La Curne de Sainte Palaye. – La Curne de Sainte Palaye, érudit français du xviiie siècle, relança, après deux siècles de désintérêt presque total, les études sur les troubadours.
+Il se rendit en Italie, et fit copier tous les manuscrits possédés par les bibliothèques de ce pays, et en particulier M, qui était encore à la Bibliothèque vaticane (après avoir fait réaliser le même travail en France) ; puis il effectua sur ces copies un travail remarquable, que la mort l’empêcha de terminer.
+
+
+== Conclusion ==
+
+Le chansonnier M apparaît comme un manuscrit organisé, recherchant la clarté tant par sa structure que dans sa présentation, dans les leçons qu’il donne (très souvent refaites), et dans les graphies dont il les habille.
+Quant à son histoire, il semble établi qu’il a été réalisé dans le contexte de la cour angevine de Naples, écrit peut-être par un florentin, et enluminé par un picard, environ sous le règne de Charles II : le rôle de Naples dans la transmission de la poésie occitane est ainsi avéré.
+L’exemple de ce chansonnier nous invite donc à nous intéresser davantage aux autres manuscrits et à en tirer des enseignements pour la compréhension de la poésie des troubadours et l’étude de sa diffusion. 
+
+
+== Édition ==
+
+Édition diplomatique des pièces de Peire Cardenal contenues dans le chansonnier M et de sa table des matières.
+
+
+== Annexes ==
+
+Liste des variantes de mots du chansonnier M. – Liste des variantes entre la table et les incipit du manuscrit. – Tableau de la succession des poètes dans les chansonniers M, A, B, C, D, I, S, U. – Correspondance entre les vers de M et l’édition de Bertran de Born par G. Gouiran. – Localisation des initiales ornées et des vignettes.
+
+
+== Illustrations ==
+
+Photographies de feuillets du manuscrit M : table, pièces de Peire Vidal et de Peire Cardenal, inscriptions du xvie siècle, pièce ajoutée ultérieurement.

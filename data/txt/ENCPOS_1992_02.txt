@@ -1,0 +1,178 @@
+identifier: ENCPOS_1992_02
+creator: Anne-Caroline Beaugendre
+date: 1992
+title: Le Livre des merveilles du monde, ou Secret de l’histoire naturelle (premier tiers du xve siècle). Édition critique
+
+
+
+== Première partie Étude ==
+
+
+=== Chapitre premier les manuscrits et leur histoire ===
+
+Du texte du Livre des merveilles du monde, compilé dans le premier tiers du XV’ siècle par un auteur anonyme, il reste quatre manuscrits, tous superbement illustrés.
+
+Paris, Bibliothèque nationale, mss fr. 1377 à 1379. – Ce manuscrit, choisi comme base pour l’établissement du texte, est le plus ancien et le seul que l’on puisse dater de manière précise grâce à un colophon visible seulement aux ultraviolets : il a été copié à Bourges en 1427 pour un marchand nommé Renaud.
+Il a fait partie au xviie siècle de la collection des comtes de Béthune, d’où il est passé à la Bibliothèque royale.
+Il est orné de dessins à la plume rehaussés d’aquarelle.
+
+Paris, collection Charnacé. – Il n’a pas été possible de consulter ce manuscrit passé de la collection de Paul Durrieu à la famille de Charnacé.
+Les miniatures illustrant cet exemplaire, incomplet du début et de la fin, sont dues au
+    « Maître de Jouvenel des Ursins » (cf. chapitre VI) et permettent de le dater des environs de 1455.
+
+New York, Pierpont Morgan Library, ms 461. – C’est le seul manuscrit à comporter la préface de l’auteur, dans laquelle il expose ses intentions, texte très utile pour tenter de cerner sa personnalité (cf. chapitre III).
+Il est orné de miniatures dues, elles aussi, au
+    « Maître de Jouvenel des Ursins » (cf. chapitre VI), et fut réalisé aux environs de 1460-1470.
+Il fut peut-être exécuté pour un personnage de la cour de René d’Anjou, comme le suggèrent deux miniatures comportant les armes d’Anjou-Naples.
+
+Paris, Bibliothèque nationale, ms fr. 22971. – Ce quatrième et dernier manuscrit est sans conteste l’exemplaire le plus luxueux que nous possédions du Livre des merveilles du monde.
+Il fut sans doute exécuté vers 1480 pour un membre de la famille de Charles d’Angoulême, père de François Ier, peut-être sa femme Louise de Savoie ; en effet, ses miniatures sont attribuées à l’artiste connu sous le nom de
+    « Maître de Charles d’Angoulême » (cf. chapitre VI).
+Il a fait partie de la collection de Roger de Gaignières au XVII’ siècle, collection acquise par la Bibliothèque royale en 1715.
+
+
+=== Chapitre II Les éditions du XVI’ siècle ===
+
+Malgré son caractère « merveilleux » très prononcé, qui le rapproche d’ouvrages plus anciens et peut paraître étonnant à la veille de la Renaissance, alors que de nombreux récits de voyages ont déjà contribué à une meilleure connaissance du monde, le Livre des merveilles du monde, c’est certain, a eu un public au moins jusqu’aux environs de 1530.
+En témoigne la dizaine d’éditions que nous possédons encore, qui s’échelonnent entre 1504 et 1534.
+De grands imprimeurs, tels que Jean Trepperel ou Philippe Le Noir, l’ont inscrit à leur catalogue.
+Neuf éditions ont pu être identifiées, et sans doute une recherche plus approfondie permettrait-elle d’en trouver d’autres.
+Sur ces neuf éditions, sept ont été réalisées à Paris et deux à Lyon.
+Par la suite, il semble que les Merveilles du monde soient entièrement tombées dans l’oubli, jusqu’à une période récente ; encore les chercheurs semblent-ils ne s’être intéressés qu’aux miniatures qui ornent les manuscrits.
+
+
+=== Chapitre III L’auteur. Les circonstances de la rédaction des merveilles du monde ===
+
+L’auteur. – Le nom de l’auteur ne nous est pas parvenu.
+Cependant, il est possible de faire des hypothèses, sinon sur son identité, du moins sur son origine, ceci grâce à plusieurs indices de différentes natures. 
+
+Le ton de la préface et les intentions qu’elle révèle (mener les lecteurs des Merveilles du monde à la connaissance de Dieu à travers les merveilles qu’il a réalisées sur la terre) ne laissent pas de doute quant au fait que l’auteur de l’ouvrage était un ecclésiastique.
+Le grand nombre de citations bibliques, d’exempla et de récits moraux confirme cette hypothèse.
+
+Les circonstances de la rédaction des
+    « Merveilles du monde ». – Pour ce qui est de la date de rédaction, on dispose de plusieurs indices.
+Le plus ancien des manuscrits, on l’a vu, date de 1427 ; il semble qu’il ne s’agisse pas de l’original, mais il doit en être proche chronologiquement.
+Quant aux sources, les plus récentes que l’on puisse dater avec certitude sont le Chemin de pérégrination du franciscain Odoric de Pordenone (1330) et le Livre du chevalier de la Tour Landry pour l’enseignement de ses filles (1370-1371).
+On peut ainsi proposer, pour la rédaction du Livre des merveilles du monde, une fourchette entre 1371 et 1427.
+
+Il est impossible de déterminer avec précision le lieu de rédaction, mais on peut dire, grâce à l’illustration et aux recherches faites sur les différents artistes auxquels on doit les miniatures qui ornent les exemplaires du Livre des merveilles du monde, que, selon toute vraisemblance, cette compilation a pour origine une région située dans les pays de la Loire, peut-être une ville telle que Nantes, Angers, Tours ou Bourges.
+
+Les commanditaires étaient certainement des personnages fortunés et cultivés, riches marchands ou grands seigneurs.
+
+
+=== Chapitre IV Les sources ===
+
+Du fait de la date tardive de rédaction du Livre des merveilles du monde, il est fort malaisé de déterminer avec précision la tradition des sources utilisées.
+
+L’auteur, par souci de rigueur, donne le plus souvent aux « merveilles » qu’il relate des références, plus ou moins exactes.
+On retrouve ainsi la trace de nombreux auteurs et ouvrages variés, depuis la Grèce antique jusqu’au xive siècle, que l’on peut ranger en différentes catégories ; pour certains d’entre eux il est possible de dire s’ils ont été utilisés de première main, pour d’autres, la tâche est plus difficile.
+
+Auteurs anciens et du haut Moyen Âge. – Les deux auteurs les plus souvent cités sont sans conteste Pline l’Ancien, pour ses Naturae historiarum libri XXXVII, et Solin, auteur de Collectanea rerum mirabilium, ouvrage d’ailleurs fortement inspiré du précédent.
+Il semble que les extraits de ces deux auteurs aient été compilés par l’auteur du Livre des merveilles du monde d’après un ouvrage en latin, qui pouvait être déjà une compilation telle que le Spéculum majus de Vincent de Beauvais ; cela reste cependant une simple hypothèse.
+
+On trouve également trace dans les Merveilles du monde de nombreux autres auteurs, dont le compilateur donne soit le nom, soit le titre de l’ouvrage dont il s’est inspiré : Cicéron, Tite-Live, Ovide, Sénèque, Pomponius Méla, Flavius Josèphe, saint Augustin, Orose, Isidore de Séville...
+Quant à certains autres, et notamment la plupart des auteurs grecs, s’ils apparaissent dans le texte, c’est uniquement à travers des ouvrages plus récents qui les ont utilisés ; c’est le cas pour Homère, Pythagore, Xanthus, Platon, Hérodote, Démocrite, Eudoxe de Cnide, Théophraste, Aristote, Varron, Alexander Cornélius Polyhistor, Lucain, C. Epidius et Calliphane.
+
+Références bibliques et religieuses. – Le Livre des merveilles du monde comporte de nombreux récits tirés de la Bible (ils sont au nombre de soixante-dix), que l’auteur a placés au fil des chapitres en tenant compte de liens logiques qui ne nous paraissent pas toujours évidents ; il s’agit le plus souvent d’épisodes bien connus, tels que le passage de la mer Rouge, le Veau d’or, la manne et les cailles, Salomon et la reine de Saba ; certains reviennent à plusieurs reprises dans le cours de l’ouvrage.
+
+L’auteur s’est également inspiré de la Glossa ordinaria et de l’Historia scolastica de Pierre le Mangeur.
+
+Auteurs médiévaux et « exempla ». – Les deux auteurs les plus souvent cités sont Gervais de Tilbury pour ses Otia imperialia (début du XIII’ siècle) et le franciscain Odoric de Pordenone ou de Frioul (1286-1330), pour son Chemin de pérégrination, récit de ses voyages en Inde.
+
+Ensuite viennent d’autres références, beaucoup moins nombreuses : Marbode, Vincent de Beauvais, Albert le Grand, Jacques de Voragine, Giraud de Barri, le Livre du chevalier de la Tour Landry...
+
+Il faut mettre à part les nombreux exempla présents dans le Livre des merveilles du monde (le Livre du chevalier de la Tour Landry s’en rapproche à certains égards).
+Ces récits s’intègrent parfaitement dans le texte de la compilation et correspondent tout à fait aux vues de son auteur, telles qu’il les a exposées dans la préface.
+Il n’a pas été possible de déterminer avec précision de quels recueils A’ exempla proviennent les récits présents dans le Livre des merveilles du monde ; il semble toutefois que les Gesta Romanorum aient été utilisées, dans leur version latine.
+Enfin, certains récits (l’ours, le prêtre-cigogne) paraissent, du moins en partie, originaux.
+
+Sources non identifiées. – Tout au long de l’ouvrage se trouvent également des passages paraissant provenir de traditions orales, des légendes, des récits de type mythologique.
+Par ailleurs, certaines références n’ont pu être encore identifiées.
+
+L’accès de l’auteur aux sources. – Le nombre élevé de références différentes amène à se demander si toutes ces sources ont été directement utilisées par le compilateur.
+Il est possible qu’il se soit servi d’un ouvrage déjà constitué d’extraits d’auteurs anciens, tel que le Spéculum majus de Vincent de Beauvais, mais ce n’est pas certain.
+
+Le Livre des merveilles du monde a sans doute été compilé à partir de textes en latin.
+Il se compose, d’une part, d’extraits d’auteurs classiques et du haut Moyen Âge (peut-être tirés d’une autre compilation) ; et d’autre part, d’extraits d’auteurs médiévaux et d’exempla auxquels viennent se mêler des récits tirés de la Bible, des légendes et le fruit des réflexions du compilateur, tout cela ordonné selon un plan double qui fait l’originalité de ce recueil. 
+
+
+=== Chapitre V Le texte ===
+
+L’ouvrage se compose de deux parties distinctes.
+La première comporte cinquante-six chapitres consacrés à un pays ou à une province, classés alphabétiquement (de Affrique à Ululande) ; c’est la seule qui soit illustrée.
+La deuxième partie est thématique ; elle comporte dix-sept chapitres, consacrés à l’homme, aux animaux, aux éléments.
+
+Le style n’est pas exempt parfois d’une certaine lourdeur, mais le texte reste distrayant et d’une lecture agréable, et est agrémenté de superbes illustrations.
+
+
+=== Chapitre VI L’illustration ===
+
+L’illustration joue un rôle important pour la datation des manuscrits du Livre des merveilles du monde.
+Trois d’entre eux ont bénéficié du talent de deux des enlumineurs les plus renommés du XV’ siècle.
+
+L’enluminure française de 1400 à 1500. – Après l’apogée de l’enluminure parisienne dans les premières années du XV’ siècle, les vicissitudes de la politique, notamment la défaite d’Azincourt en 1415, entraînent l’effacement des ateliers parisiens.
+Le repli de la royauté dans la vallée de la Loire contribue au déplacement de l’activité artistique vers ces régions.
+C’est de Touraine qu’est originaire Jean Fouquet (vers 1415 ou 1420 à 1480 ou 1481), le plus grand enlumineur du XV’ siècle, dont l’influence se fait encore sentir jusqu’à la fin du siècle.
+
+Le peintre du ms fr. 1377-1379. – On ignore tout de l’auteur de ces superbes dessins aquarellés qui ont peut-être inspiré l’illustrateur des manuscrits Charnacé et Pierpont Morgan 461.
+
+Le
+    « Maître de Jouvenel des Ursins ». – L’identité de cet artiste pose l’un des problèmes les plus intéressants de l’enluminure française du XV’ siècle, et a donné lieu, depuis le début du XX’ siècle, à de nombreuses hypothèses (l’histoire en a été retracée par Eberhardt König en 1982).
+
+Paul Durrieu, en 1904, fut le premier à soulever la question des « œuvres de jeunesse » de Jean Fouquet, attribuant à ce
+    « Fouquet jeune » d’avant son voyage en Italie l’illustration d’un certain nombre de manuscrits.
+
+Au fil du temps, le nombre de ces derniers ne cessa de s’accroître, grâce à Durrieu, Otto Pächt...
+Cependant, il n’était plus possible d’attribuer ces enluminures à un Fouquet d’avant le voyage en Italie (qui se situe entre 1443 et 1447), car l’un des manuscrits du groupe était daté avec certitude d’après 1458, et un autre de 1471.
+
+C’est en 1955 que Jean Porcher proposa le terme de
+    « Maître de Jouvenel des Ursins », du nom du destinataire de l’un des manuscrits en question, le Mare historiarum de Giovanni Colonna (Paris, Bibl. nat. ms lat. 4915), daté de 1448-1449.
+Cet artiste pouvait parfois être identifié au
+    « Maître du Boccace de Genève » (terme proposé par Winkler et Smital en 1926, d’après le manuscrit du Livre des cas des nobles hommes et femmes, vers 1460-1470, Genève, Bibl. publ. et univ., ms fr. 5).
+Il pourrait s’agir en fait d’un groupe d’artistes, et non d’un personnage isolé.
+Depuis, on a proposé diverses identifications du
+    « Maître de Jouvenel des Ursins », qui demeure pourtant mystérieux.
+Il semble avoir été un Flamand ou un Français ayant étudié en Flandre, installé vers le milieu du xve siècle dans la région de la Loire (à Nantes puis à Angers), et qui y fut en relation avec la cour de René d’Anjou.
+
+Les deux exemplaires du Livre des merveilles du monde de la collecion Charnacé et Pierpont Morgan 461 sont, dans le catalogue établi par E. König, attribués au
+    « Maître du Boccace de Genève », qui a peut-être travaillé avec le
+    « Maître de Jouvenel des Ursins » pour le manuscrit Charnacé.
+
+Le
+    « Maître de Charles d’Angoulême ». – Cet artiste fut actif vers 1480-1500.
+Son style s’apparente à l’art de l’orfèvrerie et de la gravure sur cuivre et sur émail.
+Paul Durrieu a proposé de l’identifier à Robinet Testard, attaché à Louise de Savoie.
+Mais sa personnalité demeure mystérieuse.
+
+
+=== Chapitre VII Règles d’édition ===
+
+Le manuscrit choisi pour base de l’édition est le ms fr. 1377-1379, excepté pour la préface, présente seulement dans le manuscrit Pierpont Morgan 461 ; ce manuscrit est le plus ancien (1427), et son texte est le plus complet.
+
+Le texte est divisé, conformément au plan voulu par l’auteur, en deux parties principales ; chacune des parties est ensuite divisée en chapitres, eux-mêmes divisés, selon le sens, en paragraphes.
+
+Les variantes sont celles du ms fr. 22971 ; les variantes du manuscrit Pierpont Morgan 461 n’ont pu être intégrées, mais quelques sondages indiquent que ce manuscrit constitue un intermédiaire entre le ms fr. 1377-1379 et le ms fr. 22971 ; quant au manuscrit Charnacé, il n’a pu être consulté.
+Seules ont été prises en compte les variantes de sens et les omissions.
+Dans un premier étage de notes figurent les variantes proprement dites, dans un second, les leçons rejetées.
+
+Des notes complémentaires ont été regroupées à la suite du texte. 
+
+
+== Deuxième partie ==
+
+
+
+
+== Édition ==
+
+Édition complète d’après le ms fr. 1377-1379, corrigé par le ms fr. 22971.
+
+
+== Index nominum ==
+
+L’Index nominum comporte tous les noms de personne et de lieu se trouvant dans le texte du Livre des merveilles du monde, ainsi que certains noms apparaissant dans les notes et l’introduction.
+
+
+== Annexes ==
+
+Résultat de quelques sondages effectués dans le manuscrit Pierpont Morgan 461 pour l’étude des variantes textuelles. – Description de chaque miniature pour les manuscrits fr. 1377 à 1379, Pierpont Morgan 461 et fr. 22971.

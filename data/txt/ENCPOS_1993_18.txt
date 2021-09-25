@@ -1,0 +1,152 @@
+identifier: ENCPOS_1993_18
+creator: Juliette Robain
+date: 1993
+title: Château, châtellenies en Nouvelle Catalogne dans la région de Lérida de 1149 à 1213
+
+
+
+== Introduction ==
+
+Au XII’ siècle, une partie de la Catalogne est encore sous domination musulmane.
+La reconquête a peu progressé depuis l’époque carolingienne où les chrétiens avaient repris la
+    « Vieille Catalogne », formée par les comtés du nord et de l’est, et la frontière chrétienne y est beaucoup moins avancée que dans le reste de la Péninsule.
+Ramon Berenguer IV, comte de Barcelone et prince d’Aragon, met fin à cette situation en reprenant les deux grandes cités musulmanes de Tortose et de Lérida en 1148 et 1149 (les régions de Tortose et de Lérida forment la Nouvelle Catalogne).
+La région de Lérida, qui est étudiée ici, est repeuplée et réorganisée selon le modèle élaboré au cours des décennies précédentes dans les vieux comtés catalans.
+
+
+== Sources ==
+
+La richesse de la documentation catalane médiévale est connue, mais a été relativement peu exploitée pour l’époque des premiers comtes-rois : Ramon Berenguer IV (1131-1162), Alfons I" (1162-1196) et Pere I" (1196-1213).
+Les principaux fonds sont conservés à l’Archivo de la Corona de Aragón, à Barcelone, principalement dans les séries de Pergaminos de la Cancillería real, et dans celles du Gran priorato de Cataluña de la Ordén de San Juan de Jerusalén pour les ordres militaires.
+Ont aussi été utilisés les fonds des grands monastères catalans, notamment celui de Poblet, conservé à l’Archivo histórico nacional à Madrid.
+
+
+== Chapitre préliminaire situation de la région de Lérida a la veille de la reconquête ==
+
+A l’époque musulmane, la ville de Lérida a d’abord formé le centre de l’un des districts de la marche supérieure d’al-Andalus avant d’être rattachée à la taïfa de Saragosse puis d’être elle-même la capitale d’une taïfa.
+A la veille de la reconquête, cette taïfa s’étend approximativement sur les deux actuelles comarcas de Segria et Garrigues.
+
+La principauté de Lérida est entourée en 1149 par plusieurs États chrétiens : à l’ouest, le royaume d’Aragon dont les souverains successifs entreprennent plusieurs expéditions contre Lérida ; au sud, le comté d’Urgell ; et à l’est, le comté de Barcelone.
+L’union du comté de Barcelone au royaume d’Aragon en 1137 est l’une des causes de la reconquête de Lérida, qui ne peut plus s’appuyer sur une principauté pour se défendre contre l’autre.
+
+
+== Première partie Les châteaux ==
+
+
+=== Chapitre premier le réseau castral après la reconquête ===
+
+Les châteaux ont un rôle important dans la réorganisation du pays consécutive à la conquête chrétienne.
+Le réseau des châteaux musulmans, les husun, est réutilisé ; s’y ajoutent de nouveaux châteaux chrétiens, implantés principalement dans les vallées du Segre et de l’Èbre et dans les montagnes du Montsant.
+Une grande variété de termes est utilisée pour désigner le château chrétien, castrum étant de loin le plus fréquent.
+Le castrum est souvent associé à une villa : le phénomène de l’incastellamento semble s’appliquer en Catalogne comme en Italie, l’on voit les villages se regrouper au pied des châteaux au lieu d’être éparpillés dans la plaine.
+Le territoire entier est divisé en castell termenats, circonscriptions d’importance variable dépendant du château.
+
+
+=== Chapitre II Le rôle du castrum ===
+
+Le château a des fonctions diverses dans l’organisation du pays.
+Le rôle militaire est le plus évident, bien que la lutte contre les musulmans ne soit plus prioritaire après la reconquête de Lérida et de Tortose.
+Le château reste un point d’appui important dans les guerres privées entre barons.
+
+La fonction de centre de commandement fait du château le centre de la seigneurie banale, les hommes vivant dans le cadre de la seigneurie doivent au maître du château, souvent représenté par un castlà et un bayle, un certain nombre de redevances et de services.
+Le système élaboré en Vieille Catalogne dans la seconde moitié du XI’ siècle s’applique dans les mêmes modalités.
+
+Enfin, le château est un élément important du monde féodal.
+On le retrouve fréquemment dans l’iconographie.
+Le terme aurait peut-être donné son nom au pays, c’est du moins l’une des nombreuses hypothèses tentant d’expliquer l’origine du mot Catalogne : Catalonia viendrait de castlà, l’homme chargé de la garde du château.
+
+
+=== Chapitre III Les modes de transmission des châteaux ===
+
+Les châteaux se transmettent le plus souvent sous la forme apparente ou réelle de dons.
+Certaines transactions s’effectuent au sein de la famille, les plus courantes sont les transmissions par héritage, mais elles se font aussi à l’occasion du mariage : les châteaux peuvent être donnés en dot, par un père à sa fille, ou en sponsalicium, par un mari à sa femme.
+
+Les donations sont pourtant rarement « gratuites » et exigent généralement une contrepartie.
+Si elle reste d’ordre spirituel dans les donations pieuses, la contrepartie est bien réelle dans les donations en fief : il s’agit de services d’ost, de cavalcade... auxquels peut s’ajouter une partie des revenus de la châtellenie.
+Les châteaux peuvent aussi être donnés en gage (impignoramentum) ; dans ce cas, la compensation est sans ambiguïté financière ; le taux du prêt à intérêt est souvent élevé et peut couramment atteindre 20 %. 
+
+
+=== Chapitre IV Les modes de détention des châteaux ===
+
+Les modes de détention des châteaux en Nouvelle Catalogne sont semblables à ceux décrits par Pierre Bonnassie pour le xie siècle et le début du xiie siècle.
+On trouve cependant moins de châteaux tenus en alleu car les terres viennent d’être reconquises par le comte et personne ne peut prétendre les posséder en pleine propriété par succession familiale.
+Le comte de Barcelone ne donne des châteaux en alleu qu’à des alliés sûrs, tels les comtes d’Urgell.
+
+Le système le plus courant est le fief, les concessions se font toujours par le biais des convenientie.
+On remarque que si les serments de fidélité qui suivaient généralement l’inféodation semblent se raréfier, la cérémonie de l’hommage, par contre, reste vivante.
+
+La féodalité catalane a pu connaître son plein épanouissement dès la deuxième moitié du xie siècle (P. Bonnassie), ou seulement au cours du XII’ siècle (T. Bisson) ; le système féodal est en tout cas assez élaboré dans la seconde moitié de ce siècle pour être pleinement mis en œuvre dans la région de Lérida.
+
+
+== Deuxième partie Les châtelains ==
+
+
+=== Chapitre premier le comte-roi ===
+
+Le comte-roi est le premier châtelain de ses terres dans la hiérarchie féodale.
+Mais au XII’ siècle, son pouvoir est de plus en plus défini en termes régaliens.
+La compilation juridique des Usatges de Barcelona, rédigée vers le milieu du siècle à l’instigation de Ramon Berenguer IV, insiste sur les attributions du princeps en matière de justice, de guerre et de paix, de fortifications, de monnaie...
+Le prince reprend aussi à son compte la paix et la trêve de Dieu.
+
+L’activité administrative d’Alfons I", secondé par Ramon de Caldes, contribua à améliorer l’organisation du pays : les archives comtales furent reclassées, une réforme fiscale se mit en place et assura une meilleure gestion des ressources du pays.
+
+Les comtes de Barcelone doivent cependant faire face à un certain nombre d’oppositions et de critiques, dont se font l’écho les sirventés des troubadours. 
+
+
+=== Chapitre II Les seigneurs laïques ===
+
+Les châteaux de la région de Lérida sont donnés en fief aux représentants de plusieurs grands lignages catalans.
+Les comtes d’Urgell, comtes par la grâce de Dieu, ont un statut à part.
+La participation d’Ermengol VI à la conquête lui a valu de larges donations, notamment celle de la ville de Lérida en fief.
+Leur puissance pourrait être dangereuse pour les comtes-rois, mais ils restent constamment fidèles aux souverains.
+
+On trouve d’autres familles de châtelains, notamment les Montcada très présents dans la région de Lérida, les Cervera, castlans de Lérida...
+
+
+=== Chapitre III Les seigneurs ecclésiastiques ===
+
+Le reconquête s’accompagne de la restauration de l’évêché de Lérida, qui reçoit en dotation les dîmes et les prémices de la ville de Lérida et de tout son territoire.
+Une nouvelle cathédrale commence à s’édifier sur l’emplacement de l’ancienne mosquée.
+
+De nombreux établissements monastiques s’établissent en Nouvelle Catalogne au XII’ siècle.
+L’ordre cistercien est particulièrement représenté, avec les monastères de Santes Creus, de Vallbona de les Monges, et surtout de Poblet, dont l’abbé est un des principaux seigneurs de la région par l’importance de ses domaines.
+
+Enfin, les ordres militaires jouissent de la faveur des comtes-rois.
+Ceux-ci leur donnent de nombreux châteaux (théoriquement un cinquième de toutes les conquêtes) pour les dédommager de la perte de l’héritage d’Alphonse le Batailleur.
+Ils participent largement au repeuplement de la région.
+
+
+== Troisième partie Les châtellenies ==
+
+
+=== Chapitre premier processus d’asservissement : la seigneurie banale ===
+
+La seigneurie banale née au siècle précédent dans le comté de Barcelone s’abat sur les paysans de Nouvelle Catalogne.
+Les exactions exigées par les seigneurs commencent à se codifier mais ne sont pas encore limitées aux cinq mais usos classiques du xiiie siècle (cugucia, exorquia, intestia, arsina, ferma de spoli).
+La position frontière de la région de Lérida ne préserve pas ses habitants de l’asservissement.
+La plaine de Lérida n’est pas une région déserte ni exposée à des dangers particuliers ; les seigneurs ne cherchent donc pas à y attirer des colons à tout prix en leur accordant des conditions favorables.
+
+
+=== Chapitre II Processus d’affranchissement : les chartes de peuplement et leurs limites ===
+
+Certaines communautés villageoises de la région de Lérida bénéficient cependant de chartes de franchise, destinées à attirer des colons et à favoriser le repeuplement.
+Ces chartes sont le plus souvent octroyées par le comte-roi qui peut ainsi faire contrepoids au pouvoir des seigneurs féodaux.
+
+Les communautés musulmanes sont régies par des règles différentes ; si la tolérance religieuse est affirmée, les anciens habitants ne peuvent pas toujours rester sur place et doivent se regrouper dans les morerias de certaines villes ou villages.
+
+
+=== Chapitre III Le legs de la domination musulmane ===
+
+Plus de quatre siècles de domination musulmane ont laissé des traces dans le pays.
+Leur système d’irrigation perfectionné fut réutilisé par les chrétiens.
+On trouve encore aujourd’hui dans la toponymie le souvenir de cette période.
+
+
+== Conclusion ==
+
+Le féodalisme apparaît dans la région de Lérida dès la reconquête en 1149 ; cependant, la souveraineté du comte de Barcelone s’affirme de plus en plus nettement et son pouvoir ne risque plus d’être menacé par les barons du pays.
+
+
+== Pièces justificatives ==
+
+Édition des documents inédits des règnes de Ramon Berenguer IV, Alfons Ier et Pere 1“concernant la région de Lérida, et brève analyse des documents ayant déjà fait l’objet d’une édition.

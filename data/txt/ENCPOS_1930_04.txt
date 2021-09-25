@@ -1,0 +1,228 @@
+identifier: ENCPOS_1930_04
+creator: Suzanne Dobelmann
+date: 1930
+title: La langue de Cahors depuis le début du xiiie siècle jusqu’à la fin du xvie siècle
+
+
+
+== Avant-propos ==
+
+Nous nous proposons d’étudier, d’après les chartes originales, la langue parlée à Cahors au moyen âge.
+
+
+== Bibliographie ==
+
+
+
+
+== Premiere partie ==
+
+
+=== Sources ===
+
+Il n’y a pas de documents pour Cahors au XIIe siècle.
+A partir du milieu du xiiie siècle les sources sont abondantes.
+Le provençal n’est plus guère employé dans les chartes après le premier quart du xive siècle.
+Mais il reste la langue dominante des registres municipaux Te igitur et Livre Tanné.
+
+Les fonds principaux sont les archives municipales de Cahors et la série H (fonds de l’Hôpital général).
+Les deux tiers des chartes originaires de Cahors sont seules publiés.
+
+
+=== Table chronologique des chartes en langue vulgaire ===
+
+
+
+
+=== Tables chronologiques du Te igitur ===
+
+
+
+
+=== Repartition par fonds des chartes publiees ===
+
+
+
+
+== Deuxieme partie Phonetique ==
+
+
+=== Chapitre premier graphie ===
+
+Graphie des voyelles. – La graphie ou pour o fermé apparaît dès le début du xive siècle.
+
+La diphtongue iu à partir de la fin du xiiie siècle est écrite io, iou, ieu, la graphie o semble bien avoir la valeur d’un u.
+
+Au est quelquefois écrit ao.
+
+Eu est quelquefois écrit eo.
+
+Ces graphies paraissent tout à fait spécifiques de la région du Quercy et de l’Auvergne.
+
+Graphie des consonnes. – On emploie indifféremment s ou c pour noter s dur ou ts (c latin devant e ou i) dès la fin du xiiie siècle.
+
+Le son ch est noté sh puis sch pendant cinquante ans au moins à la chancellerie consulaire ; après 1330, la graphie ch l’emporte.
+
+Le groupe tch final est noté h anciennement, puis ch, puis g.
+Pour tch médial on trouve les graphies it et ch.
+
+L et n mouillés sont notés lh et nh dès le milieu du xiiie siècle.
+
+La graphie est assez satisfaisante, sauf pour j qui est noté i ou g.
+
+
+=== Chapitre II Voyelles ===
+
+Voyelles atones. – a post-tonique s’affaiblit en o au xvie siècle.
+
+ia s’affaiblit en ie, quelquefois en i ; dans estia, qui devient estie, esti...
+
+Voyelles toniques. – a.
+Le suffixe latin -arium passe par les étapes : eir > er > ier.
+
+Le suffixe -aria, par : eira > ieira > iera.
+
+e et o ouverts se diphtonguent au milieu du xiiie siècle devant yod ou un groupe occlusif plus yod.
+
+o fermé latin a passé à u dès la fin du XIIIe siècle comme l’attestent les graphies : io = iu, eo = eu, ao = au et ou dans tout.
+
+Pour i il y a épenthèse d’un e entre i et 1 au xive siècle, et iel s’assourdit en ial.
+
+u long latin a passé à ü dès le xiiie siècle comme l’indiquent les graphies lh devant u et la répugnance à employer u dans la diphtongue iu depuis la fin du xiiie siècle.
+
+Diphtongues. – iu devient ieu à la fin du XIIIe siècle.
+Les diphtongues ieu et iou permutent fré quemment.
+Il est à croire que ce passage se fait sans l’intermédiaire de iau, jamais attesté par les textes.
+
+
+=== Chapitre III Consonnes ===
+
+Consonnes initiales. – Les consonnes initiales se maintiennent en général.
+
+Cependant yod devient j ou dz.
+
+1 est mouillé devant i ou ü à partir de 1250 ; apres 1329 le phénomène n’est plus que sporadique.
+
+Les groupes latins se devenu es, ss plus yod devenu yod + ss en roman, passent à ch au milieu du xiiie siècle.
+
+Consonnes intervocaliques. – Les consonnes sourdes intervocaliques devenues finales en roman ne sont pas encore assourdies dans les pièces de 1224 et 1235, on trouve : revestig, marid, cab.
+
+Le groupe s + yod latin est devenu yod + s en roman.
+Il se réduit à yod au milieu du xiiie siècle : maio, gleia.
+
+Le groupe roman zi peut se réduire à yod dans faia, envaidor.
+
+
+== Troisieme partie Morphologie ==
+
+
+=== Chapitre premier substantif ===
+
+La déclinaison à deux cas des noms parisyllabiques est bien observée jusque vers 1320. 
+
+
+=== Chapitre II Article ===
+
+Masculin. – Au singulier, lo pour les deux cas.
+Au pluriel li, lhi au cas sujet, et los à l’accusatif.
+A la fin du xive siècle los pour les deux cas.
+
+Féminin. – Au singulier la, au pluriel las, pour les deux cas.
+
+
+=== Chapitre III Pronom personnel ===
+
+Pronom sujet. – A la première personne, dès le xiiie siècle, ieu peut passer à io – iu.
+
+Pronom régime. – Les pronoms régimes disjoints sont en mi et si, les pronoms conjoints en me et se.
+
+On rencontre les formes nonh et vonh pour no ne et vo ne.
+
+Le pronom personnel pluriel de la troisième personne est lor.
+
+
+=== Chapitre IV Verbe ===
+
+Désinences générales. – Troisième personne du pluriel (futur excepté) : au xiie siècle les terminaisons sont en -o, -io pour l’imparfait de l’indicatif et le conditionnel, -io peut passer à -iou, -iu dès la fin du xiiie siècle.
+Au xive siècle les terminaisons savantes en -ian remplacent les désinences en -io.
+
+Futur. – La première personne est en -ei, -iei.
+Les troisièmes personnes du pluriel sont en -au jusqu’au xive siècle, époque où elles sont concurrencées par -an, sans qu’au disparaisse.
+
+Présent de l’indicatif. – La voyelle d’appui de la première personne est i. 
+
+Présent du subjonctif. – La synérèse est accomplie comme l’indiquent les diphtongues siou, sieu, rencontrées à la troisième personne du pluriel.
+
+Parfait. – Troisième personne du singulier.
+Les parfaits faibles continuant le latin -avit, -edit, sont d’abord en -ec et -et, puis -et l’emporte ; continuant – ivit, les désinences sont généralement en ic ; dans un document de 1310 on trouve quelques désinences en it.
+
+Parfaits forts. – Dès le xiiie siècle les désinences faibles envahissent la conjugaison forte : on trouve foret pour fo.
+
+
+== Quatrieme partie Syntaxe ==
+
+
+=== Chapitre premier mots a flexion ===
+
+1) Pronom personnel. – Distinction entre formes conjointes atones et formes disjointes accentuées.
+
+2) Pronom possessif. – Les formes accentuées sei, mei, sont toujours employées comme atones non précédées d’article.
+
+3) Pronom démonstratif. – Neutre : aiso est le pronom démonstratif par excellence ; au xiiie siècle aquo est surtout employé dans les expressions aquo que ; plus tard so le remplace dans cette fonction.
+
+4) Pronom relatif. – Que est employé concurremment à loqual.
+Qui est encore employé au début du xiiie siècle comme pronom sujet. 
+
+
+=== Chapitre II Groupes nominaux ===
+
+Accord du substantif et de l’adjectif. – Lorsqu’il y a plusieurs substantifs pour un seul adjectif, il règne une grande hésitation pour l’accord.
+
+Article. – L’article défini est omis devant les noms propres et les noms abstraits.
+
+L’article indéfini ne commence à être employé qu’à la fin du xiiie siècle.
+
+Le complément déterminatif est réuni au déterminé par de ; anciennement de pouvait être omis devant les noms propres.
+
+
+=== Chapitre III La proposition ===
+
+Le sujet pronominal inutile à l’expression est fréquent jusqu’au xve siècle.
+
+La tournure impersonnelle s’exprime par le verbe à la troisième personne du singulier, sans pronom.
+
+Régime. – L’ordre des pronoms régimes est accusatif, datif.
+
+Attribut. – L’accord de l’attribut se fait très régulièrement en cas.
+
+
+=== Chapitre IV Subordination et coordination ===
+
+1) Le présent du subjonctif peut être employé pour le futur, l’imparfait du subjonctif pour le conditionnel.
+
+2) Phrases hypothétiques. – On trouve un exemple de phrase hypothétique irréelle avec le conditionnel passé : appellera Dieu si pogues.
+
+
+== Publication de 32 pieces originales en dialecte de Cahors ==
+
+
+
+
+== Analyse des pieces du Te igitur utilisées dans l’Etude linguistique et corrections à l’édition du manuscrit ==
+
+
+
+
+== Table des noms propres ==
+
+
+
+
+== Glossaire ==
+
+
+
+
+== Fac-similes et plans ==
+
+

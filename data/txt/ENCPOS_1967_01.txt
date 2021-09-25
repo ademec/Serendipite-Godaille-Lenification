@@ -1,0 +1,236 @@
+identifier: ENCPOS_1967_01
+creator: Catherine Counot
+date: 1967
+title: Les vignerons de Sannois au xviiie siècle : étude démographique et sociale d’un village du Parisis
+
+
+
+== Avant-propos ==
+
+Le village de Sannois, qui fait partie de l’échantillon des communes tirées au sort pour l’enquête entreprise par l’Institut national d’études démographiques, est situé dans la vallée de Montmorency.
+Il est typique des pays du Parisis consacrés essentiellement à la culture de la vigne, dans le cadre de la petite propriété paysanne.
+A la fin du xviiie siècle, le vignoble de Sannois prenait rang après ceux, voisins, d’Argenteuil et de Cormeilles.
+
+On sait que la culture de la vigne entraîne généralement un peuplement dense et favorise la constitution d’un groupe social original.
+
+
+== Sources ==
+
+Les sources consultées sont dispersées entre les Archives nationales, les Archives de Seine-et-Oise, les Archives communales de Sannois, le musée Condé à Chantilly et le minutier d’un notaire de Sannois.
+
+L’étude démographique est fondée sur l’exploitation des registres paroissiaux, conservés à la mairie de Sannois, et de deux listes nominatives d’habitants de 1796 et 1799 conservées aux Archives de Seine-et-Oise (série L).
+
+Cette documentation est complétée par deux sources principales, utilisées pour l’étude sociale : rôles de la taille (Archives nationales, série Z1 G, pour 1740-1790) et minutes notariales (minutier de Saint-Gratien, déposé aux Archives de Seine-et-Oise, et minutier ancien de Me Lefèvre, notaire à Sannois). 
+
+
+== Première partie Étude démographique ==
+
+
+=== Chapitre premier les registres paroissiaux et d’état-civil : Méthode de reconstitution des familles ===
+
+Le premier registre paroissial commence en 1548 avec les actes de baptême, les actes de mariage et une série de testaments qui semblent tenir lieu d’actes de sépulture : l’enregistrement est certainement incomplet.
+Au xviiie siècle, tous les baptêmes, mariages et sépultures semblent enregistrés.
+Les mentions de sépultures d’enfants ondoyés sont déjà fréquentes à la fin du xviiie siècle.
+Le contenu des actes est conforme aux prescriptions des ordonnances royales, mais l’âge des conjoints est évoqué par la seule indication de « majeur » ou « mineur ».
+
+Un dépouillement nominatif a porté sur tous les actes de 1750 à 1799.
+En deuxième lieu, on a procédé à la reconstitution des familles : tous les évènements d’état-civil sont reportés sur des fiches spéciales conçues par l’I.N.E.D., de manière qu’une fiche soit ouverte pour chaque famille, comportant date de mariage, dates de naissance des enfants, dates de décès.
+On a dépouillé les actes de baptême de 1720 à 1749 afin de connaître l’âge exact des nouveaux mariés.
+Pour la fin du xviie siècle et le début du xviiie on a utilisé les données du dépouillement anonyme effectué par l’I.N.E.D. pour son enquête.
+
+
+=== Chapitre II La nuptialité ===
+
+Le nombre moyen de mariages célébrés annuellement dans la paroisse de Sannois s’élève à 10,1.
+
+Le mouvement saisonnier est traditionnel.
+Sous la Révolution, un changement s’esquisse, car on ne respecte plus les usages du calendrier religieux pour se marier.
+
+Le célibat féminin définitif est peu fréquent : entre 3,2 % et 5,3 %.
+
+L’âge moyen des nouveaux mariés est de 27,8 ans pour les hommes, âge qui s’abaisse sous la Révolution à 24,6 ans.
+Pour les femmes, cet âge moyen est de 25,8 ans sous l’Ancien Régime et passe à 23,7 ans sous la Révolution.
+
+Veufs et veuves se remarient dans les proportions respectives de 61 % et 41 % ; la durée moyenne de veuvage était de 1,7 an pour les hommes et 2 ans pour les femmes.
+
+Divorces et remariages entre divorcés ne furent pas rares sous la Révolution : huit divorces furent prononcés entre 1792 et 1799, et neuf unions eurent lieu dont l’un des conjoints au moins était divorcé. 
+
+Lieu de résidence des nouveaux mariés. – L’étude des lieux de résidence avant mariage, qu’il faut soigneusement distinguer de l’étude des lieux de naissance, confirme que le mariage, à quelques exceptions près, était toujours célébré dans la paroisse de la femme.
+
+Cette étude révèle aussi une forte endogamie de l’ordre de 87 % : sur 454 premiers mariages célébrés entre 1750 et 1799, 59 époux seulement étaient étrangers à la paroisse de Sannois, dont 25 résidaient dans des paroisses limitrophes et 10 à Paris.
+
+
+=== Chapitre III La natalité et la fécondité des familles ===
+
+La fécondité légitime des femmes a été étudiée sur un échantillon de 303 familles, retenues en raison de trois critères indispensables : âge exact de la femme au mariage, date de fin d’union, et date de naissance de tous les enfants.
+Ces familles se répartissent en deux types : familles complètes si la femme a vécu en état de mariage jusqu’à 45 ans, familles incomplètes si la femme n’a pas vécu ou n’a pas été observée jusqu’à 45 ans.
+Il y a 144 familles complètes et 159 familles incomplètes.
+
+Fécondité légitime. – A 20-24 ans, la fécondité des femmes de Sannois est aussi élevée que celle des femmes du Beauvaisis.
+Aux âges suivants, elle décroît plus vite, pour redevenir à partir de 35-39 ans identique à celle des paysannes du Beauvaisis.
+
+Fécondité suivant l’âge au mariage. – En régime de restriction des naissances, il existe normalement une relation entre le taux de fécondité et la durée du mariage.
+
+Pour les mariages célébrés à Sannois avant 1780, la fécondité à un âge donné ne dépend pas de la durée du mariage.
+Dans les familles formées après 1780 (l’observation porte surtout sur des familles incomplètes, dans lesquelles les derniers groupes d’âges de la femme sont représentés par un petit nombre d’observations), à âge égal observé, les femmes mariées depuis plus longtemps semblent avoir une fécondité moindre que les femmes mariées plus récemment.
+
+Fécondité différentielle. – A l’aide des rôles de taille, les familles ont été classées en quatre groupes suivant les taux d’imposition au principal de la taille des chefs de famille : moins de 10 livres (groupe I) ; de 10 à 19 livres (groupe II) ; au-dessus de 20 livres (groupe III) ; au-dessus de 35 livres (groupe IV).
+
+Les écarts entre les différents groupes sont sans signification et la fécondité des femmes appartenant au groupe IV est aussi forte que celle des femmes du groupe I. Néanmoins, dans les familles formées après 1780, la fécondité des femmes des groupes III-IV semble baisser sensiblement alors que les taux de fécondité des femmes du groupe I n’ont pas varié d’une période à l’autre (avant et après 1780).
+
+Nombre d’enfants par famille. – Dans les familles complètes il naissait en moyenne 6,1 enfants et dans les familles incomplètes 3,5 ; ce qui porte à 5,1 le nombre moyen d’enfants par famille achevée.
+
+Intervalle entre mariage et première naissance. – L’étude de cet intervalle révèle que 24,5 % des premiers nés étaient conçus avant le mariage et cela dans toutes les catégories sociales.
+Cette fréquence des conceptions prénuptiales contredit la conclusion que l’on pouvait tirer de la seule observation des naissances illégitimes (4 %).
+
+Dans les autres familles, l’intervalle moyen entre mariage et première naissance était de 15 mois.
+
+Intervalles successifs entre naissances. – D’après une observation portant sur les familles complètes comprenant 6 accouchements et plus, l’intervalle moyen croît avec le rang d’accouchement ; il passe de 18,6 mois entre le premier et le deuxième accouchement, à 34,5 mois pour le dernier intervalle.
+
+Enfants en nourrice. – La mise en nourrice d’enfants de Paris et des villages de sa banlieue était fréquente : 569 nourrissons sont morts à Sannois entre 1700 et 1799, issus de tous les milieux sociaux, parfois de fort modestes.
+
+Le « métier de nourrice » semble presque exclusivement pratiqué par les femmes de journaliers ou de vignerons pauvres, qui parfois élevaient successivement plusieurs nourrissons.
+
+
+=== Chapitre IV La mortalité ===
+
+A la fin du xviiie siècle, le nombre des décès augmente proportionnellement moins que celui des naissances.
+Il est possible que cela traduise une baisse de la mortalité.
+Pourtant, les fluctuations sont sensibles d’une décennie à la suivante.
+La mortalité infantile ne semble vraiment baisser qu’à partir des toutes dernières années du siècle.
+
+Mortalité des enfants. – Le quotient de mortalité infantile est égal à 239 0/00.
+La mortalité des âges suivants est encore élevée.
+Le taux de survie à quinze ans est égal à 534 0/00
+
+Mortalité différentielle. – La mortalité des enfants du groupe I, ou enfants de journaliers, semble, à chaque âge, plus forte que celle des enfants des autres catégories : sur 1 000 enfants nés dans les familles du groupe I, il en survit 474 à l’âge de quinze ans.
+Ce taux de survie à quinze ans s’élève à 589 pour les enfants du groupe II et à 566 pour les enfants des groupes III-IV. Était-ce dû à des différences de niveaux de vie ou bien la prise en charge de nourissons avait-elle des répercussion sur la santé des propres enfants de la nourrice ?
+
+
+=== Chapitre V Le mouvement cyclique à Sannois et dans quelques paroisses voisines ===
+
+Les crises. – Les crises de la fin du xviie siècle n’ont pas épargné Sannois, ni les paroisses voisines ; la crise de 1693-1694 a généralement eu des effets plus meurtriers que celle de 1709-1710.
+L’ensemble de la région a été très éprouvé aussi au cours de la décennie 1740-1750, mais les crises du xviiie siècle sont caractérisées seulement par un accroissement du nombre des décès que n’accompagne plus une baisse brutale et simultanée des conceptions. 
+
+Mouvement séculaire à Sannois. – Le nombre des naissances augmente fortement à partir de 1695, demeure ensuite à un niveau stable jusque vers 1760, pour reprendre enfin un mouvement franchement ascendant.
+Le nombre des mariages s’accroît également après 1760.
+Le nombre des décès augmente proportionnellement moins que le nombre des mariages et des naissances.
+
+
+=== Chapitre VI La population et les Migrations ===
+
+Structure de la population. – La première liste nominative de 1796 donne l’état de la population à la fin du xviiie siècle.
+Hormis l’incidence des enrôlements sur le groupe des hommes de vingt à trente ans, les années révolutionnaires n’ont certainement guère modifié une structure très équilibrée : la moitié de la population avait moins de vingt-cinq ans, et hommes et femmes de plus de soixante ans ne dépassaient pas la proportion de 10 %.
+
+Nombre d’habitants. – A la fin du xviiie siècle, la paroisse de Sannois comprenait environ 1550 habitants.
+Les ouvrages de Saugrain, Doisy et Expilly donnent tous le chiffre de 206 feux pour le début du siècle.
+Nous pensons que ce chiffre n’est plus valable après 1720, et, tentant une évaluation d’après le nombre des naissances, nous supposons que la population s’élevait, en 1700, à plus de 900 habitants et en 1750 à environ 1150 habitants.
+L’accroissement entre 1700 et 1790 aurait été d’environ 65 %.
+
+Migrations. – H existait un double courant migratoire.
+Une liste de 1799 indique que 100 hommes et femmes de 20 à 49 ans, soit des générations 1750-1759, 1760-1769 et 1770-1779, ont immigré à Sannois entre 1750 et 1799 ; par contre, l’émigration nette entre 1750 et 1799 des trois mêmes générations de natifs de Sannois est de 91 personnes.
+L’échange de population sur les générations de 1750 à 1799 a donc porté sur 191 personnes.
+
+Les immigrants proviennent surtout de Normandie et de Picardie, et ils renouvellent le milieu des artisans et des journaliers.
+Les émigrants semblent se diriger surtout vers Paris.
+
+
+== Deuxième partie La terre et la société rurale ==
+
+
+=== Chapitre premier le site et son histoire ===
+
+Le territoire de Sannois (471 hectares) est situé sur le versant nord de la colline de Cormeilles et en partie dans le fond de vallée qui sépare cette colline de la colline parallèle de Montmorency.
+Le cœur du village était en retrait de la grand route reliant Paris à Pontoise et Rouen.
+Une partie de la paroisse releva jusqu’en 1664 de la haute justice du prieuré d’Argenteuil et passa ensuite en la mouvance du duché d’Enghien.
+Ainsi, deux courants d’échanges et de relations ont subsisté, l’un vers le bourg d’Argenteuil, l’autre vers Paris, suivant l’axe de la vallée de Montmorency.
+
+
+=== Chapitre II La seigneurie ===
+
+Les limites de la seigneurie ne coïncidaient pas avec les limites de la paroisse, puisque 12 % du territoire de Sannois était soumis à la juridiction de l’ordre de Malte.
+
+François Béraut, possesseur de quelques fiefs, prit le titre de seigneur de Sannois avec le droit de basse et moyenne justice, en 1664, lors de l’échange de la seigneurie et de tous les droits de justice entre le prieuré d’Argenteuil et le prince de Condé qui ne se réserva que le droit de haute justice.
+La seigneurie fut détenue par la même famille jusqu’en 1760, puis elle passa successivement aux mains de trois seigneurs : Delisle, avocat au Parlement, Papillon d’Autroche, fermier-général, et Duruey, agent de change, condamné à mort pour ses activités financières le 28 ventôse an II.
+
+L’étendue du domaine s’est accrue surtout au xviiie siècle, plutôt au détriment de propriétaires bourgeois que de la propriété paysanne.
+
+Les seigneurs ne paraissent pas avoir fait peser une lourde contrainte sur les habitants de Sannois, d’autant qu’ils devaient mal connaître leurs droits : aucun terrier n’avait été établi entre la fin du xvie siècle et 1787.
+
+
+=== Chapitre III La propriété de la terre ===
+
+Le terrier ayant été détruit sous la Révolution, on a essayé de reconstituer l’état de la propriété à l’aide des rôles de la taille, source très imparfaite car il faut tenir compte de la fraude fiscale.
+Les terres d’origine ecclésiastique (domaine de l’ordre de Malte et cure de Sannois) occupaient environ 6 % du territoire entier.
+
+Le domaine seigneurial, qui accaparait bois et pâtures, devait comprendre entre 12 et 15 % du terroir.
+La superficie des biens détenus par les bourgeois était inférieure à 7 %.
+
+Plus des deux tiers du terroir entier étaient donc possédés par les vignerons pour la plupart de Sannois. 3 % seulement de la terre appartenaient aux horsins.
+La propriété paysanne était très morcelée et dispersée en de nombreuses mains : les neuf dixièmes des habitants étaient pourvus de terre. 
+
+
+=== Chapitre IV L’exploitation de la terre ===
+
+Mode d’exploitation et répartition des exploitations. – Les vignerons exploitaient la terre qu’ils détenaient en propre.
+La moitié d’entre eux y ajoutaient des terres louées.
+On rencontre des baux de longue durée (dix-huit ans) lorsqu’il y a obligation pour le preneur de planter de la vigne.
+Les exploitations, qui s’étendaient même dans plusieurs paroisses voisines sur près de 300 arpents, étaient à Sannois de petite dimension.
+En effet, plus de la moitié des vignerons ne cultivaient pas trois arpents, soit environ un hectare (l’arpent valait 34,17 ares) et trois hommes seulement étaient à la tête des plus importantes exploitations, au demeurant fort modestes puisque leur superficie était comprise entre six et dix hectares.
+
+Cultures et structure des exploitations. – La vigne était la principale culture : les plantations, également réparties en terrain plat et sur le versant de la colline, occupaient 57 % du terroir exploitable ; elles étaient souvent complantées d’arbres fruitiers.
+La culture fruitière prenait rang après celle de la vigne, procurant, en effet, un revenu presque égal.
+Le reste des terres était cultivé en céréales et légumes, dont le produit, d’ailleurs insuffisant, était réservé à la consommation familiale.
+
+La structure des exploitations s’équilibrait entre ces trois catégories de cultures, mais la vigne prédominait, surtout dans les petites exploitations (jusqu’à 45 %).
+
+Matériel d’exploitation et modes de culture. – La culture de la vigne n’exige pas un matériel considérable ; le manque de pâturages fait que le cheptel était réduit.
+Les gros vignerons possédaient souvent une charrue, jamais plus de deux chevaux, quelquefois une vache.
+L’assolement triennal semble avoir été pratiqué même sur les champs complantés d’arbres fruitiers.
+L’autre contrainte collective était les bans de vendange qui fixaient le jour d’ouverture des vendanges.
+
+
+=== Chapitre V La société rurale ===
+
+Ont été particulièrement étudiés les vignerons et les artisans, catégories qui commandaient l’activité économique du village.
+
+Types sociaux.
+Journaliers et petits vignerons. – Jusqu’à 15-18 livres d’imposition au principal de la taille, les vignerons demeuraient de petites gens exploitant moins de quatre arpents.
+Ils louaient généralement leurs bras à d’autres vignerons mais ils se logeaient par leurs propres moyens dans une petite maison louée ou dans leur propre maison (40 %) souvent tenue à rente.
+
+Leur idéal était de posséder quelques parcelles de terre, et leur condition, bien que médiocre, paraissait enviable à des hommes venus de terroirs à structure agraire différente où l’acquisition de terre était impossible. 
+
+Moyens vignerons et notables. – Un vigneron inscrit au rôle de taille entre vingt-cinq et trente livres vivait à l’abri de la gêne.
+Dans neuf cas sur dix, il était propriétaire de sa maison.
+Sa fortune se traduisait moins dans son mobilier et son linge que par le matériel d’exploitation et par l’abondance des récoltes.
+
+Les gros exploitants joignaient souvent au revenu de leur terre des profits provenant d’activités annexes : perception de la dîme, exploitation d’une carrière à plâtre, métier d’aubergiste, etc.
+Ils avançaient parfois de l’argent à d’autres vignerons, sous forme de constitutions de rentes.
+Néanmoins leur revenu essentiel provenait de la vente du vin, qu’ils pouvaient, vu l’importance de leur stock, écouler en profitant du mouvement des prix.
+
+La richesse des gros vignerons n’atteignait cependant pas celle des laboureurs de paroisses voisines.
+
+Artisans. – 60 % des artisans n’étaient pas imposés à plus de dix livres de taille.
+Pourtant, à taux d’imposition identique, ils paraissent avoir eu un niveau de vie un peu supérieur à celui des journaliers.
+Les métiers artisanaux étaient généralement exercés par des étrangers au village.
+
+Inégalité ou équilibre social ? – Il existait une sorte de « classe moyenne » représentée par les chefs de famille imposés entre 10 et 40 livres : entre 1746 et 1788, tel était le cas de la moitié de la population.
+Aucun des gros vignerons n’était capable de prendre une position dominante.
+Les rentes foncières qui grèvent la terre étaient une charge également lourde pour tous.
+
+
+== Conclusion ==
+
+Petits propriétaires et petits exploitants, les vignerons de Sannois composaient une société qui, à la veille de la Révolution, demeurait relativement stable.
+
+Une forte endogamie montre ces vignerons particularistes et soucieux de préserver leur originalité, mais l’existence d’importants courants migratoires prouve qu’ils n’étaient pas confinés dans l’isolement.
+
+
+== Pièces justificatives et tableaux ==
+
+Trois extraits d’inventaires après décès de vignerons. – Mémoire du bailli de Montmorency sur l’acquisition de la seigneurie de Sannois. – Actes notariés et procès verbaux concernant la vie rurale. – Tableaux démographiques de données brutes. – Vingt-trois graphiques.
+
+
+== Cartes ==
+
+Carte du vignoble de Sannois en 1820, carte de Cassini, plan d’intendance (1785), plan de la seigneurie (1788), cadastre (1820).

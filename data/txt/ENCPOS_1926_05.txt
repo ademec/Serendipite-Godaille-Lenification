@@ -1,0 +1,216 @@
+identifier: ENCPOS_1926_05
+creator: François Eygun
+date: 1926
+title: Catalogue des sceaux du Poitou jusqu’en 1515, précédé d’une étude sur leurs caractéristiques
+
+
+
+== Avertissement ==
+
+
+
+
+== Bibliographie critique ==
+
+
+
+
+== Étude des sceaux du Poitou ==
+
+
+
+
+== Chapitre premier état des collections des sceaux poitevins ==
+
+La plupart des sceaux du Poitou ont disparu, non seulement par les causes habituelles, mais par suite des guerres de religion et de Vendée, puis par l’incendie des Archives de Niort.
+Les précautions prises anciennement, enveloppes, cadres de copeaux et d’osier tressé, n’ont pas suffi à garder intacts ceux qui subsistent.
+Il est temps d’en dresser l’inventaire et de les reproduire.
+Nous avons donc cherché à réunir les sceaux poitevins disséminés, c’est-à-dire les sceaux ayant appartenu à des personnages, juridictions ou établissements se rattachant au Poitou par un lien quelconque.
+Les limites géographiques embrassées sont celles des diocèses de Luçon, Maillezais et Poitiers, moins les territoires situés à peu près au sud des départements actuels de la Vendée, des Deux-Sèvres et de la Vienne et qui appartiennent à l’Aunis, la Saintonge et la Marche.
+
+Les sources : a) empreintes, précieuses par les détails que leur ajoute l’acte scellé ; elles proviennent des Archives Départementales, Nationales et particulières (chartrier de Thouars surtout), et de la Bibliothèque Nationale, b) Matrices, plus rares et généralement plus complètes, mais souvent inidentifiables ; le plus grand nombre vient des musées de Poitiers et de Niort, puis de collections particulières. c) Enfin les dessins anciens de Gaignères et de Dom Fonteneau, que l’on doit critiquer soigneusement ; le premier complète ses types, d’ailleurs adroitement, le second rend mal les personnages, mais donne des blasons exacts.
+
+Utilisation des sources : moulages, photographies, dessins ; ordre du classement et des descriptions.
+
+
+== Chapitre II Matière, forme, usage des sceaux poitevins ==
+
+Les matrices : deux auraient été en or (Jean de Berry) ; une seule d’argent nous est parvenue (Arthur Goguet, abbé de Moreilles, fin xve siècle).
+Quelques intailles, généralement ovales (Jean aux Belles-Mains, 1164).
+Certaines matrices, spécialement celles de juridictions, étaient dorées (matrices trouvées à Jouy, p. ex.).
+
+Deux principales formes de matrices : matrices plates et matrices à appendice conique.
+Dans les premières, l’appendice de préhension, d’abord dans le plan de la matrice (xiie et parfois jusqu’au xive siècle), devient au xiiie siècle dorsal.
+Simple anneau au début, c’est bientôt une arête traversant le sceau d’une extrémité à l’autre ; puis, au xive siècle, cette arête proéminente se découpe et forme deux bosses séparées par une concavité.
+Les matrices à appendice conique portent un anneau, qui, simple au xiiie siècle, va se compliquant jusqu’au xvie siècle.
+
+Emplois singuliers : une feuille d’ormeau utilisée comme matrice ; une matrice employée pour décorer les carreaux du Grand-Appelvoisin (Deux-Sèvres).
+
+Forme des sceaux : ronde pour les sceaux des seigneurs et des juridictions (rares exceptions) ; en navette de préférence pour les sceaux féminins et ecclésiastiques (nombreuses exceptions).
+Contre-sceaux de toutes formes : ronds, en navette, ovales, en losange, hexagonaux, carrés.
+Le contre-sceau, utilisé parfois comme sceau, ne suffit pas toujours à authentiquer l’acte auquel il est appendu.
+
+Cires : la cire vierge est la plus employée aux xiie et xiiie siècles.
+Les cires jaune (à partir de 1186), verte (à partir de 1211) et brune (à partir des environs de 1175) viennent ensuite.
+La cire rouge, très rare aux xiie et xiiie siècles, remplacera presque complètement les autres au xive siècle.
+
+Appension : sur double queue jusqu’au xive siècle ; après cette date, sur simple ou sur double queue.
+Au xiie siècle et au début du xiiie siècle, généralement sur lacs de cuir, puis au xiiie siècle, sur lacs de parchemin ou de fils tressés.
+Parfois deux sceaux sur la même queue (Guillaume VIII l’Archevêque, 1387, p. ex.).
+
+Changements de sceaux. – Les seigneurs ont parfois plusieurs sceaux, soit successivement, soit en même temps, sans que, le plus souvent, il soit possible de voir de différence dans l’emploi de chacun d’eux.
+De Guillaume VIII l’Archevêque nous en avons six.
+
+L’apposition du sceau est annoncée dans l’acte depuis Guillaume IX d’Aquitaine (1107) et toutes les singularités intéressantes peuvent être notées à son sujet : la perte du sceau de Richard Cœur de Lion et son remplacement à la fin du xiie siècle, l’emploi du sceau du prince de Galles au lieu de celui du duc de Berry, au milieu du xive siècle, sont ainsi indiqués.
+Les sceaux empruntés sont fréquents, mais cette particularité ne se marquait pas toujours.
+
+L’importance du sceau est affirmée par le soin avec lequel le notaire qui copia les enquêtes réunies en vue de la canonisation de Gautier de Bruges a décrit chaque empreinte dans ses moindres détails.
+
+
+== Chapitre III Légendes des sceaux ==
+
+Peu de différences à noter avec les légendes des sceaux étrangers à la province.
+Elles sont en général placées en exergue sur une ligne, mais on en trouve sur deux lignes ou se terminant dans le champ.
+
+La préposition
+    « Apud » devant le nom de lieu, dans les légendes des sceaux de juridictions est particulier à deux régions : le Centre-Ouest et surtout le Poitou, puis la Picardie.
+Il est rare en dehors.
+
+
+== Chapitre IV Évolution artistique des sceaux poitevins ==
+
+Au xiie siècle, réalisme, souci de la vérité, vigueur, mais les proportions sont souvent inexactes et les visages mal rendus : sceaux de Guillaume d’Aquitaine (1107), de Guillaume Adalelmi (1128), d’Hugues l’Archevêque (2e moitié xiie siècle).
+
+Au xiiie siècle, idéalisme, types souvent très beaux et de belles proportions : sceaux d’Hugues X de Lusignan (1224), de l’Officialité de Poitiers (1265), de Notre-Dame de Mirebeau (1re moitié xiiie siècle).
+
+Dans ces deux siècles, c’est d’un sujet simple que l’on tire des œuvres vraiment belles ; il en est plus rarement ainsi au xive siècle : citons pourtant les sceaux d’Yolande de Lusignan (1308), d’Huet de Saint-Cassien (1249), mais il y aura plutôt tendance à faire prévaloir la décoration.
+Les motifs architecturaux, les fonds ornés, qui apparaissent déjà à la lin du xiiie siècle (Hélie, abbé de Nouaillé, 1270), se développent et vont diminuer peu à peu l’importance du sujet central.
+
+Au xve siècle, l’art sigillaire décline nettement et arrive à la sécheresse et à la monotonie, malgré une technique plus régulière : sceaux de Pierre d’Amboise (1499), de Claude de Tonnerre (1510).
+L’italianisme apparaît fâcheusement dans le sceau d’Arthur Goguet, abbé de Moreilles (1489).
+
+L’étude des analogies entre sceaux et monnaies donne peu de résultats.
+L’évolution artistique des premiers précède celle des secondes.
+
+
+== Chapitre V Rapports entre les sceaux et l’architecture régionale ==
+
+Les graveurs se sont inspirés à plusieurs reprises de ce qu’ils avaient sous les yeux.
+Le sceau de la ville de Poitiers (1304) représente trois de ses édifices : Notre-Dame, la Tour Maubergeon et le Palais.
+De même, le sceau aux contrats de Loudun, du xiiie siècle au xve, reproduit le donjon rond actuellement détruit.
+Mais les exemples les plus curieux de cette influence de l’art local sont les sceaux de Guillaume V et d’Hugues Ier l’Archevêque (2e moitié xiie), qui portent un personnage à cheval sur un lion et le maîtrisant.
+C’est l’imitation des statues qui, au portail des trois églises de Parthenay (La Coudre, Sainte-Croix et Parthenay-le-Vieux), font pendant au cavalier si fréquent dans l’Ouest. 
+
+
+== Chapitre VI Types seigneuriaux féminin et masculin ==
+
+Evolution du costume féminin depuis Aliénor d’Aquitaine (1152) jusqu’à Yolande de Lusignan (1308).
+
+Sceaux au type équestre de combat : Guillaume IX d’Aquitaine en 1107 est figuré tête nue, armé de l’épée et du bouclier.
+Il paraît porter de longues braies et non un vêtement défensif.
+Evolution de l’équipement militaire jusqu’à Huet de Saint-Cassien (1349).
+
+Le type équestre de chasse est fréquent en Poitou, pays de grands veneurs.
+Particularités : Hugues de Châtellerault (1149) est vêtu de la chlamyde ; Thibaut et Raoul de Beaumont portent un surcot à capuchon (1209 et 1248) ; les Lusignan tiennent un petit chien (et non un guépard) sur la croupe de leur cheval ; les Thouars sont armés de l’épieu et soufflent dans le huchet.
+
+Le type seigneurial debout est rare : Renaud de Thouars (3e quart du xiiie siècle) est de profil, Guillaume VIII l’Archevêque (1399) de face.
+
+
+== Chapitre VII Type armorial ==
+
+Les meubles sont tantôt dans le champ du sceau (Ebles de Mauléon, milieu xiie siècle, sans doute le plus ancien sceau armorial poitevin), tantôt sur l’écusson (Guillaume II d’Aspremont, vers 1200).
+Jusqu’au xive siècle, l’écu est le plus généralement seul sur le sceau, entouré uniquement de la légende.
+Le timbre et les supports n’arrivent guère qu’au xive siècle.
+Philippe de Marmande en 1303 timbre son écu d’un pélican, Louis de Thouars en 1337 d’un heaume.
+Ebles de Rochefort en 1294 a pour support deux lions ; Jean Ier l’Archevêque en 1345 deux éléphants. 
+
+Le sceau de Pierre de Varin (1235) porte une figure héraldique curieuse : une fleur de lis ansée.
+
+A remarquer en Poitou la fréquence des burelés.
+
+Les brisures : chez les Thouars, la quintefeuille paraît indiquer le successeur éventuel au siège vicomtal.
+Elle charge le franc-canton qui accompagne l’orle de merlettes ou le semé de fleurs de lis de cette famille.
+La branche de Pouzauges remplace cette quintefeuille par un poignard.
+Autres brisures curieuses.
+
+Particularités du mi-parti : dans le mi-parti, on ne divise que les blasons à figures symétriques.
+Les figures irrégulières sont conservées entières et le blason qui les porte est placé à dextre.
+
+Le contre-sceau d’Hugues de Surgères en 1211 porte un mi-parti de Surgères à Lusignan, ce qui nous permet de croire à une alliance entre ce personnage et une Lusignan et expliquerait une phrase du registre des actes de Philippe Auguste :
+    « Comes Augi... et fratres sui, cornes Marchie et vicecomes Castri-Eraudi... », phrase d’après laquelle Léopold Delisle avait conclu à la présence d’un Lusignan comme vicomte de Châtellerault.
+Il s’agirait non d’un frère mais d’un beau-frère, du comte de la Marche.
+
+Elude des supports et cimiers.
+
+Le sceau municipal de Poitiers.
+
+
+== Chapitre VIII Type ecclésiastique ==
+
+Le plus ancien : Guillaume Adalelmi, évêque de Poitiers (1128).
+Personnage assis, nu-tête, vêtu de l’aube et de la chasuble sous laquelle passe l’étole.
+L’évêque bénit et tient la crosse.
+A partir de Guillaume Tempier (1180), il est debout.
+A la fin du xiie siècle, la mitre, de cornue, devient pointue. 
+
+Peu de particularités : la chasuble armoriée de Raymond de Châteauneuf, abbé de Charroux en 1310.
+
+Le costume monacal masculin et féminin est la coule, avec, en plus, pour les religieuses, le voile et la guimpe : prieur de Château-Larcher (2e moitié xiiie siècle), Agnès de Gaillon, abbesse de la Trinité (1267).
+Les 25e et 27e abbesses de Fontevrault (2e moitié xve siècle) portent un costume plus mondain que monacal : voile laissant la figure très découverte, robe serrée à la taille, jupe ample, traîne relevée sur le bras, grandes manches.
+
+
+== Chapitre IX Type iconographique ==
+
+Le plus ancien sceau avec figure de saint est celui de l’abbaye de Saint-Cyprien en 1183.
+Description des types rencontrés, et spécialement de ceux qui concernent les saints poitevins.
+Dormition de la Vierge du sceau des Carmes de Poitiers (1340), où le Christ figure au milieu des onze apôtres.
+Assomption sur un sceau de Mirebeau de la première moitié ou milieu du xiiie siècle ; saint Cyprien, dont l’emblème est un sceptre ; sainte Radegonde surtout, tantôt vêtue du froc, couronnée et voilée, avec deux emblèmes : une crosse et une palme (prieur de Saix, 1316) ; tantôt couverte du manteau royal, avec la couronne, le voile, la guimpe, le sceptre et le livre.
+Ailleurs encore, la même sainte tenant une quenouille (même Chapitre, 1308) ; enfin la scène la représentant aux pieds du Christ (prieur du dit Chapitre, 1370 et xve siècle).
+Le saint le plus fréquemment représenté est saint Pierre.
+
+
+== Chapitre X Types divers ==
+
+Emblèmes chevaleresques, tels que l’oiseau sortant d’une rose, entouré de la devise de Guillaume VIII l’Archevêque :
+    « Au tel vou di » (1387) ; sujets des sceaux de la bourgeoisie et du peuple ; enfin meubles de nombreux contre-sceaux.
+
+
+== Conclusion ==
+
+L’art sigillaire poitevin n’est pas nettement différent de celui des autres provinces.
+Quelques particularités régionales cependant : simplicité des blasons, types équestres des Lusignan et des Thouars, empreintes au lion des Parthenay, légendes des sceaux de juridictions, sujets iconographiques.
+
+
+== Appendice ==
+
+Liste de gardes du scel poitevins.
+
+
+== Pièce justificative ==
+
+
+
+
+== Catalogue de 1042 sceaux du Poitou ==
+
+
+
+
+== Table alphabétique ==
+
+
+
+
+== Table héraldique ==
+
+
+
+
+== Table des matières ==
+
+
+
+
+== 2 planches de matrices ==
+
+

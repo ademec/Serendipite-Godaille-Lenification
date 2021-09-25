@@ -1,0 +1,63 @@
+identifier: ENCPOS_1854_03
+creator: Jean-Baptiste-François-Augustin Chassaing
+date: 1854
+title: Essai sur la géographie territoriale et politique de l’Auvergne aux ixe et xe siècles
+
+
+
+== I divisions territoriales de l’Auvergne. ==
+
+Dénominations diverses de l’Auvergne.
+
+Elle avait pour limites, au nord, du côté du Pagus Bituricus, Chantelle, Cantilia, Cantella, et Souvigny, Silviniacus, du côté du Pagus Augustodunensis la Rivière d’Allier, Elaver, depuis Cusset, Cuciacum, jusqu’à la hauteur de Moulins ; à l’est, les montagnes du Forez du côté du Pagus Lugdunensis, et la Vicaria de Vetula Civitate, Saint-Paulhien, du côté du Pagus Vellavicus.
+La délimitation du Pagus Arvernicus, au midi et à l’ouest, vers les Pagi Gabalitanus, Rutenicus, Cadurcinus et Lemovicinus, ne peut être établie d’une manière certaine par suite de l’absence des textes.
+Elle était sans doute la même que celle du diocèse de Clermont avant l’érection du siége épiscopal de Saint-Flour en 1317 par Jean XXII.
+
+Le PAGUS ARVERNICUS comprenait des Pagi Minores qui se subdivisaient en Aices, division répondant, dans l’ordre territorial, à la subdivision politique du Comté, la Vicaria.
+L’étendue de la Vicaria et de Y Aicis était la même.
+Preuve tirée des Cartulaires de Brioude et de Sauxillanges. – Les textes font connaître les Pagi Minores et les aices suivants :
+
+1° PAGUS DONOBRINSIS, pays de Neuvre ;
+
+2° PAGUS LIMANICUS, la Limagne ;
+
+3° PAGUS ARVERNICUS OU CLAROMONTENSIS, pays de Clermont Aicis Riomensis, Riom ;
+
+4° PAGUS TELAMITENSIS, pays de Tallende : Aicis Ambronensis, Saint-Germain Lembron ; – Bonorochensis, Le Broc ; – Caldiacensis, Coudes-sur-Allier ; – Montanicus, Monton, près Veyre ; – Mussiacensis, Moissat sur l’Alagnon ;
+
+5° ROCAFORTENSIS, pays de Rochefort ;
+
+6° PAGUS TALVENSIS, pays de Tauves ;
+
+7° AGER TIERNENSIS, pays de Thiers ;
+
+8° PAGUS TOLORNENSIS, pays de Turluron près Billom ; + Aicis Tolornensis ;
+
+9° PAGUS LIPIDIACENSIS OU LIBRATENSIS, le Livradois ;
+
+10° PAGUS UCIONENSIS, pays d’Usson ; Aicis Ucionensis ;
+
+11e PAGUS BRIVATENSIS, le Brivadois : – Aicis Brivatensis, Brioude ; – Calerinsis, Chalières ; – Cantolianicus, Chanteuge ; – Cumicensis, Cusse ou Cumignat ; – Loiacensis, Inconnu ; – Nonatensis, Nonette ; – Radicatensis, Rageades ;
+
+12° TERRITORIUM PLANEZA, PLANETIA, la Planèze : Aicis Carlatensis, Carlat. 
+
+
+== II divisions politiques de l’Auvergne. ==
+
+L’Auvergne, sous la race Carlovingienne, forma le Ducatus Arvernicus.
+
+Elle forma aussi le Comitatus Arvernicus, d’abord aussi étendu que l’ancienne Civitas Arverna.
+
+Vers la fin du ixe siècle, quelques districts du Pagus Arvernicus forment des comtés qui se subdivisent en Vicariœ, Vicairies ou Vigueries.
+
+On trouve mentionnés dans les Cartulaires de Brioude et de Sauxillanges, les comtés et vicairies suivants :
+
+1° COMITATUS ARVERNICUS SEU CLAROMONTENSIS, comté d’Auvergne ou de Clermont : Vicaria Claromontensis, Vicairie de Clermont ; – Doratensis, – de Dorat ; – Lodosensis, – de Lezoux ; – Olbionensis, – d’Olby ; – Randanensis, – de Randan.
+
+2° COMITATUS BRIVATENSIS, Comté de Brioude : Vicaria de Arlinco, Vicairie d’Arlanc ; – de Aurato, – de Dore l’Église ; – Brivatensis, – de Brioude ; – Cantolianica, – de Chanteuge ; – Cheriacensis ou Heriacensis, – de Charraix ; – Logatensis, – inconnue ; – Nonatensis, – de Nonette ; – Radicatensis, – de Rageades ; Sancti Stephani, – de Saint-Étienne-sur-Usson ; – Ucionensis, – d’Usson.
+
+3° COMITATUS LIBRATENSTS, Comté de Livradois : Vicaria Ambatnensis, Vicairie d’Ambert ; – Marsiacensis, – de Marsat ; – Libratensis, – de Livradois ; – de Roca Savina, – de Saint-Amant Roche-Savine ;
+
+4° COMITATUS TELAMITENSIS, Comté de Tallende : Vicaria Ambronensis seu Sancti Germani, Vicairie de Saint-Germain-Lembron ; – Antoniensis, – d’Antoingt ; – Avalojolense, – de Valeujol ; – Boronochensis, – du Broc ; – de Civitate Vetula, – d’Antérieux  ? – Jordanensis, – de Jordanne ; – de Nova Ecclesia, – d’Église-Neuve ; – Massiacensis, – de Massiac ; – Monciasensis seu Muissiacensis, – de Moissat ; – de Talaisago, – de Talizac ; – Telamitensis, – de Tallende ; – Vebritensis, – de Vebret.
+
+5° COMITATUS TOLORNENSIS, Comté de Turluron : Vicaria Biliomensis, Vicairie de Billom ; – Cunliacensis, – de Cunlhat ; – de Valle Vallonica, – inconnue.

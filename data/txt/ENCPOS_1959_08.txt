@@ -1,0 +1,80 @@
+identifier: ENCPOS_1959_08
+creator: Michel Hayez
+date: 1959
+title: Catalogue des actes des évêques de Cambrai antérieurs à 1167
+
+
+
+== Introduction ==
+
+
+
+
+== Sources – Bibliographie ==
+
+
+
+
+== Chapitre premier le diocèse de Cambrai et ses évêques. ==
+
+Le diocèse de Cambrai était le plus vaste diocèse de la province de Reims, et, jusqu’en 1093, celui d’Arras lui fut associé ; il s’étendait pour les trois quarts sur un territoire aujourd’hui belge (provinces de Hainaut, de Flandre orientale et de Brabant) et, pour le reste, sur le département du Nord, à l’est de l’Escaut.
+
+Le pouvoir temporel des évêques sur la ville et le Cambrésis se constitua dans la seconde moitié du xe siècle (épiscopats de Fulbert et d’Erluin) ; ceux-ci devinrent alors vassaux de l’empereur, mais, par leur formation à la chapelle palatine comme par leur nomination, ils appartenaient bien auparavant au clergé impérial.
+Les évêques trouvèrent de puissants adversaires dans leur vidame, le châtelain de Cambrai, et leurs vassaux (casati).
+Le diocèse fut aussi un champ de bataille entre l’influence des comtes de Flandre et celle des comtes de Hainaut.
+
+A l’encontre des sources narratives, très riches, les sources diplomatiques ne renseignent que sur l’attitude des évêques à l’égard des établissements religieux, et seulement à partir du milieu du xie siècle.
+
+
+== Chapitre II Classification des actes. ==
+
+Le catalogue des actes sincères comprend cinq cent soixante-neuf numéros, parmi lesquels deux cent vingt-neuf sont connus par des originaux, trois cent trente par des copies et dix par des mentions.
+Nous n’avons retenu que trois notices et vingt lettres missives.
+Au point de vue juridique, jusqu’à l’épiscopat de Nicolas (1136-1167), l’évêque intervient surtout comme auteur juridique des actes et même, par la suite, les confirmations épiscopales portent souvent sur des donations de biens religieux, tels que dîmes et autels.
+
+
+== Chapitre III La chancellerie épiscopale. ==
+
+L’absence de chartes, surtout d’originaux, avant le milieu du xie siècle, ne permet pas de parler d’une chancellerie à une époque antérieure.
+L’étude de celle-ci par épiscopat est justifiée par l’influence certaine des évêques sur la rédaction des chartes.
+Il est très difficile d’établir une liste des chanceliers, le nom Guérimbold que l’on rencontre dans les actes avant 1148 ayant désigné probablement plusieurs titulaires.
+Il n’est pas douteux qu’un personnel subalterne de copistes exista, ainsi qu’en témoigne la diversité des écritures, mais il n’est jamais mentionné, sauf sous le cancellariat de Gaucher (à partir de 1160 environ), qui a un collaborateur en la personne d’un chapelain, Jean.
+
+Avec l’évêque Eudes (1105-1113), la rédaction des chartes à la chancellerie acquiert plus d’unité et le rôle des établissements destinataires diminue sensiblement.
+La régularisation des pratiques de chancellerie est encore plus évidente sous son successeur, Burchard (1115-1130).
+
+
+== Chapitre IV Caractères diplomatiques. ==
+
+Caractères externes. – La plupart des chartes sont écrites dans le sens de la plus petite dimension (chartae transversae).
+L’usage d’écriture décorative est restreint à l’invocation verbale à partir de l’évêque Eudes.
+L’écriture de la teneur est débarrassée de ses éléments archaïques sous Gérard II (1051-1092) ; elle évolue nettement vers la gothique à partir de Burchard.
+Peut-être est-il permis d’y voir une école d’écriture germanique.
+La série des sceaux est complète à partir de Liébert (1051-1076) ; Eudes introduit le sceau pendant sur double queue.
+
+Caractères internes. – Les chartes épiscopales comprennent généralement tous les éléments habituels de la teneur.
+Le préambule perd son caractère religieux durant l’épiscopat de Nicolas et insiste sur le rôle de l’écrit.
+Parmi les clauses finales, la clause injonctive de l’évêque à ses successeurs a un caractère archaïque et disparaît sous Gérard II ; la clause de récompense est plus fréquente à partir de Burchard.
+Le monogramme épiscopal ne figure plus à partir de Gérard II. L’examen des listes de témoins précise la chronologie des archidiacres et dignitaires du chapitre cathédral.
+Le style chronologique suivi semble avoir été celui de la Nativité.
+
+
+== Chapitre V Actes faux et douteux. ==
+
+Sur dix-neuf actes faux, la plupart ont été fabriqués au xviie siècle par Carpentier pour servir de preuves à des généalogies nobiliaires.
+Une charte de Manassès et une de Burchard présentent un mode insolite de scellement.
+La charte de 1133 pour Tongerloo pose un délicat problème de critique.
+
+
+== Catalogue des actes ==
+
+
+
+
+== Appendices ==
+
+Album de photographies.
+
+Carte du diocèse avant 1272.
+
+Tableau des établissements destinataires.

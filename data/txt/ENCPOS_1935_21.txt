@@ -1,0 +1,159 @@
+identifier: ENCPOS_1935_21
+creator: Claude Sibertin-Blanc
+date: 1935
+title: Le temporel de l’évêché de Metz des origines à 960. Formation de la seigneurie ecclésiastique
+
+
+
+== Introduction ==
+
+Différents sens, au point de vue juridique et territorial, des mots « temporel » et « évêché ».
+A ce double point de vue, nous étudions aussi le temporel dans ses rapports avec le spirituel, dans la mesure où ces rapports ont contribué à la formation de la richesse ecclésiastique, à l’époque où elle a pris un caractère presque exclusivement foncier et privé.
+La notion d’episcopium, évêché, née à la fin du viiie siècle et entendue au sens de bénéfice de l’évêque, englobait au début non seulement ce qui deviendra la mense épiscopale (que seule nous étudierons en détail du point de vue territorial), mais encore tous les biens et revenus des établissements ecclésiastiques rattachés à l’église-mère ; elle coin prend même les revenus d’origine spirituelle revenant à l’évêque diocésain ou ceux d’origine publique perçus plus tard par le seigneur ecclésiastique sur le territoire d’exemption de sa ville épiscopale.
+
+
+== Bibliographie ==
+
+
+
+
+== Première partie Naissance et développement du temporel des églises fixation de ses caractères essentiels ==
+
+
+=== Chapitre premier époque romaine. Les invasions. ===
+
+L’église de Metz remonte à la fin du iiie siècle ou au début du ive ; elle est constituée après avoir reçu du pape son premier évêque.
+De cette époque date la naissance de son temporel.
+Au ve siècle, l’église-mère, personne morale, se substitue au corps des chrétiens comme propriétaire du temporel dont l’évêque est l’administrateur naturel.
+Le rôle public de l’évêque augmente avec la décadence de l’empire romain.
+Dès le ve siècle, son pouvoir domanial grandit avec la disparition de la richesse mobilière.
+
+En même temps, la civitas devient le diocèse, circonscription religieuse d’origine publique, qui jamais ne se confondra avec le district du temporel, de caractère privé.
+De nouveaux propriétaires ecclésiastiques apparaissent, églises rurales, basiliques urbaines, oratoires, qui finissent par acquérir une personnalité juridique, mais restent au début étroitement soumis à la juridiction temporelle de l’évêque.
+Les prescriptions canoniques limitent le pouvoir de l’évêque (inaliénabilité du patrimoine ecclésiastique).
+
+Les invasions ébranlent fortement l’église de Metz sans toutefois la faire disparaître.
+
+
+=== Chapitre II Période mérovingienne (511-741). ===
+
+Metz devient capitale de l’Austrasie.
+Prestige de l’Eglise ; accroissement prodigieux de sa fortune foncière.
+L’évêque exerce une sorte de magistrature morale sur la ville épiscopale mais il tombe bientôt sous la sujétion personnelle du roi mérovingien.
+Il regagne sur le terrain domanial, grâce à l’immunité, ce qu’il perd en indépendance politique.
+La christianisation des campagnes coïncide avec l’avènement du régime de l’église privée.
+
+La potestas de l’évêque tend elle-même à devenir droit de propriété.
+Diffusion du mouvement monastique que les évêques cherchent à capter et à diriger, mais qui tend à s’affranchir, au viie siècle, de leur juridiction.
+Différentes sortes de monastères.
+
+Les troubles de la fin du viie et de la première moitié du viiie siècle amènent une profonde décadence de l’église franque ; les spoliations de Charles Martel modifient radicalement la constitution primitive du temporel des églises.
+
+
+=== Chapitre III Période régalienne (741-855). ===
+
+La réforme carolingienne, imparfaite, restaure l’ordre clérical sans améliorer la situation nouvelle créée par la dépendance étroite de l’Eglise à l’égard du prince.
+La propriété ecclésiastique tombe dans le domaine public, les spoliations se perpétuent sous une forme légale.
+L’évêque devient le vassal du roi et l’évêché le bénéfice de l’évêque.
+
+La collaboration de l’Eglise et de l’Etat assure, au début, une certaine stabilité ; mais l’asservisement des églises et les charges imposées à leur temporel ne peuvent compenser la faiblesse inhérente à l’Etat carolingien.
+
+L’immunité n’est plus un privilège, c’est un mode d’organisation officiel d’une partie de l’empire franc.
+L’institution de l’avoué carolingien n’amène qu’une restriction temporaire à l’indépendance de l’immuniste.
+Il s’est perpétué pour le pagus Mettensis jusqu’au xiie siècle, dans la personne du voué de Montigny.
+
+Deux tendances opposées, de hiérarchie et de décentralisation, se retrouvent également dans le diocèse.
+La renaissance canonique renforce la juridiction diocésaine.
+La prospérité économique et l’institution de la dîme favorisent les progrès de la paroisse rurale.
+Mais, au même moment, le régime de l’église privée, légalisé, s’organise définitivement.
+La plupart des monastères tombent sous le mundium ou le dominium royal.
+
+Chrodegang a groupé son presbiterium en chapitre.
+Sa réforme, étendue sous Louis le Pieux, et jointe au caractère bénéficiaire de l’episcopium et de l’abbatia, provoque la séparation des menses.
+Les évêques constituent un temporel aux monastères épiscopaux et approprient, pour le compte de l’église cathédrale, le plus grand nombre possible d’églises rurales et d’abbayes. 
+
+La mort de Lothaire Ier, celle de Drogon précipitent la décadence carolingienne.
+
+
+=== Chapitre IV Époque post-carolingienne et pré-féodale. ===
+
+L’Eglise réclame son indépendance, les vassi de l’évêque ne dépendent plus du roi.
+Réveil de la Papauté au moment où l’anarchie menace de tout submerger.
+La région lorraine tombe finalement sous le pouvoir des rois germaniques, dont la souveraineté ne peut que ralentir l’épanouissement de la féodalité.
+
+La seigneurie ecclésiastique est définitivement constituée lorsque les évêques ont reçu tous les droits régaliens sur le territoire de leur immunité.
+La première étape a consisté à soustraire les vassi de l’évêché à la juridiction des comtes régionaux (création d’un comte du palais et d’avoués féodaux).
+Mais elle n’a pu être totalement accomplie que lorsque l’évêque de Metz a reçu du roi germanique, au plus tard en 960, le droit de nommer un comte épiscopal ayant juridiction sur un territoire d’exemption inférieur au payas et comprenant la ville et sa banlieue.
+
+Ce droit qui mettait l’évêque au-dessus des comtes eux-mêmes, et qui fut peut-être la sanction et la limitation d’une usurpation de fait, lui accordait implicitement la haute juridiction sur tout le reste du territoire de l’immunité, dans les différents pagi ou comtés régionaux.
+Cet accroissement de juridiction dut aussi déterminer par contre-coup un vaste accroissement territorial. – L’évêque de Metz, plus heureux que d’autres, réussira à éviter jusqu’au xie siècle l’hérédité des fonctions comtales et fera de son comte l’avoué général de son église. 
+
+Un double danger d’affaiblissement guettait cependant la seigneurie ecclésiastique : danger extérieur venant de la prépondérance du souverain allemand et des grandes familles féodales dans le choix de l’évêque, vassal du roi ; danger intérieur provoqué par la tendance à l’émancipation, manifestée aussi bien par l’aristocratie ecclésiastique (chapitre, abbayes épiscopales, réformées en Lorraine) que par l’aristocratie laïque (vassi bénéficiés aux dépens de l’évêché, plus tard bourgeois de la ville épiscopale).
+
+Renforcement de la juridiction diocésaine dans la la région Rhéno-Mosellane, mais la réforme de Gorze fait pressentir bientôt la décadence de l’autorité épiscopale au profit du pontife romain. – Enumération des éléments juridiques et territoriaux dont est formé l’évêché.
+
+
+== Deuxième partie Formation territoriale du temporel de l’évêché de Metz jusqu’à 960. Éléments principaux ==
+
+
+=== Chapitre premier premier élément de formation du temporel : la personnalité des premiers évêques. ===
+
+Rôle public, origines familiales, zèle d’administrateurs des évêques mérovingiens.
+
+Situation exceptionnelle de l’église de Metz à l’époque franque.
+Comme à l’époque romaine, les premiers évêques mérovingiens, d’origine gallo-romaine, furent de grands propriétaires.
+Les rois austrasiens ne tardèrent pas à les mettre sous leur dépendance et cherchèrent à faire de leur église une sorte de métropole.
+Des liens étroits se nouèrent avec la région méridionale (évêché d’Arisitum).
+Problème de la généalogie de saint Arnoul, apparenté aux plus grandes familles franques ; ses rapports avec l’église du Mans.
+Ses successeurs appartiennent à sa famille ; même après sa mort, il attirera sur l’église de Metz les libéralités de ses descendants, les Carolingiens.
+A la fin du viie siècle, Trudo, allié de sa famille, lègue ses immenses domaines du pays de la Meuse à l’église de Metz (abbaye de Saint-Trond).
+
+
+=== Chapitre II Deuxième élément : l’appropriation des monastères et des églises rurales. ===
+
+Dommages causés par les spoliations, devenues légales, des premiers Carolingiens (precariae verbo regis et divisio).
+Charlemagne maintient vacant le siège de Metz pendant vingt-cinq ans pour l’administrer directement.
+
+La personnalité du roi supplante celle des évêques qui, eux-mêmes, dépossèdent le temporel de leur église au profit des nouveaux monastères (fondation de Gorze par Chrodegand, successeur de Boniface), et favorisent la création de la mense capitulaire.
+
+A ces nouvelles causes de perte, les évêques remédient par les accroissements venant de l’appropriation de nombreux monastères.
+Charlemagne lui-même en concède plusieurs à son archichapelain An gilramne et à son église (Chiemsee).
+Son fils, l’archevêque Drogon, réunit sur sa tête un grand nombre d’abbayes.
+
+Avec l’augmentation des charges pesant sur le prélat, le temporel des abbayes épiscopales est de plus en plus mis à contribution ; mais les moines ont recours au roi et exigent la création d’une mense en leur faveur.
+
+La crise du xe siècle a presque suspendu toute vie religieuse.
+Dès la fin du ixe siècle, l’évêque a accentué son caractère seigneurial, mais il dépend de la double aristocratie ecclésiastique et laïque.
+Celle-ci, conquise aux idées de réforme, pousse Adalbéron Ier à restaurer la vie bénédictine, principalement à Gorze ; mais l’évêque cherche à maintenir sur les monastères épiscopaux réformés sa juridiction temporelle.
+Les monastères s’appuient sur le roi germanique et sur le pape pour se défendre des empiétements de l’évêque.
+
+Parallèlement s’est faite l’appropriation au profit de l’église-mère de beaucoup d’églises d’origine publique (vici), et des églises rurales du domaine, même situées en dehors du diocèse. – Territorialisation du temporel au début du xe siècle.
+
+
+=== Chapitre III Troisième élément : extension juridique et territoriale de l’immunité. ===
+
+Le diplôme d’immunité accordé en 775 à l’église de Metz par Charlemagne reproduit les diplômes mérovingiens antérieurs, en apportant une triple restriction à la juridiction de l’immuniste sur les bene ingenui (ost, guet, ponts).
+Les charges écrasantes pe sant sur les hommes libres les poussent en grand nombre à mettre leur personne et leurs biens sous la protection de l’immuniste (mundiliones, précaires à charge de culture).
+L’évêque immuniste, dès la deuxième moitié du ixe siècle, engage lui-même de nombreux vassi (précaires à charge de service militaire) qui, pour leur bénéfice, ne dépendent plus du roi. – Au xe siècle, de nombreux comtes deviennent vassi de l’évêque et forment la cour épiscopale.
+Le comte du palais de l’évêque devient juge et chef militaire de sa vassalité et avoué féodal pour l’ensemble de l’évêché (maintien de l’ancien avoué carolingien pour le pagus Mettensis).
+
+
+=== Chapitre IV Quatrième élément : acquisition du droit de comté sur le territoire d’exemption et des droits régaliens. ===
+
+Les évêques de Metz, qui semblent avoir étendu leur pouvoir sur la ville épiscopale, voire sur une grande partie du pagus central et même de certains pagi régionaux dès le début du xe siècle, se voient définir et limiter leurs nouveaux droits par les souverains germaniques entre 923 et 960.
+Un territoire restreint d’exemption (ville de Metz et sa banlieue) fut créé en faveur d’un nouveau comte autonome, nommé par l’évêque mais agréé par le roi, et non héréditaire au début.
+Bientôt les évêques réussiront à unir les fonctions du comte épiscopal à celles d’avoué féodal de l’évêché sur la tête du comte du palais-avoué, plus étroitement soumis à leur dépendance.
+
+L’acquisition du droit de comté et, peu à peu, des autres droits régaliens (monnaie après 960) détermine l’extension de la juridiction souveraine de l’évêque à tout l’évêché et, par contre-coup, un accroissement considérable du temporel.
+
+
+== Conclusion ==
+
+La seigneurie ecclésiastique, identique en apparence à la seigneurie laïque, en diffère en réalité profondément.
+L’Eglise n’a jamais abdiqué son rôle public.
+La constitution aristocratique du temporel, qui se maintiendra par survivance, ne répondra plus bientôt aux nouveaux besoins de la société.
+
+
+== Essai de reconstitution de l’état du temporel de l’évêché de Metz des origines à 960 d’après l’ordre chronologique des mentions ==
+
+

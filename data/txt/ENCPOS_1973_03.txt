@@ -1,0 +1,103 @@
+identifier: ENCPOS_1973_03
+creator: Danielle Chantereau
+date: 1973
+title: L’abbaye de Saint-Ouen de Rouen aux xviie et xviiie siècles. Étude d’une gestion ecclésiastique
+
+
+
+== Première partie Étude structurelle ==
+
+
+=== Chapitre premier les bases foncières ===
+
+L’étude du temporel montre qu’aux xviie et xviiie siècles l’abbaye de Saint-Ouen possède un bel ensemble de biens mais qu’au niveau de la paroisse son rôle en tant que propriétaire foncier est réduit du fait de l’importance de la propriété des bourgeois et des privilégiés laïcs.
+La taille et la contiguïté des parcelles lui confèrent une certaine supériorité.
+Les unités d’exploitation se caractérisent par une grande variété (l’éventail des superficies est très ouvert, cependant les fermes de plus de cent hectares restent exceptionnelles) et par leur fixité : peu d’achats de terre durant ces deux siècles, pas de création de nouveaux corps de ferme ; ce n’est pas en biens ruraux que les propriétaires fonciers ecclésiastiques réinvestissent leurs capitaux.
+
+
+=== Chapitre II Les bases féodales ===
+
+La levée des droits seigneuriaux, qui comprennent la dîme, et auxquels est soumis le « vassal », est placée sous le contrôle de la justice, instrument de contrainte entre les mains du seigneur lui permettant de maintenir efficace jusqu’à la Révolution le régime « féodal ».
+Au total, si la seigneurie tend à insérer le paysan dans un système économique et social étroit, des failles apparaissent cependant, la rigueur du cadre seigneurial ne correspondant plus à la réalité économique.
+
+
+=== Chapitre III La gestion ===
+
+La gestion de cet ensemble de biens et de droits est assurée au niveau supérieur par la ferme générale, la régie ou la gestion directe.
+
+
+== Deuxième partie Étude conjoncturelle ==
+
+
+=== Chapitre premier revenus d’ensemble et conjoncture ===
+
+L’étude conjoncturelle indique une hausse du revenu général au xviiie siècle, aussi bien celui de l’abbé que celui de la communauté.
+A cette hausse d’ensemble correspond une hausse de chaque catégorie de revenus.
+Les loyers triplent, les revenus féodaux, moulins et dîmes, progressent plus que les biens mixtes et purement fonciers, domaines, fermes, terres.
+Le phénomène marquant est l’augmentation de l’importance des pots de vin, élément capitaliste au sein des structures féodales.
+La répartition d’ensemble des revenus reste la même : le prélèvement du surproduit du travail paysan par les religieux en tant que propriétaires fonciers et décimateurs constitue l’essentiel de leurs ressources.
+Ces revenus sont encore insuffisants pour assurer des finances saines à la communauté : le poids relatif des charges augmente et, à la fin du xviiie siècle, le budget est le plus souvent en déficit.
+L’utilisation d’expédients tels que les emprunts contribue à ce déséquilibre.
+
+
+=== Chapitre II Conjoncture et types de rentes ===
+
+L’étude de l’évolution de chaque type de rente montre les phases « classiques » telles que les historiens les ont jusqu’à présent établies : hausse nominale pouvant aller jusqu’au triple durant les trois premiers quarts du xviie siècle, chute de la rente pendant la période suivante qui se prolonge jusqu’en 1730, caractérisée par le « nominalisme obstiné » des propriétaires, puis nouvelle hausse des fermages au xviiie siècle qui ne prend toute son ampleur qu’à partir de 1780.
+Si, passant outre à de nombreuses objections, l’on tente de cerner l’évolution du produit net par le procédé de la déflation, l’augmentation de la production entre 1640 et 1680 paraît indubitable ; elle ne s’explique que par l’extension des surfaces cultivées, de l’importance de laquelle les procès pour novales donnent une idée.
+Au xviiie siècle, la hausse du produit net des dîmes et des fermages de domaines fonciers n’est le plus souvent qu’une récupération du plafond atteint dans les années 1680-1685 ; aucune innovation culturale n’est prônée par les propriétaires ecclésiastiques.
+D’autres facteurs expliquent la hausse du montant des baux, parmi lesquels l’attrait de la spéculation et la probable pression démographique, ayant pour conséquence une concurrence acharnée entre les fermiers : c’est dans cette perspective que le pot de vin prend toute son importance.
+L’attitude des rentiers du sol se caractérise aussi bien au xviie qu’au xviiie siècle par la fermeté, pour pallier l’effet des crises, s’assurer le profit de la hausse de la rente, éliminer les éléments d’opposition (les curés), assurer un contrôle strict sur le fermier.
+Arrérages et saisies tendent à prouver que la hausse de la rente au xviiie siècle a lieu aux dépens des fermiers et que certains baux ne sont pas adaptés aux possibilités des exploitations.
+La hausse du revenu des bois pourrait avoir été obtenue au détriment du capital forestier et grâce à la pression exercée par les marchands adjudicataires sur les ouvriers bûcherons, notamment dans le domaine des salaires, provoquant un climat de tension permanente.
+
+
+=== Chapitre III Les dépenses ===
+
+L’étude de la gestion de l’abbaye serait incomplète si l’on ne parlait des dépenses qui présentent l’intérêt d’en montrer les principales tendances : disparition du rôle social et religieux de l’abbaye qui se manifeste par la baisse du poste « aumônes », importance des frais administratifs et des dépenses somptuaires, politique de prestige caractéristique des privilégiés.
+En ce qui concerne l’entretien des bâtiments ruraux, les investissements sont limités à la préservation du capital existant.
+
+
+== Troisième partie Problèmes sociaux ==
+
+
+=== Chapitre premier les fermiers ===
+
+Les effets de cette gestion sur les hommes et les réactions de ceux-ci vis-à-vis du propriétaire foncier et féodal sont clairs : l’étude des divers groupes sociaux en contact avec l’abbaye montre des rapports tendus.
+Le fermier du domaine s’efforce de contrôler la rente.
+
+
+=== Chapitre II Les curés ===
+
+Les curés sont en conflit permanent avec le clergé régulier à propos de la dîme, opposition portant au xviie siècle sur des points de détail (partage, perception), qui s’amplifie au xviiie pour devenir une opposition théorique portant sur le principe même de la dîme et son appartenance de droit au curé.
+Elle se manifeste par une certaine violence verbale mais aussi par des heurts quotidiens entre curés et fermiers de la dîme lors de la levée de celle-ci.
+
+
+=== Chapitre III La contestation des droits féodaux ===
+
+Les droits féodaux sont mal acceptés par les vassaux : la contestation permanente sous forme de refus (refus des droits honorifiques, des dîmes, de la banalité) débouche sur une contestation de principe s’exprimant dans les cahiers de doléances. 
+
+
+=== Chapitre IV La forêt, source de conflits ===
+
+C’est en matière de droits d’usage que la tension seigneur-vassaux se manifeste de la façon la plus aiguë : au désir des propriétaires de protéger une source de revenu essentielle s’opposent les abus des riverains, le vol de bois étant une nécessité vitale pour les catégories sociales les plus pauvres.
+Le conflit peut prendre la forme d’une rébellion ouverte contre la justice seigneuriale symbolisée par le « garde ».
+
+
+== Conclusion ==
+
+L’encadrement économique et social que l’abbaye a tenté désespérément de préserver pendant les deux derniers siècles de l’Ancien Régime a été quotidiennement remis en question par toutes les couches de la population concernées.
+
+
+== Pièces justificatives ==
+
+
+
+
+== Tableaux ==
+
+
+
+
+== Planches ==
+
+Cartes. – Plans de paroisses. – Photographies. – Graphiques. – Facsimilés.

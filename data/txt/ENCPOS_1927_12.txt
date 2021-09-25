@@ -1,0 +1,153 @@
+identifier: ENCPOS_1927_12
+creator: Henri Meylan
+date: 1927
+title: Les « Questions » de Philippe le Chancelier, chancelier de Paris. (Tractatus de bono nature et de bono in genere), avec une introduction sur la vie et les œuvres théologiques de l’auteur
+
+
+
+== Avant-propos ==
+
+
+
+
+== Bibliograhie ==
+
+
+
+
+== Première partie Vie du chancelier Philippe ==
+
+
+=== Chapitre premier de la confusion entre Philippe le chancelier et maitre Philippe de grève ===
+
+Le témoignage des obituaires comme celui des manuscrits oblige à distinguer ces deux personnages, qui n’ont été confondus qu’à partir du xvie siècle.
+Rares données sur Philippe de Grève : chanoine de Notre-Dame dès 1182, maître en décrets, il enseigne à Paris vers 1200 et termine sa carrière comme doyen de Sens (1220-1222 environ).
+On ne connaît pas d’écrit de lui. 
+
+
+=== Chapitre II La famille et le milieu Philippe archidiacre de Paris ===
+
+Relations de famille de l’archidiacre : Gautier le Chambellan et Tibout le Riche.
+Sa carrière ecclésiastique sous Maurice de Sully.
+Son seul titre de notoriété est d’avoir été le père du chancelier Philippe.
+
+
+=== Chapitre III Les débuts : Philippe archidiacre de Noyon ===
+
+Né entre 1160 et 1185, Philippe apparaît pour la première fois en 1211, comme archidiacre de Noyon, auprès de son parent, l’évêque Etienne de Nemours.
+Son activité est mal connue ; à part quelques mandats apostoliques, des conflits en sont la seule trace, conflits avec la commune de Saint-Quentin, avec le sénéchal de Vermandois, avec les moines de Prémontré.
+Procureur des évêques de la province de Reims à Rome pour cette dernière affaire (1216-1217), il en profite pour obtenir une bulle de dispense (2 janvier 1217) ; bientôt après survient l’appel de l’évêque de Paris.
+
+
+=== Chapitre IV Philippe chancelier de l’église de Paris ===
+
+Les fonctions du chancelier : rapports avec le chapitre de Notre-Dame, rapports avec l’évêque.
+Importance de cette dignité.
+Le chancelier et l’Université : accord de 1213 sur les points litigieux, juridiction du chancelier, conditions mises à l’octroi de la licence d’enseigner.
+Entre le représentant de l’évêque qui veut maintenir ses droits et la communauté jeune et forte des maîtres et des écoliers, la lutte est inévitable.
+
+Premier conflit (1218-1219), situation critique de Philippe ; les lettres de Gervais de Arichester ; absolution du pape (novembre 1219).
+Difficultés sans cesse renaissantes entre l’évêque ou son chancelier et les écoliers.
+La grève scolaire de 1229-1231.
+Un document nouveau : le sermon prêché par le chancelier à Orléans (6 avril 1230) nous révèle les dissentiments entre Orléans et Angers, ainsi que l’attitude du chancelier, favorable aux efforts du pape pour ramener les écoles à Paris.
+La bulle
+    « Parens scientiarum » restreint et définit les droits du chancelier.
+
+
+=== Chapitre V Activités diverses ===
+
+Outre les causes déléguées par mandat apostolique et l’enseignement à Paris, les sermons révèlent un aspect important de la vie du chancelier ; les rubriques qui permettent d’en localiser et d’en dater quelques-uns justifient le renom du prédicateur.
+Sermons parisiens et sermons de province (diocèses de Noyon et de Laon), sermons d’actualité (synodes régionaux et conciles provinciaux, croisade du roi Louis VIII (janvier et août 1226).
+
+
+=== Chapitre VI Dernières années : conflit avec les Prêcheurs mort du chancelier ===
+
+Rapports du chancelier avec les ordres mendiants, bonne entente avec les Mineurs ; brouille avec les Prêcheurs sur la fin de sa vie.
+Dispute sur la plura lité des bénéfices (1235), témoignage de Thomas de Cantimpré.
+Mort du chancelier Philippe (23 décembre 1236).
+
+
+=== Chapitre VII Conclusion ===
+
+Si la carrière du chancelier, mêlée aux grands évènements contemporains de la vie religieuse, est bien connue, par contre le caractère de l’homme reste difficile à juger.
+
+
+== Deuxième partie Les œuvres du chancelier Philippe autres que ses questions théologiques ==
+
+
+=== Chapitre I Les sermons ===
+
+Deux séries de sermons de fête, dont l’une était jusqu’ici inconnue, sermons sur l’Evangile, choix de sermons et sermons isolés.
+Les distinctions sur le Psautier.
+
+
+=== Chapitre II Œuvres perdues ===
+
+La relation de la perte du Saint Clou de Saint-Denis n’est attestée qu’au xiiie siècle.
+Lenain de Tille mont n’en parle que d’après Aubri de Trois-Fontaines.
+Commentaires aux Lamentations, aux épîtres de Saint-Paul.
+
+
+=== Chapitre III Fausses attributions ===
+
+Le Spéculum astronomiae, un commentaire aux Petits Prophètes, des questions disputées, des sermons.
+
+
+== Troisième partie Les « questions » du chancelier ==
+
+
+=== Chapitre I Description et groupement des manuscrits ===
+
+Bruges 236, Florence Laurentienne plut. dext.
+XXXVI 4, Oxford Magdalen College 66, Padoue Antonienne 156 et 214, Paris Bibl.
+Nat. lat. 3146, 15749 et 16387, Rome Vatican lat. 7669, Toulouse 192.
+Les mss. de Pise Sainte-Catherine 143 et Tolède bibl. du Chapitre 18-19 n’ont pu être collationnés.
+
+11 est impossible de dresser la généalogie des manuscrits ; tout au plus peut-on déterminer des groupes.
+Choix du ms.
+Padoue Ant. 156 pour l’édition du texte.
+
+
+=== Chapitre II Composition de la somme ===
+
+Analyse des traités : bien de nature, bien et mal.
+
+
+=== Chapitre III Les citations ===
+
+Ecrits d’Aristote : Physique, De Anima, Métaphy sique, Morale à Nicomaque, etc.
+Autres œuvres philosophiques.
+Citations des Pères latins, des auteurs du xiie siècle, des Pères grecs, importance de Saint Jean Damascène.
+
+
+=== Chapitre IV Le genre de l’œuvre ===
+
+Le prologue nous révèle les intentions de l’auteur : traiter la notion du bien au point de vue théologique.
+Œuvres analogues, le traité De virtutibus, encore inédit d’Albert le Grand.
+Rapports avec la Somme d’Alexandre de Hales.
+
+
+=== Chapitre V Date de la rédaction ===
+
+11 est impossible de fixer un terminus a quo ; la date de 1228 proposée par Minges ne vaut que pour le traité de l’obéissance.
+Il semble que l’auteur n’ait pu mettre la dernière main à son œuvre.
+
+
+== Appendice I ==
+
+Liste des mss. des sermons du chancelier
+
+
+== Appendice II ==
+
+Le sceau du chancelier
+
+
+== Édition du texte ==
+
+
+
+
+== Table des questions ==
+
+

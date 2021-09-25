@@ -1,0 +1,117 @@
+identifier: ENCPOS_1950_07
+creator: Vital Chomel
+date: 1950
+title: Les paysans du Bas-Dauphiné septentrional au xviiie siècle
+
+
+
+== Sources et Bibliographie ==
+
+
+
+
+== Introduction aspects géographiques du Bas-Dauphiné au xviiie siècle ==
+
+Une analyse géographique de la partie septentrionale du Bas-Dauphiné montre la diversité des sols et des aptitudes agricoles dans une région qui doit son unité aux facteurs physiques : climat, régime hydrologique, et aux accidents historiques qui ont présidé au peuplement.
+Une détermination satisfaisante des zones agricoles prospères ou misérables peut être faite à l’aide des indications numériques contenues dans les Procès-verbaux de la révision des feux (1698-1706) : elle met en évidence l’importance du marché lyonnais comme débouché pour la récolte négociable des communautés voisines.
+
+
+== Première partie Les caractères permanents de la vie rurale au xviiie siècle ==
+
+
+=== Chapitre premier propriété privilégiée et propriété paysanne. ===
+
+L’étude critique des documents fonciers aboutit à valider les données adoptées au début du xviiie siècle par l’intendant Bouchu en vue de la levée de la taille réelle ; les actes de vente des biens nationaux et les cotes de contribution foncière à l’origine du cadastre permettent d’utiles confrontations.
+Il y a un contraste frappant du point de vue de la répartition du sol entre le nord de notre région, où la propriété noble prédomine, et le midi : les terres froides et la plaine de Bièvres, pays de petits domaines.
+
+
+=== Chapitre II La compascuité et les communaux. ===
+
+Pièce essentielle de l’équilibre agraire, le communal : marais de Bourgoin ou bois du Lier, de Saint-Georges-d’Espéranche, etc..., subit vers la fin du siècle les attaques des nobles, surtout engagistes, tels que le comte d’Essuile, bien connu pour son Traité des communes.
+
+
+=== Chapitre III Les droits seigneuriaux et la dîme. ===
+
+L’agent seigneurial essentiel est le châtelain dont les abus excitent de nombreuses plaintes.
+Les droits seigneuriaux personnels varient beaucoup : pâquerages, bûcherage, leyde, plaît seigneurial, banalités diverses ; plus pesantes encore les redevances seigneuriales issues des rentes emphythéotiques.
+Quant à la dîme, elle prélève généralement une portion de la récolte variant entre 5 et 6 % ; les décimateurs et le vingt-quatrième des pauvres.
+
+
+=== Chapitre IV L’exploitation du sol. ===
+
+On a pu réunir des données précises sur la jachère, généralement biennale, parfois triennale, les instruments aratoires, les procédés culturaux des divers cultivateurs.
+L’extension des vignobles à la fin du xviie et au début du xviiie siècle.
+La hausse du salaire des journaliers après les manipulations monétaires de 1720-1725.
+
+
+== Deuxième partie L’évolution démographique ==
+
+
+=== Chapitre premier valeur et limites de la documentation. ===
+
+Les intendants du Dauphiné ont fait effectuer de nombreuses statistiques : Bouchu, Fontanieu, de la Porte.
+Examen critique de ces documents auxquels on préférera les relevés du mouvement de la population : 1690-1701, 1752-1763, 1770-1786. 
+
+
+=== Chapitre II La situation démographique a la fin du xviie siècle. ===
+
+La crise de 1693 n’empêche pas qu’au cours de l’avant-dernière décade du règne de Louis XIV la population de l’élection de Vienne ne s’accroisse : le recul démographique localisé dans la vallée du Rhône, le pays de Maubec et quelques autres îlots, épargne la plupart des villages.
+Étude du mécanisme de la crise de 1709 d’après le registre paroissial de Commelle (1675-1724).
+L’excédent des naissances reparaît dès 1713.
+
+
+=== Chapitre III La population de 1752 a 1763. ===
+
+Augmentation rapide du nombre des habitants ; la crise frumentaire influe différemment sur la vie démographique selon les régions.
+
+
+=== Chapitre IV Concordances et discordances de la démographie de 1770 a 1786. ===
+
+Le flux des naissances l’emporte régulièrement sur les décès ; la seule année où la mortalité soit menaçante est 1778.
+Jalons pour déterminer les zones de peuplement.
+Comparaison avec les autres provinces.
+
+
+== Troisième partie La campagne bas-dauphinoise dans l’économie provinciale de 1770 a 1789 ==
+
+
+=== Chapitre premier la campagne et la transformation du réseau routier. ===
+
+Artisan de la révolution routière qui se poursuit sous l’intendant de la Porte, le paysan ne voit pas la route devenir utilisable pour l’enlèvement des produits fermiers qu’il ne consomme pas.
+La réfection de la route Lyon-Bourgoin-Grenoble amène le déclin économique de la région de Crémieu, tenue à l’écart des courants de circulation.
+
+
+=== Chapitre II Évolution de la production agricole. ===
+
+Les surfaces cultivables semblent fort peu s’accroître en dépit de quelques exceptions.
+L’échec des tentatives de dessèchement du marais de Bourgoin le prouve.
+La bourgeoisie rurale, active et intelligente, prône l’introduction des fourrages artificiels avec un certain succès.
+La culture du maïs et celle des pommes de terre se développent plus lentement.
+
+
+=== Chapitre III Éléments et charges des revenus ruraux. ===
+
+L’incidence des frais de bonne culture sur le revenu de la terre arable est proportionnelle aux dimensions du domaine.
+Étude de la hausse des fermages d’après les archives de l’Hôtel-Dieu de Vienne et de l’hôpital de Grenoble.
+Décompte des frais de récolte pour le petit propriétaire dans la subdélégation du Pont-de-Beauvoisin.
+
+
+=== Chapitre IV L’agitation populaire sous le règne de Louis XVI. ===
+
+Les droits seigneuriaux suscitent de nombreux procès et même des émeutes locales.
+La main-d’œuvre excédentaire ne peut toujours trouver un emploi dans l’industrie rurale.
+
+
+== Conclusion ==
+
+
+
+
+== Pièces justificatives ==
+
+
+
+
+== Carte et graphiques ==
+
+

@@ -1,0 +1,215 @@
+identifier: ENCPOS_1885_15
+creator: Eugène Lefèvre-Pontalis
+date: 1885
+title: Étude sur l’architecture religieuse dans l’ancien diocèse de Soissons aux xie et xiie siècles
+
+
+
+== Caractères généraux du style de la région. ==
+
+
+=== I. Période antérieure à l’an mil. ===
+
+Le seul monument religieux de la région pouvant remonter à une époque antérieure à l’an mil est la crypte de Saint-Médard à Boissons, qui paraît dater du ixe siècle, et non du vie.
+
+C’est à tort que la chapelle de Sainte-Berthe à Filain et la crypte du Mont-Notre-Dame ont été attribuées au ixe siècle ; la nef de l’église de Glennes, la crypte de Saint-Léger à Soissons, les églises de Morienval, de Rhuis et de Berneuil-sur-Aisne au xe siècle.
+
+
+=== II. xie siècle. ===
+
+Les plans peuvent se répartir en trois classes :
+
+Nef sans collatéraux.
+
+Nef terminée par un chœur en hémicycle, et accompagnée de bas côtés dont le chevet est tantôt droit, tantôt arrondi.
+
+Nef de ce dernier type traversée par un transept.
+
+Les seules voûtes employées sont :
+
+La voûte en berceau simple en avant des chœurs.
+
+La voûte en cul-de-four, au-dessus du sanctuaire et des absidioles.
+
+La voûte d’arêtes, dans des cas très limités, aux bas-côtés.
+
+Ce sont les perfectionnements apportés à la voûte d’arêtes par l’établissement d’une ossature indépendante qui ont donné naissance, dans la région, au système de la voûte sur croisée d’ogives ; le déambulatoire de l’église de Morienval en présente la plus ancienne application subsistante aujourd’hui.
+
+Les arcs sont toujours en plein cintre : il n’est possible de citer aucun exemple d’arc en tiers point.
+
+Les piliers sont simplement rectangulaires, ou cantonnés soit de deux, soit de quatre colonnes.
+
+Les nefs ne sont jamais voûtées : elles sont tantôt dépourvues, tantôt munies de collatéraux,
+
+Les bas-côtés sont le plus souvent surmontés de charpentes et recouverts exceptionnellement de voûtes d’arêtes.
+
+Les transepts sont très rarement voûtés ; s’ils le sont, c’est en berceau simple ; leur charpente repose en général sur quatre arcs en plein cintre.
+
+Les chœurs sont toujours voûtés, en avant par un berceau simple, en arrière par un cul-de-four.
+
+Les façades se composent dans leur état actuel : d’un portail et d’une fenêtre en plein cintre.
+
+Les absides sont bâties sur plan circulaire et leur toit est toujours en charpente.
+
+Les clochers sont placés sur les côtés du chœur : ils comprennent régulièrement trois étages et présentent à chacun d’eux huit baies sans moulures : Leur toiture se compose d’une courte pyramide en pierre.
+
+Les contreforts sont larges et peu saillants, ils sont surmontés quelquefois de colonnes uniques.
+
+Les portails reposent sur de simples pieds droits ou sur des colonnettes en saillie sur le parement du mur.
+
+Les fenêtres ne présentent pas de moulures sur l’arête de leurs claveaux.
+
+La décoration se compose surtout des motifs suivants : billettes, torsades, rubans plissés, losanges : la sculpture ne fait jamais usage de l’ornementation végétale.
+
+Les chapiteaux présentent comme disposition caractéristique la gravure en creux ; les tailloirs, un chanfrein en biseau surmonté d’un méplat ; les bases, deux tores en cylindre parfait séparés par une gorge.
+
+
+=== III. Première moitié du xiie siècle. ===
+
+Les plans commencent à présenter des chevets carrés : quand ils sont munis d’un transept, celui-ci est presque toujours dépourvu d’absidioles.
+
+La voûte en berceau brisé est appliquée en avant des chœurs.
+
+La voûte en berceau simple devient très rare.
+
+La voûte en cul-de-four est parfois renforcée de deux branches d’ogives convergeant à la clef de l’arc triomphal.
+
+La voûte d’arêtes a fait place à la voûte sur croisée d’ogives appliqués dans les transepts, dans les bras du transept et dans les chœurs à chevet carré.
+
+Les profils des nervures se ramènent à trois types : le tore unique et cylindrique, les trois gros boudins accouplés, l’arête entre deux tores.
+
+L’arc en tiers point paraît avoir été adopté dans la région, par suite de la nécessité de placer la clef des doubleaux à la même hauteur que celle de la croisée d’ogives.
+
+A cette époque il se manifeste d’une façon exclusive dans les doubleaux ; plus rarement dans les arcades des nefs, et parfois même dans les portails et les baies des clochers.
+
+Le pilier rectangulaire, encore employé, se transforme le plus souvent par l’addition de deux petits pilastres ; le pilier à deux colonnes subsiste sans changement ; le pilier à quatre colonnes disparaît.
+
+Les nefs ne sont jamais voûtées.
+
+La présence des collatéraux tend à devenir une règle générale : c’est la croisée d’ogives qui exceptionnellement leur est appliquée comme voûte.
+
+Les transepts sont toujours voûtés, très rarement en berceau brisé ; le plus souvent en croisée d’ogives.
+
+Les chœurs en hémicycle sont recouverts d’une voûte en cul-de-four quelquefois simple et souvent renforcée de deux branches d’ogives. 
+
+Les absides, généralement bâties sur plan circulaire, sont couronnées parfois de toits coniques en pierres.
+
+Les clochers s’élèvent exceptionnellement sur les côtés du chœur et apparaissent au-dessus du transept.
+Aucun d’eux ne présente plus de deux étages : des moulures ornent l’archivolte de leurs baies.
+Le couronnement en forme de pyramide disparaît entièrement ; il est remplacé quelquefois par une flèche octogonale en pierre et presque toujours par un toit en batière.
+
+Les contre-forts forment une saillie plus accentuée et leur épaisseur devient égale à leur largeur ; quand ils sont surmontés de colonnes, les futs sont ordinairement réunis en faisceau.
+
+Les portails ne présentent plus de pieds droits, leurs colonnettes ne sont plus nécessairement en saillie.
+
+L’archivolte des fenêtres est presque toujours revêtue de tores ou de gorges.
+
+Dans l’ornementation, l’emploi de l’étoile tend à se substituer à la billette.
+La gravure en creux cesse d’être appliquée aux chapiteaux ; les feuilles d’eau et les feuilles d’acanthe sont les motifs de décoration les plus fréquents.
+
+Les tailloirs présentent trois types : celui du xie siècle qui n’est plus appliqué que sur quelques colonnettes ; un autre formé d’un filet, d’une gorge et d’un tore, et un troisième, caractéristique de cette période, composé d’un filet, d’un tore et d’un biseau.
+
+Dans les bases le tore inférieur tend à s’aplatir.
+
+
+=== IV. Seconde moitié du xiie siècle. ===
+
+Les plans à trois absides circulaires disparaissent en tièrement, le chevet carré devient d’un emploi presque général.
+
+La voûte du berceau simple ou brisé et la voûte en cnl-de-four cessent d’être appliquées.
+
+La voûte sur croisée d’ogives est d’un usage exclusif : dans les nervures, le tore unique et cylindrique fait place au tore aminci ; les trois boudins accouplés diminuent d’épaisseur ; l’arête entre deux tores disparaît.
+
+L’arc en plein cintre ne persiste plus que dans les fenêtres, les arcatures et quelques baies de clochers.
+
+Le pilier rectangulaire devient très rare, le massif garni de deux colonnes ne se rencontre plus nulle part ; le pilier cantonné de quatre colonnes reparaît et se complète parfois par l’addition de quatre colonnettes : enfin l’usage de la colonne isolée commence à se répandre.
+
+Les nefs et les collatéraux ne seront voûtés que dans les dernières années du xiie siècle.
+
+Aux bras du transept et aux chœurs, en saillie sur les absides, apparaissent des niches rectangulaires en plein cintre ou en tiers point.
+Elles sont toujours couronnées à l’extérieur de frontons aigus.
+
+Les façades présentent souvent trois fenêtres accouplées au-dessus du portail.
+
+Les clochers sont toujours élevés sur le transept.
+
+Les contreforts à colonnes ne sont plus qu’une exception.
+
+La richesse de la décoration des portails et des fenêtres augmente dans des proportions sensibles.
+
+Dans l’ornementation les trous cubiques tendent à se substituer aux étoiles.
+
+Les tailloirs des chapiteaux sont sans cesse entaillés d’un filet, d’un tore et d’un biseau.
+Le tore inférieur des bases s’aplatit de plus en plus. 
+
+
+=== V. Conclusion. ===
+
+La région du Soissonnais n’a pas d’architecture romane particulière ; elle doit être rattachée à l’école de l’Ile-de-France.
+
+Placée au centre des pays soumis à l’action de cette école, elle a été ainsi soustraite aux influences extérieures.
+
+
+== Description des églises. ==
+
+Les églises de : Berneuil-suw-Aisne, de Binson, de Morienval, d’Oulchy-le-Château, de Ressons-le-Long, de Retheuil, de Rhuis, de Saint-Léger-aux-Bois, de Saint-Thibault-de-Bazoches et de Vic-sur-Aisne, sont les plus intéressantes de celles qui, en totalité ou en partie, appartiennent au xie siècle.
+
+La nef et le transept de l’église de Morienval n’étaient pas voûtés au xie siècle.
+
+Le chœur de l’église de Morienval était recouvert au xie siècle d’une voûte en berceau et d’une voûte en cul-de-four.
+
+Le déambulatoire de l’église de Morienval est le plus ancien modèle de cette disposition dans l’école de l’Ile-de-France.
+
+La voûte d’arêtes à nervures de l’église de Rhuis remonte au xie siècle.
+
+L’église d’Oulchy-le-Château se terminait au xie siècle par trois absidioles. 
+
+Le clocher de l’église d’Oulchy-le-Château a été imité au commencement du xiie siècle dans les églises d’Oulchy-la-Ville, de Rozet-Saint-Albin et de Vichel.
+
+Les églises de Berzy-le-Sec, de Bethizy-Saint-Pierre, de Bonneuil-en-Valois, de Cerseuil, de Chelles, de Dhuizel, de Laffaux, de Largny, de Noël-Saint-Martin, d’Orrouy, d’Oulchy-la-Ville, de Saint-Vaast-de-Longmont, de Vauxrezis et de Vieil-Arcy remontent entre autres à la première moitié du xiie siècle.
+
+La niche rectangulaire du chœur de l’église de Berzy-le-Sec est la plus ancienne disposition de ce genre.
+
+Le bras nord du transept de l’église de Chelles était flanqué, dans l’origine, d’une absidiole.
+
+L’église d’Oulchy-la-Ville est antérieure à 1125.
+
+Le plan primitif de l’église de Saint- Vaast-de-Longmont se composait d’une simple nef rectangulaire et d’un chœur peu profond.
+
+Le clocher de l’église de Saint-Vaast-de-Longmont exerça une influence sensible sur les clochers de Saintines et de Béthizy-Saint-Martin.
+
+L’église de Vauxrezis servit de modèle à celle de Laffaux.
+
+Les églises d’Aizy, de Bazoches, de Courmelles, de Cuise, de Glaignes, de Glennes, de Lhuys, de Montigny-Lengrain, de Saconin, de Saint-Pierre à Soissons et de Vailly présentent les modèles les plus curieux de l’architecture de la seconde moitié du xiie siècle.
+
+Les églises de Courmelles et de Saconin sont inspirées par celle de Berzy-le-Sec.
+
+L’église de Cuise fut reproduite à Montigny-Lengrain.
+
+L’église de Saint-Pierre à Soissons est antérieure à 1177.
+
+L’église de Vailly présentait, avant les remaniements qu’elle a subis, un plan régulier en forme de croix latine. 
+
+L’église de Vailly doit être considérée comme le prototype de l’église d’Aizy et du remaniement exécuté dans le chevet de l’église d’Oulchy-le-Château.
+
+
+== Répertoire archéologique. ==
+
+
+
+
+== Pièces justificatives. ==
+
+
+
+
+== Bibliographie. ==
+
+
+
+
+== Planches. ==
+
+Chaque élève publiera les positions de sa Thèse sous sa responsa bilité personnelle.
+
+(Règlement du 2 février 1866, art. 9.)
