@@ -51,18 +51,18 @@ René,Clavière
 Charles,Bémont
 Robert,De Lasteyrie
 Alfred,Morel-Fatio
-Élie,Berger
+Élie,Berger
 Auguste,Prudhomme
 Auguste,Molinier
 Léon,Clédat
 Jules,Delahaye
-Armand,d’Herbomez
+Armand,d'Herbomez
 Charles,Mortet
 Gabriel,Hanotaux
 François,Delaborde
 Paul,Durrieu
-Émile,Coüard-Luys
-Émile,Molinier
+Émile,Coüard-Luys
+Émile,Molinier
 Henri,Omont
 Félix,Aubert
 Marie-Pierre,Dion
@@ -97,7 +97,7 @@ Charles,De Lasteyrie
 Charles,Samaran
 Georges,Bourgin
 Joseph,Roserot De Melin
-Étienne,Fages
+Étienne,Fages
 Pierre,Champion
 René,Serpette De Bersaucourt
 Auguste,Dumas
@@ -112,7 +112,7 @@ Marcel,Aubert
 Clovis,Brunel
 Geneviève,Aclocque
 Léonce,Celier
-Paul M.,Bondois
+Paul Michou,Bondois
 Georges,Lacombe
 Robert,Bossuat
 Georges,Tessier
@@ -157,7 +157,7 @@ Sylvie,Fayet
 Frédérique,Pilleboue
 Jean-Claude,Rebetez
 Karole,Bezut
-Benoît-j.,Pedretti
+Benoît-jean,Pedretti
 Carine,Picaud
 Aude,Roelly
 Marie-caroline,Gelly
@@ -257,7 +257,7 @@ Geneviève,Grand
 Agnès,Saint-blanquat
 Francine,Ducluzeau
 Arnaud,Fortanier
-Françoise,Durand-Évrard
+Françoise,Durand-Évrard
 Catherine,Counot
 Danielle,Gaborit-Chopin
 Annie,Malbezin-dufour
@@ -382,9 +382,9 @@ Marie-anne,Villèle
 Anne-Marie,Bertrand
 Martine,Lefèvre
 Claire,Voisin-Thiberge
-Hervé,L’Huillier
+Hervé,L'Huillier
 Jean-Michel,Leniaud
-Line,Skórka
+Line,Skorka
 Hélène,Richard
 Christine,Franconnet
 Frédéric,Barbier
@@ -459,7 +459,7 @@ Corinne,Casset-touchelay
 Christine,Nougaret
 Henri,Zuber
 Noëlle,Gouillart
-Louis,Le Roc’h-Morgère
+Louis,Le Roc'h-Morgère
 Anne,Magnaudet-Barthe
 Gilles,Eboli
 Marie-Dominique,Valette
@@ -482,7 +482,7 @@ Marie-Claire,Waille
 Mireille,Ho
 Ghislain,Brunel
 Olivier,Caudron
-Jean-Éric,Iung
+Jean-Éric,Iung
 Agnès,Marcetteau-paul
 Natalie,Bonnet-bertrand
 Bruno,Isbled
@@ -643,7 +643,7 @@ Sandrine,Leturcq
 Nathalie,Vidal
 Céline,Barbance-guillot
 Agnès,Callu
-Agnès,D’Angio-barros
+Agnès,D'Angio-barros
 Olivier,Poncet
 Thierry,Sarmant
 Cécile,Bellon
@@ -813,7 +813,7 @@ Catherine,D'arcier
 Florent,Palluault
 Claire,Bonnélie
 Olivier,Canteaut
-Louis,Faivre d’Arcier
+Louis,Faivre d'Arcier
 Christine,Gadrat-ouerfelli
 Claude,Jeay
 Julie,Ladant
@@ -850,7 +850,7 @@ Caroline,Poulain
 Pierre-Jean,Riamond
 Amable,Sablon Du Corail
 Édouard,Vasseur
-Géraldine,Peoc’h
+Géraldine,Peoc'h
 Jérôme,Villeminoz
 Elizabeth,Denton
 Aurélie,Bosc-lauby
@@ -938,7 +938,7 @@ Séverine,Montigny
 Roseline,Schmauch-Bleny
 Soline,Lau-suchet
 Vanessa,Szollosi
-Marina,Navàs Farré
+Marina,Navas Farré
 Irène,Jourd'heuil
 Anastasia,Iline
 Camille,Dégez
@@ -1087,7 +1087,7 @@ Olivia,Brissaud
 Mathieu,Deldicque
 Lucie,Dorsy
 Pénélope,Driant
-Alicia,León y Barella
+Alicia,Leon y Barella
 Sophie,Martin
 François,Michel
 Morgane,Milhat
@@ -1102,7 +1102,7 @@ Gabrielle,Boreau de Roincé
 Pierre,Marcotte
 Marion,Bernard
 Hind,Bouchareb
-Benjamin,d’Anfray
+Benjamin,d'Anfray
 Malik,Diallo
 Nelly,Koenig
 Marie,Landelle
@@ -1222,7 +1222,7 @@ Hélène,Huszti
 Anne-Lise,Depoil
 Alice,Laforêt
 Claire,Daniélou
-Matías,Ferrera
+Matias,Ferrera
 Mathilde,Haushalter
 Blandine,Husser
 Laure,Mendousse
@@ -1318,7 +1318,7 @@ Léon,Gossin
 Étienne,Héron De Villefosse
 Auguste,Himly
 Édouard,Huron
-Alfred,Schweighæuser
+Alfred,Schweighaeuser
 Anatole,De Courde De Montaiglon
 Édouard,Garnier
 Adrien,Gréa
@@ -1379,7 +1379,7 @@ Charles,Bauquier
 Émile,Campardon
 Louis-Émile,Campardon
 Auguste,Kroeber
-Henri,De L’épinois
+Henri,De L'épinois
 André,Lefèvre
 Paul,Raymond
 Maurice,Daiguson
@@ -1459,7 +1459,7 @@ Eugène,Aubry-Vitet
 Fernand,Calmettes
 Guillaume,Cerise
 François,Dolbet
-Armand,Doncœur
+Armand,Doncoeur
 Guy,Du Pontavice
 Paul,Guérin
 Antoine,Héron De Villefosse
@@ -1482,7 +1482,7 @@ Alfred,Mallet
 Bernard,Mandrot
 Georges,Musset
 Félix,Reynaud
-Emmanuel .,Teilhard
+Emmanuel,Teilhard
 Gabriel,Barbaud
 Pierre,Bonnassieux
 Francis,De Chanteau
@@ -1499,7 +1499,7 @@ Adolphe,Cohn
 Gustave,Guilmoto
 Georges,Bourbon
 Jacques,Normand
-Édouard,Pontal
+Édouard,Pontal
 Gaston-Charles,Raynaud
 Gabriel,Richou
 Barthélémy,Terrat
@@ -1512,7 +1512,7 @@ Henry,Martin
 Charles,De Raymond
 Joseph,Vaesen
 Francisque,André
-Marie-Louis-Xavier,De Bonnault D’houet
+Marie-Louis-Xavier,De Bonnault D'houet
 Alfred,Chilhaud-Dumaine
 Xavier,d'Houët
 Charles,Dufourmantelle
@@ -1528,7 +1528,7 @@ Alfred,Leroux
 Léon,Pajot
 Édouard,Philipon
 Octave,Raguenet
-Émile,Raunié
+Émile,Raunié
 Joseph,Roulx
 Antoine,Thomas
 Fernand,Bournon
@@ -1559,14 +1559,14 @@ Charles,Grandjean
 Georges,Grasoreille
 Paul,Guilhiermoz
 Joseph,Helleu
-Hippolyte-Émile,Rébouis
+Hippolyte-Émile,Rébouis
 Eugène,Welvert
 Joseph,Berthelé
 Amédée,De Bourmont
 Gustave,Kahn
 Léon,Lecestre
 Henri,Moris
-Émile,Salone
+Émile,Salone
 Paul,Alaus
 Jean,Argeliès
 René,Bisson De Sainte-Marie
@@ -1584,7 +1584,7 @@ Germain,Lefèvre-Pontalis
 Léonce,Lex
 Alfred,Martineau
 Joseph,De Sainte-Agathe
-Étienne-Symphorien,Bougenot
+Étienne-Symphorien,Bougenot
 Auguste,Brutails
 Jean,De Cessac
 Henri,Deloncle
@@ -1599,7 +1599,7 @@ Marius,Barroux
 Carlos,Cagé
 Jacques,Dunoyer De Segonzac
 Alfred,Dupond
-Émile,Duvernoy
+Émile,Duvernoy
 Ernest-Daniel,Grand
 Gédéon,Huet
 Adolphe,Hugues
@@ -1607,20 +1607,20 @@ Charles-Victor,Langlois
 Lucien,Lazard
 Léon,Le Grand
 Camille,Martin
-Étienne,Millot
-Édouard,André
+Étienne,Millot
+Édouard,André
 Charles,Baudon De Mony
 Frédéric,Borel
 Léon,Cadier
 Joseph,De Fréminville
-Édouard,Gautier
+Édouard,Gautier
 Achille,Le Vavasseur
 Léon,Marlet
 Louis-Henri,Moranvillé
 Louis,Richard
 Alexandre,Tausserat
 Paul,Tierny
-Henry,d’Allemagne
+Henry,d'Allemagne
 Charles,Bonnier
 Ernest,Coyecque
 André,Ducom
@@ -1628,7 +1628,7 @@ Albert,Froment
 Albert,Isnard
 Eugène,Jarry
 Paul,Labrouche
-Émile,Laloy
+Émile,Laloy
 Louis,Loizeau De Grandmaison
 Henri,De Manneville
 Olivier,De Romanet
@@ -1641,7 +1641,7 @@ Arnold,Ebel
 Louis,Finot
 André-Ferdinand,Hérold
 Gilbert,Jacqueton
-Julien-Henri,L’hermitte
+Julien-Henri,L'hermitte
 Gabriel,Ledos
 Alfred,Spont
 Jean-Joseph,Tissier
@@ -1649,10 +1649,10 @@ Jules,Viard
 Soullié,Louis
 Hippolyte,Aubert
 Louis,Batiffol
-Émile,Desplanque
+Émile,Desplanque
 Auguste,Eckel
 Henri,Léonardon
-Éphraïm-Georges,Michel
+Éphraïm-Georges,Michel
 Charles,Nerlinger
 Auguste,Picard
 Charles,Portal
@@ -1695,7 +1695,7 @@ Jean,Passy
 Pierre,Quillard
 Charles,Roncière
 Pierre,De Vaissière
-Paul,d’Arbois De Jubainville
+Paul,d'Arbois De Jubainville
 Ferdinand,Claudon
 Auguste,Coulon
 Georges,Daumet
@@ -1738,7 +1738,7 @@ Guy,Trouillard
 Henri,Chassériaud
 Henri,Delatour
 Joseph,Dumoulin
-Henri,d’Etchegoyen
+Henri,d'Etchegoyen
 Louis,Germain-Martin
 Henri,Lachenaud
 Philippe,Lauer
@@ -1753,14 +1753,14 @@ Charles,Schmidt
 Pierre,Aubry
 Louis,Brandin
 Pierre,Caron
-Émile,Dacier
+Émile,Dacier
 Eugène,Deprez
 Paul,Deslandres
 Gaston,Duval
 Gabriel,Pérouse
 Joseph,Petit
 Joseph,Poux
-Édouard,Privat
+Édouard,Privat
 Mario,Schiff
 Alexandre,Vidier
 Ferdinand,Chalandon
@@ -1797,7 +1797,7 @@ Just,Berland
 René,Bonnat
 Lucien,Broche
 Frédéric,Duval
-Émile,Gabory
+Émile,Gabory
 François,Galabert
 Alfred,Gandilhon
 René,Giard
@@ -1811,7 +1811,7 @@ André,Philippe
 André-Pierre,Pidoux
 Jacques,De Dampierre
 Jean,Ebersolt
-Édouard,Giard
+Édouard,Giard
 Henri,Gravier
 Fernand,Guignard
 Robert,Huard
@@ -1824,7 +1824,7 @@ Michel,Prévost
 Frédéric,Barbey
 Amédée,Boinet
 François-Louis,Bruel
-Étienne,Clouzot
+Étienne,Clouzot
 Gabriel,Esquer
 Joseph,Girard
 Robert,Griveau
@@ -1861,7 +1861,7 @@ Henry,Delarue
 Louis,Jacob
 Gaston,Letonnelier
 Paul,Lorber
-Pierre,Mallebay Du Cluzeau D’Écherac
+Pierre,Mallebay Du Cluzeau D'Écherac
 Henri,Prost
 Régis,Rohmer
 Louis,Barbeau
@@ -1917,7 +1917,7 @@ Eugène,Guitard
 Eugène-Humbert,Guitard
 Jean,Lafond
 Pascal,Lanco
-Gabriel,Le Barrois D’orgeval
+Gabriel,Le Barrois D'orgeval
 Lucien,Lécureux
 Jean,Longnon
 Lucien,Romier
@@ -1935,7 +1935,7 @@ Gabriel,Garric
 Marcel,Gastineau
 Charles,Hirschauer
 Georges,Huisman
-Émile,Isnard
+Émile,Isnard
 Gabriel,Loirette
 Maurice,Loncle
 Roger,Luzu
@@ -1948,7 +1948,7 @@ André,Biver
 Edgar,Blum
 Maximilien,Courtecuisse
 Jean-Charles,d'Amat
-Édouard,Decq
+Édouard,Decq
 Paul,Deschamps
 Pierre,Despras
 Joseph,Estienne
@@ -1977,12 +1977,12 @@ Paul,Roussier
 Jean,Verrier
 François,Baudry
 Eugène,Berger
-Émile,Dermenghem
+Émile,Dermenghem
 Roger,Gaucheron
 Georges,Girard
 Albert,Guigue
 Bertrand,De La Cropte De Chanterac
-Éloi,Laval
+Éloi,Laval
 Ernest,Lyon
 Joseph,Macquart De Terline
 Stanislas,Reizler
@@ -1997,7 +1997,7 @@ Charles,De Luppé
 Marc,Morel
 Barthélemy,Pocquet Du Haut-Jussé
 Léon,Rey
-Pierre,d’Espezel
+Pierre,d'Espezel
 André,Auniord
 Robert,Doré
 Bruno,Durand
@@ -2062,16 +2062,16 @@ Madeleine,Dillay
 Gabrielle,Duprat
 Marcel,Gouron
 Lucien,Metzger
-Gabrielle,Odend’hal
+Gabrielle,Odend'hal
 René,Planchenaut
 Georges,Thomas
 Robert,Avezou
 Georges,Bailhache
 Henri,De Berranger
-Étienne,Bonnaire
-Étienne,Delcambre
+Étienne,Bonnaire
+Étienne,Delcambre
 Joseph,Despont
-Alfred L.,Foulet
+Alfred Louis,Foulet
 Jean-Baptiste,Gondy
 Jacques,Haumont
 André,Jaulme
@@ -2100,9 +2100,9 @@ Lucie,Chamson-Mazauric
 Gustave-Bernard,Duhem
 François,Eygun
 Henri,Forestier
-Baudouin,De Gaiffier D’hestroy
+Baudouin,De Gaiffier D'hestroy
 Jean,Guilloud De Courville
-Pierre M. L.,Héliot
+Pierre Marie Louis,Héliot
 André,Lapeyre
 Jean,Mallon
 Marthe,Marot
@@ -2110,7 +2110,7 @@ Albert,Mirot
 Charles,Perrat
 Louis,De Rosanbo
 Marguerite,Verdat
-Eddy Édouard,Bauer
+Eddy Édouard,Bauer
 Yvonne,Bezard
 Pierre,Caillet
 Jeanne,Daguillon
@@ -2122,7 +2122,7 @@ Jacques,Monicat
 Félix,Olivier Martin
 Jean-Jérôme,De Ribier
 Gilette,Ziegler
-Marie-Thérèse,d’Alverny
+Marie-Thérèse,d'Alverny
 Jacqueline,Chaumié
 Marthe,Dulong
 Étienne,Fels
@@ -2132,7 +2132,7 @@ André,Legoy
 Jean,Lombard
 Colette,Parent
 Simone,De Saint-Exupéry
-Émile,Van Moé
+Émile,Van Moé
 Marie,Becet
 Gabrielle,Berrogain
 Madeleine,Bioche
@@ -2145,7 +2145,7 @@ Odette,Dufourcq-Latron
 Paul,Dupieux
 Roger,Glachant
 Suzanne,Gounelle
-Pierre,d’Herbécourt
+Pierre,d'Herbécourt
 René,Lacour
 Jacques,Levron
 Christiane,Malo
@@ -2218,8 +2218,8 @@ Philip,Moore
 Mireille,Rambaud
 Jean,Rott
 Denise,Tournaire
-Madeleine,d’Autume
-L. Carolus,Barre
+Madeleine,d'Autume
+Lavoisier Carolus,Barre
 Louis,Barré
 Henri,Blaquière
 Marguerite-Marie,Bommier
@@ -2230,12 +2230,12 @@ Marie-Antoinette,Hosotte
 Françoise,Jean-Lehoux
 Madeleine,Lenoir
 Pierre,Neyrand
-Élisabeth,Pellegrin
+Élisabeth,Pellegrin
 Edmond,Pognon
 René,Prat
 Gabrielle,Regnard
 Gabrielle,Thibout
-Aloysius K.,Ziegler
+Aloysius Karl,Ziegler
 Geneviève,Beauchesne
 Pierre,Breillat
 Henri-François,Buffet
@@ -2247,8 +2247,7 @@ Alice,Drouin
 Mireille,Forget
 Jean,Gigot
 Lilli,Gjerlöw
-Lilli,Gjerløw
-Émilie,Hardel
+Émilie,Hardel
 Suzanne,Langlais
 Lucienne,Lasnet-Meusy
 Jean-Berthold,Mahn
@@ -2296,7 +2295,7 @@ Marie-Madeleine,Bouquet
 Geneviève,Coquibus
 Jean,De Dianous
 Jacques,Guignard
-Geneviève,d’Haucourt
+Geneviève,d'Haucourt
 Maxime,Lévi
 Anne,Morel
 Marguerite,Oswald
@@ -2315,7 +2314,7 @@ Pierre,Gras
 François,Himly
 Thérèse,Kleindienst
 Anne-Marie,Lanfry
-Émile,Lefort
+Émile,Lefort
 Georgette,Marie-Saint-Germain
 Yves,Metman
 Madeleine,Parent
@@ -2468,7 +2467,7 @@ Raymond,Oursel
 Yves,Pérotin
 Claude,Pris
 Bernard,Savouret
-Étienne,Taillemite
+Étienne,Taillemite
 Françoise,Vidron
 Jacques,Yvon
 Marie-Thérèse,Aubry
@@ -2539,10 +2538,10 @@ Odile,Grandmottet
 Jean,Guerout
 André,Guillou
 Suzanne,Henry
-Élisabeth,Houriez
+Élisabeth,Houriez
 Antoinette,Huon
 Marie,Le Roy Ladurie
-Georges,De Léotoing D’anjony
+Georges,De Léotoing D'anjony
 Marie-Henriette,De Montéty
 Michel,Nortier
 Antoine,Peyrègne
@@ -2652,7 +2651,7 @@ Henri,Pons
 Brigitte,Poussin
 Yves,Renaudin
 Pierre,Boisard
-Élisabeth,Bonazzi
+Élisabeth,Bonazzi
 Jean,Courtieu
 Yvonne,Drieux
 Hassan,El-Helwa
@@ -2665,7 +2664,7 @@ Yvon,Lacaze
 Lucienne,Lanchier
 Francine,Leclercq
 Marie-Thérèse,De Martel
-Jacques,d’Orléans
+Jacques,d'Orléans
 Madeleine,Renaudin
 Jacqueline,Roubert
 Florence,Turiaf
@@ -2687,7 +2686,7 @@ Marie-Annick,Blanc
 Marie-Anne,Elissagaray
 Jean-Baptiste,Giard
 Françoise,Greleir
-Monique,Harlé-D’Ophove
+Monique,Harlé-D'Ophove
 Claude,Hohl
 Claude,Jullien-Charels
 Annie,Laforgue
@@ -2790,15 +2789,15 @@ Dominique,Lesourd
 Ségolène,Oudot De Dainville
 Armelle,Sabbagh
 Jacques,Staes
-Élisabeth,Ulrich
+Élisabeth,Ulrich
 Christine,Bischoff
 Marie-Françoise,Bourdat
 Sylvie,Cadier-Sabatier
 Christian,Castellani
 Martine,Darrobers
-Éliane,Deronne
+Éliane,Deronne
 Pascale,Hemeryck
-Élisabeth,Laget
+Élisabeth,Laget
 Annie,Monzat
 Georges,Mouradian
 Luce-Marie,Nazart
@@ -2814,12 +2813,12 @@ Monique,Geny
 Françoise,Girard
 Marie,Hamon-Jugnet
 Jean-Pierre,Le Coq
-Dominique-Élisabeth,Le Coq-Morel
-Évelyne,Morin
+Dominique-Élisabeth,Le Coq-Morel
+Évelyne,Morin
 Anne,Mouradian-Ségaud
 Danielle,Oppetit
 Hélène,Prax-Falcou
-Marie-Élisabeth,Rabut
+Marie-Élisabeth,Rabut
 Viviane,Rey
 Marie-Christine,Trouillet
 Dominique,Vié
@@ -2859,7 +2858,7 @@ Geneviève,Étienne
 Daniel,Farcis
 Françoise,Granges
 Claude,Laude-Faucher
-Saliou,M’baye
+Saliou,M'baye
 Martine,Perrochet
 Danielle,Robert
 Annick,Sapin-Steiner
@@ -2898,7 +2897,7 @@ Henri,Hours
 Denise,Ogilvie-David
 Catherine,Oudin-doglioni
 René,Estienne
-Ghislaine,De L’Huillier-Guibert
+Ghislaine,De L'Huillier-Guibert
 Jean,Le Pottier
 Sarah,Olivier
 Monique,Peyrafort-huin
@@ -2911,7 +2910,7 @@ Philippe Georges,Richard
 Nicole,Vayssaire
 Jacqueline,Artier
 Marine,Bedel-Bénard
-Jean-Pierre,Brunterc’h
+Jean-Pierre,Brunterc'h
 Jean-Pierre,Defrance
 Georges,Fréchet
 Anne-véronique,Gilles-raynal
@@ -2949,7 +2948,7 @@ Marie-hélène,Renou-enault
 Dominique,Taffin
 Mireille,Favre
 Corinne,Le Bitouzé
-Patrick,Le Bœuf
+Patrick,Le Boeuf
 Isabelle,Pébay-Clottes
 Béatrice,Ascoli-herold
 Louise,Audelin
@@ -3004,7 +3003,7 @@ Nicolas,Buat
 Jérôme,Cras
 Sylvie,Desachy-Delclos
 Catherine,Dollé
-Armelle,Émery
+Armelle,Émery
 Caroline,Fieschi
 Isabelle,Formont
 Carole,Gascard
@@ -3123,13 +3122,13 @@ Tamara,Préaud
 Isabelle,Rambaud
 Kim,Richter
 Martine,Sainte-marie
-Freyre de Andrade,María Teresa
+Freyre de Andrade,Maria Teresa
 Klecanda,Vladimir
 Ponsich,Pierre
 De Fourcaud,Louis
 Monod,Gaston
 Clunet,Édouard
-Altés i Aguiló,Francesc Xavier
+Altés i Aguilo,Francesc Xavier
 Le Danois,Édouard
 Thomas-Lacroix,Pierre
 Delpit,Jules
@@ -3137,7 +3136,7 @@ Deshoulières,François
 Auguste-Vitu,Maxime
 Arconati-Visconti,Marie-Louise
 Giron-Panel,Caroline
-D’abadal i de Vinyals,Ramon
+D'abadal i de Vinyals,Ramon
 Pujol Tubau,Pere
 Felkay,Nicole
 Meuvret,Colette
@@ -3169,12 +3168,12 @@ Poitevin,Auguste
 de Fréville,Marcel
 Sorg,Roger
 Frédéric,Barbier
-María Teresa,Freyre de Andrade
+Maria Teresa,Freyre de Andrade
 Charles,Bonnier
 Charles,Braibant
 Louis,Finot
 Clovis,Brunel
-Vladimír,Klecanda
+Vladimir,Klecanda
 Pierre,Ponsich
 Lars,Otto Grundt
 Paul,Viollet
@@ -3250,7 +3249,7 @@ Jules,Flammermont
 Charles,Tranchant
 Charles,Baudon de Mony
 Olivier,Gabet
-Francesc Xavier,Altés i Aguiló
+Francesc Xavier,Altés i Aguilo
 Anatole,de Barthélemy
 Édouard,Le Danois
 Georges,Tholin
@@ -3880,7 +3879,7 @@ Paul,Bastier
 Louis,Halphen
 Kéda,Black
 Ngo,Dinh Nhu
-Lilli,Gjerløw
+Lilli,Gjerlow
 Ferdinand,Chalandon
 Jacques,Monfrin
 Alfred,Martineau
