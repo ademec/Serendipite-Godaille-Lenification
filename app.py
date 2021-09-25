@@ -1,6 +1,6 @@
 from flask import Flask, render_template
 
-from name_gen.name import gen_family_name, gen_surname
+from wordgen.word import gen_surname, gen_lastname
 
 app = Flask(__name__)
 
@@ -8,9 +8,9 @@ app = Flask(__name__)
 def index():
 	return render_template("index.html")
 
-@app.route("/surname")
+@app.route("/name")
 def surname():
-	return 
+	return gen_surname() + " " + gen_lastname()
 
 if __name__ == "__main__":
 	app.run()
