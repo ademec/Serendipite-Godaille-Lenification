@@ -1,0 +1,171 @@
+identifier: ENCPOS_1914_10
+creator: Marc Morel
+date: 1914
+title: Étude sur la langue des chartes de Cluny (xe siècle). Contribution à la chronologie des phénomènes linguistiques romans
+
+
+
+== Introduction ==
+
+Les textes littéraires en langue vulgaire du xe siècle sont assez rares pour qu’il soit intéressant d’examiner certaines chartes en latin de la même époque.
+
+Le présent travail s’occupe plus particulièrement de la première moitié du xe siècle, et de la région appelée à cette époque pagus matisconensis.
+
+
+== Bibliographie ==
+
+
+
+
+== Chapitre premier Phonétique ==
+
+1.
+Voyelles toniques. – A libre reste a, sauf dans un seul exemple : hese pour casa. – ARIO, -IARIO : dans ce suffixe a est devenu e (erio, -ero). – ACO, -IACO : même sort de l’a (-ego, -eg, -ei peut-être -i) ; A + palataie devient au.
+A semi-voyelle (g) devient ai.
+A entravé subsiste sauf dans les noms propres germaniques en aldus où il devient o. – Ĕ libre se confond avec i ; en position romane ne se diphtongue pas. – Ē libre ne se diphtongue pas ; se confond avec i. – I tonique est quelquefois e. – Ŏ libre ne se diphtongue pas. – Ō libre se confond avec u.
+U subit le sort de Ō. – U libre subsiste. – AU équivaut à o ; l’u peut tomber. – EU est encore une diphtongue.
+
+2.
+Voyelles atones. – A antétonique, initial ou non, devient e. – A antétonique devient o dans les mots commençant par le préfixe germanique Rad (ou Hróti) ; devant une palatale devient ai.
+A posttonique devient e ; devient i dans monicus et rogitus. – E atone est remplacé par i à la syllabe initiale, et ailleurs ; devient i en hiatus devant une voyelle ; devient a devant une liquide. – I atone se confond avec e. – O atone se confond avec u. – U atone se confond avec o ; ü est noté ui et i. – A U initial devient o, ou a devant un g. – Chute de l’intertonique : i tombe le plus souvent. – Chute de la posttonique : elle tombe de préférence entre des consonnes de même nature ; finale, elle tombe derrière des groupes de consonnes (-nt, -ng, consonnes redoublées, deux explosives, explosive + liquide).
+
+3.
+Consonnes. – Vélaires : C devant e ou i devient s ; devant a devient h (pour ch) ; ch est écrit h et une fois g dans les mots germaniques, ou grecs d’origine. – C initial devient g dans Gonrado. – C intervocalique devient g, puis disparaît. – C final en latin tombe ; en roman subsiste. – G intervocalique disparaît ; devient yod ou remplace notre j. – G final d’un groupe et d’un mot tombe. – QU devient q, c.
+
+Dentales : T intervocalique passe à d, puis tombe. – T final en latin passe à d ou tombe. – TI + voyelle donne une explosive sifflante. – D intervocalique disparaît.  – D final disparaît on devient t. – DE voyelle devient j.
+
+Labiales : P intervocalique devient b ; B intervocalique devient v ; V + labiale tombe ; PH devient v.
+
+Groupes de consonnes où l’on trouve des explosives. – Groupes composés exclusivement d’explosives en latin.
+Vélaire + dentale : la vélaire disparaît.
+Labiale dentale : la labiale tombe généralement.
+Dentale + labiale : la dentale disparaît.
+
+Groupes d’explosives consécutives en roman : T’CUM est devenu -tium, -dium, -cicum ; D’CT est devenu -tt.
+
+Groupes dont la première seule est explosive.
+Explosives interchangeables ; BL devient ll, l ; BR devient – ber ; BN devient mn, n ; 55 devient s ; T’S devient s, z.
+
+Consonnes continues : H est sans valeur sauf dans les hiatus.
+M finale tombe ; M – n ; MB devient quelquefois mm ; MN devient nn ; N mouillée est transcrite par gn, ngn, ncn, nn, n ; NS devient n ; NB devient ndr ; L mouillée est transcrite par g, li, lg ; vocalisation ; LR devient ldr. – 5 + consonne au début d’un mot est précédée d’une voyelle ; G chuintant devant e et i ; BI + voyelle devient gi.
+
+Consonnes doubles : elles se simplifient.
+
+
+== Chapitre II Morphologie ==
+
+1.
+Substantifs et adjectifs. – Les cas : confusion absolue des cas, même sujet et régime.
+Pluriel formé par accusatif – (– s.
+
+Première déclinaison : les noms propres ont un cas oblique en -ane, -ano, quelquefois employé au sujet.
+
+Deuxième déclinaison : persistance du génitif pluriel ; les noms propres ont un cas régime en -onem, -ono, -oni, – one. 
+
+Troisième déclinaison : les imparisyllabiques conservent le thème du nominatif, les neutres ne se déclinent pas.
+
+Passage d’une déclinaison à une autre.
+
+2.
+Pronoms. – Pronoms personnels : nos et vos remplacent les autres cas.
+
+Pronoms démonstratifs : hic est toujours accompagné de iste, sauf dans hoc est ; iste a gagné ; ipse au nominatif est ipsius, datif ipsiu.
+Ille a les formes lo, los, lor ; ad + illum donne al, in + illis donne els ; illa a les formes la, las, les.
+
+Pronoms relatifs : qui remplace les autres formes au nominatif ; que à l’accusatif mais plus rarement.
+
+Pronoms indéfinis : quisque a les formes quisco, et quico ; qualecumque l’emporte ; ullus a la forme ullius.
+
+3.
+Verbes. – Formes actives avec sens déponent, disparition des formes du déponent.
+
+Terminaisons : tendance vers la forme -amus ; -unt devient -un, on, en ; parfaits en -si ; parfaits en -dedi ; parfaits composés avec abeo.
+Subjonctifs en -a- devenus en – e-.
+
+Passif analytique formé avec esse.
+
+4.
+Prépositions. – Senes pour sine ; in s’ajoute aux autres prépositions.
+
+
+== Chapitre III Syntaxe ==
+
+1.
+Substantifs. – Changements de genre.
+
+2.
+Adjectif. – Il prend la valeur d’un substantif ; ambo persiste.
+
+3.
+Articles. – Article défini : ille perd sa valeur démonstrative, se met devant un adjectif, un possessif.
+
+Article indéfini : unus est employé.
+
+4.
+Pronoms. – Pronoms personnels : ils accompagnent le verbe soit avant lui, soit après : ille joue le rôle de pronom personnel.
+
+Pronoms démonstratifs : ille est le plus fréquent, puis ipse, iste, hic, hoc est est invariable.
+
+Pronoms possessifs : ils prennent un sens actif ou passif.
+Vester est employé pour tuus ; illorum pour eorum.
+
+Pronoms relatifs : ils ont la valeur d’une conjonction de coordination : ubi, unde, inde sont des relatifs.
+
+5.
+Syntaxe d’accord. – Excepto invariable ; hoc est invariable.
+
+6.
+Syntaxe des cas. – Cas dépendant du nom : compléments déterminatifs précédés de ad et de de ; compléments du mot precium en apposition ou au génitif.
+
+Cas dépendant du verbe : le complément indirect est précédé de ad surtout quand c’est un nom commun.
+
+Cas dépendant des prépositions.
+De a son sens classique. remplace a ou ab, marque l’origine, la matière (ainsi que le génitif), la position, la dimension, l’instrument.
+In annonce le lieu, la dimension, la matière, un attribut, l’espace de temps.
+Ad désigne le lieu, la position, la tendance, le but, le temps.
+Cum garde son emploi latin.
+Per indique la position, le temps, le moyen.
+Pro marque le remplacement, le prix, le but, le motif.
+Circa signifie : à l’égard de ; contra, en faveur de ; subtus remplace infra, qui remplace intra.
+
+7.
+Syntaxe du verbe. – Voix : l’actif remplace le déponent, le passif impersonnel.
+
+Modes : indicatif pour le futur.
+Subjonctif pour le futur ; subjonctif dubitatif ; gérondif derrière un verbe ; infinitif employé comme complément.
+
+8.
+Propositions subordonnées. – Propositions temporelles avec dummodo, quandiu, quando.
+
+Propositions complétives avec qualiter, quatinus, quia, quod.
+
+Propositions causales avec quod, pro eo quod. 
+
+Propositions hypothétiques avec si (et quelquefois l’imparfait).
+
+Propositions comparatives avec tantum quantum, ou tantum cum.
+
+Propositions relatives : qui valant une conjonction.
+
+9.
+Verbes auxiliaires. – Les verbes debere, facere, valere, videri, habere.
+
+10.
+Mots invariables. – Emploi de seu et vel pour et\ simul a le sens local.
+
+
+== Chapitre IV Ordre des mots ==
+
+Le verbe : à la fin, au commencement, au milieu. – Le sujet : avant et après le verbe. – L’attribut : immédiatement après le verbe. – Compléments directs : souvent après le verbe, sauf les pronoms et les compléments d’infinitif. – Compléments indirects : après le verbe, sauf les pronoms et les noms propres. – Compléments déterminatifs : après le nom auquels ils se rapportent. – Compléments circonstanciels : partout.
+
+
+== Chapitre V Vocabulaire ==
+
+Liste de mots employés avec un sens particulier dans les chartes de Cluny.
+
+
+== Appendices ==
+
+I. La formule Domino fratribus n’est pas comprise ou est interprétée à faux.
+
+II. Actum et factum : actum indique le temps (ou le lieu) où s’est accompli le fait consigné dans l’acte ; factum indique le temps de la rédaction.

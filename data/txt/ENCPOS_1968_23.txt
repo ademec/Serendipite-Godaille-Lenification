@@ -1,0 +1,12 @@
+identifier: ENCPOS_1968_23
+creator: Marc Vaisbrot
+date: 1968
+title: Édition critique de la Compilatio singularis exemplorum (seconde partie), d’après les manuscrits d’Upsal, de Tours et de Berne
+
+
+
+== Édition critique ==
+
+Édition de la deuxième partie (nos 224 à 1049) sur la base du manuscrit d’Upsal.
+Un apparat critique a été donné pour les numéros 224 à 527.
+Un index des toponymes, des personnages historiques, des conditions sociales et des thèmes narratifs a été établi, ainsi qu’une table indiquant la place des articles dans chaque manuscrit.

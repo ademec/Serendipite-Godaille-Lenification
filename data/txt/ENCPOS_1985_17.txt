@@ -1,0 +1,232 @@
+identifier: ENCPOS_1985_17
+creator: Anne Tenenbaum
+date: 1985
+title: Le conservatoire de musique de Paris, de sa création en 1795 jusqu’en 1830
+
+
+
+== Introduction ==
+
+Le Conservatoire de musique de Paris, établissement d’enseignement centralisé, se substitue, sous la Révolution, à l’enseignement dispensé dans les maîtrises sous l’Ancien Régime.
+Il a cependant des antécédents : l’école de l’Opéra qui a une existence épisodique à partir de 1672, et l’École royale de chant, instituée en 1784.
+Mais c’est l’école de musique de la Garde nationale, transformée bientôt en Institut national de musique, qui, grâce à la persévérance de son directeur Bernard Sarrette, est élevée par la Convention nationale, le 16 thermidor an III (3 août 1795) au rang d’école nationale sous le nom de Conservatoire de musique ; l’École royale de chant vient s’y fondre.
+
+
+== Sources ==
+
+Les sources manuscrites se trouvent, pour l’essentiel, aux Archives nationales dans quatre sous-séries : AJ37 qui rassemble les archives de l’administration du Conservatoire ; 03, Maison du roi, puisque l’école dépend du ministère de la Maison du roi de 1816 à 1830 ; F17, Instruction publique, et F21, Beaux-Arts.
+Les séries et sous-séries F4, F13, N, AF IV, 02 et AJ13 apportent quelques renseignements supplémentaires, de même que des notes conservées à la Bibliothèque nationale, aux départements des manuscrits et de la musique.
+Enfin cette documentation est utilement complétée par les périodiques, source fort précieuse, et également par des mémoires et souvenirs contemporains. 
+
+
+== Première partie Le cadre ==
+
+
+=== Chapitre premier tutelle administrative ===
+
+Dépendant successivement du comité d’Instruction publique, puis du ministre de l’Intérieur, par l’intermédiaire du bureau des Beaux-arts, ou du conseiller d’État chargé de l’Instruction publique entre 1802 et 1809, le Conservatoire, placé sur le même rang que les « écoles spéciales », est considéré comme un établissement d’enseignement public.
+Sous la Restauration, sous prétexte que ses locaux sont compris dans la dotation de la Couronne, le Conservatoire est cédé, après quelques flottements, au ministre de la Maison du roi et renaît sous le titre d’Ecole royale de musique.
+Cette École voisine désormais avec les théâtres royaux, qu’elle doit alimenter en sujets.
+Elle relève de l’intendant des Menus Plaisirs, le baron de la Ferté, qui rêve de restaurer l’ancienne Ecole royale de chant.
+En 1824, nouveau changement : c’est le vicomte Sosthène de la Rochefoucauld, chargé du département des Beaux-arts au ministère de la Maison du roi, qui est chargé de son contrôle.
+
+
+=== Chapitre II Administration interne ===
+
+Jusqu’en 1815, le Conservatoire s’administre avec une assez grande liberté, sous la direction des inspecteurs de l’enseignement et de Sarrette, d’abord « commissaire pour l’organisation du Conservatoire », puis directeur à partir de l’an VIII (1800) ; trois règlements successifs (an IV, an VIII et 1808) fixent l’organisation intérieure.
+Sous la Restauration, l’Ecole royale n’a plus à sa tête qu’un inspecteur général des classes, Perne, aux pouvoirs très limités ; c’est en fait l’intendant La Ferté qui décide de tout ; de plus, aucun texte d’ensemble ne réglemente l’organisation.
+A partir de 1822, s’il n’est toujours adopté aucun règlement, Cherubini, nommé directeur, y supplée par sa rigueur et son autorité.
+
+
+=== Chapitre III Le budget ===
+
+Pourvu généreusement lors de sa création, le Conservatoire subit d’importantes restrictions en l’an IX et en l’an XI ; puis les crédits crois sent sous l’Empire, pour baisser légèrement à partir de 1812.
+En 1816, le budget est réduit à la portion congrue ; peu à peu, cependant, il va rejoindre les taux de la fin de l’Empire.
+On constate d’autre part à cette période, une amélioration de la technique de la comptabilité.
+
+
+=== Chapitre IV Les bâtiments ===
+
+Le Conservatoire s’installe, après de longues tractations pour en obtenir la libération, dans l’hôtel des Menus Plaisirs, rue Bergère, et dans le local occupé par l’ancienne École royale de chant, à l’angle de la rue Bergère et de la rue du Faubourg-Poissonnière.
+Outre des travaux d’aménagement (classes, pensionnat...), l’architecte Delannoy élève une bibliothèque dont la construction traîne plusieurs années, et une prestigieuse salle de concert.
+En mars 1816, le Conservatoire doit évacuer l’hôtel des Menus, compris dans les biens de dotation de la Couronne, et se replier sur le reste des locaux.
+Désormais, l’intendant des Menus règne en maître sur les bâtiments et chacun lutte pour défendre ses droits.
+
+
+=== Chapitre V La bibliothèque ===
+
+Une bibliothèque publique de musique est prévue dans la loi de fondation du 16 thermidor an III. Une commission de musiciens est autorisée à choisir des partitions et des ouvrages dans les dépôts nationaux (les émigrés les revendiqueront un moment sous la Restauration), et les confiscations napoléoniennes en Italie et en Allemagne complètent ce premier fonds, que le bibliothécaire Roze s’emploie à classer.
+La bibliothèque s’enrichit par des dons et des acquisitions, faites au hasard des occasions pour les achats exceptionnels, et chez un fournisseur attitré pour le reste ; ni Roze ni Cherubini n’obtiennent, malgré leurs réclamations, un exemplaire du dépôt légal.
+L’honnêteté de Fétis, bibliothécaire de 1826 à 1830, ne semble pas sans reproche.
+
+
+=== Chapitre VI Les instruments ===
+
+C’est également grâce aux confiscations révolutionnaires que le Conservatoire est pourvu d’un premier stock d’instruments, triés parmi ceux réunis au dépôt de la rue Bergère par la commission temporaire des Arts.
+Peu d’achats sont effectués sous l’Empire, hormis sur les bénéfices des exercices publics, mais l’état critique des instruments oblige par la suite à trouver des procédés pour remédier à l’absence d’un crédit d’acqui sition au budget.
+Les pianos, majeure partie de ces acquisitions, sont achetés d’occasion, ou choisis chez Roller et Blanchet ou chez Érard, de façon à durer le plus longtemps possible ; un piano jugé inutilisable pour les classes de piano poursuit sa carrière dans les classes de chant et de solfège.
+
+Tout à fait exceptionnelle est la commande faite à Grenié, en 1812, d’un orgue expressif qu’il vient d’inventer ; cet orgue n’est achevé qu’en 1818, par suite d’hésitations et de mesures d’économie malheureuses.
+
+
+== Deuxième partie Les membres ==
+
+
+=== Première section les directeurs ===
+
+La personnalité de Sarrette, modeste employé du dépôt des Gardes françaises à l’origine, promu directeur d’un établissement prestigieux, suscite bien des controverses : infatigable et génial administrateur pour les uns, ambitieux, intéressé et sans aucune connaissance musicale, pour les autres.
+Lesueur prend la tète de ses adversaires en 1801-1802, et une violente campagne se déchaîne contre le Conservatoire, le menaçant dans son existence même.
+Les articles de journaux se répondent, les libelles pleuvent ; l’école même est partagée en deux camps ; les restrictions de personnel de l’an XI permettent, bien à propos, d’éliminer les fauteurs de troubles.
+
+Perne, qui succède à Sarrette, paraît bien terne et sans autorité, mais Cherubini, à partir de 1822, redresse la situation, par sa ponctualité, sa conscience professionnelle et son souci d’ordre, de discipline et d’équité.
+
+
+=== Deuxième section les professeurs ===
+
+
+==== Chapitre premier le recrutement ====
+
+Une grande partie des postes est remplie à l’origine par les musiciens de l’institut national de musique et de l’École royale de chant ; pour les autres, on a recours à un recrutement par concours ; ce mode est cependant abandonné dès 1808 (excepté pour engager un professeur de contrepoint en 1821), car il sélectionne plutôt des virtuoses que des pédagogues ; la nomination se fait désormais sur une liste présentée par l’établissement à l’autorité de tutelle.
+Les réductions d’effectifs consécutives aux restrictions budgétaires, en l’an IX et en l’an XI, touchent en priorité les musiciens de l’École royale et de la Garde nationale, bientôt minoritaires.
+
+Les professeurs sont engagés vers trente-quatre ou trente-cinq ans en moyenne ; près de la moitié d’entre eux jusqu’en 1815, puis près des deux tiers par la suite sont d’anciens élèves de l’établissement.
+Si à l’origine, les étrangers (et surtout les Allemands pour les instruments à vent) sont assez nombreux, leur proportion diminue rapidement.
+
+
+==== Chapitre II Les carrières ====
+
+Ces professeurs se répartissent en plusieurs catégories : première, deuxième et troisième classe, correspondant à trois tranches de salaires (2 500, 2 000 et 1 600 livres), d’abord ; puis, professeurs, professeurs-adjoints, et répétiteurs appointés ou non appointés, mis en place lors des réductions de l’an XI ; mais ces distinctions sont assez empiriques.
+Sous la Restauration, les salaires s’étalent sur une beaucoup plus grande échelle (de 300 à 3 000 francs), et le système des gratifications accroît encore l’inégalité des situations.
+Ces professeurs, fonctionnaires, bénéficient d’une retraite.
+Beaucoup (à peu près la moitié) complètent leurs maigres traitements grâce à un autre poste, à la Chapelle le plus souvent, à l’Opéra, ou encore, dernier recours, par des cours privés.
+
+
+==== Chapitre III Les fonctions ====
+
+Au départ, la mission des membres du Conservatoire est double : assurer le service des fêtes nationales et du Corps législatif ; former les élèves, mais le premier aspect disparaît sous le Consulat.
+Les professeurs doivent donner un cours de deux heures et demie, un jour sur deux, puis de deux heures seulement à partir de 1822 ; il faut ajouter jusqu’en 1816, le temps consacré aux exercices publics et à leurs répétitions d’une part, et à la publication des méthodes d’autre part.
+Ils semblent s’acquitter consciencieusement de leurs devoirs, et faire dans le mois suivant les cours qu’ils n’ont pu faire dans le mois précédent, bien que des bruits malveillants circulent à ce sujet.
+De 1816 à 1822 cependant, les professeurs, surtout de chant, abusent manifestement du manque d’autorité de Perne, qui ne s’en plaint que timidement à l’intendant La Ferté. 
+
+
+=== Troisième section les élèves ===
+
+
+==== Chapitre premier admission. Origines ====
+
+Six cents, puis quatre cents élèves en théorie (mais plutôt trois cents dans la pratique) sont recrutés lors des quatre examens d’entrée annuels ; à partir de 1816, il leur est demandé au moins des connaissances élémentaires en musique ; à partir de cette date également, les recommandations prennent plus de poids qu’auparavant pour les admissions.
+Les élèves de chant, en nombre insuffisant, sont particulièrement recherchés, par un examinateur des voix d’abord, puis par l’intermédiaire de toute la machine administrative des préfets et sous-préfets, lorsque est créé pour eux un pensionnat en 1806 ; des « correspondants » prennent le relais sous la Restauration.
+
+Certaines régions fournissent plus d’élèves : la région parisienne, le Nord, Marseille, Lyon, Toulouse, Bordeaux.
+Les élèves, dont deux tiers environ sont de sexe masculin, sont la plupart d’origine sociale modeste.
+
+
+==== Chapitre II Les études ====
+
+Après avoir suivi les classes élémentaires de solfège, les élèves accèdent à celles d’instruments ou de chant, et éventuellement d’harmonie et de composition ; le couronnement de cette scolarité est l’obtention d’un prix, l’instrument pratiqué ou des partitions (ou d’un Grand prix de l’Institut pour la composition), après un minimum de trois ans d’étude en moyenne.
+Les élèves de chant peuvent bénéficier d’une éducation gratuite dans un pensionnat, de 1806 à 1814 et à partir de 1822 (le pensionnat des filles est cependant définitivement supprimé en 1826), ou de pensions (entre 1815 et 1822) moyennant certains engagements vis-à-vis de l’Etat.
+Outre les devoirs communs à tous les élèves (exercer les fonctions de répétiteurs, concourir au service de la Chapelle, des cérémonies publiques...), ils doivent se conformer aux prescriptions de l’administration pour s’engager dans un théâtre à la sortie de l’établissement.
+La discipline est stricte et l’on est particulièrement soucieux de séparer garçons et filles.
+
+
+==== Chapitre III Devenir des élèves à la sortie de l’établissement ====
+
+La moitié des élèves environ semble ne pas suivre une carrière musicale publique en sortant de l’école, ce qui ne prouve pas que ce soit faute d’emplois ; les jeunes femmes qui se marient fournissent d’ailleurs un élément d’explication.
+Il est pourtant souvent reproché à l’établissement de former plus de musiciens professionnels qu’il n’est nécessaire.
+Sous l’Empire, un nombre à peu près égal d’élèves se dirigent vers les théâtres et la musique militaire ; par la suite, les théâtres (surtout les orchestres) ou la Chapelle deviennent les débouchés majeurs ; l’enseignement, en particulier au Conservatoire, est aussi une carrière classique.
+
+
+== Troisième partie Les activités musicales ==
+
+
+=== Première section l’enseignement ===
+
+
+==== Chapitre premier les classes théoriques ====
+
+Le solfège. – Le solfège, étape nécessaire de l’éducation musicale, est basé sur les Principes élémentaires de musique, publiés par l’établissement ; l’élève apprend à lire couramment dans toutes les clefs et à chanter juste.
+A l’École royale, le solfège devient un moyen de révéler des voix.
+Choron dirige, de 1816 à 1817, une classe générale de solfège, visant à faire chanter en chœur.
+
+L’harmonie et la composition. – L’enseignement de l’harmonie s’appuie sur le traité de Catel, qui abandonne le principe de la base fondamentale de Rameau et concilie les écoles allemande, italienne et française.
+L’harmonie n’est pas très nettement distinguée de l’accompagnement ; les deux matières sont d’ailleurs réunies en 1823.
+La composition, divisée en deux degrés sous la Restauration, donne lieu à différentes querelles d’écoles, entre adeptes de l’harmonie et adeptes de la mélodie, entre partisans de Cherubini et partisans de Reicha.
+
+
+==== Chapitre II Les classes instrumentales ====
+
+Les instruments à vent. – Les classes d’instruments à vent dominent et sont d’un brillant niveau au Conservatoire, conformément aux origines militaires de l’établissement et à son orientation vers la musique de plein air des fêtes publiques ; mais elles perdent leur importance et leur éclat à l’école royale (il n’y a plus qu’un seul professeur pour chaque instrument).
+
+Les instruments à cordes. – Les élèves de violon forment un ensemble homogène et réputé, grâce à la personnalité de Baillot qui impose un jeu inspiré de Viotti ; il est simplement parfois reproché à ces jeunes violonistes d’avoir un jeu un peu trop précieux et d’abuser des ornements.
+Quant à l’enseignement du violoncelle, plutôt envisagé comme un instrument d’accompagnement au départ, il doit suivre l’évolution contemporaine de l’instrument vers une plus grande virtuosité.
+Enfin, la grande innovation est l’introduction de la contrebasse à l’Ecole royale en 1827, pour répondre aux besoins nouveaux des orchestres.
+Après consultation des contrebassistes de la capitale et délibération du comité d’administration, on décide de conserver la contrebasse à trois cordes, accordée par quinte, mais d’adopter l’archet courbe de Dragonetti, illustre contrebassiste, contacté grâce à l’entremise de Rossini.
+
+La harpe. – Ce n’est qu’en 1825 qu’une classe de harpe est créée.
+Elle avait été repoussée auparavant, sous prétexte que ce n’était qu’un instrument d’agrément qui ne pouvait assurer un métier aux élèves et dont l’entretien était trop coûteux.
+
+Les instruments à clavier. – Le piano, au Conservatoire, est vu plus comme un instrument utilitaire (d’accompagnement) que comme un instrument soliste.
+A l’École royale, l’esprit change ; les élèves doivent acquérir un jeu clair, brillant, mais en même temps chaleureux.
+Des mesures sont prises afin de limiter le nombre des pianistes que l’on voit se multiplier avec inquiétude.
+La classe d’orgue, instituée en 1817, pour « régénérer » l’art de l’orgue, n’ouvre qu’en 1819, en raison des difficultés rencontrées pour trouver en France un professeur compétent, véritable organiste ; les résultats sont un peu décevants, car cette classe attire peu d’élèves.
+
+
+==== Chapitre III Les classes vocales ====
+
+Les classes vocales sont organisées en trois degrés : vocalisation, chant et déclamation lyrique.
+Ces classes qui débouchent sur les théâtres lyriques, sont l’occasion de frictions avec l’Opéra ; lorsqu’une classe de chant est établie dans ce théâtre sous la direction de Garat en 1818, les professeurs se liguent aussitôt pour en obtenir la suppression ; ils cherchent à s’adapter, en revanche, aux exigences de l’Opéra, à condition de ne pas être concurrencés dans leur mission d’enseignement.
+Le statut privilégié de certains professeurs, comme Garat et plus tard Banderali que l’on fait venir d’Italie, suscite parfois aussi des tensions.
+
+Les critiques faites sur l’enseignement du chant dans l’établissement sont révélatrices d’options prises dans des débats plus généraux ; faut-il privilégier l’opéra français ou le bel canto ?
+Certains accusent l’école de négliger la musique religieuse.
+Le seul point sur lequel tout le monde s’accorde est la médiocrité des résultats, due surtout au manque d’élèves dans cette branche, à leurs débuts trop précoces sur scène (pour pourvoir à leur subsistance) et au manque d’unité dans l’enseignement.
+
+
+=== Deuxième section le Conservatoire et l’école royale dans le monde musical ===
+
+
+==== Chapitre premier les exercices publics et les concerts des élèves ====
+
+Les exercices publics, qui faisaient la gloire du Conservatoire, cessent après quelques tentatives, sous la Restauration ; l’École royale ne donne de concerts que lors des distributions des prix ; en 1828, la Société des concerts, formée d’anciens élèves, restaure les anciennes représentations et la Société d’émulation, créée par les élèves, suit cet exemple.
+Tous ces concerts permettent aux élèves de s’entraîner de façon stimulante à la musique d’ensemble, de découvrir un répertoire et de se former le goût, parfois même de faire exécuter leurs propres œuvres, avantage fort appréciable.
+En 1810 et 1811, une vive polémique, orchestrée par les journaux, naît autour des programmes des exercices ; selon Geoffroy dans le Journal de l’Empire et selon l’anonyme « aigle de Meaux » dans les Tablettes de Polymnie, la musique italienne ancienne est massacrée dans les exercices et les auteurs contemporains n’appartenant pas au Conservatoire sont méprisés.
+Le Journal de Paris et le Mercure de France répliquent en démontrant la mauvaise foi de ces accusateurs.
+
+
+==== Chapitre II La publication des méthodes ====
+
+Un corpus très complet de méthodes est publié par le Conservatoire, conformément au programme fixé par l’institut de musique en fructidor an II (août 1794).
+Chacune est confiée à une commission formée de membres de l’établissement, qui choisit en son sein un ou plusieurs rédacteurs ; l’ouvrage achevé est soumis successivement à cette commission puis à tous les professeurs réunis en assemblée générale.
+Les critiques ne tarissent pas d’éloges : on vante la clarté, la simplicité, la concision de ces manuels destinés à être utilisés avec l’assistance d’un maître ; bien que les principes soient classiques, les auteurs n’hésitent pas à introduire quelques idées plus novatrices.
+Les nombreuses traductions de ces méthodes (en particu-. lier en allemand) attestent leur diffusion en Europe. 
+
+
+==== Chapitre III L’école en tant qu’autorité musicale ====
+
+L’établissement est souvent consulté soit par d’autres écoles de musique, françaises ou étrangères (Milan, Amsterdam), soit par des auteurs d’ouvrages pédagogiques, pour obtenir un avis ; lorsqu’il s’agit d’une requête visant à introduire dans l’école un nouveau système d’enseignement, l’administration est beaucoup plus réticente.
+De même que l’Institut, l’établissement doit examiner de nombreux perfectionnements apportés à des instruments, dans cette période d’évolution de la facture : flûte en cristal de Laurent, organo-lyricon de Saint-Pern, basse trompette de Frichot, clarinette alto de Müller, ou encore des métronomes comme celui de Bienaimé Fournier.
+
+
+==== Chapitre IV Le Conservatoire et l’école royale dans l’organisation de l’enseignement de la musique ====
+
+Le Conservatoire est la proie des attaques des défenseurs de l’enseignement musical dispensé par les maîtrises ; cependant les partisans du Conservatoire eux-mêmes reconnaissent que cette institution unique ne saurait couvrir la France à elle seule, et ces débats engendrent divers projets, prévoyant une hiérarchie d’écoles subordonnées au Conservatoire (incluant les maîtrises comme écoles primaires de chant, lorsqu’il s’agit d’adeptes de ce système).
+Sous la Restauration, le ministre de la Maison du roi semble d’abord ne vouloir qu’encourager les efforts du ministre de l’Intérieur pour multiplier les écoles en province, sans intervenir directement malgré les conseils de l’intendant La Ferté ; pourtant en 1826, Lille et Toulouse sont érigées en succursales de l’Ecole royale.
+Les relations avec l’École primaire de chant de Choron, devenue en 1827 Institution royale de musique religieuse, sont toujours tendues, bien que les objectifs soient distincts, puisque l’École de Choron se consacre au chant choral religieux.
+
+
+== Conclusion influence du Conservatoire et de l’école royale de musique ==
+
+L’influence de l’école est multiforme et la tentation est parfois grande de prétendre décider de tout, d’autant plus que les liens avec la section de musique de l’institut, seule autre autorité musicale, sont très étroits.
+On note également chez les professeurs une tendance à accorder une confiance excessive en leur savoir, ce qui tourne facilement à l’académisme ; et ils ne se montrent pas toujours ouverts aux nouveautés. 
+
+Le bilan est cependant positif ; l’établissement forme, même si on peut lui reprocher quelques insuffisances, de véritables professionnels, qui vont répandre dans toute la France les bénéfices de leur instruction.
+
+
+== Pièces justificatives ==
+
+Loi et décret du 16 thermidor an III. – Règlement du 14 octobre 1808. – Description de la salle de concert par A. Donnet en 1821. – Critiques (de Lesueur ?) à l’encontre du Conservatoire, envoyées au préfet du Palais en pluviôse an XI (février 1803). – Liste des méthodes du Conservatoire et de leurs traductions.
+
+
+== Planches ==
+
+Plans et coupes des bâtiments, de la bibliothèque et de la salle de concert du Conservatoire.

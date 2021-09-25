@@ -1,0 +1,201 @@
+identifier: ENCPOS_1878_11
+creator: Edouard-Paul-Lucien Philipon
+date: 1878
+title: Étude sur le dialecte du Lyonnais et des provinces voisines aux xiiie et xive siècles
+
+
+
+== I ==
+
+Le dialecte Lyonnais est un dialecte de transition entre le Français et le Provençal : il est à peu près à égale distance de l’un et de l’autre.
+
+
+== II. – Caractères phonétiques. ==
+
+Voyelles toniques. – L’A tonique persiste sous sa forme latine même devant N : sanda (sanitatem), man (manum).
+
+Elong tonique persiste assez souvent sous la forme de E : poer (potĕre⁎), ser (sĕrum), teles (tĕlas), feres (fĕrias).
+Mais le plus souvent il devient EY ou El : aveir (habère), pueyr (potère), seir (sérum), feyble (flĕbilem). – E bref tonique reste le plus souvent E : seglo (sœculum), peres (pĕtras), Forvere (Forum-vetere⁎, Peros (Pĕtrus), secho (sĕdium).
+
+I long persiste : livro (librum). – I bref devient E et quelquefois EY ou EI : menz (minus), vermelles (vermĭculas), consel (consĭlium), peys (pĭsum), veys (vĭcem), peyvro (pĭper). – I en position devient E ou El : prioressa (priorissa), mes (missum), afferme (affirmat), meys (missum), senoreyssa (seniorissam). 
+
+0 long tonique tantôt persiste, tantôt devient OU et même U : savour, savors, honour, valor, glorious, delicious ; lur, valur, hures (horas) ; reyzun (rationem), nunt (nomine).
+O bref se diphtongue en UO, UE : cuor (cor), puot (pŏtest), fue (fŏcus), pueblos (pŏpulus).
+
+U long persiste en général ; devant les nasales il peut permuter en O : on (ūnum), comon (commūnem), alon (alūmen). – Bref il devient O ou bien persiste : roges (rŭbeas), does (dŭas), jono (jŭvenem), – dues (diras), nuis (nŭces), cruys (crux), nurit (Nŭtritum). – U en position permute en O ouvert : bochi (buccam), gota (gutta), forches (furcas), forn (furnum), col (culpum).
+Il persiste assez souvent, surtout devant les nasales : mundo, secunda, utra (ultra).
+
+AU devient O, OU : povre (pauper), chosa (causa), po (paucum) ; chouses, outar (altare).
+
+Voyelles pro-toniques. – A persiste, même après C : chavauz, chamin ; – ou s’adoucit en I : chival, chimin, sairiment.
+
+E persiste ou permute en I : nient (nec entem), retinir (retenere), Byatrix (Beatrix), tioleri (tegularia).
+
+I long persiste ; bref il devient le plus souvent E : temour (tĭmorem), perer (pĭrarium).
+
+O persiste ou permute en U : sorors, corona ; – numar (nominare), puet (potebat), Saphurin (Symphorianum).
+
+U long persiste ; bref il devient le plus souvent O : sovent, otaux (usitellos), mais aussi : cunilz (cuniculos), En position il permute aussi en O : jornal (diurnalem), cortil (curtilem).
+
+Voyelles post-toniques.
+A. – A persiste dans les mots qui suivent la 1re déclin, latine, ou bien s’adoucit en I. Devant S de flexion il s’adoucit toujours en E : chosa, choses ; arma, armes ; neyri, neyres.
+
+A la 3e pl. des verbes A s’adoucit en O ou U : amont, enclinont, se délectont, senblavont, enclinavunt.
+
+O.A la 1e sing. ind. pres.
+O persiste : dono, desirro, preo, rendo. 
+
+U. – A la 3e pl. des verbes U persiste ou permute en O : desestendirunt, cendiront.
+
+La voyelle post-tonique de soutien est le plus souvent O pour les mots masculins : livro, mundo, exemplo, ulmo (ulmum), setembro, paro, fraro.
+
+Consonnes. – L.L permute souvent en l’autre liquide R : palmes (palmas), armona (elemeosynam), servage (silvaticum), amandre (amygdalum .
+
+L’apocope de L devant une autre consonne est fréquente : acuna (alcunam⁎), quaz (qualis), atros (alteros), fiz (filius).
+
+L suivie d’une autre consonne se vocalise ou non : meseuz (misellus), beuta (bellitatem), meuz (melius) ; – salvago (silvaticum), alcuna (alcunam⁎). – A la finale elle persiste : fiuz et fil, beuz et bel.
+
+M permute régulièrement en N à la finale : bon (homo), non (nomen) fayn (famem), septein (septimum), manden (mandamus), volen (volumus).
+
+N. Le Lyonnais connaît la prononciation linguale de N comme le prouvent les formes suivantes : Charn, torn, forn, entorn, jorn ; et dans le compte de l’attaque du château de Peyraud : mann, pann ; – anciann (B. 753.
+Arch. de la Côte-d’Or).
+
+Quand N finale doit venir se combiner avec la voyelle précédente pour produire une sonorité nasale, les scribes l’indiquent en postposant un T : ant (annum), engint (ingenium), homent (hominem), charbont (carbonem).
+
+Dans le groupe N S contrairement à ce qui a lieu dans tous les dialectes romans, l’assimilation de N à S peut se produire : yssi (in-sic), remassa (remansa), mossegnor (meum seniorem).
+
+R. La permutation en L est fréquente.
+Les dentales peuvent attirer et même engendrer cette consonne : trabla (tabula).
+R finale tend à s’apocoper : entra (intrare).
+
+T.A la médiale il peut s’adoucir en D : pida (pietatem), sanda (sanitatem).
+A la finale il tombe le plus souvent : vertu, nativita, par (partem), furon (fuerunt). – Dans le groupe TR le T a été apocopé suivant la règle générale : paro, fraro, mare, pera, creares (creator).
+T disparaît devant S de flexion : orz (hortus) et ort (hortum).
+
+D.A la médiale la syncope est régulière. – A la finale il est remplacé par la forte correspondante : freyt (frigidum), grant (grandem).
+
+S. – SC, ST, SP initial : l’E prothétique est parfois remplacé par I ou Y : itar, ytar (stare).
+
+C. – C devant A prend le son chuintant : chosa, chasne, chalendes, chavaus.
+
+C guttural medial tombe ou s’adoucit en G : neguna (necunam), segur (securi), segont (secundum).
+La résolution en Y est fréquente : preyeri (à côté de preeri), veray (veracum).
+
+C medial spirant persiste, il s’indique de diverses manières : fort : cz. ss. s ; doux : s. z.
+
+G. – G devient chuintant devant A : chanba (gamba), plachi (plaga), parchimin (pergaminum).
+
+Q. – Q peut s’adoucir en G à la médiale : egua (equam), aygui (aquam), segont (sequunt).
+
+H initiale s’apocope le plus souvent : ome, espitauz.
+
+F, PH. – PH est souvent rendu par F : fisician, Cafurin (Symphorianum), Dalfina. – PH medial permute en V dans Estevenz (Stephanus).
+
+V.A la finale il est apocopé : ho (bovem), cla (clavem), nua (novum), fe (fevum), gries (greves), hues (ovos).
+
+
+== III. – Caractères flexionnels. ==
+
+L’article suit à très-peu de chose près la flexion provençale.
+
+Masc.
+Sing.
+Li (lo), del, al, lo.
+
+– Plur.
+Li (los), dels, als, los.
+
+Fémin.
+Sing.
+Li, de la, a la, la.
+
+– Plur.
+Les, de les, a les, les.
+
+Possessif : mins, tins, sins, etc. (Mianum ⁎ est devenu min comme Symphorianum est devenu Saphurin). – On trouve aussi un possessif analogue au possessif italien : la sua part, la vercheri soa. 
+
+
+=== Déclinaisons : ===
+
+1re. – Elle comprend surtout des féminins. – L’atone varie au singul. et est toujours e au plur.
+Sing. | { | arma. | Plur. | { | armes.
+neyri. | neyres.
+
+
+
+Les noms propres de femme qui suivent cette déclinaison ont généralement un cas obl. différent du cas sujet : Marietta, c. obl.
+Mariettan ; Perenella, c. obl.
+Perenellan.
+
+2me. – Elle comprend les mots latins en US, ER (livro), UM de la 2me déclin. latine.
+
+Un grand nombre de mots qui suivent en latin, la 3me déclinaison suivent en lyonnais la 2me : pans (panis) fait au nom. pl. pan (panes), etc.
+
+La 4me déclin. latine suit aussi la 2me déclin. lyonnaise.
+
+3me.
+Elle comprend tous les mots qui suivent en latin la déclinaison correspondante, à l’exception d’un certain nombre de mots qui ont été par analogie assimilés à ceux qui suivent en lyonnais la 2me déclinaison.
+Ainsi on trouve souvent au nom. sing. un S non étymologique : frares, patres, et alors au nom. pl. l’S étymologique a été enlevée : fraro, heyr, confort.
+
+Les substantifs dans lesquels le thème varie au nom. sing. et à l’accus. sont très-fréquents en lyonnais : creares (creator), creatour (creatòrem).
+
+ADJECTIFS. –  Ceux en us, a, um ; er, ra, rum, etc., suivent au masc. la 2me déclin. et au fémin. la 1re.
+
+Il en est de même des adject. latins en – abilis qui au masc. ont reçu comme voyelle de soutien un O atone : noblos (nobilis).
+
+Les adjectifs qui suivent en latin la 3me déclin. suivent en Lyonnais la 2me ; le nom pl. masc. ne prend pas d’S : grant, resplandissent. 
+
+
+=== Pronoms. ===
+Personnels. | Sing. | 1re pers. | c. suj. | jo, | ju- | c. | obl. | mey.
+2me pers. | )) |   | tu. |   | » | tey.
+3me pers. | » |   |   |   | » | sey-se.
+
+
+
+A la 3e pers. avec genres le lyonnais de même que le Provençal emploie aux cas obl. plur. féminin et masc. : lor, lour, formé sur le latin illorum et partant indéclinable.
+
+CONJUGAISON. Auxiliaires : aveir, estre, itar.
+
+Flexion faible : 1re conj.
+Infinit. en – ar. – Le B de l’impf. latin subsiste adouci en V : donavo. – L’A du parf. latin devient E comme en provençal : donet (donavit). – A l’infin.
+R finale tend à s’apocoper. – Une forme secondaire importante de l’infinitif est – ier.
+
+2me Conj.
+Infinit. en – re.
+
+3me Conj.
+Infinit. en – ir.
+Quelques verbes qui en français suivent la 1re conj. suivent en lyonnais la 3me : sustituir, presumir, transigir, etc.
+
+Flexion forte : Le Lyonnais tend à faire passer à la conjug. faible un grand nombre de verbes qui en français et en provençal suivent la conjug. forte.
+Beyre | Parf. fort | bivront | Parf. faible | beviront.
+Creytre | » | criut | )) | creisit.
+Deveyr | » |   | )) | devit.
+Playre | )) | plut | )) | deplaysit.
+Metre | )) | mit | )) | metit.
+
+
+
+
+== IV. – Étendue et limites du dialecte lyonnais. ==
+
+Le dialecte que nous avons appelé dialecte lyonnais, du nom de la plus importante des provinces dans lesquelles il a été parlé, s’étendait sur : le Lyonnais, les Dombes, la Bresse, le Beaujolais, sur une partie du Mâconnais et du Forez, sur l’extrémité nord du Dauphiné dans la partie avoisinant Lyon, et enfin sur la frontière ouest du Bugey (Bas-Bugey).
+Les limites extrêmes qui nous sont fournies par les documents que nous avons rassemblés sont :
+
+Au Nord : Bage-le-Châtel, Laumusse près de Crotet (Ain).
+
+A l’Ouest : Feurs (Loire).
+
+Au Sud : Chazelles (Loire).
+
+A l’Est : Pont d’Ain (Ain).
+
+
+== V ==
+
+La Bible dite des Vaudois, conservée à la biblothèque du palais Saint-Pierre, à Lyon, n’appartient en aucune façon au dialecte lyonnais.
+
+Chaque élève publiera les positions de sa thèse isolément et sous responsasabilité personnelle.
+
+(Règlement du 10 janvier 1860, art. 7.)

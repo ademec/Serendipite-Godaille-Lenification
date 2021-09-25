@@ -1,0 +1,118 @@
+identifier: ENCPOS_1992_26
+creator: Marie-Claire Waille
+date: 1992
+title: Édition critique du Palpanista de Bernard von der Geist
+
+
+
+== Introduction ==
+
+Poème satirique sur la flatterie, débat entre un clerc et un chevalier sur la vie de cour, ses profits et ses misères, le Palpanista (Le Flatteur) de Bernard von der Geist a été écrit au milieu du xiiie siècle par un clerc de Münster en Westphalie.
+Mille hexamètres environ, sans grande puissance poétique mais aisés et coulants, pour un poème très lu par le public du Moyen Age qui appréciait particulièrement cette poésie scolaire satirique.
+
+L’œuvre a été longtemps connue par l’édition qu’en a donnée Christian Daum en 1660.
+La thèse de Johann Richter en 1905 constitue le premier travail sur le sujet : elle fait le point sur ce qu’on sait de l’auteur et recense quinze manuscrits conservant le poème, en signalant l’existence de deux autres manuscrits parisiens.
+Cinq autres manuscrits seront répertoriés par la suite, l’un d’entre eux contenant un commentaire du poème. 
+
+
+== Première partie Étude du Palpanista ==
+
+
+=== Chapitre premier l’auteur et l’œuvre ===
+
+Vie et œuvre. – Bernard, de la famille des chevaliers von der Geist, était notarius de l’évêque de Münster et magister au monastère Saint-Maurice où il se retire avec un canonicat à la fin de sa vie.
+Le Palpanista y sera écrit vers 1247-1250 ; il avait été précédé par un court poème (un débat entre Adulator et Veritas) qui est une ébauche du Palpanista.
+
+La forme " Palpanista”, plus fréquente dans les manuscrits, s’impose face à celle de " Palponista
+
+Réception de l’œuvre. – Le Palpanista a souvent été copié avec des textes appartenant au corpus des Libri Catoniani.
+Plusieurs de ses sentences figurent dans des florilèges dès le milieu du xive siècle.
+Bernard faisait sans doute figure d’auctor mineur dans les écoles.
+
+
+=== Chapitre II Le thème ===
+
+Le Palpanista appartient à la veine anti-curiale du Moyen Âge ; il se situe entre les œuvres des écrivains liés à la cour des Plantagenêt (Jean de Salisbury, Gautier Map, Pierre de Blois) au xiie siècle, et celles des xive et xve siècles, du Curial d’Alain Chartier au De miseriis curialium de Aeneas Sylvius Piccolomini.
+Le Palpanista présente l’originalité d’enlacer deux thèmes : dans la première partie, une invectiva in curiales qui s’adresse moins aux courtisans en tant que tels qu’aux flatteurs ; un De miseriis principum dans la deuxième partie.
+L’œuvre de Bernard est moins une réflexion sur la vie de cour opposée à la vie privée qu’une satire souvent mordante de la flatterie, des embarras et des tracas de la vie princière.
+
+Le Palpanista est un débat à la fois abstrait (chaque interlocuteur défend sa thèse et restera pour finir sur ses positions, schéma typique du Streitgedicht) et où interviennent des éléments personnels : Bernard, le clerc, a en face de lui un chevalier de sa famille, l’image de ce qu’il aurait pu devenir.
+
+La satire de la flatterie, ce péché de la langue motivé par le goût du lucre, s’inscrit dans la lignée de la Satire IV de Juvénal, des chapitres sur les flatteurs dans le Policraticus sive de nugis curialium de Jean de Salisbury (dont Bernard reprend les condamnations) ou d’un poème anonyme du xiie siècle, le De palpone et assentatore.
+L’originalité du Palpanista consiste dans la mise en langage de ce péché : le flatteur dit lui-même son vice dans un long discours-monologue, tout entier placé sous le signe du paraître, du lucre et du corps.
+
+
+=== Chapitre III Métrique et Prosodie ===
+
+Un hexamètre rimé et assonance. – Le Palpanista use de la rime dissyllabique (généralisée depuis la fin du XI’ siècle) pour les versus leonini dans la première partie et les versus caudati dans la seconde.
+On relève 8 % de rimes à trois syllabes et 2,5 % de rimes monosyllabiques, ces dernières corrigées par des jeux d’assonance.
+Bernard von der Geist use modérément des jeux sur la rime tels qu’ils étaient en usage dans les écoles : versus intercisi, rimes de mots homophones par exemple.
+On relève aussi des versus leonini unisoni, des versus caudati ventrini, des versus leonini se glissant parmi les hexamètres caudati, mais la rime y est rarement une rime dissyllabique.
+Ces jeux reposent surtout sur l’assonance.
+
+Structure du vers. – La répartition des dactyles et des spondées dans les quatre premiers pieds, la fréquence des spondées, les formules métriques, les clausules et les coupes peuvent être comparées à d’autres poèmes métriques.
+L’hexamètre du Palpanista est de type plutôt « ovidien », avec des caractéristiques toutes médiévales : les finales d’hexamètres admettent les monosyllabes (2,4 %), les mots de quatre syllabes et plus (16,2 %) ; la coupe la plus fréquente est la penthémimère (65,3 %) mais un grand nombre de coupes secondaires tend à diviser le vers en petites unités indépendantes, effet renforcé par l’absence totale d’élision ou de synalèphe.
+
+Prosodie. – Bernard recourt de façon massive à cette facilité prosodique que constitue la productio ob caesuram (25 %).
+Par ailleurs, la scansion des brèves et des longues présente les quelques écarts avec la norme classique qui sont devenus de véritables règles dans la poésie médiévale.
+Ils sont à mettre en rapport avec la doctrine (le Grecismus d’Évrard de Béthune ; le Doctrinale d’Alexandre de Villedieu) et d’autres poèmes médiévaux (Architrenius ; Ysengrimus ; Fecunda ratis).
+
+
+=== Chapitre IV Glossaire ===
+
+Le glossaire retient tous les mots inconnus du latin classique et ceux qui ont changé de sens.
+Les termes sont expliqués dans le contexte du Palpanista.
+Ont été relevées également les diverses formes orthographiques et les gloses latines et allemandes des manuscrits.
+
+Le vocabulaire du Palpanista présente très peu de germanismes (ferto, peut-être segero, guerra), quelques mots d’origine grecque (macheus, polis, calopes, enceniare, eclipsis, yconomus, agon).
+On note un goût particulier pour les mots composés et dérivés : adjectifs dérivés en -sonus, en -osus surtout ; substantifs dérivés en -men, en -cola, en -peta ; verbes composés avec les préverbes -de et – re.
+Les termes désignant des réalités féodales sont peu nombreux.
+Quelques termes semblent propres à Bernard : segero ; momimus ; fatualis ; denummare ; detunicare ; un sens particulier de arra ; libellare au sens de " donner”,
+
+
+== Deuxième partie Établissement du texte ==
+
+Les manuscrits. – Le Palpanista est transmis par vingt et un manuscrits (quatre autres manuscrits sont perdus).
+Ils s’échelonnent de la fin du xiiie siècle à la fin du xve siècle et proviennent essentiellement de milieux germaniques.
+Plusieurs sont glosés et témoignent d’une lecture intensive du poème.
+
+La copie du Palpanista y est souvent hâtive, entachée d’erreurs et d’omissions, surtout dans les manuscrits du XV’ siècle.
+Cinq manuscrits se révèlent fiables : Paris, Bibliothèque nationale lat. 8430 (P1), le plus ancien, manuscrit de base de cette édition ; Weimar, Thüringische Landesbibliothek Quart. 91 (We) ; Munich, Bayerische Staatsbibliothek clm 4652 (M3) ; Pommersfelden, Gräflich-Schönbornsche Bibliothek 2814 (Po) ; Berlin, Staatsbibliothek lat. 8° 85 (B).
+
+Chaque manuscrit fait l’objet d’une notice détaillée.
+
+Etablissement du texte. – Les vers ont été numérotés en continu, aucune division en livres n’étant indiquée dans PI et dix autres manuscrits.
+L’identité des locuteurs (qui fait parfois problème) a été précisée par Bernardus et Miles.
+
+Vingt-deux vers ne figurent pas dans quatre manuscrits parmi les plus proches de la date de rédaction, dont P1.
+Ils sont signalés par < >.
+Un passage de vingt-six vers, à caractère autobiographique, manque dans quatre manuscrits, ainsi que dans le commentaire.
+
+Les copies du Palpanista se caractérisent par un nombre élevé de variantes qui n’affectent pas le sens des vers (ordre des mots ; variantes portant sur des mots-outils notamment). 
+
+
+== Troisième partie Édition du Palpanista ==
+
+Le manuscrit qui sert de base à l’édition complète du Palpanista de Bernard von der Geist est P1, qui date de la fin du XIII’ siècle (cinquante ans environ après la date de rédaction du Palpanista), copié dans un milieu français.
+Les vingt autres manuscrits et une édition incunable publiée à Utrecht vers 1473-1474 ont été collationnés et apparaissent dans l’apparat critique.
+Le texte de P1, qui présente des leçons uniques, a toujours été gardé quand il était défendable, de même que pour l’orthographe qui se révèle dans l’ensemble conforme aux normes classiques.
+
+Deux séries de « remarques » complètent l’édition ; les premières identifient les citations et les modèles poétiques (qui montrent une connaissance d’Ovide) ; les secondes sont des remarques sur le texte indiquant les choix et les doutes de cette édition.
+
+En annexe, figure une traduction du Palpanista.
+
+
+== Quatrième partie Le commentaire du manuscrit Cracovie bj 2251 ==
+
+Présentation du commentaire. – Le manuscrit 2251 de la Bibliothèque Jagellionska de Cracovie contient aux fol. 241-253 un commentaire du Palpanista de caractère grammatical.
+L’auteur, un pauper scolaris, a pour but essentiel de « mettre à plat » la construction de chaque vers, de suppléer les ellipses.
+Certaines gloses sont en allemand.
+Il est précédé d’un bref Accessus ad auctorem.
+
+L’édition. – Des extraits ont été édités (les deux tiers environ du commentaire) : le mauvais état du manuscrit rend certains passages illisibles ; certains vers ne font l’objet d’aucune glose.
+L’orthographe a été respectée, certains passages corrigés (la copie présente de nombreuses fautes).
+
+En note, figure notamment l’édition de trois autres Accessus ad auctorem qui sont transcrits dans les manuscrits Munich, Bayerische Staatsbibliothek clm 11348 et clm 4421 et Wroclaw, Bibliothèque universitaire IV Quart. 64.
+Les gloses allemandes sont relevées et commentées.
+
+En annexe, ont été éditées les gloses concernant les locuteurs et les thèmes du Palpanista figurant dans : Göttingen, Bibliothèque universitaire philolog. 130 ; Paris, Bibliothèque de l’Arsenal 830 ; Bruges, Stadsbibliotek 548 ; Wroclaw, Bibliothèque universitaire IV Quart. 64, et dans l’édition incunable.

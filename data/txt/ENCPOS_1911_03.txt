@@ -1,0 +1,320 @@
+identifier: ENCPOS_1911_03
+creator: Edgar Blum
+date: 1911
+title: Contribution à l’histoire de la législation hypothécaire sous l’Ancien Régime
+
+
+
+== Introduction ==
+
+Définition de l’hypothèque.
+Le régime hypothécaire.
+Les problèmes de la législation hypothécaire.
+Comparaison entre la législation hypothécaire de l’ancien régime et celle de l’époque contemporaine.
+
+
+== Aperçu bibliographique ==
+
+Ouvrages imprimés.
+Documents d’archives et manuscrits.
+Histoire traditionnelle du régime hypothécaire.
+
+
+== Première partie L’hypothèque dans l’ancien droit français ==
+
+
+=== Chapitre premier formation de l’hypothèque française ===
+
+Notions préliminaires : l’hypothèque en droit romain et en droit français. 
+
+1.
+Les origines de l’hypothèque française. – Exposé de la théorie de M. Esmein ; objections proposées contre cette théorie ; discussion.
+Du rôle de la confessio in jure et de l’exécution parée dans l’évolution de l’hypothèque française : 1° Notion de l’exécution parée. 2° Des cas d’exécution parée. 3° L’exécution parée et le privilège du premier saisissant. 4° Une hypothèse tirée de ce rapprochement.
+
+Eléments qui ont contribué à la formation de l’hypothèque moderne.
+L’hypothèque française au xive siècle.
+L’exécution parée et l’hypothèque au xve siècle.
+
+L’hypothèque et les ordonnances du xvie siècle : innovations apportées par l’ordonnance d’août 1539 (art. 93) et par l’ordonnance de Moulins (art. 53) ; origine de l’hypothèque judiciaire.
+
+Formation de la théorie que l’hypothèque résulte du sceau de l’autorité.
+Désaccord entre cette théorie et la jurisprudence établie.
+Complexité de la nature juridique de l’hypothèque française dans l’ancien droit.
+
+2.
+La purge. – L’hypothèque occulte et générale.
+Rigueur du droit du créancier hypothécaire ; prescription ; discussion.
+
+Origine de la purge.
+Les oppositions.
+Les « décrets volontaires ».
+
+Les décrets volontaires et les procédures d’exécution sur les immeubles dans la jurisprudence des Parlements de province.
+
+Importance des décrets volontaires et de la purge.
+Rôle de l’opposition dans l’évolution du régime hypothécaire.
+
+Les procédures spéciales de purge.
+
+3.
+La purge des hypothèques sur les offices et sur les rentes. – Offices vénaux casuels ; offices domaniaux ; offices anciennement vénaux ; offices s’exerçant sans provision. 
+
+Rentes constituées par des particuliers.
+Rentes constituées par le Roi : édit de mars 1673 ; les lettres de ratification : origine, effets.
+Déclaration du 30 juin 1673 ; la surenchère ; formule des lettres de ratification. – Exécution de l’édit de mars 1673.
+Extension des lettres de ratification.
+Les lettres de ratification et le commerce des rentes.
+La « reconstitution ».
+
+Importance de la législation hypothécaire des rentes sur l’hôtel de Ville de Paris.
+
+
+=== Chapitre II Les appropriances en Bretagne ===
+
+Notions sommaires sur les appropriances.
+
+
+=== Chapitre III Les coutumes de nantissement ===
+
+1.
+Caractère germanique et féodal du nantissement.
+Rôle de la preuve écrite.
+
+2.
+Le nantissement dans les provinces anciennement soumises à la Maison d’Autriche ; forme, effets du nantissement : 1° actes translatifs de propriété ; 2° actes qui ne font que diminuer ou charger la propriété.
+Variété des effets du « rapport à la loi ».
+
+Main assise et mise de fait.
+
+La purge : origine ; édit perpétuel du 12 juillet 1611.
+
+3.
+Le nantissement dans les anciennes provinces françaises, forme.
+Effets.
+Hypothèques légales.
+Hypothèque judiciaire.
+Les « sentences d’hypothèques ».
+Mise de fait et main assise.
+Critiques dirigées contre le nantissement dans les anciennes provinces françaises.
+
+4.
+Importance des coutumes de nantissement.
+Sur vivance des traditions anciennes : ensaisinement.
+Règles spéciales aux alleux.
+Différentes valeurs juridiques de l’hypothèque dans les pays de nantissement.
+
+Evolution du nantissement : le régime français, le régime allemand.
+
+Rôle du nantissement dans la formation du régime hypothécaire moderne.
+
+
+== Deuxième partie Les essais de réforme hypothécaire antérieurs à 1771 ==
+
+
+=== Chapitre premier le mouvement de réforme avant 1673 ===
+
+1.
+Lettres patentes du 27 mai 1424.
+Le nantissement obligatoire pour les hypothèques.
+Caractère de ces lettres patentes.
+Le nantissement a-t-il existé à Paris ?
+
+2.
+Tentatives pour établir la publicité des droits réels au xvie siècle : caractère fiscal et féodal de ces tentatives.
+Edit de mai 1553.
+Publication et exécution de cet édit.
+
+Edit de 1581 ; caractère de cet édit.
+
+3.
+Tentatives pour établir des conservateurs d’hypothèques au xviie siècle.
+Edit de 1609.
+Édit de mars 1654.
+L’édit de 1657 ne concerne peut-être que les hypothèques sur les rentes.
+
+
+=== Chapitre II L’édit de mars 1673 ===
+
+Ses principales dispositions ; publicité relative qu’il établit.
+Ses rédacteurs. 
+
+Publication de lédit.
+Exécution financière : bail du 6 mai 1673 ; commencement d’exécution administrative.
+
+Révocation de cet édit en avril 1674.
+Examen des diverses opinions proposées pour expliquer celte révocation.
+Arguments tirés soit de l’inexécution de l’édit, soit de la mise en pratique du régime établi par cet édit.
+Quelle fut l’attitude de la noblesse ?
+Hostilité du Parlement.
+Raisons d’ordre financier.
+
+
+=== Chapitre III Les essais de réforme après 1673. ===
+
+Deux tendances : 1° Influence de l’édit de 1673. 2° Précurseurs de l’édit de 1771.
+
+Propositions de 1692.
+Les projets de 1704 ; le mémoire de Daguessau ; le projet du manuscrit français 16207 de la Bibliothèque Nationale.
+Les projets de 1704 et l’édit de 1673, opinion d’Achille III de Harlay.
+Projet de 1720.
+Projet de 1730.
+Proposition de 1735.
+Projets de 1736-1740 : observations de Joly de Fleury.
+Propositions de 1749, de 1750 et de 1759.
+Projets de 1762, de 1764 et de 1767.
+Rapport entre ces projets et celui de 1762.
+Sources et plan de ces projets.
+Publicité des droits réels et insinuation.
+
+
+=== Chapitre IV Le mouvement de réforme hypothécaire dans la doctrine. ===
+
+Leschassier.
+Loysel.
+De Fourcroy.
+Basnage.
+D’Héricourt.
+Ferrière.
+Un mémoire de 1766, de Lebrun, avocat au Parlement. 
+
+
+== Troisième partie L’édit de juin 1771 ==
+
+
+=== Chapitre premier l’édit de juin 1771 ===
+
+Dans quelle mesure l’édit de juin 1771 consacrait-il une ancienne jurisprudence ?
+Dans quelle mesure établissait-il un droit nouveau ?
+Principales dispositions de lédit.
+Ses sources.
+
+Travaux préparatoires : Les Réflexions générales et particulières sur le projet d’Édit (1770).
+L’auteur de ces Réflexions.
+Ses sources.
+Modifications apportées au texte du projet : origine des dispositions relatives à la surenchère du dixième et à la publication des extraits des contrats de vente.
+
+
+=== Chapitre II La publication de l’édit de juin 1771 ===
+
+1.
+Résistance apportée par les Parlements de province à l’enregistrement de l’édit.
+Provinces dans lesquelles l’édit de juin ne fut pas publié : tentatives faites pour l’y publier.
+Provinces dans lesquelles l’édit de juin 1771 n’était pas publié ou n’était pas exécutoire en 1789.
+
+"2.
+Les remontrances des Parlements de province.
+Arguments contre l’édit de juin 1771 considéré en lui-même et arguments particuliers à chaque province.
+Concessions faites à certains parlements de province.
+Réponses de la Chancellerie aux arguments des Parlements.
+Rôle de la régie dans la publication de l’édit. 
+
+
+=== Chapitre III L’exécution de l’édit de juin 1771 ===
+
+1.
+Exécution financière.
+Formation de la régie des hypothèques.
+Organisation.
+Régies chargées de la perception des droits d’hypothèque sous l’ancien régime : régie J.-B. Rousselle (1771), régie Pirodeau (1774), régie générale (1777), administration des domaines (1780).
+
+2.
+L’exécution de l’édit dans les provinces.
+Provinces dans lesquelles l’édit de juin 1771 fut mal exécuté ou inexécuté : la Provence (avant la suspension de l’édit en 1778), le Béarn, le Roussillon.
+Obstacles apportés à l’exécution de l’édit en Franche-Comté.
+
+L’édit de juin 1771 et les coutumes de nantissement. 1° Anciennes provinces françaises de nantissement dans lesquelles l’édit de juin 1771 fut exécutoire. 2° Anciennes provinces de la maison d’Autriche dans lesquelles il ne le fut pas.
+
+3.
+La pratique de l’édit de juin 1771.
+Lettres de ratification ; formule ; procédure ; libération de l’acquéreur.
+Les oppositions.
+
+4.
+L’édit de juin 1771 a-t-il procuré les avantages qu’on en attendait, avantages économiques, et avantages financiers ?
+
+
+== Quatrième partie La fin de l’ancien régime hypothécaire ==
+
+
+=== Chapitre premier difficultés d’exécution de l’édit de juin 1771 ===
+
+Lacunes et obscurités de l’édit.
+Réclamations adressées relativement à son exécution : principales difficultés. 
+
+Bruit d’abrogation (1774) de l’édit de juin 1771 : circulaires de Joly de Fleury.
+Réponses des procureurs royaux et seigneuriaux à cette circulaire.
+
+
+=== Chapitre II Réaction contre l’édit de juin 1771 sous Louis XVI ===
+
+1.
+Joly de Fleury et Miromesnil.
+La commission créée au Conseil d’État par arrêt du Conseil du 18 février 1775 pour examiner l’édit de juin 1771, les motifs de la résistance des Parlements et proposer les changements nécessaires dans la législation des hypothèques : organisation, attributions administratives, rôle de la commission en matière de contentieux administratif ; attributions législatives.
+
+Séances de la commission : documents qu’elle a utilisés.
+Organisation du travail.
+
+2.
+Œuvre de la commission.
+Modifications proposées à l’édit de juin 1771 (purge, oppositions, publication des extraits des contrats de vente).
+Elaboration d’un projet de réforme hypothécaire.
+Publicité et nantissement.
+L’hypothèque spéciale.
+Projet adopté définitivement par la Commission ; rédaction ; principales dispositions.
+Publicité imparfaite ; suppression des conservateurs d’hypothèques, établissement des greffiers : notificateurs d’hypothèques, lettres de ratification.
+
+3.
+Sort de ce projet.
+Les ministres de Louis XVI et la question hypothécaire.
+Projets de réponse présentés par des particuliers aux ministres de Louis XVI.
+
+
+=== Chapitre III La question des hypothèques dans les cahiers de 1789 ===
+
+Vœux en faveur de la suppression de l’édit de juin 1771 ; vœux en faveur de la modification de l’édit.
+Vœux en faveur de l’application de l’édit.
+Vœux relatifs à la réforme hypothécaire.
+
+
+=== Chapitre IV L’édit de juin 1771 et la Révolution ===
+
+1.
+La législation révolutionnaire.
+
+Modifications apportées à l’édit de juin 1771 : adaptation de la législation hypothécaire de l’ancien régime à la nouvelle organisation administrative.
+Dérogations, modifications, additions à l’édit de juin 1771.
+La législation révolutionnaire et les pays de nantissement.
+
+Essais de réforme hypothécaire.
+L’unité législative.
+Etablissement d’un nouveau régime hypothécaire (code hypothécaire du 9 messidor an III).
+
+2.
+L’exécution de l’édit de juin 1771 pendant la période révolutionnaire, avant et après le Code hypothécaire de l’an III.
+
+Dans quelle mesure est-il exact de dire que le Code hypothécaire de l’an III a été exécuté ?
+
+La Conservation générale des hypothèques.
+Administration centrale.
+Bureau de correspondance.
+Caisse hypothécaire.
+Situation des conservateurs d’hypothèques dépendant de la conservation générale.
+Efforts de la Conservation générale pour faire exécuter le Code hypothécaire de l’an III.
+
+Le dualisme administratif : l’administration de l’Enregistrement et la Conservation générale.
+Tempérament législatif : loi du 19 prairial an IV. Exécution de cette loi : 1° dans les pays soumis à l’édit de juin 1771 ; 2° dans les pays non soumis à l’édit de juin 1771. 
+
+
+=== Chapitre V Disparition de l’ancien régime hypothécaire ===
+
+La loi du 11 brumaire an VII. Rôle de la fiscalité dans la réforme du régime hypothécaire.
+
+
+== Conclusion ==
+
+
+
+
+== Pièces justificatives ==
+
+

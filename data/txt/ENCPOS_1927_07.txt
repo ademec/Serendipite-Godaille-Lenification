@@ -1,0 +1,184 @@
+identifier: ENCPOS_1927_07
+creator: Georges Lacombe
+date: 1927
+title: Prévostin de Crémone, chancelier de l’Université de Paris de 1206 à 1209
+
+
+
+== Introduction ==
+
+Prévostin est à peu près inconnu.
+On peut négliger les travaux qui ont été faits jusqu’ici.
+Nous diviserons notre étude en deux parties.
+
+
+== Bibliographie ==
+
+
+
+
+== Première partie Sa vie ==
+
+Ce chancelier de l’Université de Paris, s’appelait Guillelmus Prepositinus, en français probablement Guillaume Prévostin. 11 est né dans l’Italie du Nord entre 114o et 1150.
+On ignore où il a fait ses études préliminaires, mais elles sont sérieuses.
+Sa formation théologique s’est faite à Paris où il eut pour maître Maurice de Sully et sans doute Pierre le Mangeur.
+Après la maîtrise, il enseigna à Paris ; ces leçons ont leur reflet dans les Questions du ms. 1708 de la Bibliothèque Mazarine.
+
+Ensuite il est revenu dans son pays d’origine où il a exercé longtemps le ministère parmi les hérétiques appelés Passagiens.
+Cette période est entièrement obscure pour nous et dura jusqu’à 1194 ; à ce moment il est nommé écolâtre à Mayence où il reste jusqu’en 1203. 11 était déjà connu en 1194, date à laquelle il est classé par Otton de Saint-Blaise avec Pierre le Chantre et Alain de Lille.
+Pendant cette période, deux missions pontificales lui ont été confiées, toutes les deux aux environs de 1198 ; il dirige son école, prêche et compose le Tractatus de Officiis, la Summa super Psalterium et un ouvrage dans le genre de la Summa Abel de Pierre le Chantre.
+
+En 1200 Conrad, archevêque de Worms, meurt, et la majorité des chanoines élisent Léopold de Worms, deux ou trois autres : Siffrid d’Epensteim.
+Un schisme en résulte.
+Les deux parties en appellent à Rome, Prévostin est choisi comme procurator de Léopold et des chanoines qui l’ont choisi : leur appel est finalement rejeté, et Siffrid est sacré ; mais les chanoines ne cèdent pas ; Prévostin est considéré à Rome comme l’âme de la révolte, car il est excommunié nominalement en avril 1203 et menacé d’être privé de tous ses bénéfices s’il ne prête pas obéissance à Siffrid.
+Nous ne savons ce qu’il a fait ; cependant son successeur Syméon fut confirmé par Innocent III en décembre 1203.
+
+Il apparaît de nouveau dans un acte de Saint-Jean-en-Vallée de Chartres en mai 1206, sous la formule : Dictus Cancellarius.
+Cet acte nous fait croire qu’il était déjà à Paris avant 1206.
+
+Pendant son cancellariat à Paris il remplit des missions pontificales, il prêche souvent : les sermons de cette époque sont conservés dans le ms. 543 de la Bibliothèque de l’Arsenal ; il dirige l’école épiscopale, qui à ce moment se transforme en Université ; il enseigne ; il compose, surtout la Summa theologica.
+Il apparaît pour la dernière fois dans un acte en août 1209 ; mais dans un autre acte, conservé dans le cartulaire de Notre-Dame de Paris et daté de septembre 1209, son successeur Jean de Chantelle est encore appelé chanoine.
+
+Le titre de la Summa Theologica dans le ms. 159 de la Bibliothèque de Toulouse indique qu’il fut nommé archevêque de Londres ; cela n’est pas vrai.
+
+Il se retira peut-être au monastère de Saint-Martin des Champs dans l’obituaire duquel son nom se trouve et auquel il avait peut-être légué ses livres.
+En tout cas il disparaît après 1209, laissant une grande réputation de science et d’humilité.
+
+
+== Deuxième partie Ses oeuvres ==
+
+
+=== I questiones Prepositini cancellarii parisiensis ===
+
+1) Il n’existe qu’un exemplaire : le ms. 1708 de la Bibliothèque Mazarine.
+
+2) Il comporte trois parties : a) une série de 160 questions environ ; b) un traité sur le péché originel ; c) une deuxième série d’une cinquantaine de questions.
+
+3) Il n’y a pas de suite dans ces questions.
+Comme celles d’Eudes de Soissons, elles représentent l’enseignement théologique dans la deuxième moitié du XIIe siècle.
+
+4) Des détails feraient croire que c’est une reportatio ; mais nous pensons que c’est plutôt l’œuvre de Prévostin lui-même. 
+
+5) Ces questions ont été rédigées à Paris et représentent le premier enseignement de Prévostin, dans le cercle de Maurice de Sully, entre 1170 et 1180.
+
+
+=== II Tractatus de officiis ===
+
+1) Il n’existe de cette œuvre qu’un ms. : le n° VI-32 de la Bibliothèque Saint-Pierre de Salzbourg.
+Il en existait un autre à Avignon dans la Bibliothèque des Papes.
+
+2) Il y a des interversions dans le ms.
+Il nous paraît possible d’y mettre de l’ordre.
+
+3) Le ms. lui-même doit dater de la lin du xiie siècle, avant 1198.
+
+4) L’œuvre est authentique : elle comporte des passages communs avec d’autres œuvres de Prévostin.
+
+5) Elle est la source principale des livres V et VI du Rationale de G. Durant, qui lui a emprunté 43 feuillets sur 50, sans indiquer sa source.
+Ses emprunts sont souvent littéraux.
+
+6) Le Tractatus de officiis prend pour squelette le Gemma Anime et l’entoure d’une doctrine personnelle.
+Dans le Gemma anime (Migne, Patrologie latine, vol.
+CLXXII), Prévostin’ suit l’ordre des questions de la col. 645 à 675.
+Les citations sont rarement littérales.
+
+7) La découverte de cette source de G. Durant doit modifier certaines conclusions des liturgistes et des archéologues : par exemple ce traité constate l’existence des jubés à la tin du xiie siècle.
+
+
+=== III Summa super Psalterium ===
+
+1) Il reste deux manuscrits de cette œuvre : ms. lat. 454 de la Bibl.
+Nat. et ms. 55 de la Bibl. d’Assise, en outre, trois exemplaires du prologue seul.
+
+2) L’œuvre comporte un prologue et un commentaire sur les 50 premiers psaumes.
+
+3) C’est un commentaire moral, imité de l’Expositio in Psalterium de Cassiodore.
+Les doctrines y sont organisées pour aider les prédicateurs et utilisées par l’auteur lui-même dans ses sermons.
+
+4) L’authenticité en est certaine.
+
+5) Elle fut composée avant 1198.
+
+
+=== IV Summa contra hereticos ===
+
+1) On connaissait l’existence de cette Summa dans le ms. 434 de la Bibliothèque de Douai, où il est complet et attribué à Prévostin.
+On le croyait unique.
+
+2) Muratori avait signalé l’existence d’un Tractatus G. Pergamensis contra Catharos et Passagios, dans le ms.
+Q 32 sup. de l’Ambrosienne.
+Ce traité est mutilé à un point où l’auteur aborde à peine les Passagiens.
+On avait abandonné l’espoir de trouver la suite ; mais c’est le même ouvrage que la Summa conservée dans le manuscrit de Douai.
+
+3) Guillelmus Prepositinus, Prepositinus Cremonensis, et G. Pergamensis sont donc Une même personne ; car nous ne doutons pas que Prévostin soit l’auteur, à cause de sa carrière de missionnaire.
+
+4) Le plan de l’œuvre est original.
+Prévostin dresse la liste des textes utilisés par les hérétiques et les discute l’un après l’autre.
+Puis il expose et prouve la doctrine catholique attaquée.
+
+5) Le traité est difficile à dater.
+La date donnée par Muratori, l’année 1230, doit être rejetée.
+Elle se place entre 1184 et 1209, peut-être dans les premières années du pontificat d’innocent III.
+
+6) Le traité n’apporte rien de neuf sur les Cathares, mais il renouvelle et complète nos connaissances sur les Passagiens, pour lesquels les sources sont extrêmement rares.
+Ceux-ci apparaissent, non comme des Cathares, non comme des Chrétiens judaïsants, mais comme des ancêtres des Protestants du xvie siècle.
+
+
+=== V Summa theologica ===
+
+1) 11 n’y a pas d’édition imprimée de la Summa Theologica.
+
+2) Elle est conservée dans 33 manuscrits ; on connaît l’existence de 7 autres disparus.
+
+3) Elle est une œuvre authentique de Prévostin.
+
+4) Elle n’est pas une reportatio, ni un commentaire sur les IV livres des Sentences, mais elle est bâtie d’après un plan arrêté.
+
+5) Nous croyons distinguer deux éditions.
+Les manuscrits ajoutent ou omettent des questions.
+
+6) Table des rubriques du manuscrit latin 14525 de la Bibliothèque Nationale, qui donne une idée de son contenu, et de la nouveauté de quelques matières.
+
+7) La Summa fut composée à Paris entre 1206 et 1209.
+
+
+=== VI les sermons ===
+
+1) Il existe 5 recueils.
+Bibl. de l’Arsenal, manus crit 543 ; Bibl.
+Nationale, lat. 14804 ; Bibl. de Saint-Pierre de Salzbourg, manuscrit VI-32, Bibl.
+Nationale lat. 14586 ; Bibl. de Munich, lat. 14126, et quelques autres épars.
+
+.2) Listes des incipit.
+Elle indique 16 sermons qui ne se trouvent point dans la collection d’Hauréau.
+
+3) La plupart des recueils datent de 1203 à 1209, sauf celui du manuscrit de Salzbourg qui est d’avant 1198, peut-être d’avant 1197.
+
+4) Tous ces sermons sont authentiques sauf celui du manuscrit 338 des nouvelles acquisitions latines Je la Bibliothèque Nationale.
+
+
+=== Les opuscules ===
+
+
+==== I Summa de penitentia injungenda ====
+
+1) On ne connaît qu’un manuscrit de cette œuvre.
+Bibl. de Vienne lat. 1403.
+
+2) L’œuvre avait originairement dix chapitres, il n’en reste que six.
+
+3) On peut y voir une réaction contre le système des tarifs dans le sacrement de pénitence, et un effort pour étudier le péché au point de vue psychologique.
+
+
+==== II Collecta ex distinctionibus Prepositini ====
+
+1) Il n’existe qu’un manuscrit : le manuscrit lat. 4784 de la Bibliothèque de Munich. 
+
+2) L’œuvre comporte un choix d’articles tirés d’un dictionnaire alphabétique dans le genre de la Summa Abel de Pierre le Chantre.
+
+3) Nous ne constatons pas de rapports entre les Collecta ex distinctionibus Prepositini et la Summa Abel.
+Mais la question des relations entre cette œuvre de Pierre le Chantre et le dictionnaire complet de Prévostin se pose.
+
+4) L’œuvre date au plus tard du scholastiscat de Prévostin à Mayence.
+
+L’œuvre poétique de Prévostin est à négliger : il ne nous reste que trois séries de deux vers.

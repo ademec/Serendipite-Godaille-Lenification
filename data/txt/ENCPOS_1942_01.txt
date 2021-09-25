@@ -1,0 +1,127 @@
+identifier: ENCPOS_1942_01
+creator: René Bargeton
+date: 1942
+title: Le livre de philosophie et de moralité par Alart de Cambrai. Étude et édition
+
+
+
+== Introduction ==
+
+L’étude et l’édition du texte du Livre de philosophie et de moralité présentent un intérêt au point de vue de l’histoire des idées, car l’ouvrage a connu un certain succès à la fin du xiiie siècle et au début du siècle suivant.
+Elles permettent également d’établir les rapports qui existent entre divers traités de littérature morale de la même époque, car l’œuvre d’Alart de Cambrai, originale dans sa forme, s’apparente étroitement à son temps.
+
+
+== Première partie Étude ==
+
+
+=== Chapitre premier description et classement des manuscrits. Établissement du texte. ===
+
+Neuf manuscrits nous ont conservé l’œuvre d’Alart de Cambrai.
+Ce sont les suivants : A, Bibl. nat., fr. 17177, des environs de 1271. – B, copié sur A, mais incomplet, et écrit vers 1278, Bibl. nat., fr. 24431. – C, Bibl. nat., fr. 12471. – Z), Bibl. nat., fr. 1444. – F, Bibliothèque de l’Arsenal, n° 3516, qui date de 1268. – – M, Bibliothèque municipale de Berne, n° 113. – N, Bibliothèque de l’Arsenal, n° 3142. – R, Bibliothèque municipale d’Arras, n° 657. – S, Musée Condé à Chantilly, n° 474.
+
+Seuls A, F, M donnent un texte complet.
+Le manuscrit A a été choisi comme manuscrit de base pour l’édition.
+Tous les manuscrits autres que A et B appartiennent à la même famille.
+
+
+=== Chapitre II Analyse et source de lœuvre. ===
+
+I. Le titre. – Le Livre de philosophie et de moralité a été souvent désigné, à tort, Moralités des philosophes.
+
+II. Caractère de l’œuvre. – L’œuvre est un recueil commenté de sentences morales, attribuées arbitrairement à des philosophes de l’Antiquité.
+Développement impersonnel et abstrait, enrichi parfois de quelques exemples, courants dans la littérature du Moyen Age.
+La morale de l’œuvre peut se résumer dans ce conseil : observer en toutes choses la mesure, qualité qui s’entendait à la fois, a-t-on dit, de l’équilibre, de la prudence, de la discrétion et de l’impassibilité.
+
+III. Sources de l’œuvre. – Le Livre de philosophie et de moralité contient les mêmes développements que les Moralités des philosophes, traduction française du Moralium dogma philosophorum, attribué à Guillaume de Conches.
+On constate pareillement de nombreux rapports avec la littérature proverbiale de l’époque, et en premier lieu avec les Diz et proverbes des sages.
+L’auteur connaissait également les traductions françaises des Disticha Catonis, et en général les proverbes proprement dits.
+A plusieurs reprises, il en cite, et certains même ne se retrouvent pas ailleurs. 
+
+
+=== Chapitre III Influence de l’œuvre. ===
+
+Le succès de l’œuvre est attesté de plusieurs façons.
+
+I. Les remaniements. – Ou bien l’œuvre a été classée méthodiquement (manuscrits M et N), ou bien elle a été remaniée dans le fond même (manuscrits C et S).
+
+II. Les emprunts. – Une liste des rubriques de l’œuvre a été ajoutée aux Enseignements de Sénèque.
+
+L’enseignement a preudomme est un simple chapitre d’Alart de Cambrai, introduit dans le vaste recueil de fabliaux conservé dans le manuscrit français 837 de la Bibliothèque nationale.
+
+Au début du xive siècle, l’auteur du roman de Renart le Contrefait introduisait dans la branche II de son œuvre de nombreuses sentences empruntées pour la plus grande part au Livre de Philosophie.
+
+Enfin les treize premières rubriques de l’œuvre d’Alart de Cambrai se retrouvent dans une œuvre en prose de la fin du xiiie siècle, le roman de Cassidore, encore inédit.
+Ce roman fait partie d’un vaste cycle de romans orientaux, comprenant Les Sept Sages, Marques de Rome, Fiseus, Cassidore, Pelyarmenus et l’histoire de Kanor et de ses frères.
+
+
+=== Chapitre IV L’auteur, langue et versification. ===
+
+I. L’auteur. – L’auteur nous a donné lui-même son nom, au début de son œuvre ; il s’appelait Alart et était originaire de Cambrai.
+
+Le manuscrit F donne comme auteur un certain Jehan, qui n’est peut-être que le scribe, et le manuscrit S, un nommé Andreis de Huy.
+L’œuvre contenue dans ce manuscrit est incomplète, remaniée, peut-être par cet André de Huy, dont on ne sait rien par ailleurs.
+Alart de Cambrai doit être considéré comme l’auteur du Livre de philosophie.
+Sans doute était-il un de ces pauvres ménestrels sur lesquels il s’apitoie, lorsqu’ils n’ont pas la bonne fortune de trouver un protecteur qui les nourrisse et leur fasse des dons.
+Il vivait probablement vers le milieu du xiiie siècle et a dû écrire son livre vers 1260-1268 (le manuscrit le plus ancien qui renferme son œuvre date des environs de 1268, c’est le manuscrit F).
+
+II. La langue. – Nos conclusions sont confirmées par l’étude de la langue, dans laquelle on peut relever quelques phénomènes particuliers au picard, mais contaminés par le dialecte de l’Ile-de-France.
+
+III. La versification. – L’œuvre est écrite en couplets d’octosyllabes à rimes plates.
+L’auteur réussit parfois à condenser sa pensée en deux ou trois vers bien frappés.
+
+
+=== Conclusion ===
+
+Le Livre de philosophie et de moralité est une œuvre de morale laïque, empruntée aux moralistes de l’Antiquité.
+La morale est condensée dans une phrase, que l’auteur explique et commente en vers.
+Le développement, en général abstrait et impersonnel, est parfois enrichi de quelques exemples tirés du fonds commun de la littérature de l’époque.
+
+L’œuvre se place à mi-chemin entre la littérature des sentences, où le précepte est réduit à un simple proverbe, faisant suite à un quatrain ou à un sixain, et les longues compilations ou traités proprement dits.
+C’est là ce qui fait son originalité.
+
+
+== Seconde partie Édition ==
+
+I. Texte.
+
+II. Variantes des manuscrits.
+
+III. Notes explicatives. 
+
+
+== Index des noms propres et des personnages anonymes ==
+
+
+
+
+== Glossaire ==
+
+
+
+
+== Index des termes relatifs au vocabulaire affectif et moral ==
+
+
+
+
+== Appendice I fragment d’un poème moral sur la « mesure ». ==
+
+
+
+
+== Appendice II les « proverbes de Sénèque ». ==
+
+Il ne faut pas confondre les Proverbes de Sénèque et les Enseignements de Sénèque.
+Ces derniers comprennent, en général, les proverbes proprement dits et de nombreuses sentences, parmi lesquelles ont été englobées les rubriques de l’œuvre d’Alart de Cambrai.
+
+Le texte édité est celui du manuscrit français 22921 de la Bibliothèque nationale.
+
+
+== Appendice III chansons extraites des romans de « Fiseus », de « Pelyarmenus » et de « Kanor ». ==
+
+Ces six chansons sont inédites, et l’on n’en trouve aucune trace ailleurs.
+
+
+== Liste des ouvrages consultés ==
+
+

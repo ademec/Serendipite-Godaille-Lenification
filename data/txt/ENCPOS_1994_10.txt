@@ -1,0 +1,159 @@
+identifier: ENCPOS_1994_10
+creator: Grégoire Eldin
+date: 1994
+title: Les chapellenies à Notre-Dame de Paris (xiie-xvie siècle). Recherches historiques et archéologiques
+
+
+
+== Introduction ==
+
+La chapellenie, type de fondation essentiellement voué à la mémoire des défunts, apparaît en la cathédrale de Paris dès la deuxième moitié du xiie siècle.
+Le xiiie, mais surtout la première moitié du xive siècle, sont marqués par une multiplication de ces fondations, corollaire d’un accroissement du nombre de clercs attachés au service de la cathédrale.
+L’importance numérique des chapelains en fait un sujet de recherche propre à éclairer des aspects très divers de l’histoire de l’Église, qui vont de l’histoire de la liturgie à l’histoire économique en passant par celle de l’architecture.
+
+
+== Sources ==
+
+Les sources primordiales de l’histoire de Notre-Dame de Paris sont conservées aux Archives nationales, principalement dans les séries L, S et H. L’histoire des chapellenies nécessite une connaissance précise du nombre des bénéfices fondés à Notre-Dame.
+On y parvient par l’examen des registres spécialement consacrés par le chapitre aux xve et XVI’ siècles à la surveillance des biens et des revenus des chapelains.
+Reste ensuite à déterminer la date de chaque fondation et son auteur, en s’appuyant entre autres sur les actes d’amortissement conservés dans les séries J et K. La connaissance du bâtiment suppose notamment la consultation des collections du département des estampes et de la photographie de la Bibliothèque nationale (en particulier de la collection Gaignières), des Archives des monuments historiques et de celles du Centre de recherche sur les monuments historiques.
+
+
+== Première partie La fondation ==
+
+
+=== Chapitre premier rappels et définitions ===
+
+
+
+
+=== Chapitre II Quand et qui ===
+
+Les premières fondations de chapellenies recensées à Notre-Dame de Paris eurent lieu en 1186.
+Le nombre des fondations fut à peu près constant au cours du xiiie siècle, mais prit des proportions impressionnantes entre 1310 et 1360.
+Les chanoines de Notre-Dame eux-mêmes en effectuèrent une part considérable.
+Les fondations sont opérées à divers moments de la vie, pour entrer en service avant ou après la mort des donateurs.
+
+
+=== Chapitre III La mise en œuvre ===
+
+La fondation nécessite généralement plusieurs années de tractations entre le chapitre et le fondateur ou ses exécuteurs testamentaires.
+L’accord entre les deux parties n’est pas toujours conclu et certains projets de fondation échouent. 
+
+
+=== Chapitre IV Le prix ===
+
+La dotation des bénéfices évolue avec le cours des dévaluations monétaires.
+Un revenu minimum de douze livres parisis est fixé par le chapitre dès les années 1260.
+Le fondateur doit faire amortir les biens qu’il apporte, qui consistent le plus souvent en biens fonds ou en rentes constituées.
+Pour la plupart des fondateurs, les sommes déboursées ne représentent qu’une part de l’ensemble des sommes consacrées aux œuvres pies.
+
+
+=== Chapitre V Les vœux des fondateurs ===
+
+Les fondateurs du xiiie siècle n’ont pas à définir le nombre des messes hebdomadaires : les célébrations s’imposent comme quotidiennes.
+A partir du xive siècle, les actes de fondation limitent le nombre de services hebdomadaires.
+Ces actes définissent également le mode d’attribution du bénéfice et les charges de son titulaire.
+
+
+=== Chapitre VI Les accroissements de fondations ===
+
+Des chapelains, mais aussi des fondateurs ou leurs descendants accroissent, à certaines conditions, les revenus du bénéfice. 
+
+
+== Deuxième partie Bénéfices et édifice ==
+
+
+
+
+== Première section construction et décor permanent ==
+
+
+=== Chapitre premier le temps de la construction ===
+
+La date de construction des chapelles latérales de la nef est traditionnellement fixée aux années 1225 à 1245-1250.
+Les trois dernières chapelles de la nef participent d’une controverse quant à leur attribution à Jean de Chelles ou à Pierre de Montreuil.
+Mieux connue, l’édification des chapelles du chœur est datée des années 1296 à 1320.
+
+
+=== Chapitre II Avant les chapelles ===
+
+Avant la construction des chapelles, les chapelains ont célébré à des autels placés en différents points de la cathédrale.
+
+
+=== Chapitre III Consécration et saints patrons ===
+
+La célébration du culte dans les chapelles est soumise à des règles particulières de consécration. 
+
+
+=== Chapitre IV La responsabilité des fondateurs de chapellenies ===
+
+On ne peut confondre la fondation d’un bénéfice avec la construction de la chapelle dans laquelle on l’établit.
+Néanmoins, certains fondateurs ont financé les travaux, choisi les saints patrons, se sont fait inhumer ou représenter dans la chapelle ou sur son vitrail.
+
+
+=== Chapitre V Bilan ===
+
+La connaissance des fondations de chapellenies permet en particulier de mieux connaître le rôle des évêques, des chanoines ou des laïques dans l’aménagement de la cathédrale.
+
+
+== Deuxième section mobilier, ornements et missels ==
+
+
+=== Chapitre premier le mobilier ===
+
+Les chapelles étaient dotées de clôtures, de coffres et d’autels.
+
+
+=== Chapitre II Livres et ornements ===
+
+On a conservé plusieurs missels de chapelains.
+On conserve surtout une description des livres, calices, ornements et habits remis à chaque bénéficier. 
+
+
+== Troisième partie La pratique ==
+
+
+=== Première section la communauté des chapelains et les confréries ===
+
+
+==== Chapitre premier la communauté des chapelains ====
+
+Les titulaires de chapellenies se sont dotés au xiiie siècle d’une communauté qui célèbre des obits, s’est vu confier plusieurs chapellenies de l’église et défend les intérêts de ses membres.
+
+
+==== Chapitre II Le rôle des confréries ====
+
+Les confréries n’ont pas eu part à la construction des chapelles ; mais certaines d’entre elles, munies de chapelles, se sont volontiers employées à les redécorer.
+
+
+=== Deuxième section la pratique bénéficiale ===
+
+
+==== Chapitre premier le renouvellement des chapelains ====
+
+Presque toutes les chapellenies sont à la collation du chapitre.
+Le pouvoir pontifical accroît son emprise au cours du xive siècle. 
+
+
+==== Chapitre II L’évolution des revenus et ses conséquences ====
+
+Au xve siècle, la dotation de la plupart des titulaires est insuffisante.
+Le chapelain peut la compléter en prenant part aux offices du chœur ou en offrant ses services dans d’autres églises.
+
+
+==== Chapitre III L’autorité du chapitre ====
+
+Le chapitre règle le service des chapelains et réprime leurs défaillances.
+
+
+==== Chapitre IV Les chapelains ====
+
+Au xve siècle, les chapelains ne constituent plus un groupe homogène.
+Nombre de chapellenies sont entre les mains de chanoines d’autres églises, qui ne desservent pas en personne.
+Ceux qui résident célèbrent leur messe au début de la matinée et exercent ensuite d’autres activités.
+
+
+== Pièces annexes ==
+
+Notices biographiques des fondateurs. – Tableaux récapitulatifs des fondations. – Description topographique des chapelles. – Description des missels des chapelains.

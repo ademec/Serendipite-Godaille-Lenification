@@ -1,0 +1,172 @@
+identifier: ENCPOS_1962_02
+creator: Annie Angremy
+date: 1962
+title: Les œuvres poétiques de Pierre de Beauvais
+
+
+
+== Introduction ==
+
+L’activité littéraire de Pierre de Beauvais se situe dans le premier quart du xiiie siècle.
+C’est un traducteur dont les œuvres peuvent se répartir en trois domaines bien distincts de la littérature didactique : morale et religion (vies de saints, petits poèmes pieux), « science » (Mappemonde, Bestiaire), histoire (Voyage de Charlemagne en Orient et Chronique du Pseudo-Turpin, Olympiade).
+Il écrit en vers ou en prose, suivant le genre le plus approprié à chacun de ses ouvrages.
+
+
+== Première partie Étude d’ensemble sur pierre de Beauvais ==
+
+
+=== Chapitre premier les manuscrits ===
+
+Les œuvres de Pierre de Beauvais sont conservées dans vingt-quatre manuscrits.
+Dans deux d’entre eux, elles se présentent sous la forme de recueils, l’un complet, l’autre sélectif : ce sont les manuscrits de la Bibliothèque nationale nouv. acq. fr. 13521 (ms.
+C) et fr. 834 (ms.
+F) qui dérivent d’un même original.
+Dans les vingt-deux autres, elles sont disséminées, suivant leur genre, parmi des textes de même nature.
+Beaucoup de ces manuscrits sont du xiiie siècle.
+La langue des copistes révèle en général l’emploi du francien ou d’un picard très atténué.
+La diffusion de l’œuvre de Pierre de Beauvais semble donc bien localisée.
+
+
+=== Chapitre II Les œuvres en prose ===
+
+Le Bestiaire. – Il existe deux versions du Bestiaire.
+L’une, courte, est tirée du Physiologus latin traduit également par Guillaume Le Clerc ; l’autre, longue, est postérieure et offre des chapitres très insolites.
+On ne connaît pas sa source directe.
+Richard de Fournival s’en est inspiré dans son Bestiaire d’Amour.
+
+Translation et miracles de saint Jacques. – Pierre de Beauvais a adapté les livres II et III du Liber sancti Jacobi.
+Le récit de la translation est remanié et condensé en un texte plus cohérent.
+Huit miracles seulement sont repris, dont six du recueil primitif et deux postérieurs.
+
+Les voyages de Charlemagne en Orient et en Espagne. – La traduction de l’Iter Hierosolymitanum est certainement l’œuvre de Pierre ; mais la Chronique du Pseudo-Turpin qui lui fait suite dans la plupart des manuscrits s’insère dans le cadre plus vaste de la version française dite Johannis.
+Le rôle de Pierre dans la rédaction de ce second texte est difficile à préciser.
+
+L’Olympiade. – Douze manuscrits contiennent une brève énumération des conquêtes successives de Jérusalem, énumération qui n’est signée de Pierre que dans le recueil C. Le prologue, commun à trois des manuscrits, est bien dans le style de ceux de notre auteur.
+
+
+=== Chapitre III L’auteur ===
+
+On ne sait de la vie de Pierre de Beauvais que ce que révèlent ses ouvrages.
+C’est un trouvère, probablement un clerc, attaché à la maison de Dreux : à Philippe de Dreux, évêque de Beauvais, dont la cité épiscopale est un milieu intellectuel privilégié, à son frère et à sa belle-sœur, Robert de Dreux et Yolande de Couci.
+Ses œuvres dénotent un intérêt particulier pour le Beauvaisis, où il se trouve en 1212.
+Il a résidé à Saint-Denis où il a composé, sans doute pour un des abbés, la Vie de saint Eustache.
+Il y a aussi écrit le Voyage de Charlemagne en Orient.
+A-t-il eu des rapports avec le comte Renaud de Boulogne, l’un des commanditaires de la version
+    « Johannis » du Turpin, qui aurait eu quelques raisons de s’intéresser à une vie de saint Josse ?
+Rien ne le prouve.
+
+Datation et chronologie de ses œuvres. – Les œuvres de Pierre de Beauvais s’échelonnent, semble-t-il, dans les vingt premières années du xiiie siècle.
+
+Influence sur la littérature médiévale. – Le Bestiaire long a été adapté intelligemment.
+La Mappemonde et la Vie de saint Josse ont été démarquées par de médiocres écrivains.
+
+
+=== Chapitre IV Étude de la langue et du style ===
+
+Table des rimes, sons et formes. – Dans l’ensemble, la prononciation et la morphologie de Pierre de Beauvais sont conformes à l’usage commun de l’Ile-de-France, avec quelques traits dialectaux qui, isolés ou groupés, orientent vers le sud de la Picardie. 
+
+Versification. – La mesure des vers traduit l’observance des règles générales de l’élision et du hiatus.
+En matière de rimes, le poète emploie exclusivement le couplet de vers octosyllabiques ; ses rimes sont souvent pauvres et sans grande variété ; il a eu recours cependant aux procédés courants du xiiie siècle : « rimes équivoques », rimes « du même au même ».
+
+Traduction. – La syntaxe et le choix des mots sont essentiellement commandés par le modèle latin traduit.
+On relève parfois l’emploi de deux mots français pour rendre une expression latine et la tendance à laisser certains noms propres dans leur forme originale.
+La traduction n’est pas servile, l’auteur abrège souvent le modèle et y ajoute quelques réflexions personnelles, mais il n’altère jamais l’esprit même du texte.
+Les traductions en prose sont plus littérales.
+
+
+== Deuxième partie Les œuvres poétiques : introduction à l’édition et édition ==
+
+
+=== La Mappemonde (954 vers) ===
+
+La Mappemonde est une brève description du monde directement traduite de l’imago Mundi d’Honorius Augustodunensis.
+C’est donc une compilation géographique qui repose uniquement sur les connaissances des anciens.
+Pierre de Beauvais reprend en les abrégeant les chapitres de l’imago consacrés au monde physique et aux trois continents ; il s’étend surtout sur les merveilles de l’Asie.
+Des réminiscences bibliques, des détails tirés de seconde main des ouvrages de Solin, de Pline ou d’Isidore de Séville lui fournissent quelques interpolations.
+Le poète manifeste, en définitive, plus d’originalité que certains autres traducteurs d’Honorius.
+
+A la fin du xiiie siècle, Perot de Garbelei, un écrivain anglo-normand, transposera en vers de six syllabes, dans ses Divisiones mundi, le poème de Pierre de Beauvais.
+On peut expliquer les divergences des deux textes par le fait que Perot avait également à sa disposition un manuscrit de l’imago mundi.
+
+Les deux manuscrits qui nous ont conservé la Mappemonde présentent des fautes communes.
+L’édition est faite d’après C pour les 843 premiers vers, et d’après Rennes, Bibliothèque municipale 593, pour les 111 derniers vers qui manquent dans C.
+
+
+=== La vie de saint Eustache (1726 vers) ===
+
+La Vie de saint Eustache dérive du texte latin commun à toutes les adaptations françaises.
+Les remaniements apportés par Pierre sont infimes, mais dénotent la recherche d’effets psychologiques. 
+
+Les quatre manuscrits se répartissent comme suit : Bibliothèque nationale, fr. 19530, et Londres, Musée britannique, Egerton 745 proviennent d’un même original, sans être cependant très différents de Bibliothèque nationale, fr. 13502 ; C a une tradition manuscrite à part.
+L’édition est faite d’après le manuscrit de Londres.
+
+
+=== La vie de saint Germer (874 vers) ===
+
+Germer est le saint mérovingien fondateur de l’abbaye de Saint-Germer-de-Fly.
+Son culte est localisé dans le Beauvaisis.
+Le poème est anonyme, mais son attribution à Pierre de Beauvais ne fait aucun doute.
+Il traduit la vie latine anonyme du xiie siècle et y adjoint un abrégé du récit de la translation fait par un moine de l’abbaye en 1132.
+Les trois seuls passages originaux fournissent les étymologies de Normandie, Flay (Fly) et de la clameur de Haro.
+L’édition est faite d’après C, manuscrit unique.
+
+
+=== La vie de saint Josse (820 vers) ===
+
+Prince breton, ermite en Picardie, Josse est vénéré dans les diocèses du nord de la France.
+Au xiie siècle, Florent, abbé de Saint-Josse-sur-Mer, compose la deuxième vie latine connue de son saint patron.
+Pierre la reproduit.
+Deux siècles plus tard, un moine de l’abbaye développe son poème en y ajoutant des miracles fabuleux traduits d’Isembard de Fleury.
+L’édition est faite d’après C, manuscrit unique.
+
+
+=== Les trois séjours de l’homme et la vertu du psautier (248 vers) ===
+
+Après avoir décrit les trois séjours successifs de l’homme : le monde, la tombe et le ciel, Pierre démontre que, seule, la récitation quotidienne du psautier permet d’accéder à la béatitude éternelle.
+La source de ce poème se retrouve en partie dans une compilation pseudo-augustinienne dont on ne connaît qu’un extrait : les Dicta sancti Augustini, insérés dans des Enarrationes in psalmos du xiie siècle, jadis attribués à Remi d’Auxerre.
+L’édition est faite d’après C, manuscrit unique.
+
+
+=== La Diète du corps et de l’âme (220 vers) ===
+
+Le thème développé est celui du Christ médecin, porteur des remèdes nécessaires à la guérison du corps et de l’âme.
+Le poème s’achève par une série d’exhortations pratiques nettement inspirées de celles de saint Paul dans ses épîtres.
+Saint Paul et les
+    « Diz saint Augustin » sont du reste cités, mais on ne connaît pas le texte latin directement traduit.
+L’édition est faite d’après F ; l’autre manuscrit, C, n’a pas les 88 premiers vers.
+
+
+=== L’œuvre quotidienne (120 vers) ===
+
+Non signée de Pierre de Beauvais, l’Œuvre quotidienne ne joue sur aucune métaphore facile pour donner les éléments essentiels à la vie spirituelle de tout chrétien ; des phrases entières de l’Évangile sont reprises.
+Une partie de l’opus cule, consacrée à la louange de la Vierge Marie, est tout à fait dans le style des litanies mariales des xiie et xiiie siècles.
+Le poème est conservé dans C et dans F, et est vraisemblablement de notre auteur.
+Édition d’après C.
+
+
+=== Les trois maries (114 vers) ===
+
+La légende des trois filles de sainte Anne, la Vierge Marie, Marie Cléophas et Marie Salomé a joui d’un vif succès au moyen âge.
+On la rencontre dans de nombreuses petites pièces latines.
+Wace et Pierre de Beauvais en ont donné des versions françaises un peu plus développées et à peu près similaires.
+Il semble que Pierre se soit inspiré de Wace.
+L’édition est faite d’après C, manuscrit unique.
+
+
+== Conclusion ==
+
+Pierre de Beauvais incarne un type d’écrivain propre à son époque, spécialisé dans les traductions d’ouvrages latins plaisant aux seigneurs lettrés du xiiie siècle, qui se piquaient d’érudition et prétendaient aussi ne pas laisser de côté la morale.
+
+
+== Notes critiques et variantes, Glossaire, table des noms propres de l’édition ==
+
+
+
+
+== Appendices ==
+
+I. Tableau des manuscrits contenant des œuvres de Pierre de Beauvais.
+
+II. Édition des Divisiones mundi de Perot de Garbelei.
+
+III. Notice du manuscrit 593 de la Bibliothèque municipale de Rennes, important recueil d’ouvrages scientifiques et moraux.

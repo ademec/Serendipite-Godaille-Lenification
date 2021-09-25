@@ -1,0 +1,120 @@
+identifier: ENCPOS_1882_03
+creator: Paul Guilhiermoz
+date: 1882
+title: Étude sur les actes de notaires à Marseille à la fin du xive siècle et au commencement du xve (1378-1407), d’après une collection de registres conservés à la Bibliothèque nationale
+
+
+
+== Introduction. ==
+
+Les notaires marseillais avaient trois espèces de registres : le cartulaire (cartularium), sur lequel ils rédigeaient les actes avec les formules complètes, afin de pouvoir en délivrer des expéditions ; – le protocole (prothocollum), qui contient les minutes (notæ) ; – le matricule (matricula), qui est le brouillon du protocole. – Les actes sont en latin.
+
+
+== Première partie. Des actes en général. ==
+
+I. Des différentes parties dont se compose un acte : invocation, – date chronologique, – formule de notification, – préambule et exposé, – dispositif, – clauses de garantie exécutive, – demande d’instrument, – date de lieu, – mention des témoins et du notaire.
+
+II. Invocation (on ne la met point dans les minutes).
+
+III. Date de temps. – Elle comprend : 1° l’an de l’incarnation ; 2° le jour ; 3° le quantième du mois ; 4° l’heure.
+
+IV. Formule de notification. – Il y en a une courante et une autre solennelle.
+
+V. Préambule et exposé. – Il n’y a que les testaments qui aient un préambule. – Toutes les variétés d’actes peuvent avoir un exposé ; mais il y en a quelques-unes qui en ont nécessairement un, soit de style (donation, contrats matrimoniaux), soit variable (compromis, transaction...).
+
+VI. Dispositif. – Il comprend : 1° l’énonciation de la partie qui agit ; 2° le verbe de disposition ; 3° l’énonciation de la partie qui reçoit ; 4° l’objet du dispositif.
+
+Énonciation des parties : 1° qualificatifs honorables ; 2° prénoms ; 3° nom ; 4° titres, qualités, profession ; 5° noms et qualités du père, – du mari ; 6° lieux de résidence et d’origine. – Formules employées pour les parties qui ont besoin d’une autorisation : fils de famille, femme mariée, mineur de vingt-cinq ans. – Formules employées pour les représentants : représentants légaux (père, tuteur, personne conjointe, notaire considéré comme personne publique), représentants conventionnels (procureurs), représentants qui se portent fort.
+
+VII. Clauses de garantie exécutive :
+
+Renonciations de droits. – On en rencontre deux formules, qui se placent à deux endroits différents : l’une contient plutôt les renonciations aux moyens que le droit pourrait offrir au renonçant pour contredire à la véracité des faits énoncés dans le dispositif ; – l’autre contient plutôt les renonciations aux moyens que le droit pourrait offrir au renonçant pour se soustraire aux obligations qu’il vient de contracter, et on y trouve des renonciations d’ordre général, des renonciations particulières à certains contrats, et des renonciations particulières à certains contractants.
+
+Promesse de rati habitione, par laquelle on s’engage à respecter l’acte qu’on vient de consentir.
+
+Clause de remboursement des frais, que pourra occasionner à la partie qui reçoit la mise à exécution de l’acte.
+
+Hypothèque générale des biens de l’agissant.
+
+Soumission à diverses rigueurs (ordinairement à celles des juridictions pontificales, du petit scel de Montpellier, de la Chambre des comptes de Provence, d’un statut de Marseille relatif à la contrainte par corps, des cours de l’évêque de Marseille et de l’archevêque d’Arles).
+
+Serment sur les Évangiles ; – les évêques avaient une manière particulière de le prêter. – Les juifs juraient sur l’Ancien Testament.
+
+VIII. Demande d’instrument.
+
+IX. Date de lieu. – Elle est régie par Actum.
+
+X. Mention des témoins et du notaire. – Il n’y a, le plus souvent, que trois ou deux témoins. – Dans les minutes, la mention du notaire est une souscription.
+
+XI. Pactes. – Ce sont des conventions réglant des points de détail dans les contrats.
+
+XII. Actes joints.
+
+XIII. Formules de cancellation. – Quand on cancelle une minute, on en relate la raison dans un acte qu’on rédige à la suite de la minute cancellée. 
+
+
+== Deuxième partie. Des différentes espèces d’actes. ==
+
+I. Vente (Emptio, ou moins souvent Venditio). – Vente d’immeubles : l’acte de vente contient la tradition des biens vendus et la quittance du prix payé ou non.
+C’est dans cet acte que les clauses de garantie exécutive, communes à tous les actes d’aliénation, sont le plus complètes : donation de la plus-value, cession de droits et d’actions, procuratio in rem suam, clause de constitut, autorisation d’entrer en possession, clause de rétention d’usufruit, promesses de garantie en cas d’éviction. – Ventes de droits immobiliers : les plus fréquentes sont les ventes de cens. – Ventes de navires, – d’esclaves ; – pour la vente de denrées ou de marchandises, on ne fait un écrit que quand la vente est à terme.
+
+II. Échange (Cambium ; Excambium).
+
+III. Datio in solutum.
+
+IV. Cession (Cessio ; Desamparatio). – On rencontre différents actes ayant un dispositif de cession : cession de créances (cessio debiti), déguerpissement, etc.
+
+V. Louage (Conductio ; Locatio ; Loquerium). – L’acte de louage contient d’abord la formule de bail, suivie des obligations du bailleur, puis les obligations du preneur. – Louage d’immeubles : les maisons se louent moyennant un loyer (loquerium) en argent, les biens ruraux tantôt moyennant un loyer en argent, tantôt moyennant un loyer en nature. – Les louages de meubles sont très-rares. – Louage de services (Conductio personalis).
+
+VI. Nolisement (Naulisatio).
+
+VII. Bail à accapte ou en emphytéose (Accaptum). – Jamais le mot accaptum n’a le sens de droit de mutation ; il désigne proprement le prix du bail emphytéotique, et par extension le bail emphytéotique lui-même. – Le bailleur se réserve le domaine éminent et un cens annuel.
+
+VIII. Reconnaissance de cens (Récognitif) census). – Les baux à accapte, les ventes d’immeubles grevés de cens, les ventes de cens nécessitent des reconnaissances de cens.
+
+IX. Retrait de cens (Retentio census). – C’est l’exercice d’un droit de préemption accordé par les statuts de Marseille à l’emphytéote d’un immeuble, en cas de vente du domaine éminent de cet immeuble.
+
+X. Défalcation de cens (Diffalcatio census). – C’est l’exercice d’un droit de rachat partiel, fort souvent stipulé dans les contrats qui contiennent un accensement.
+
+XI. Réduction de cens (Reductio census).
+
+XII. Laudimium. – C’est la ratification par le propriétaire éminent d’un immeuble de l’aliénation de cet immeuble faite par le tenancier. – Le droit qui est perçu à cette occasion s’appelle trezenum, et l’acte de laudimium en contient la quittance.
+
+XIII. Reconnaissance de dette (Debitum). – C’est l’acte le plus fréquent de tous. – Il intervient surtout pour constater les prêts de consommation, les ventes mobilières à crédit, et les règlements de comptes.
+
+XIV. Commande (Comanda). – Cet acte se rédige en forme de reconnaissance de dette. – La plupart des commandes sont à destination du Levant et portent sur des épices.
+
+XV. Société. – On en rencontre deux variétés : 1° l’une, qui est une véritable société (societas, companhia, consortium, corona) ; – 2° l’autre, qui ressemble beaucoup à la commande. 
+
+XVI. Quittance (Quittancia ; quitium).
+
+XVII. Mandat (Procura ; procuratio). – C’est, après la reconnaissance de dette, l’acte le plus courant. – Le mandat le plus ordinaire est un mandat général pour recouvrer tout ce qui est dû au mandant. – Les mandats spéciaux ad litem sont assez rares. – Le procureur reçoit un très-grand nombre de pouvoirs accessoires, qui sont de style.
+
+XVIII. Compromis (Compromissum). – La soumission des parties à la sentence est assurée par une clause pénale. – Prorogation de compromis (Prorogatio compromissi). – Promulgation de sentence arbitrale (Promulgatio sententiæ arbitralis ; – sententia compromissi). – Ratification de sentence arbitrale.
+
+XIX. Transaction (Transactio).
+
+XX. Fidéjussion (Fidejussio). – Promissio indemnitatis, faite au fidéjusseur par le débiteur principal.
+
+XXI. Hypothèque (Hypotheca) et Gage (Hypotheca ; Pignus ; Teneso ; Principalis regressus ; Memoria ; Déposition ; Precarium). – Ces deux contrats se distinguent moins par les termes qui les désignent que par le contexte. – On trouve des droits réels (cens) donnés en gage.
+
+XXII. Testament (Testamentum). – Les testaments sont faits oralement, en présence d’au moins sept témoins, – et d’un notaire, qui en dresse acte, mais en laissant la parole au testateur. – Les dispositions testamentaires se composent ordinairement : 1° de volontés relatives à l’enterrement du testateur ; 2° de legs pieux ; 3° de legs à différentes personnes, et d’autres dispositions particulières relatives au paiement des dettes du testateur, etc. ; 4° d’une institution d’héritier (le plus souvent, le testateur institue également tous ses enfants nés A à naître) ; 5° de substitutions, souvent fort compliquées. – Le testateur désigne ordinairement des exécuteurs testamentaires (gadiatores, executores, fideicommissarii).
+
+XXIII. Codicille (Codicillus, ou plus souvent Codicilli). – On s’en sert pour modifier des legs ou des substitutions d’héritier.
+
+XXIV. Donation (Donatio) – On ne rencontre que des donations entre vifs. – Les donations avec réserve d’usufruit sont assez fréquentes.
+
+XXV. Constitution de dot (Assignatio ou Constitutio dotis). – Elle intervient ordinairement après les fiançailles et avant le mariage.
+
+XXVI. Reconnaissance de dot (Recognitio dotis). – Cet acte a surtout pour but d’assurer la restitution de la dot.
+
+XXVII. Augment de dot (Augmentum dotis ; Suffragium dotis). – C’est une donation faite par n’importe qui, par le mari, par la femme elle-même, par celui qui a constitué la dot, par un étranger, – donation destinée à augmenter la dot, et qui, en cas de prédécès du mari, est reprise par la femme en plus de sa dot.
+
+XXVIII. Quittance générale donnée par la fille dotée à ses parents, quand elle a reçu en dot sa légitime.
+
+
+== Pièces justificatives. ==
+
+Chaque élève publiera les positions de sa thèse isolément et sous sa responsabilité personnelle.
+
+{Règlement du 10 janvier 1860, art. 7.)

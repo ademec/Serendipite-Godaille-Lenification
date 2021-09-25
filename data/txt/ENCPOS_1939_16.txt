@@ -1,0 +1,218 @@
+identifier: ENCPOS_1939_16
+creator: Georgette Marie-Saint-Germain
+date: 1939
+title: Les corps de métiers toulousains au xiiie et au xive siècles. Étude suivie de la publication du Livre des métiers
+
+
+
+== Avant-propos ==
+
+
+
+
+== Sources – Bibliographie ==
+
+
+
+
+== Introduction ==
+
+Premiers documents indiquant l’existence de groupements professionnels.
+Enumération des métiers groupés en communautés aux xiiie et xive siècles.
+
+
+== Première partie Relations des métiers avec l’autorité == 
+
+
+=== Chapitre premier législation. Juridiction. ===
+
+1.
+Le comte. – Il a la haute main sur les métiers comme sur le reste de la population.
+Il concède le métier en fief héréditaire aux bouchers (1222).
+
+2.
+Les capitouls. – Au moment de la réunion du comté à la couronne, ils commencent à se rendre indépendants et à réglementer seuls les métiers.
+
+a) Elaboration et promulgation des statuts : rôle des artisans.
+
+b) Pouvoir juridictionnel des capitouls, qui confient cependant à des prudhommes le jugement des questions techniques.
+
+c) Nomination des bailes de certains métiers.
+Moins grande autonomie des métiers à Toulouse qu’à Paris.
+
+3.
+Le roi et ses agents. – Lutte entre les consuls et les agents royaux (sénéchal et viguier), qui se continue même après que le roi, modérant le zèle du sénéchal, a donné le gouvernement des métiers aux capitouls (1324).
+
+
+=== Chapitre II Les finances. ===
+
+L’autorité municipale ne prélève aucun droit spécial sur les corps de métiers, mais se réserve une partie des amendes qu’elle emploie à l’entretien de la maison commune et aux constructions de la ville. 
+
+
+== Deuxième partie Administration intérieure des métiers ==
+
+
+=== Chapitre premier l’atelier Toulousain. ===
+
+1.
+Le maître. – Conditions à remplir pour pouvoir ouvrir un atelier ; absence de chef-d’œuvre.
+La majorité des métiers ne paie pas de droit d’entrée.
+
+2.
+L’ouvrier. – Insuffisance de la documentation, de même que pour l’apprenti.
+Les deux conditions sont mal distinguées par la terminologie.
+
+Rupture du contrat par l’ouvrier.
+Son salaire.
+Sa responsabilité professionnelle.
+
+3.
+L’apprenti. – Il fait partie de la communauté.
+Limitation du nombre des apprentis.
+Durée de l’apprentissage.
+
+
+=== Chapitre II Les bailes. ===
+
+1.
+Durée de leur mandat. – Mode de recrutement : par les capitouls, par cooptation, par l’assemblée générale du métier.
+
+2.
+Nature de leurs fonctions.
+
+a) Vérification des matières premières et des produits manufacturés.
+Apposition de la marque.
+Périodicité des visites. 
+
+b) Pouvoir juridictionnel et intervention des prudhommes quand les bailes ne s’accordent pas.
+
+c) Rôle économique.
+
+d) Autres attributions.
+
+3.
+Mode d’exercice de leurs fonctions. – Cas de spécialisation.
+
+4.
+Rémunération des bailes. – Part des amendes, vacations auxquelles donnait droit l’examen des marchandises frauduleuses.
+
+
+=== Chapitre III Les agents de second ordre. ===
+
+1.
+Les courtiers. – Apparition de courtiers jurés dans les statuts en 1281.
+Ils faisaient partie du corps de métier, mais, en même temps, ils étaient en quelque sorte des fonctionnaires municipaux.
+Leur salaire.
+
+Hôteliers et courtiers.
+
+2.
+Porteurs d’huile, mesureurs de bois, peseurs de laine.
+
+
+=== Chapitre VI Les assemblées du métier. ===
+
+Deux statuts seulement les mentionnent.
+Elles étaient périodiques et surveillées par l’autorité municipale.
+
+
+=== Chapitre V L’organisation religieuse : la confrérie. ===
+
+La confrérie apparaît dans le dernier quart du xiiie siècle.
+Elle s’organise au cours du xive siècle, nettement distincte de la communauté civile (le motconfratria désigne exclusivement la communauté morale et religieuse).
+
+Le corps de métier a précédé la confrérie, mais on trouve un exemple d’une évolution inverse.
+
+
+== Troisième partie Vie économique des métiers ==
+
+
+=== Chapitre premier l’industrie. ===
+
+1.
+Durée du travail. – Journée de travail.
+Chômage des jours de fête, du samedi et du dimanche.
+
+2.
+Approvisionnement. – Limitation de la concurrence.
+Interdiction de stocker, d’acheter ailleurs que sur la place publique.
+
+3.
+Association entre marchands.
+
+4.
+Conventions, cumul, monopole.
+
+5.
+Colporteurs, revendeurs.
+
+
+=== Chapitre II Le commerce. ===
+
+1.
+Limitation de la concurrence. – Lotissement.
+
+2.
+Acquittement du prix du marché.
+
+3.
+Les hôtelleries. – Lieux de vente.
+Les courtiers. 
+
+
+== Quatrième partie Monographie de certaines industries ==
+
+
+=== Chapitre premier l’alimentation. ===
+
+1.
+Les bouchers. – Concession du comte Raymond VI. Achat et écorchage des animaux.
+Existence, à côté des macellarii, des bocherii, marchands de viande de qualité inférieure, et des agneliers.
+
+2.
+Les pâtissiers. – Ils vendaient des tourtes, des flans, des oublies, faisaient cuire des aliments.
+
+3.
+Les boulangers.
+
+4.
+Les épiciers. – En 1395, ils ont annexé les chandeliers, les marchands de cire, les apothicaires.
+
+5.
+Les huiliers. – En 1324, ils forment une seule communauté avec les chandeliers.
+
+
+=== Chapitre II Étoffes et habillement. ===
+
+1.
+L’industrie drapière. – Sa prospérité à Toulouse.
+
+a) Filage. – b) Tissage. – c) Foulage et tendage. – d) Lanage. – e) Tondage. – f) Teinture. – g) Diverses sortes de draps.
+
+2.
+Le lin.
+
+3.
+Les pelhiers. – Contrairement à ce que pense Du Bourg, ils vendaient des habits neufs aussi bien que de vieux habits. 
+
+
+== Conclusion ==
+
+
+
+
+== Publication du « livre des métiers » ==
+
+1.
+Introduction.
+Description du manuscrit.
+Valeur historique du texte.
+
+2.
+Texte.
+
+3.
+Glossaire.
+
+4.
+Index alphabétique des métiers.

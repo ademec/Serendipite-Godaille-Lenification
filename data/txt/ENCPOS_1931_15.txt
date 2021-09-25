@@ -1,0 +1,188 @@
+identifier: ENCPOS_1931_15
+creator: Edmond-René Labande
+date: 1931
+title: Étude sur Baudouin de Sebourc
+
+
+
+== Avant-propos ==
+
+
+
+
+== Bibliographie critique ==
+
+
+
+
+== Premiere partie Étude historique et analytique ==
+
+
+=== Chapitre premier analyse du poème. ===
+
+
+
+
+=== Chapitre II La transmission du texte. ===
+
+Baudouin de Sebourc est un poème de 26.000 vers, se rattachant par des liens assez lâches au cycle poétique de la première croisade.
+Le texte nous est transmis par deux mss. de la Bibl.
+Nat., les fr. 12552 et 12553 (A et B).
+
+Le ms.
+A, sur vélin, a été écrit en Flandre vers le milieu du xive siècle.
+On y distingue deux mains.
+Il contient notre poème et la première de ses continuations, le Bastart de Buillon.
+Le ms.
+B, sur papier, a été écrit sous le règne de Louis XI, dans le nord de la France, d’une seule main.
+Ces deux mss. sont très peu soignés.
+Ils présentent des lacunes et des leçons fautives.
+B offre en certaines parties une version remaniée du poème.
+
+Ils proviennent probablement l’un et l’autre de la bibliothèque des ducs de Bourgogne, à Bruxelles, d’où ils sont venus à Paris en 1749.
+B a appartenu à Charles de Croÿ, comte de Chimay.
+
+Il existe d’autre part à la bibliothèque de l’Université de Munich, sous la cote 756, un feuillet en mauvais état, écrit au milieu du xive siècle, contenant un fragment d’une adaptation du poème en moyen-néerlandais.
+
+Les mss. de Paris ont servi à Louis Boca en 1841 pour son édition (sans caractère critique) du poème.
+
+
+=== Chapitre III La date, la patrie et l’auteur du poème. ===
+
+Le poème est certainement postérieur à la mort de Philippe le Bel, comme il résulte du vers XXII 17.
+Tous les autres éléments de datation continuent cette hypothèse, beaucoup invitent à rajeunir le poème sans permettre de le faire à coup sûr.
+Cependant, l’emploi de deux termes relatifs au costume et à l’armement (volequin et gants à broches) invite à reporter au moins aux environs de 1350 la date de composition.
+
+La langue permet de localiser le poème dans la région de Valenciennes, hypothèse confirmée par les connaissances géographiques de l’auteur, et par les noms de monnaies qu’il cite.
+
+L’auteur, qui semble avoir une certaine culture, est un homme du peuple écrivant pour le peuple. 
+
+
+=== Chapitre IV Les sources du poème. ===
+
+
+==== A) le cycle de la croisade. ====
+
+Dans l’évolution des poèmes relatifs à la première croisade (Le Chevalier au Cygne, Enfances Godefroi, Chanson d’Antioche, les Chétifs, Chanson de Jérusalem et continuations), on peut distinguer au moins trois états, l’un du xiie siècle, le second du milieu du xiiie, le dernier du xive.
+Ce dernier ensemble de poèmes est postérieur à Baudouin de Sebourc, car sa date est postérieure à 1344, et il est sans doute beaucoup plus tardif.
+Ce n’est donc pas de lui que Baudouin de Sebourc s’inspire pour le rappel des récits de ces poèmes ; il s’inspire de versions inédites de la fin du xiiie siècle analogues à celle du ms.
+Bibl.
+Nat. fr. 12569.
+L’auteur a pris en outre à ces poèmes certains personnages.
+Par contre, notre poème doit compter parmi les sources des versions du xive siècle.
+
+
+==== B) Marco Polo. ====
+
+L’auteur a eu une connaissance très approfondie du Livre de Marco Polo.
+Il lui a emprunté le récit de deux miracles, la colonne suspendue et la montagne déplacée, et en outre le thème de l’homme éborgné par application d’un précepte évangélique.
+
+Un second groupe d’emprunts est constitué par les légendes relatives aux Assassins et au paradis du Vieux de la Montagne.
+D’autres emprunts à cette source s’observent encore (sacrifices humains de l’Inde, légende des salamandres, nom de Cassant, thème des cinq rois frères).
+
+
+==== C) les sources secondaires. ====
+
+Parmi les autres sources, il faut compter : 1° la Navigatio Brendani, à laquelle notre auteur a pris le nom de Brandon, le thème des torches lancées par les diables, et la légende des adoucissements à la damnation de Judas ; 2° le Balaham et Josaphas de Gui de Cambrai, auquel il a pris l’épisode de la conversion de Josaphas ; 3° deux fableaux, ceux Du chevalier qui fist sa fame confesse et Du Prestre qui fut mis au lardier.
+Enfin, de nombreuses allusions montrent que l’auteur connaissait : 1° des légendes d’origine judéo-arabe sur l’Enfance de Moïse ; 2° les légendes de Fécamp et de Bruges relatives au Précieux Sang ; 3° des chansons de geste des cycles de Charlemagne, de Guillaume et de Huon de Bordeaux ; 4° des romans arthuriens, des romans courtois et les trois grands romans inspirés de l’antiquité.
+
+
+=== Chapitre V Les continuations du poème. ===
+
+Une seule, le Bastart de Buillon, nous est conservée, peut-être incomplètement : ce poème contient des récits annoncés dans Baudouin de Sebourc.
+Des autres continuations annoncées, nous possédons un résumé en prose dans la dernière partie du roman de Jean d’Avesnes, contenant le récit de « la fin et la mort de Baudouin de Sebourc », et celui des exploits de Saladin jusqu’à sa mort.
+Une partie des autres branches annoncées était peut-être contenue dans le poème que résume en prose le Livre de Baudouin de Flandre.
+
+
+=== Chapitre VI Les éléments historiques. ===
+
+Les allusions aux événements historiques sont rares et vagues, sauf deux, relatives, l’une à la ré volte des Ronds du Hainaut contre la comtesse Marguerite en 1252, l’autre à l’emprisonnement de Gui de Dampierre par Philippe le Bel en 1294.
+
+
+== Seconde partie Etude littéraire ==
+
+
+=== Chapitre premier la composition et le style. ===
+
+Le poème n’a d’épique que le cadre.
+La composition est médiocre et le style très inégal.
+La maladresse de l’auteur se marque dans les répétitions de mots, de phrases ou de thèmes, dans l’abus des redondances et des chevilles.
+Son laisser-aller s’observe dans les altérations de mots pour les besoins de la rime, dans la lourdeur de l’exposition et la faiblesse de l’invention romanesque.
+
+
+=== Chapitre II Les moralités. ===
+
+Dans les fins de laisses, que termine souvent une maxime, un dicton ou un proverbe, l’auteur moralise, donnant à ses auditeurs des conseils de piété et de vertu.
+Comme ses contemporains, il est misogyne.
+
+
+==== Tableau des proverbes. ====
+
+ 
+
+
+=== Chapitre III L’élément comique. ===
+
+Il tient une place énorme dans le poème.
+Il a surtout pour objets les femmes, les prêtres et les vilains.
+Ce comique est souvent gros et très volontiers scabreux.
+Les choses saintes sont traitées avec une légèreté frisant l’irrespect.
+Cet auteur annonce Rabelais.
+
+
+=== Chapitre IV L’élément merveilleux. ===
+
+Le plus souvent, il est d’origine chrétienne (interventions divines, apparitions d’anges, miracles de toute nature), et parfois d’origine orientale.
+
+
+=== Chapitre V Hypothèses sur la dualité des auteurs. ===
+
+Un changement radical s’observe vers le vers XVII 803.
+Ce changement est marqué par le renouvellement des personnages, l’abandon presque complet des éléments comique, merveilleux et⁎ scabreux.
+A partir de ce moment, une formule plus strictement épique succède à la précédente, ayant pour but l’achèvement rapide du poème après le retour à l’unité d’action, et la liaison de ce poème avec ses continuations.
+
+Ce phénomène ne s’explique que par l’hypothèse d’un changement d’auteur au passage indiqué. 
+
+
+== Troisieme partie ==
+
+
+=== I. ===
+
+
+==== A) édition d’un fragment du poème (vers 1-1360). ====
+
+
+
+
+==== B) table de concordance. ====
+
+
+
+
+==== C) Glossaire. ====
+
+
+
+
+=== II. Corrections a l’édition Boca. ===
+
+
+
+
+=== III. Le fragment moyen-néerlandais. ===
+
+
+
+
+=== IV. ===
+
+
+==== A) table analytique des noms propres contenus dans le poème. B) tableaux genealogiques. ====
+
+
+
+
+== Index ==
+
+

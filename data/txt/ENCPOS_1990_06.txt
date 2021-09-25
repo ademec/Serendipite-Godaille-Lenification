@@ -1,0 +1,145 @@
+identifier: ENCPOS_1990_06
+creator: Florence Clavaud
+date: 1990
+title: Cajarc, consulat du Haut-Quercy aux xiiie et xive siècles : étude démographique
+
+
+
+== Introduction ==
+
+L’utilisation d’un riche fonds ancien permet de décrire et d’analyser avec précision, pour Cajarc, ville du haut Quercy, aujourd’hui chef-lieu de canton du Lot, certains aspects d’ordinaire mal connus de l’histoire économique et sociale au XIV’ siècle : l’élevage d’une part, l’évolution démographique surtout, d’autre part.
+
+
+== Sources ==
+
+L’essentiel de la documentation provient du fonds municipal de Cajarc, conservé aux Archives départementales du Lot ; il comporte environ quatre cents actes et vingt rouleaux de procédure judiciaire, auxquels s’ajoutent dix-sept registres de comptes s’échelonnant entre 1316 et 1382 et dont a été dressé l’inventaire analytique détaillé.
+Un cadastre de 1606 a été consulté avec profit, de même que quelques actes dispersés dans les séries départementales, un registre de brèves de 1391-1392 rédigé par B. del Sol, conservé aux Archives départementales de l’Aveyron, plusieurs manuscrits de la Bibliothèque nationale et le fonds municipal de Montpellier. 
+
+
+== Première partie La communauté, évolution et structures ==
+
+
+=== Chapitre premier les origines ===
+
+Faute de sources, il faut attendre le xiiie siècle pour bien connaître la ville, alors qu’elle est déjà en plein essor.
+
+L’existence, vers 1250, d’un groupe serré de maisons nobles au centre de la ville, autour de l’aula des Hébrard, semble témoigner d’une origine castrale.
+La position de Cajarc, dans un cirque de falaises, sur la voie de Limogne à Figeac et près du Lot, a dû favoriser son expansion, de même que le pèlerinage qu’on y effectuait pour vénérer une hostie miraculeuse.
+
+Sans doute la ville doit-elle à ses marchands, lancés dans le commerce international, jusqu’à Gênes et Antioche, d’avoir pu tirer parti des besoins d’argent de ses coseigneurs.
+Elle traite en particulier avec l’évêque de Cahors, qui, intervenu en 1248 pour apaiser les luttes sociales internes entre menut poble et notables, ne cesse plus de s’intéresser à ce castrum, et rachète peu à peu leurs parts de seigneurie aux autres parcerarii.
+C’est dans ces circonstances que Cajarc acquiert des coutumes en septembre 1256.
+
+
+=== Chapitre II Développement et apogée ===
+
+A la fin du xiiie siècle, les consuls mènent une politique suivie d’acquisitions de terres et de droits d’usage.
+Ils créent ainsi une vaste zone de pâturages sur le causse au nord de la ville, ménageant au bétail l’accès au Célé comme au Lot.
+Au-delà des remparts, deux barris se construisent, après la vente par l’évêque de cent quarante-quatre airals en 1243.
+
+Après la mort d’Aymeric d’Hébrard, évêque de Coïmbre, en qui il faut sans doute reconnaître le constructeur de l’église du xiiie siècle, le gouvernement consulaire prend totalement en charge la gestion des bâtiments et ornements ecclésiastiques, de l’hôpital et de la léproserie ; il organise la Charité annuelle de la Pentecôte et les processions de l’Annonciation et de la Fête-Dieu.
+
+De cette période d’apogée sont issus la plupart des actes conservés.
+Les procès révèlent, au fil des témoignages, la marginalité de quelques condamnés, la rancœur des nobles et clercs obligés de payer l’impôt, les inimitiés entre notables. 
+
+
+=== Chapitre III Les effets de la guerre ===
+
+La guerre s’installe en Quercy à partir de 1347 ; un de ses enjeux est le contrôle des places fortes commandant la vallée du Lot.
+Dès 1348, Cajarc s’efforce de se mettre à l’abri d’un pillage en reconstruisant entièrement les vieux remparts.
+Une palissade entourant le fossé périodiquement empli d’eau, des gachiels (grosses échauguettes de bois), de fortes barbacanes, des machines de jet et canons, et surtout un système de guet par diseniers la préservent du pire.
+Mais la nécessité de renouveler sans cesse les conventions (suffertas) avec les compagnies, les impôts royaux et l’entretien des murs obligent le consulat à gérer la ville au jour le jour.
+Seuls les courriers nocturnes et espions peuvent apporter des éléments sûrs pour la prévision des événements.
+
+La physionomie urbaine change profondément.
+Les barris sont abandonnés.
+Dans le quartier appelé Dins los murs, les îlots de maisons prennent les noms des grandes familles de notables qui y vivent, pour les garder jusqu’au XVIIIe siècle.
+
+
+=== Chapitre IV Élevage et relations interrégionales ===
+
+Les registres contiennent des renseignements exceptionnels, puisqu’ils offrent les rôles nominatifs, par propriétaires de bétail, de la taxe frappant (par tête) leurs animaux qui paissent dans les herbages, pour dix-huit années réparties entre 1336 et 1395.
+
+Les chiffres obtenus pour le milieu du xive siècle (4 575 ovins et chèvres pour l’hiver 1343) et les fluctuations saisonnières (872 dans l’été de la même année) témoignent de l’importance des courants de transhumance reliant les causses du Quercy, visités en hiver, et les monts du Massif Central, dès le XIVe siècle.
+Les chiffres diminuent brutalement dès 1344 et ne retrouvent jamais, en dépit de fortes variations, leur niveau antérieur.
+Par ailleurs, on constate une forte concentration des troupeaux entre les mains de professionnels, pastres ou mazeliers.
+En 1343, des quarante-neuf propriétaires, vingt et un possèdent chacun moins de dix bêtes, mais douze en détiennent en tout 3 521.
+Ces gros troupeaux disparaissent pendant la guerre.
+
+Le gros bétail (bovins, chevaux) est beaucoup plus modeste, sauf entre 1342 et 1344 (388 têtes en 1344), et en 1351-1352 (120 bêtes).
+En moyenne, le nombre annuel de propriétaires s’établit à vingt et un. 
+
+
+=== Chapitre V La gestion consulaire ===
+
+Dotés de larges pouvoirs administratifs, militaires et judiciaires, recrutés par cooptation, les quatre consuls annuels font toujours partie des familles de notables qui alternent à la tête de la ville.
+Ils désignent eux-mêmes leurs conseillers et plusieurs agents : sergents, peseur, crieur public, contrôleurs de métiers...
+Ils assistent les viguiers et le bayle, choisi par l’évêque, dans l’instruction des procès.
+
+Le caractère oligarchique du gouvernement est quelque peu atténué par le recours au gran cosselh, habituel dans les circonstances les plus graves, et somme toute assez fréquent pendant la guerre.
+De plus, un groupe de prud’hommes assiste chaque année à la reddition des comptes des consuls sortants.
+
+L’examen des registres de comptes s’avère riche d’enseignements.
+Il montre que la gestion quotidienne est assurée par les consuls eux-mêmes : chacun d’eux est à la fois ordonnateur de dépenses et trésorier ; chacun rédige ou fait rédiger son journal et ses levées d’impôts.
+
+La cohérence des comptes est assurée par la procédure annuelle de révision, au cours de laquelle un notable cancelle les dettes payées et reporte les sommes à recouvrer sur le livre suivant, donnant parfois ainsi un aspect touffu et très dense aux registres.
+
+Par ailleurs, les scribes confondent, par souci d’économie, peut-être aussi parce qu’ils appliquent des méthodes commerciales, les rôles d’impôts avec des comptes de crédit-débit avec des particuliers, sur deux colonnes, dont il existe un véritable exemple dans le premier registre (1317).
+
+Les impôts constituent la ressource essentielle du consulat.
+Il faut distinguer l’emprunt (prest), remboursé, demandé aux seuls notables, la taille (talha), basée sur une estimation des fortunes effectuée par les prud’hommes ou d’après un terrier (il en existait un en 1367), et la capitation (pati, sufferta), levée à raison d’une cote fixe par chef de feu, dont le montant est établi au vu des rôles précédents.
+
+Aucune ordonnance ne précise les critères d’imposition de la taille.
+Mais c’est à l’évidence un impôt réel, qui frappe les biens, par exemple les chapellenies, mais non les personnes.
+Les nobles et ecclésiastiques le paient, depuis leur échec dans les procès qu’ils avaient intentés contre les consuls au début du xive siècle.
+Pour établir la liste des contribuables, l’agent consulaire suit un ordre topographique immuable, distinguant ainsi, à partir de 1348, Barri Neuf, Barri de la Peyre, quartier Dins los murs, et causse. 
+
+
+== Deuxième partie Les hommes ==
+
+
+=== Chapitre premier valeur et limites des données démographiques ===
+
+Si l’étude démographique est possible grâce aux sources, elle s’avère délicate.
+Le premier travail consiste à définir une méthode d’interprétation.
+Il faut corriger les chiffres globaux, en ajoutant les contribuables occasionnels et en retranchant les « forains », puis intégrer au corpus de données tous les renseignements utilisables.
+
+
+=== Chapitre II Familles et longévités ===
+
+Le nombre de feux passe de 882 en 1344 à 399 en 1352, pour remonter légèrement en 1356 (421 feux).
+En 1382, le pati ne recense plus que 273 foyers.
+
+Une étude des années contemporaines de l’épidémie de 1348 montre que de 1348 à 1349, 119 feux ont disparu, 78 ont changé de responsable.
+D’autre part, des 397 patronymes connus en 1344, il n’en reste plus que 250 en 1349.
+
+L’origine géographique des immigrants, retrouvée pour soixante-dix familles du XIV’ siècle, confirme les relations entre Cajarc et le causse de Limogne, le Rouergue, mais aussi la région de Millau et l’Aubrac.
+
+Le renouvellement étant trop faible (trois installations par an en moyenne de 1344 à 1382), la population n’a cessé de décroître au cours du troisième quart du xive siècle.
+Ainsi, en 1382, il ne reste que 178 patronymes, mais 119 soit 67 % existaient déjà en 1344.
+
+La liste des noms permet de mieux saisir l’éventail des « longévités familiales ». 
+
+
+== Troisième partie Documents et statistiques ==
+
+
+=== Dossier démographique ===
+
+Le dossier démographique réunit des tableaux et graphiques réalisés d’après les rôles nominatifs d’impôts des années 1344-1382.
+Us présentent : l’évolution globale du nombre de feux de la juridiction, son évolution par divisions topographiques (quartiers urbains, hameaux du causse) ; les effets des épidémies de 1348 et 1373-1375 : changements de responsables à la tête des feux, disparition des feux ; le renouvellement des familles ; l’éventail des fortunes d’après les cotes de tailles « a sol e lhiora » pour 1348, 1356, 1367 ; la répartition socio-professionnelle des habitants au début et à la fin de la période ; une liste des noms de famille accompagnée d’une estimation de leur « longévité » ; un tableau de données tirées du pati de 1382 (composition des foyers).
+
+
+=== Pièces justificatives ===
+
+Choix de documents provenant du fonds municipal de Cajarc : délibération du conseil (fin du xiiie siècle) ; serment des meuniers (1300-1301).
+
+
+=== Tableaux et graphiques ===
+
+Parmi divers tableaux et graphiques figurent notamment un relevé des prescriptions des coutumes de Cajarc, une liste des consuls de 1291 à 1391 et une présentation de l’évolution du cheptel entre 1336 et 1395.
+
+
+== Annexes ==
+
+Cartes : Cajarc et sa situation en Quercy ; le terroir au XIV’ siècle ; le noyau urbain vers 1380 (plan) ; l’origine géographique de soixante-dix familles d’après leurs noms. – Photographies.

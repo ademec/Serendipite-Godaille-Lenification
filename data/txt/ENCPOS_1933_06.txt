@@ -1,0 +1,210 @@
+identifier: ENCPOS_1933_06
+creator: Patrice Henry
+date: 1933
+title: Les Enfances Guillaume, chanson de geste publiée avec une introduction
+
+
+
+== Bibliographie critique analyse du poème ==
+
+
+
+
+== Premiere partie La tradition des textes ==
+
+
+=== Chapitre premier la rédaction en vers. ===
+
+
+==== § 1. – Manuscrits conservés. ====
+
+Le texte de la rédaction en vers a été conservé par sept manuscrits : A1 – Paris, Bibl.
+Nat., fr. 774 (XIIIe siècle, francien). – A2 = Bibl.
+Nat., fr. 1449 (xiiie siècle, francien). – A4 = Milan, Bibl.
+Trivulziana, n° 1025 (xiiie siècle, francien). – B1 = Londres, Brit.
+Mus., Royal 20 D. XI (xive siècle, francien). – B2 = Paris, Bibl.
+Nat., fr. 24.369-70 (xive siècle, francien). – C – Boulogne-sur-Mer, Bibl.
+Munic., n° 192 (fini en 1295, picard). – D = Paris, Bibl.
+Nat., fr. 1148 (XIIIe siècle, lorrain).
+
+Tous les manuscrits ont été utilisés, sauf A4, la Bibl.
+Trivulziana étant actuellement fermée.
+
+
+==== § 2. – Manuscrits perdus. ====
+
+Deux manuscrits contenant probablement les Enfances Guillaume se trouvaient dans la Bibliothèque Royale, au Louvre, à la fin du xive et au début du xve siècle.
+
+Il y avait également deux manuscrits du cycle de Guillaume d’Orange dans la librairie des ducs de Bourgogne, au xve siècle.
+
+Enfin un Roman de Guillaume au court nez se trouvait au château d’Anet et fut vendu en 1724.
+Son sort est ignoré.
+
+
+==== § 3. – Le classement des manuscrits et l’établissement du texte. ====
+
+D’après les caractères extérieurs et d’après le texte, les manuscrits se répartissent en deux familles.
+La première comprend C et D, la seconde se divise en deux groupes représentés par A1 A2 et B1 B2.
+Ce classement n’est toutefois pas rigoureux, car il y a des contaminations entre G et A1A2, d’une part, entre G D et B1B2, d’autre part.
+Schéma : 
+
+Les manuscrits offrent trois versions (C D, A1A2, B1B2).
+La première paraît la plus proche de l’original ; la troisième est un remaniement de la seconde.
+
+Il n’est pas possible de combiner les trois versions en un seul texte composite.
+La version C D est ici publiée, D servant de base.
+
+
+==== § 4. – Les éditions du texte. ====
+
+
+
+
+=== Chapitre II Le roman en prose française et les versions étrangères. ===
+
+
+==== § 1. – Le roman en prose. ====
+
+Il est conservé dans deux manuscrits de la Bibl.
+Nat. (fr. 796 et 1497).
+C’est une adaptation très libre de la chanson de geste au goût du xve siècle ; de style agréable, il ne peut servir en rien à la critique du texte de la rédaction en vers.
+
+
+==== § 2. – Les versions étrangères. ====
+
+Il est aujourd’hui reconnu que l’Arabellens Entführung d’Ulrich von dem Türlin et le roman italien I Nerbonesi d’Andrea da Barberino n’ont pas utilisé les Enfances Guillaume.
+
+
+== Deuxième partie La langue et la versification ==
+
+Cette étude est fondée sur le manuscrit D, qui a été très probablement dicté et non copié.
+Les Enfances Guillaume y ont été écrites par deux scribes ; la langue du premier est mieux caractérisée que celle du second. 
+
+
+=== Chapitre premier phonétique. ===
+
+
+==== § 1. – Vocalisme. ====
+
+Voyelles toniques. – a libre > souvent et ; a entravé > souvent ai. – e, o ouverts traitement régulier sauf de rares exceptions ; diphtongaison fréquente de o libre devant nasale. – e fermé entravé, rareté des formes lorraines en a. – o fermé écrit alternativement o et ou. – i développement d’un n après i précédé de nasale. u, au traitement régulier.
+
+Voyelles initiales. – a libre reste a ou > i derrière palatale. – e > o souvent devant labiale. – i parfois confondu avec u. – o, u, au traitement normal.
+
+
+==== § 2. – Consonnantisme. ====
+
+c, g traitement habituel. t, d développement irrégulier d’une s devant t en position forte. – p, b, y pas de particularité. – s très souvent disparue devant consonne et confondue dans la graphie avec c ; parfois effacée à la finale. w, f, v traitement régulier. – l vocalisation facultative devant consonne ; réduction fréquente de la diphtongue ainsi développée à la voyelle simple. – r traitement régulier ; assez nombreuses dissimilations. – n, m maintien habituel ; incertitude sur l’intercalation d’un d entre n et r, d’un b entre m et r.
+
+Question de l’i parasite.
+L’i lorrain peut être considéré comme un cas de graphie inverse de la réduction des diphtongues à leur premier élément, les mêmes faits se produisant aussi avec u. 
+
+
+=== Chapitre II Morphologie. ===
+
+
+==== § 1. – Déclinaison. ====
+
+Substantifs et adjectifs. – Déclinaison mal observée.
+L’s marquant le pluriel manque dans certains cas.
+
+Article. – Masculin : li suj. sing. ; lo, le rég. sing. ; li suj. plur. ; les rég. plur. ; élision facultative pour li. – Féminin : la sing. ; les plur.
+Enclises habituelles.
+
+Pronoms personnels. – Emploi normal ; il souvent réduit à i.
+
+Possessifs. – Emploi fréquent de su, ceu pour ses ; de teu pour tes.
+Lor prend sporadiquement une s au pluriel.
+Quelques exemples de vo pour vostre.
+
+Démonstratifs.
+Souvent ceu pour ce. ⁎Metipsimum > moieme.
+
+Relatifs. – Confusion constante de qui et de que.
+Emploi de qui à la place de que conjonction.
+
+
+==== § 2. – Conjugaison. ====
+
+Radical. – Aucune particularité.
+
+Terminaison.
+Les désinences en a du francien sont souvent en ait ; celles en és, en eis. – Participes présents parfois dépourvus de t final.
+A la sixième personne la terminaison ent peut manquer ; inversement ent peut être ajouté aux trois personnes du singulier et même à des noms.
+
+
+=== Conclusion des deux chapitres précédents. ===
+
+Le manuscrit D a été écrit en Lorraine sans qu’il soit possible de parvenir à plus de précision. 
+
+
+=== Chapitre III Versification. ===
+
+
+==== § 1. – Le mètre. ====
+
+Les Enfances Guillaume, telles qu’elles sont ici publiées, comptent 3425 décasyllabes avec césure 4/6.
+Par exception, une douzaine d’alexandrins et quelques cas de coupe 6/4 qui ne sont peut-être pas le fait du copiste.
+Pas de césure lyrique.
+Assez nombreux exemples d’e féminin en hiatus.
+
+
+==== § 2. – Les assonances. ====
+
+Le poème comprend 93 laisses réparties sur 13 assonances.
+
+
+==== Table des assonances. ====
+
+L’assonance la plus remarquable est celle du type arriéré : herdie qui prouve que dans la langue originale de la chanson ié était passé à ici puis à i.
+
+
+== Troisième partie Les Enfances et le cycle epique ==
+
+
+=== Chapitre premier patrie et date du poème. ===
+
+L’étude des assonances montre que les Enfances Guillaume ont été composées dans l’Est de la France, en Lorraine.
+Les Enfances Guillaume contiennent des allusions à la Chanson de Roland, au Couronnement de Louis, à Aymeri de Narbonne et peut-être à d’autres chansons.
+La composition du poème se place dans la première moitié du xiiie siècle. 
+
+
+=== Chapitre II Existence d’une rédaction antérieure. ===
+
+L’existence d’une rédaction antérieure est rendue •certaine par deux allusions du Couronnement de Louis et de la Chanson de Guillaume.
+
+Toutefois cette rédaction ne réunissait pas les données de la Prise d’Orange et des Enfances actuelles, comme le pensaient Jonckbloet et Léon Gautier.
+Elle était, en réalité, la source commune des Enfances conservées et des Narbonnais.
+Le double renouvellement a sans doute eu lieu au moment où s’établit l’habitude de reproduire dans des manuscrits distincts les chansons du groupe d’Aymeri et celles qui se rapportaient plus particulièrement à Guillaume.
+
+
+=== Chapitre III Valeur littéraire. ===
+
+Les Enfances Guillaume ne reposent sur aucun fondement historique.
+C’est une œuvre d’imagination.
+A part la fin du poème, qui est très faible et certainement postérieure, l’ensemble présente des scènes bien contées et quelques traits heureux.
+    « C’est une de nos meilleures chansons de geste de deuxième ordre ».
+
+
+== Texte de la chanson ==
+
+
+
+
+== Appendices ==
+
+
+
+
+== Notes ==
+
+
+
+
+== Table des noms de personne et de lieu ==
+
+
+
+
+== Glossaire ==
+
+

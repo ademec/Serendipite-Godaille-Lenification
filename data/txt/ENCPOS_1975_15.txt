@@ -1,0 +1,235 @@
+identifier: ENCPOS_1975_15
+creator: Françoise Hue
+date: 1975
+title: Contribution à l’étude des lapidaires anonymes en prose française (fin du xiiie-fin du xve siècle)
+
+
+
+== Introduction ==
+
+Les lapidaires anonymes en prose française se présentent comme des ouvrages de grande vulgarisation, d’un abord plus facile et d’une synthèse plus élaborée que leurs sources principales, les lapidaires en vers et les lapidaires en prose anglo-normande, ces derniers étant eux-mêmes, déjà, des adaptations de poèmes.
+Ils répondent à l’évolution du goût dans les trois derniers siècles du Moyen Âge, où un public de nobles et de bourgeois instruits souhaite des informations d’un aspect plus technique, sans perdre pour cela le sens du merveilleux.
+
+Mais ces lapidaires ne sauraient donner l’état des connaissances médiévales dans les domaines de la minéralogie et de la médecine.
+En dépit d’un effort de documentation assez sensible dans certains textes du xve siècle, ils restent des œuvres de pure imagination et se contentent de faire appel à l’expérience des auteurs « anciens » qu’ils ne connaissent, le plus souvent, qu’à travers de grandes compilations d’histoire naturelle .
+
+Le mot de « pierre précieuse », obligé dans ces sortes de textes, ne doit pas faire illusion : il recouvre, outre les trois pierres précieuses au sens moderne (rubis, saphir, émeraude), le diamant, de nombreuses pierres fines, des matières d’origine végétale (jais, lignite) et animale (corail, perle) et des pierres fabuleuses (l’alectoire née dans le gésier du chapon, la pierre crapaudine, la pierre de la tête du dragon).
+
+La description de ces articles consiste en des notations de couleurs, parfois très précises, des indications sur leur dureté, sur leurs propriétés physiques (phénomènes électro-magnétiques), plus rarement sur leur poids, enfin sur leur provenance supposée.
+Suit l’énoncé de leurs « vertus » comme amulettes ou sous forme de collyres, de potions, d’onguents : cet ensemble de superstitions et de recettes magiques perpétue la doctrine médicale des « signatures ».
+
+Des sept textes qui font l’objet de cette étude, seul le premier et vraisemblablement le plus ancien, le Lapidaire du roi Philippe, conserve le souvenir de la symbolique chrétienne des « pierres précieuses ».
+Les six autres, chacun transmis par un manuscrit unique qui lui donne son nom, sont exclusivement « minéralogiques » et « médicaux ».
+
+
+== Première partie Le lapidaire du roi Philippe ==
+
+
+=== Chapitre premier tradition manuscrite ===
+
+Dix manuscrits nous ont transmis le texte français du Lapidaire du roi Philippe ; ce sont :
+
+A : Paris, Bibliothèque nationale, fr. 12786 (fin du xiiie ou début du xive siècle) qui comprend vingt-huit articles, les onze derniers décrivant à nouveau, mais sous une forme différente, les premières pierres.
+Le texte est incomplet par suite de la disparition de deux feuillets.
+Sa langue est le francien, de rares traits dialectaux peuvent indiquer le nord-est de l’Ile-de-France.
+
+B : Berne, Bürgerbibliothek, 646 (fin du xive siècle) qui a été copié vraisemblablement dans un atelier lorrain et traite, en trente-neuf articles, de quarante pierres différentes.
+Son texte a été édité par le Dr.
+W. Ziltener (Der
+    « Lapidaire de Philippe » in der Berner Handschrift 646..., dans Philologica Romanica Erhard Lommatzsch gewidmet, Munich, 1974, p. 628-674).
+
+C : Paris, Bibliothèque nationale, fr. 2043 (seconde moitié du xve siècle) qui comprend quatre-vingt-huit articles, soit quatre-vingt-six pierres.
+
+D : Paris, Bibliothèque Sainte-Geneviève, 2261 (seconde moitié du xve siècle) qui n’a conservé que les douze premières pierres. 
+
+L : Londres, British Library, Add. 32085 (manuscrit anglais antérieur à 1310) qui décrit trente et une pierres différentes en trente-deux articles, dans le dialecte anglo-normand.
+
+M : Paris, Bibliothèque nationale, lat. 11210 (xve siècle) qui contient cinquante et un articles, soit cinquante pierres.
+
+N : Paris, Bibliothèque nationale, fr. 2008 (seconde moitié du xve siècle) qui traite de trente et une pierres en trente-deux articles.
+Son texte a été transcrit par L. Baisier (The Lapidaire Chrétien, its composition, its influence, its sources..., Washington, 1936, p. 111-125).
+
+O : Bruxelles, Bibliothèque royale, 6494 (11004-11017), (manuscrit liégeois de la seconde moitié du xve siècle), qui rapporte en dialecte wallon, avec quelques traits picards, le texte de seize articles.
+
+X : Paris, Bibliothèque nationale, fr. 2009 (xve siècle) qui décrit cinquante-trois pierres.
+
+Y : Paris, Bibliothèque de T Arsenal, 2805 (seconde moitié du xve siècle) qui compte soixante et un articles correspondant à cinquante-neuf pierres, et possède au fol. 17 une miniature représentant l’offrande du lapidaire au roi Philippe.
+
+Des deux autres manuscrits autrefois signalés, l’un a disparu : c’est le n° 1501 du Catalogue de la bibliothèque du duc de La Vallière..., Paris, 1783, t.
+I, p. 446, vendu le 12 janvier 1784 au libraire Bontoux.
+L’autre a été détruit : il est cité sous le n° 50 par Joseph-Léon Techener, Catalogue des livres rares et curieux, manuscrits et estampes, brûlés à Londres dans la maison Leigh Sotheby, J. Wilkinson et Hodge..., appartenant à J.-Joseph Techener père, 29 juin 1865..., Paris, 1865, p. 9.
+
+
+=== Chapitre II Origine, composition, sources ===
+
+Origine. – Malgré la formule de dédicace que rapportent la plupart des manuscrits :
+    « Pour l’amor le roi Phelippe de France, ... c’est li livre des pierres », aucun détail dans le texte, ni, à ma connaissance, dans les chroniques et documents contemporains, ne permet d’identifier ce roi.
+Celui-ci n’est pas, comme on l’a cru longtemps, Philippe de Valois : la date du manuscrit L l’interdit ; il ne peut s’agir que de Philippe le Bel ou même de Philippe le Hardi.
+
+Composition. – Le lapidaire débute par un prologue qui expose la genèse de l’œuvre et en énumère les sources principales, privilégiant la
+    « Bible » (Exod., XXVIII, 9-30) et l’« Apocalypse » (Apoc., XXI, 19-20).
+Dans une première partie, à laquelle se limitait certainement le texte primitif, il traite des seize pierres bibliques (les douze pierres du Rational d’Aaron, mentionnées au livre de l’Exode, puis, après une phrase de transition, quatre pierres des fondements de la Jérusalem céleste, citées dans l’Apocalypse, et qui ne figurent pas déjà sur le Rational) et du diamant : il distingue, pour chaque article, la description de la pierre, l’exposé de ses « vertus » et un commentaire symbolique dans la tradition des Pères de l’Église.
+Seul le diamant, qui n’apparaît ni sur le Rational, ni dans la Jérusalem céleste, n’est pas accompagné de ce commentaire.
+
+Un grand nombre de manuscrits ajoutent, à ce noyau originel de dix-sept pierres, une sorte de deuxième partie formée d’articles complémentaires dont ils ne donnent que la description et les « vertus ».
+Les différences entre les manuscrits sont telles qu’il est impossible d’imaginer que ces articles aient jamais connu un classement précis [1].
+
+Sources. – A cette dualité dans la composition du lapidaire correspondent deux ensembles de sources.
+
+Le texte des dix-sept premières pierres provient, pour la partie minéralogique, de l’ingénieuse « combinaison » du poème du Lapidaire chrétien et du chapitre consacré aux pierres dans la Fontaine de toutes sciences du philosophe Sidrach, et, pour la partie symbolique, du même Lapidaire chrétien avec, en ce qui concerne les quatre pierres particulières à l’Apocalypse, des emprunts à une glose inconnue.
+Il se peut que l’auteur, un clerc certainement, ait aussi utilisé, pour le commentaire symbolique des douze pierres du Rational, une glose sur l’Exode, encore non identifiée.
+Le prologue du lapidaire vient, quant à lui, du Lapidaire chrétien et de la Deuxième version en prose anglo-normande du poème
+    « Evax fut un mult riches reis ».
+
+Au contraire, en ce qui concerne les articles de la deuxième partie, rassemblés au hasard des trouvailles des copistes, chacune des trois sources connues est utilisée seule et assez fidèlement suivie ; ce sont : la Première version en prose anglo-normande du poème
+    « Evax fut un mult riches reis », le lapidaire attribué à Jean de Mandeville, et, pour les onze derniers articles du manuscrit A, les vers du Lapidaire chrétien auxquels l’auteur du Lapidaire du roi Philippe avait préféré le texte en prose de Sidrach (ces onze articles forment ainsi un complément au Lapidaire du roi Philippe, certains sont communs à A et aux lapidaires de Florence et de Troyes).
+
+Le succès du lapidaire. – Outre le nombre des manuscrits connus, leurs dates et leurs compositions différentes, la variété de leurs dialectes, le succès du Lapidaire du roi Philippe, particulièrement au xive siècle, est attesté par l’existence de trois traductions.
+
+La traduction latine, longtemps considérée à tort comme le représentant d’un original latin du Lapidaire du roi Philippe, est conservée dans un manuscrit copié en France au xive siècle : le Sloane 1784 de la British Library (Londres).
+Elle ne comprend que les dix-sept pierres originelles et se rattache à la même famille de manuscrits que O. Son texte a été transcrit par J. Evans (Magical jewels of the Middle Ages and the Renaissance, particularly in England..., Oxford, 1922, p. 214-220). 
+
+Les deux autres traductions sont anglaises.
+L’une, contenue dans le manuscrit Douce 291 de la Bodleian Library (Oxford) copié dans la première moitié du xve siècle, est en dialecte londonien ; elle compte trente-neuf articles, soit trente-huit pierres, et appartient à la famille du manuscrit M. L’autre, indépendante de la première, nous est transmise dans le dialecte de la région des Midlands par un manuscrit du xve siècle : Oxford, Bodleian Library, Add. 106 ; elle décrit trente-quatre pierres et ne se rapproche d’aucun des dix manuscrits du texte français.
+Ces deux traductions ont été éditées par J. Evans et M. Serjeantson (English mediaeval Lapidaries..., Londres, 1933, p. 16-57).
+
+Il n’existe qu’une seule édition ancienne du Lapidaire du roi Philippe, celle de Guillaume le Roy à Lyon, à la fin du xve siècle.
+Ses trente-quatre chapitres sont assez voisins de la famille L M N, mais leur langue est plus moderne et quelques passages sont récrits.
+
+Le succès du Lapidaire du roi Philippe n’a donc pas dépassé la fin du Moyen Âge.
+Seuls quelques articles pris parmi les dix-sept pierres originelles survivent, rajeunis et presque « trahis » dans les premières éditions imprimées du lapidaire attribué à Mandeville.
+
+
+=== Chapitre III Classement des manuscrits et principes d’édition ===
+
+Le classement des manuscrits, fondé sur la comparaison des textes des dix-sept premiers articles, fait apparaître trois rédactions successives :
+
+– la première rédaction est conservée dans huit manuscrits parmi lesquels on distingue deux familles : L M N qui appartiennent à une branche commune, et B C D qui remontent à un original commun b (celui-ci a délibérément supprimé le commentaire symbolique qui faisait l’originalité du lapidaire, pour aligner les dix-sept premières pierres sur les articles additionnels), A et O étant isolés ;
+
+– la deuxième rédaction est celle du manuscrit X qui donne un texte hybride, tantôt partiellement ou entièrement récrit, tantôt très proche des plus anciens manuscrits A et L ;
+
+– la troisième rédaction a pour seul témoin Y : le lapidaire y a subi un remaniement complet et soigné, avec de nombreuses additions.
+Malgré la présence d’une miniature de dédicace au fol. 17, il ne semble pas possible que ce texte ait été écrit pour le dernier roi Philippe de France, c’est-à-dire Philippe de Valois.
+L’allure très moderne du style oblige à le considérer comme une œuvre du xve siècle.
+
+Les deux dernières rédactions étant éditées à part, le texte principal du Lapidaire du roi Philippe est donné, pour les dix-sept premières pierres, d’après le meilleur des plus anciens manuscrits, A, et, pour les articles additionnels classés dans un ordre méthodique, d’après L, puis B, avec les variantes des autres manuscrits (à l’exception de X et Y). 
+
+
+==== Édition du texte principal du lapidaire du roi Philippe ====
+
+
+
+
+==== Édition de la seconde rédaction (manuscrit X) ====
+
+
+
+
+==== Édition de la troisième rédaction (manuscrit y) ====
+
+
+
+
+== Deuxième partie Lapidaires « isolés » ==
+
+
+=== Chapitre premier le lapidaire de Florence ===
+
+Le manuscrit Pluteus LXXVI, 79 de la Biblioteca Medicea-Laurenziana (Florence), copié au xive siècle dans la région lombarde, contient un lapidaire de quatorze articles : les neuf premières pierres sont celles du Rational (il manque donc, sans que le manuscrit présente de lacune à cet endroit, les trois dernières pierres du Rational), que suivent les quatre pierres particulières à l’Apocalypse et le diamant.
+Huit de ces articles s’apparentent à ceux qui terminent le manuscrit A du Lapidaire du roi Philippe, et l’ensemble des quatorze pierres se retrouve dans le Lapidaire de Troyes.
+
+La source du Lapidaire de Florence est le poème du Lapidaire chrétien.
+Sa langue, le francien, possède des traits picards.
+
+
+==== Édition du lapidaire de Florence ====
+
+
+
+
+=== Chapitre II Le lapidaire de Troyes ===
+
+Transcrit au xve siècle sur les feuillets restés blancs d’un manuscrit du xive siècle, le n° 1943 de la Bibliothèque municipale de Troyes, le Lapidaire de Troyes compte vingt-huit articles, 
+
+Les dix-sept premières pierres proviennent du Lapidaire chrétien.
+L’originalité du Lapidaire de Troyes est de les présenter dans l’ordre de l’Apocalypse, en plaçant à la suite des pierres de la Jérusalem céleste les quatre pierres particulières au Rational, puis le diamant.
+Il est ainsi le seul à donner en entier le texte du traité en prose composé à partir du Lapidaire chrétien pour compléter le Lapidaire du roi Philippe.
+
+Le Lapidaire de Troyes y ajoute onze autres articles dont l’un, sur la pierre crapaudine, prend la forme d’un poème de trente-cinq octosyllabes, et les huit derniers viennent de la Deuxième version en prose anglo-normande du lapidaire en vers
+    « Evax fut un mult riches reis ».
+
+
+==== Édition du lapidaire de Troyes ====
+
+
+
+
+=== Chapitre III Le lapidaire de Berne ===
+
+Le Lapidaire de Berne, conservé dans le manuscrit n° 113 de la Burgerbibliothek (Berne) copié à la fin du xiiie siècle, décrit vingt-trois pierres dont les douze premières sont celles du Rational.
+Son origine est inconnue : sa coloration dialectale picarde, assez marquée, est celle de l’ensemble du manuscrit.
+Des notations rapides et précises, l’emploi fréquent des impératifs « saciés », « pendés », « metés », le rapprochent du genre de la recette médicale.
+
+Son texte a déjà été édité par L. Pannier (Les lapidaires français du Moyen Age, des xiie, xiiie et xive siècles..., avec une notice préliminaire par Gaston Paris..., Paris, 1882, p. 79-81).
+
+
+==== Édition du lapidaire de Berne ====
+
+
+
+
+=== Chapitre IV Le lapidaire de l’arsenal ===
+
+Le Lapidaire de l’Arsenal compte vingt-trois articles provenant de la Première version française
+    « Evax fut un mult riches reis » du poème attribué à Marbode, par l’intermédiaire de la Première version en prose anglo-normande.
+Des variantes originales, des descriptions simplifiées lui donnent, en dépit de sa grande fidélité envers son modèle en prose, un caractère d’unité plus poussé que celui de ce dernier.
+
+Il nous est transmis par un manuscrit du milieu du xve siècle : le n° 3174 de la Bibliothèque de l’Arsenal (Paris).
+
+
+==== Édition du lapidaire de l’arsenal ====
+
+ 
+
+
+=== Chapitre V Le lapidaire de la Mazarine ===
+
+Le Lapidaire contenu dans le manuscrit n° 3636 de la Bibliothèque Mazarine (Paris), copié au xve siècle, témoigne d’une dernière et maladroite évolution des lapidaires en prose.
+Ce court traité dont la source est inconnue – il compte treize articles parmi lesquels sept pierres figurent sur le Rational et quatre apparaissent seulement dans l’Apocalypse – résume les propriétés essentielles des « pierres précieuses » et simplifie parfois son texte jusqu’à paraître incompréhensible à qui ne connaîtrait pas les caractéristiques principales de ces pierres.
+
+
+==== Édition du lapidaire de la Mazarine ====
+
+
+
+
+=== Chapitre VI Compilation du xve siècle ===
+
+La Compilation du xve siècle est conservée dans le manuscrit fr. 14830 de la Bibliothèque nationale (Paris).
+Comme elle décrit plusieurs fois les mêmes pierres en des termes différents, sans aller, cependant, jusqu’à se contredire, le nom de lapidaire lui conviendrait mal, de là son titre.
+
+La Compilation se divise en deux parties : la première, en quatre-vingt-deux articles, décrit cinquante-huit pierres différentes, la seconde traite trente-sept pierres.
+Nombre de ces articles dans l’une et l’autre parties ont des textes très semblables à ceux des pierres complémentaires du manuscrit C du Lapidaire du roi Philippe, ces deux recueils provenant certainement d’un original commun.
+Le diamant, qui termine la première partie, et la majorité des pierres de la seconde partie appartiennent à la tradition mandevillienne.
+
+
+==== Édition de la compilation du xve siècle ====
+
+
+
+
+== Annexes ==
+
+Glossaire. – Table des noms de personne et de lieu. – Table des auteurs et des œuvres cités. – Table analytique des matières. 
+
+
+== Appendices ==
+
+Édition de la traduction latine du Lapidaire du roi Philippe. – Apparat complet des variantes de l’article
+    « Saphir » (Lapidaire du roi Philippe). – Édition du Traité sur le Baume (d’après le manuscrit fr. 14830, avec les variantes du manuscrit fr. 2043 de la Bibliothèque nationale de Paris).
+    
+    =========
+    
+
+[1] Certains recueils (B, C, M, O, X, Y) font suivre le Lapidaire du roi Philippe, souvent sans aucune interruption, d’un traité sur les pierres gravées.
+Ce dernier, complément « obligé » du lapidaire, n’est pas étudié ici.

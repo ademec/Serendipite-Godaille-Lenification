@@ -1,0 +1,237 @@
+identifier: ENCPOS_1879_04
+creator: Paul Fournier
+date: 1879
+title: Essai sur l’organisation, la compétence et la procédure des tribunaux ecclésiastiques ordinaires de 1180 à 1328
+
+
+
+== Première partie Organisation. ==
+
+
+=== I ===
+
+L’official apparaît dans la seconde moitié du douzième siècle.
+Les premiers officiaux sont constitués par les évêques.
+
+Dès le commencement du treizième siècle, la plupart des évêques se font représenter par un official.
+
+A l’exemple des évêques, les autres prélats ayant juridiction, archidiacres, archiprêtres, doyens, abbés, prieurs, en confient l’exercice à un official.
+
+La constitution des officiaux fut provoquée par les modifications graves qu’apporta, dans la procédure canonique, l’étude du droit de Justinien, et aussi par la nécessité où se trouvèrent les évêques de combattre les progrès de la juridiction des archidiacres.
+
+Il faut distinguer l’official principal de l’official forain ; celui- ci est un juge délégué ; celui-là est généralement considéré comme un juge ordinaire.
+
+Les évêques peuvent librement constituer un ou deux officiaux principaux, et des officiaux forains suivant les besoins de leur diocèse.
+Ils essayent d’entraver la constitution d’officiaux par les prélats inférieurs.
+Défense aux archidiacres d’avoir des officiaux forains.
+
+L’official, n’ayant aucun titre ecclésiastique, n’a par lui-même aucune juridiction.
+Tous scs pouvoirs sont empruntés.
+Il est l’homme de son maître (évêque, archidiacre, etc.), vis-à-vis duquel il n’est qu’un mandataire.
+Il est donc essentiellement amovible.
+
+L’official représente son maître dans tous les actes de juridiction.
+Il remplit, à l’époque dont nous nous occupons, les fonctions de vicaire général dans le droit moderne.
+A cette époque l’expression vicarius generalis s’entend particulièrement du représentant de l’évêque absent.
+
+
+=== II ===
+
+Des principaux auxiliaires de l’official : vice-gérant, assesseurs, scelleur, registrator, receptor actorum. – Du promoteur.
+
+
+=== III ===
+
+Des avocats. – Ils existent auprès des cours spirituelles.
+Ils ont emprunté beaucoup des règles qui les régissent aux constitutions impériales.
+Préparation exigée des avocats. – Serments. – Devoirs professionnels. – Avocats des pauvres.
+
+
+=== IV ===
+
+Des procureurs. – Il se forme au treizième siècle, auprès des officialités, une catégorie de gens de loi qui font métier de représenter les parties.
+Constitution des procureurs, Leur mandat – Règles disciplinaires, 
+
+
+=== V ===
+
+Des notaires. – Les notaires des pays de droit écrit continuent la tradition des tabellions antiques. – Ils confèrent par eux-mêmes l’authenticité aux actes.
+
+Dans les pays coutumiers, c’est, non pas la forme notariée, mais l’apposition du sceau qui confère l’authenticité aux actes.
+
+Les clercs notaires ou tabellions, qui au treizième siècle sont attachés aux officialités de ces pays, n’ont point par eux-mêmes le pouvoir de conférer aux actes la force authentique.
+Simples scribes assermentés, ils reçoivent la délégation du juge pour dresser des actes qu’ils présentent ensuite au sceau de la cour.
+
+Une de leurs fonctions les plus importantes consiste à tenir note des débats judiciaires.
+Le notarius communis désigné pour chaque procès rédige sur son registre les acta causæ.
+
+Plus tard, au quatorzième siècle, ces acta sont rédigés par un notaire qui exerce cette charge d’une manière permanente.
+Ils inscrivent les acta sur des registres qui diffèrent des registres particuliers des notaires.
+Ces registres appartiennent à la cour ; le notarius scriba ou greffier qui les rédige se distingue des autres notaires.
+
+
+=== VI ===
+
+Des executores. – Leurs diverses désignations.
+
+
+=== VII ===
+
+De la tenue de l’audience.
+Les féries du droit canonique, origine de nos vacances.
+
+
+== Deuxième partie Compétence. ==
+
+
+=== I ===
+
+L’Église connaît des actions personnelles et criminelles diri gées contre les clercs. – Toutefois elle s’abstient de réclamer pour son for les clercs mariés qui font le commerce, et les clercs mariés en secondes noces.
+Actes pontificaux sur cette matière. – Le clerc ne peut renoncer au for ecclésiastique. – Le privilège du for est généralement reconnu par les pouvoirs séculiers.
+
+Des personnes privilégiées, autres que les clercs, qui en certains cas peuvent réclamer le for de l’Eglise (croisés, écoliers, veuves, orphelins).
+
+La coutume attribue souvent à l’Eglise les causes des laïques. – Ceux-ci ont l’habitude de se soumettre volontairement à la juridiction ecclésiastique.
+
+L’Église a la connaissance exclusive des causes spirituelles et de celles qui s’y rattachent (dîmes non inféodées, droit de patronat) ; des matières bénéficiâtes et matrimoniales, notamment de la validité de l’union contractée entre l’homme et la femme, des promesses de mariage, de la légitimité des enfants.
+Par suite elle connaît de certaines questions soulevées à propos des conventions matrimoniales (douaire, maritagium).
+
+Le pouvoir séculier se réserve de décider si un bien est ou n’est pas aumosné.
+Droits de l’Eglise pour la garde de son patrimoine et de celui des établissements charitables.
+
+Le juge d’Église connaît de l’exécution des obligations garanties par le serment ; de l’exécution des testaments.
+
+Compétence de l’Eglise en matière criminelle : crimes commis dans tes lieux saints ou religieux, crimes contre la foi, sorcellerie, simonie, adultère, infractions à la trêve de Dieu, infanticide, usure, etc.
+
+
+=== II ===
+
+Les rapports entre tes deux pouvoirs ; fréquence des conflits.
+Saint Louis ne s’associa point à la confédération formée par tes barons en 1246 ; sagesse et prudence de sa politique.
+Il cherche un accord en négociant directement avec le saint-siége, et y arrive sur plusieurs points importants. 
+
+Philippe le Bel confirme à plusieurs reprises les privilèges des églises, en échange de subsides consentis par le clergé.
+Mais ses agents luttent avec acharnement contre la juridiction ecclésiastique.
+
+
+== Troisième partie Procédure. ==
+
+Caractère général de la procédure.
+C’est la procédure du Code et des Novelles, modifiée et simplifiée par les décrétales et les canonistes.
+Elle est en usage depuis la fin du xiie siècle.
+
+Première phase de la procédure.
+La procédure jusqu’à la litis contestatio.
+
+
+=== I ===
+
+Détermination du tribunal compétent parmi les tribunaux ecclésiastiques.
+L’évêque est juge ordinaire dans son diocèse.
+La coutume a introduit au-dessous de lui les juridictions des archidiacres et des doyens de chrétienté. – Cas réservés à l’évêque.
+
+Abbayes et chapitres exempts.
+Le juge ordinaire est, dans les lieux exempts, l’abbé ou le chapitre ; souvent la connaissance des causes matrimoniales est réservée à l’évêque diocésain.
+
+Principe traditionnel sur la compétence : Actor sequitur forum rei. – Dérogations à ce principe.
+
+
+=== II ===
+
+Du libellus introductif d’instance.
+Il est inutile, en droit canonique, d’y insérer le nom technique de l’action qu’on veut intenter ; il suffit d’exprimer clairement la demande.
+
+
+=== III à VIII ===
+
+De la citation. – De la contumace. – Des délais. – Des exceptions. – Des demandes reconventionnelles. – Des interrogations qui précèdent la litis contestatio. – De l’ordre à suivre dans les jugements.
+
+Deuxième phase de la procédure. – Le judicium proprement dit. – De la litis contestatio à la sentence définitive.
+
+
+==== I ====
+
+De la litis contestatio et de ses effets. – La litis contestatio est un acte bilatéral, exigeant la présence des deux parties ou de leurs représentants.
+Elle est essentielle à la formation du judicium.
+
+
+==== II ====
+
+Du serment de catumnia.
+
+
+==== III ====
+
+Des actes destinés à faciliter la preuve.
+Vers le milieu du xiiie siècle les positions remplacent les interrogations.
+Ces actes, peu différents les uns des autres, ont pour but de provoquer les aveux du défendeur.
+
+
+==== IV ====
+
+De l’aveu.
+
+
+==== V ====
+
+Règles générales de la preuve.
+
+
+==== VI ====
+
+De la preuve testimoniale.
+Les témoins sont entendus hors de la présence des parties, qui sont seulement appelées à la prestation de serment. – Publication des procès-verbaux d’enquête, dont copie est donnée aux parties.
+
+
+==== VII ====
+
+De la preuve littérale. – Distinction, force probante et mode de production des différents actes. – Valeur respective de la preuve testimoniale et de la preuve littérale. 
+
+
+==== VIII à XI ====
+
+Présomptions. – Serment. – Plaidoiries. – Office du juge après les plaidoiries.
+
+Troisième phase de la procédure. – La sentence. – Exécution de la sentence. – Voies de recours.
+
+
+==== I ====
+
+De la sentence. – Il faut distinguer les sentences interlocutoires des sentences définitives. – On range parmi les interlocutoires toute sentence qui ne tranche pas la question principale. – Les sentences interlocutoires peuvent être révoquées par le juge.
+
+
+==== II ====
+
+La sentence peut être infectée d’un vice qui lui enlève toute valeur : on fera valoir ce vice par la plainte en nullité.
+
+
+==== III ====
+
+Une sentence valable en droit est susceptible d’être réformée par l’effet des voies de recours qui suivent : querela falsi, appel, restitutio in integrum. – Étude de ces voies de recours.
+
+
+==== IV ====
+
+De l’exécution des sentences.
+
+
+==== V ====
+
+Des dépens.
+
+
+== Conclusion. ==
+
+La procédure canonique a exercé une influence salutaire sur le développement des institutions judiciaires. 
+
+
+== Appendice. ==
+
+Notions diplomatiques sur les lettres passées sous le sceau de l’official.
+
+
+== Pièces justificatives. – Formules. ==
+
+Chaque élève publier⁎ les positions de sa thèse isolément et sous sa responsabilité personnelle.
+
+{Règlement du 10 janvier 1860, art. 7.)

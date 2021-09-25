@@ -1,0 +1,133 @@
+identifier: ENCPOS_1948_20
+creator: Jacques Yvon
+date: 1948
+title: L’illustration des romans arthuriens du xiiie au xve siècle
+
+
+
+== Bibliographie ==
+
+
+
+
+== Introduction ==
+
+Cette étude porte principalement sur l’illustration des romans arthuriens, mais ne s’interdit pas d’aborder à l’occasion celle d’autres romans de chevalerie.
+Apparition de l’illustration des romans arthuriens dans la seconde moitié du xiiie siècle ; influence des versions en prose.
+
+
+== Première partie La forme ==
+
+
+=== Chapitre premier la composition. ===
+
+La lettre historiée n’est employée qu’au xiiie et disparaît avec le xive siècle.
+Le tableau, de forme rectangulaire, large d’une colonne de manuscrit, haut de plusieurs lignes de texte, fait concurrence à la lettre historiée dès le xiiie siècle.
+Il triomphe aux xive et xve siècles.
+Formes que prennent les tableaux quand ils servent de frontispices aux romans.
+Comment se présentent les bordures des manuscrits du xiiie au xve siècle.
+
+
+=== Chapitre II L’anonymat des artistes, écoles et ateliers. ===
+
+Si les comptes révèlent des noms d’artistes, on ne peut rapprocher un seul nom d’une œuvre, car aucun artiste n’a signé son œuvre.
+On est obligé d’avoir recours à la méthode comparative, bien qu’elle présente des difficultés et des dangers.
+
+Les écoles et ateliers : a) xiiie siècle. – L’école du nord de la France est celle qui a produit le plus de manuscrits illustrés de romans.
+La langue et le style des manuscrits le prouvent.
+Un atelier semble se dégager de cette école, dont le produit le plus représentatif est le manuscrit français 342 de la Bibliothèque nationale.
+Y eut-il un atelier à Amiens ?
+L’École de Paris n’a illustré que peu de romans.
+Les deux manuscrits français 748 et 754 de la Bibliothèque nationale proviennent -ils d’un atelier du sud de la Loire ?
+
+b) xive siècle. – Un atelier dont la production est importante occupe tout le premier tiers du xiv® siècle : parmi les manuscrits qui sortent de cet atelier il faut citer le manuscrit français 105 de la Bibliothèque nationale, dont le manuscrit 3481 de la bibliothèque de l’Arsenal est la continuation, le manuscrit 20 de la bibliothèque Sainte-Geneviève.
+Un manuscrit daté de 1345 (le manuscrit français 122 de la Bibliothèque nationale) sort d’un atelier parisien copiant la manière de Jean Pucelle.
+La production des romans ne reprend qu’à la fin du xive siècle.
+Quelques manuscrits de l’époque de Charles V et des ateliers de la fin du siècle.
+
+c) xve siècle. – Les manuscrits du duc de Berry (les manuscrits français 117-120 de la Bibliothèque nationale et les manuscrits 3479-3480 de la bibliothèque de l’Arsenal) ont été en partie peints par le maître des Heures de Boucicaut.
+Le duc d’Armagnac, Jacques de Nemours, a fait exécuter plusieurs romans dont l’illustration sort d’un même atelier.
+Peut-être l’enlumineur Evrard d’Espingues y a-t-il travaillé.
+Manuscrits provenant de Louis de Bruges.
+On retrouve les caractéristiques de Jean Colombe et de son atelier dans un manuscrit négligé jusqu’ici : le manuscrit français 91 de la Bibliothèque nationale.
+
+
+=== Chapitre III La technique des enlumineurs. ===
+
+On aimerait connaître le fonctionnement d’un atelier d’enlumineur.
+L’étude des manuscrits révèle dans quel ordre était faite leur illustration.
+Les rubriques, qui lieront généralement que des têtes de chapitres, peuvent être des légendes des illustrations et, mieux, des guides pour les enlumineurs.
+Les notes pour l’enlumineur dirigent son travail : les notes du manuscrit français 340 de la Bibliothèque nationale.
+Les esquisses, enfin, font mieux connaître les intentions des maîtres d’atelier ; celles qui sont exécutées à la place même des enluminures apparaissent plus tardivement que les esquisses marginales et semblent le fait d’ateliers mieux organisés : les esquisses du manuscrit français 96 et les esquisses de Jean Colombe ou de son atelier dans le manuscrit français 91 de la Bibliothèque nationale.
+
+
+== Deuxième partie Les origines et l’expansion de l’illustration ==
+
+
+=== Chapitre premier les origines. ===
+
+Tant par la forme des enluminures que par leur style et leur composition, l’illustration des romans tire son origine de l’illustration des psautiers et des bestiaires, particulièrement florissante en Angleterre au xiie siècle.
+Ainsi s’explique que les premiers exemples d’illustration des romans appartiennent à l’école du nord de la France, dont les relations avec l’Angleterre sont évidentes.
+
+
+=== Chapitre II L’expansion. ===
+
+Influence de la forme plutôt que du fond sur les manuscrits eastangliens du début du xive siècle, où l’on retrouve les mêmes cadres d’illustration que dans les manuscrits de romans français du xiiie siècle.
+Cette expansion de l’art du nord de la France se fait plus vivement sentir dans les manuscrits italiens du Trecento et particulièrement de l’école lombarde.
+Les relations entre la France et l’Italie à cette époque sont connues.
+Un grand nombre de romans de chevalerie sont passés en Italie, qui sont revenus en France par des voies diverses : le manuscrit français 95 de la Bibliothèque nationale a appartenu à la bibliothèque des ducs de Milan à Pavie.
+Mais, là encore, cette influence s’exerce sur la forme plus que sur le style et l’esprit.
+
+
+== Troisième partie Le fond ==
+
+
+=== Chapitre premier l’esprit de l’illustration. ===
+
+Art populaire au début, l’illustration des romans des XIIIe et xive siècles montre que les enlumineurs ont eu le souci d’illustrer les ouvrages en se conformant à la lettre du texte.
+Par là cet art populaire se révèle comme un art de style « classique », tandis qu’à partir de la fin du xive siècle, les romans deviennent un prétexte à illustration de scènes plaisantes et flatteuses pour leurs clients.
+Ainsi Jacques d’Armagnac fait remanier selon ses goûts les manuscrits ayant appartenu à son trisaïeul, le duc de Berry (manuscrit français 117-120 de la Bibliothèque nationale).
+Cette cassure dans l’esprit de l’illustration est due sans doute aux Italiens.
+
+
+=== Chapitre II Les familles d’illustration. ===
+
+Essai de groupement des manuscrits par famille d’illustration.
+Il ne faut pas conclure des familles de texte aux familles d’illustration.
+Les manuscrits d’un même roman ne sont pas tous illustrés de la même façon, la concordance s’établissant surtout entre manuscrits d’un même atelier (manuscrits français 19162 et 24394 de la Bibliothèque nationale, par exemple), à moins qu’un atelier n’ait copié l’illustration d’un manuscrit sur un autre : tel le cas du manuscrit français 102 qui reproduit les images du manuscrit français 97 de la Bibliothèque nationale.
+
+
+=== Chapitre III L’iconographie. ===
+
+L’iconographie profane a été peu étudiée.
+Elle a fait des emprunts à l’iconographie religieuse qui sont visibles dans l’illustration des romans de chevalerie.
+Certains thèmes religieux ont été traités par les enlumineurs de romans, comme l’Annonciation, la Crucifixion.
+Les illustrations peuvent apporter des renseignements précieux sur l’iconographie profane : le roi, la guerre, le chevalier et sa vie, etc...
+Une liste de sujets par ordre alphabétique, dans laquelle est comprise l’iconographie des principaux héros des romans avec leurs armes, indique les thèmes les plus fréquemment rencontrés et la manière dont ils ont été traités pendant trois siècles.
+
+
+== Conclusion ==
+
+L’illustration des romans de chevalerie a consacré la forme nouvelle du tableau sur parchemin en l’adoptant pour elle-même dès le xiiie siècle.
+Elle fait connaître un art populaire, vivant, différent de l’art plus luxueux et étudié des mêmes époques.
+Mais cet art, foncièrement indépendant au début, se transforme lui-même, sous des influences diverses avec la fin du xive siècle, pour n’être plus que le reflet de la vie des nobles du temps.
+
+
+== Les propriétaires des manuscrits ==
+
+
+
+
+== Notices des manuscrits ==
+
+
+
+
+== Notices des planches ==
+
+
+
+
+== Planches ==
+
+

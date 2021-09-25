@@ -1,0 +1,100 @@
+identifier: ENCPOS_1991_13
+creator: Caroline Guillaume
+date: 1991
+title: Édition d’un recueil d’exempla du xive siècle, le Speculum exemplare ou Liber ad status
+
+
+
+== Introduction ==
+
+Le Spéculum exemplare a été signalé par Jean-Thiébaud Welter qui lui a donné le titre de Liber ad status, nom particulier que seul lui donne le manuscrit italien conservé à la Bibliothèque nationale, lat. 6368 (P).
+Il n’en recensait que quatre copies : le manuscrit de Paris, le manuscrit Semur, Bibliothèque municipale 18 (S), Charleville, Bibliothèque municipale 85e (C), et Florence, Bibliothèque Laurentienne, Santa Croce, pluteus XXXI sin. cod.
+VIII (F Santa Croce).
+Il semblait n’avoir vu que le manuscrit italien de Paris et pensait que l’auteur de cet ouvrage était un religieux cistercien italien.
+
+Or, dès le début du XVIII’ siècle, Bernard de Montfaucon cite, dans sa Bibliotheca bibliothecarum, un manuscrit italien de la Bibliothèque Laurentienne, le Pluteus XXVI, codex XVII (F Laur.), d’après la rubrique duquel le compilateur serait le dominicain maître en théologie, Rambert de Bologne, mort en 1308.
+Après lui, tous les articles sur Rambert de Bologne citent parmi ses œuvres ce recueil et ce seul manuscrit, que n’a pas connu Welter. 
+
+
+== Première partie Étude du speculum exemplare ==
+
+
+=== Chapitre premier la composition du Spéculum exemplare ===
+
+Le recueil est divisé en cinq parties contenant cent quatre-vingt-sept exempta et qui se rapportent, chacune, à une catégorie différente.
+La première partie concerne les hommes d’État, leurs vertus à imiter et leurs travers à éviter ; elle comporte trente-deux chapitres.
+La seconde traite des clercs, des hommes voués à l’étude et des avocats ; elle se compose également de trente-deux chapitres.
+La troisième, la plus longue, traite des moines, de leurs tentations et de leurs vertus en quarante-cinq chapitres.
+La quatrième, la plus courte (vingt-trois chapitres), s’étend avec complaisance sur les défauts des femmes, en reconnaissant cependant sur la fin que certaines possèdent des qualités d’humilité et de patience.
+La cinquième partie rassemble des exempla divers : contre l’attachement à ce monde, la vaine gloire, la mort, l’avarice et l’amour du gain, la calomnie, les spectacles et les rires, l’adultère, l’aumône, le blasphème, la pénitence...
+
+Chaque chapitre est introduit par une ou plusieurs phrases résumant le chapitre précédent et annonçant la suite, énonçant des vérités générales sur telle vertu ou tel vice ; puis le compilateur développe V exemplum en prenant soin de citer sa source, un auteur de l’Antiquité classique ou du Moyen Age.
+
+Les thèmes abordés sont communs aux manuels d’éducation des princes et aux recueils d’exempla : on trouve d’assez nombreux exempta sur le diable ; quelques-uns sur la confession, qui s’adressent au confesseur qui a le devoir de recevoir les pécheurs plutôt qu’il n’exhorte le laïc à se faire confesser ; d’autres sur les peines du Purgatoire, mais aucun ne met en scène la Vierge Marie.
+
+
+=== Chapitre II La source du Spéculum exemplare : Vincent de Beauvais ===
+
+Le Spéculum exemplare n’est pas une œuvre originale ; il a été compilé à partir du Spéculum historiale de Vincent de Beauvais.
+Seules la ou les phrases d’introduction sont issues de la réflexion de l’auteur.
+Chaque exemplum a été recopié ou résumé d’après Vincent de Beauvais.
+Il n’y a donc pas d’exemplum personnel.
+Un seul exemplum non localisé dans le Spéculum historiale se trouve dans la Scala Celi (n° 568).
+
+Ainsi les emprunts ont été faits aux livres suivants du Spéculum historiale : II à XI, XIII, XIV et XV (Vite Patrum), XVI, XVII (Vite Patrum), XVIII, XIX (Jean Cassien), XXII (Dialogues de Grégoire le Grand), XXIV, XXV (Guillaume de Malmesbury et Pierre Damien), XXVIII, XXIX (Hélinand de Froidmont).
+
+Le compilateur a dû noter, probablement dans la marge, les précisions que donne Vincent de Beauvais quand il cite sa source : le nom de l’œuvre, le livre et le chapitre, car deux manuscrits, D et F (Laur.) conservent partiellement ces références, l’un en marge, l’autre intégrées dans le texte.
+
+Pour élaborer le Spéculum exemplare, on a pu utiliser le répertoire alphabétique dont Vincent de Beauvais était l’auteur.
+
+
+=== Chapitre III Les sources de Vincent de Beauvais ===
+
+Les auteurs des exempla du Spéculum, exemplare sont les suivants : saint Augustin, De civitate Dei ; Aulu-Gelle, Nuits Attiques ; Jean Cassien, Institutiones coenobiorum et Collationes ; Cassiodore Epiphane traduit par Socrates Sozomenos, Historia ecclesiastica ; Pierre Damien, Opuscula et Epistulae ; Cicéron, De Offidis ; Eadmer, Vita s.
+Anselmi Cantuariensis ; Ésope ; Eutrope ; Fulgence, Mythologiae ; Flavius Josèphe, Antiquitates ; les Gesta Francorum ; saint Grégoire le Grand, Dialogues et Homélies ; Guillaume de Malmesbury, Gesta regum Anglorum ; Geoffroi d’Auxerre, De contemptu mundi ad clericos ; Hélinand de Froidmont, Chronique, De Cognitione sui et De Bono regimine principum ; Hugues de Fleury, Historia ecclesiastica ; Isidore de Séville, Etymologiae ; saint Jerôme, Adversus Jovinianum ; Justin, Epitoma ; Macrobe, Saturnalia ; ps.
+Mercure Trismegiste ; Orose, Adversum Paganos ; Rufin, Historia ecclesiastica et Historia monachorum : Sénèque, De Beneficiis ; Suétone, Vies des douze Césars ; Sulpice Sévère, Dialogues ; Tertullien, Apologétique ; ps.
+Turpin, Chronique ; Valère Maxime, Facta et dicta memorabilia ; Vite patrum (Vita Barlaam et Josaphat, Heraclidis Paradisus, Verba seniorum).
+
+On constate que ce sont les Vite patrum et Valère Maxime qui sont les plus largement utilisés dans ce recueil.
+Dans la première partie, les hommes d’État se voient proposer les modèles de l’Antiquité ; aussi Suétone et Valère Maxime sont-ils les plus fréquemment cités.
+Dans la deuxième (les clercs) et la cinquième partie (exempla communs), la variété des thèmes a autorisé un choix d’auteurs divers.
+Les Vite patrum et Jean Cassien sont à l’honneur dans la troisième partie réservée aux moines.
+Grégoire le Grand et saint Jérôme (Adversum Jovinianum) offrent des exempla appropriés à l’édification des femmes. 
+
+
+=== Chapitre IV L’auteur ===
+
+L’origine de cette compilation doit être recherchée dans le nord de l’Italie (à l’intérieur du triangle Milan-Bologne-Florence).
+Quant à la date de composition, elle se situe probablement dans le premier tiers du XIV’ siècle.
+
+L’attribution ancienne de cette œuvre à Rambert de Bologne se base sur le seul manuscrit Florence, Bibliothèque Laurentienne, pluteus XXVI, cod.
+XVII.
+
+Rien dans la date, l’origine, et même dans le contenu ne s’oppose à cette attribution ; le Spéculum aurait alors été rédigé entre 1290/1295 et 1303.
+
+Cependant cette compilation ne montre pas une grande originalité ; la facture, à cause des coupures faites dans le texte de Vincent de Beauvais, en est parfois maladroite.
+
+
+=== Chapitre V Les manuscrits du Spéculum exemplare ===
+
+Dix manuscrits du Spéculum exemplare, dont six du XIV’ siècle, ont été répertoriés.
+
+Aux quatre manuscrits indiqués par Welter et au manuscrit de Florence, pluteus XXVI, cod.
+XVII, s’ajoutent trois autres manuscrits conservés en Angleterre : le manuscrit Durham, Bibliothèque universitaire, Cosin V.I.13 (D), Oxford, Bibliothèque Bodleienne, e Museo 244 (O), et Londres, British Muséum, add. 28871 (L) que M.W. Bloomfield indique dans sa liste d’incipits d’ouvrages sur les vices et les vertus (n° 6202).
+
+Le manuscrit Tarragone, Biblioteca provincial 103 (7) attribue ce recueil au prédicateur Jacques Legrand, mort en 1415.
+Enfin un dernier manuscrit a été localisé : Utrecht, Bibliothèque universitaire 382 (Eccl. 112) (U).
+
+Deux familles se distinguent : celle qui rassemble D, F (Laur.), C, L, O, d’un côté, et l’autre, S et F, alors que P se rattache aux deux.
+U et T devraient se rattacher à la première famille.
+
+En conclusion, le Spéculum exemplare s’est diffusé au XIV’ siècle de l’Italie du Nord vers la France ; il se trouve en Angleterre à la fin du siècle ; au siècle suivant, il connaît un succès important dans le territoire actuel de la Belgique et des Pays-Bas, en particulier chez les Chartreux, succès qui laisse penser que plutôt qu’un instrument à l’usage du prédicateur, il était devenu alors un manuel de réflexion personnelle. 
+
+
+== Deuxième partie Édition du speculum exemplare ==
+
+Le manuscrit qui sert de base à l’édition complète du Spéculum exemplare est C, qui date de la fin du xive siècle ; D, S, F (Laur.) et P ont été collationnés et apparaissent dans l’apparat critique.
+
+Les notes comprennent la localisation de l’extrait dans l’œuvre de leur auteur, la référence à une édition, la référence du passage dans le Spéculum historiale de Vincent de Beauvais, de Y exemplum dans Y Index exemplorum de Frederic C. Tubach.
+
+Enfin, les expressions et les phrases entières copiées dans le Spéculum historiale ont été présentées en italiques.

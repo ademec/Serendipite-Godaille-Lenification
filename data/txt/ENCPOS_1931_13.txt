@@ -1,0 +1,134 @@
+identifier: ENCPOS_1931_13
+creator: Renée Jolivet
+date: 1931
+title: Les institutions municipales de Bourges jusqu’à la fin du règne de Charles VIII
+
+
+
+== Avant-propos ==
+
+
+
+
+== Bibliographie ==
+
+
+
+
+== Introduction historique ==
+
+
+
+
+== Premiere partie Recherches sur les institutions municipales au moyen Age ==
+
+
+=== Chapitre premier l’époque franque. ===
+
+Vestiges d’institutions gallo-romaines. – Des curiales et un defensor civitatis ont peut-être subsisté jusque sous le règne de Charlemagne (si les formules qui les mentionnent ne sont pas de simples repro ductions de formules archaïques), mais leurs fonctions étaient limitées à l’enregistrement de certains actes juridiques dans les gesta municipalia.
+
+L’évêque. – L’évêque n’était pas defensor civitatis, mais il était une puissance morale considérable : seul recours des habitants contre les agents fiscaux, il contribua à maintenir dans la cité une petite population d’hommes libres.
+
+Le comte. – La convocation des notables au tribunal du comte a peut-être laissé un souvenir à l’époque postérieure, tout au moins dans le choix du lieu de réunion des habitants.
+
+
+=== Chapitre II Le xiie siècle : les privilèges royaux. ===
+
+Après avoir acheté la ville au vicomte, les rois, par une série de chartes (1120-1224), en font un lieu d’asile, répriment les abus des prévôts, accordent aux habitants des exemptions financières et militaires.
+Mais rien ne permet de penser que l’administration ne soit pas tout entière aux mains des officiers royaux.
+Quant au droit de rendre les jugements dans la ville et la septaine, les chartes royales reconnaissent qu’il appartient aux probi homines, aux « prudhommes », c’est-à-dire, très vraisemblablement, aux bourgeois de la ville : il s’agit d’une juridiction bourgeoise, non d’une juridiction municipale.
+
+
+=== Chapitre III La communauté urbaine. ===
+
+Au xiiie siècle, les bourgeois forment une communauté de fait.
+Mais ce n’est qu’en 1308 que nous voyons apparaître les mots universitas ou communitas : à cette date, la communauté agit sur le contrôle du prévôt.
+En 1335, nous trouvons un procureur des habitants.
+Mais en 1345, les habitants déclarent encore ne former « ni corps ni communauté » : il n’y a donc pas de raison de penser qu’il y ait eu une commune à Bourges, bien que le mot se trouve dans une charte de 1174 en faveur du chapitre de Saint-Etienne.
+
+Les habitants s’assemblent au prieuré de la Comtale pour traiter des affaires de la ville : envoi de députés au roi, levée de contributions, procès où la communauté est engagée, etc.
+Tout ceci nécessite des dépenses communes, dont quelques-uns des bourgeois ont pu être chargés, mais n’implique pas l’existence d’un véritable corps municipal.
+
+
+=== Chapitre IV L’apparition des élus. ===
+
+En 1361, nous trouvons pour la première fois les « quatre élus au gouvernement de la ville » : il est fort probable qu’il s’agit d’une mesure prise en vue des nécessités de la guerre.
+Le premier devoir des élus est de veiller aux fortifications et de percevoir les deniers nécessaires à leur entretien (d’après le procès-verbal de leur élection de 1429, le plus ancien qui nous ait été conservé).
+Simples mandataires de la communauté, ils ont un rôle d’administrateurs très limité quant à la compétence (les ordonnances de police émanent des officiers royaux ou ducaux) et quant à l’étendue territoriale (la ville, et non la septaine). 
+
+
+=== Chapitre V La justice bourgeoise. ===
+
+I. En la « terre du roi », la justice dans la ville et la septaine était rendue au tribunal du prévôt ou du bailli par les « bourgeois jugeants ».
+Ils n’avaient que le prononcé de la sentence, dont le juge royal qui avait instruit le procès assurait l’exécution.
+L’appel allait directement au Parlement, qui, en cas de « fol jugement », condamnait les bourgeois à l’amende.
+
+II. Les justices ecclésiastiques limitent dans la ville l’exercice de la justice du prévôt ou du bailli.
+Elles appartiennent aux chapitres de Saint-Etienne et de Saint-Ursin, aux abbayes de Saint-Ambroix et de Saint-Sulpice ; nous constatons, surtout dans la justice de Saint-Ursin au xve siècle, la présence de bourgeois qui rendent la sentence : sans doute imitation de ce qui se passait au tribunal du prévôt ou du bailli.
+
+
+== Deuxieme partie Les institutions municipales sous Louis XI et Charles VIII ==
+
+
+=== Chapitre premier la bourgeoisie et ses privilèges. ===
+
+A la fin du xve siècle, la bourgeoisie de Bourges est une aristocratie riche, composée des « bourgeois » proprement dits (vivant de leurs revenus), des « marchands » et des « licenciés » ou hommes de loi.
+
+Ils jouissent encore de nombreux privilèges : pécuniaires, (exemption de taille, en principe : le roi ne l’observe pas toujours), militaires (exemption de service militaire), judiciaires (droit de ne plaider qu’à Bourges ; droit, grâce à la juridiction bourgeoise, d’être jugés par leurs pairs), économiques (possession de foires franches).
+
+
+=== Chapitre II Organes de l’administration municipale. ===
+
+I. Assemblée générale des habitants. – Elle ne comprend en réalité que les chefs des familles riches.
+Ses pouvoirs, encore très étendus au début du règne de Louis XI, sont limités en 1492 par l’institution des « conseillers trente-deux ».
+
+II. Conseillers trente-deux. – Ce sont des notables élus par les habitants de chacun des quatre quartiers, et qui, à leur tour, élisent les maires et échevins dont ils sont les collaborateurs pour l’administration municipale.
+
+III. Corps de ville. – a) Elus désignés par les habitants en assemblée générale jusqu’en 1474. b) Maire et douze échevins, nommés par le roi (1474-1484). c) Quatre échevins élus par les habitants en assemblée générale (1484-1492). d) Maire et quatre échevins élus par les conseillers, trente-deux à partir de 1492.
+
+
+=== Chapitre III Les deniers communs et leur emploi. ===
+
+I. Recettes. – Le principal et le plus ancien des revenus est le treizain ou appetissement des mesures de vin (une pinte sur 13 vendues est payée par le vendeur à la ville) ; les autres sont le pavage (droit d’entrée) ; le droit de 2 sols 6 deniers par minot de sel vendu au grenier à sel ; le droit de fournissement du grenier à sel ; exceptionnellement, une part des tailles levées par le roi.
+
+II. Dépenses. – Les divers chapitres de dépenses sont les gages et pensions, les présents (celui-ci considérable), les œuvres et réparations, les voyages et procès, les dépenses extraordinaires.
+
+
+=== Chapitre IV L’administration municipale. ===
+
+I. Travaux publics, édilité. – Le corps municipal veille à l’entretien des remparts, à la construction de ponts, de puits, d’édifices publics (hôtel de ville), aux divers travaux de voirie.
+
+II. Police. – Les lettres patentes de 1492 ont confié aux maire et échevins la police de la ville, avec une juridiction correctionnelle limitée.
+
+III. Charges militaires. – Elles consistent à organiser, sur l’ordre des officiers royaux, le guet et la garde des portes.
+
+IV. Assistance publique, culte, université. – Le corps municipal désigne les maîtres de l’Hôtel-Dieu et de la Maladrerie, participe au culte public, contrôle l’enseignement des professeurs de l’Université.
+
+IV. Charges diverses. – L’activité officieuse du corps municipal est multiple et absorbante.
+
+Ingérence du pouvoir royal : les officiers royaux participent aux travaux de la municipalité, et le roi intervient jusque dans les petits détails d’administration. 
+
+
+=== Chapitre V Déclin de la juridiction bourgeoise. ===
+
+La juridiction bourgeoise, limitée, à la fin du XVe siècle, aux causes criminelles, se confond dans la pratique avec la juridiction correctionnelle des maire et échevins, et tombe en désuétude (quelques vestiges en subsisteront jusqu’au milieu du xviie siècle).
+
+
+== Conclusion ==
+
+Il faut distinguer deux domaines : l’administration, qui semble n’avoir été confiée à un corps municipal que depuis le milieu du xive siècle, et la justice appartenant aux bourgeois, vestige de très anciennes institutions qui se fond peu à peu dans l’ensemble des institutions monarchiques.
+
+
+== Planches ==
+
+
+
+
+== Plan ==
+
+
+
+
+== Table des matières ==
+
+

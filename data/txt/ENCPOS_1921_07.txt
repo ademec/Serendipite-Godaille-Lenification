@@ -1,0 +1,235 @@
+identifier: ENCPOS_1921_07
+creator: Frédéric Joüon Des Longrais
+date: 1921
+title: La dévolution possessoire dans la coutume de Bretagne. Acquisition de la possession par les successeurs du défunt dans la coutume de Bretagne
+
+
+
+== Introduction ==
+
+La notion de possession. –.
+L’idée franque considère la jouissance comme l’essence même de la propriété.
+
+L’idée romaine sépare le droit de propriété lui-même, de l’exercice en fait de ce droit, la possession.
+
+La notion de dévolution. – Sous l’influence de l’idée franque la dévolution de la jouissance et celle de la propriété se confondent tout d’abord dans notre droit.
+
+Sous l’influence de la renaissance du droit romain, le droit coutumier distingue : la dévolution héréditaire de la propriété, la dévolution possessoire de la jouissance. 
+
+
+== Première partie Origine de la dévolution possessoire en Bretagne ==
+
+
+=== Chapitre premier ===
+
+La Bretagne à l’époque celte ainsi qu’aux premiers siècles de la féodalité ne dégage pas l’idée de possession de l’idée de propriété. – Elle conçoit la dévolution comme donnant globalement propriété et jouissance.
+
+
+=== Chapitre II ===
+
+Dans la Bretagne du xiiie siècle, la notion de dévolution possessoire se dégage peu à peu par une analyse profonde du droit, par un emploi plus précis des termes juridiques. – Premières manifestations de la saisine héréditaire (1re moitié du xiiie s.). – Influence du droit anglo-normand. – La très ancienne Coutume de Bretagne (1312-1325) dépeint un régime de dévolution possessoire appliqué depuis longtemps déjà.
+Ce régime sera celui de la Bretagne jusqu’à la Révolution.
+Voici ses bases :
+
+
+==== Transfert direct de la possession du défunt à l’héritier ====
+
+Successions roturières : saisine héréditaire égale de la ligne directe.
+
+Successions nobles : Saisine héréditaire du seul aîné noble.
+
+TRANSFERT INDIRECT DE LA POSSESSION DU DÉFUNT
+
+
+==== A l’héritier ====
+
+Mainmise sur les successions collatérales, suivie d’un envoi en possession sous forme de mainlevée.
+
+
+== Deuxième partie La saisine héréditaire ==
+
+
+=== Chapitre premier définitions et explications ===
+
+L’héritier en ligne directe est, par le bénéfice d’un transfert qu’opère la Coutume, saisi de la totalité des biens possédés par le défunt au moment de sa mort, et cela à l’égard de tous : tant des tiers que des cohéritiers ou du seigneur de fief.
+
+Il y a là un transport légal de possession, qui dispense pendant an et jour l’héritier d’appréhender réellement la succession et qui lui ouvre de suite le droit aux actions possessoires.
+
+
+=== Chapitre II Nature de la saisine héréditaire ===
+
+Sous l’influence des idées romaines l’on distingue : a) La possession naturelle ou saisine de fait, la détention matérielle ; b) la possession civile ou saisine de droit, le droit de posséder fondé sur un juste titre, ou sur une durée d’an et jour et protégé par les actions possessoires.
+
+La Coutume donne par la saisine héréditaire la possession de droit, bien plus elle donne par une fiction étrange la possession de fait : l’héritier, même absent, est censé occuper matériellement le bien.
+Les Romanistes démontrent l’impossibilité de concevoir juridiquement un fait inexistant.
+La tradition coutumière maintient malgré eux la fiction d’une possession de fait.
+D’Argentré, dont le système très pratique modifie la pensée coutumière, empêche pendant l’an et jour l’héritier d’être troublé dans la jouissance de la succession, mais après ce délai, il défend les droits acquis aux dépens de l’héritier par un tiers.
+
+
+=== Chapitre III Conditions et effets de la saisine héréditaire ===
+
+Application de l’adage :
+    « L’héritier apuré ne plaide point dessaisi si son auteur était en possession. »
+Les droits du défunt servent de cadre à la saisine de l’héritier.
+
+a) Vis-à-vis des tiers : L’héritier est saisi de ce que le défunt possédait, même s’il était dessaisi de fait (mais non toutefois de droit), même s’il ne tenait qu’à titre viager (l’héritier par exemple est saisi d’un usufruit du défunt jusqu’au moment où il est fait droit à la réclamation du nu-propriétaire).
+
+b) Vis-à-vis des parents, la saisine héréditaire a lieu même en cas de contestations entre héritiers. 
+
+
+=== Chapitre IV Qui à droit à la saisine héréditaire ? ===
+
+La Coutume dispose librement de la saisine héréditaire.
+La volonté n’en dispose point.
+
+
+==== § 1 – Règles générales pour toutes successions. ====
+
+a) La ligne directe est seule saisie, c’est-à-dire les descendants légitimes et capables sans limitation de degré.
+
+b) La ligne collatérale n’a pas la saisine.
+Elle finit pourtant par l’obtenir vis-à-vis de tout autre que le seigneur, puis même à son égard au profit des collatéraux les plus proches (1638).
+
+
+==== § 2. – Règles spéciales aux successions nobles. ====
+
+a) En ligne directe a lieu la saisine de l’aîné noble.
+
+Motifs : l’aîné hérita d’abord de toute la succession.
+Les puînés admis à succéder, il continua d’en recevoir toute la saisine ; cela sauvegarde les apparences, les prérogatives de l’aîné et aussi ses intérêts.
+
+Les seules conditions de cette saisine héréditaire sont d’être aîné et noble.
+
+Le caractère de cette saisine est nettement coutumier et exclusivement possessoire.
+L’aîné reçoit sa saisine privilégiée de la Coutume indépendamment de sa volonté.
+Le droit de propriété du puîné reste intact.
+
+Par l’effet de cette saisine, seul maître dès l’ouverture de la succession, il repousse l’héritier qui le trouble, perçoit les fruits, exerce toutes les actions et procède enfin au partage.
+Le puîné n’a pendant ce temps que l’expectative de sa part.
+
+C’est une institution sévère pour les puînés, elle se rattache à l’organisation traditionnelle de la famille dans la noblesse.
+
+b) En ligne collatérale, l’aîné n’a pas de saisine héréditaire, mais le privilège de venir seul demander mainlevée.
+Dès la mainlevée, la saisine de l’aîné noble réapparaît.
+Elle gêne peu d’ailleurs les faibles droits des puînés sur les successions collatérales nobles. 
+
+
+== Troisième partie La mainmise et la mainlevée ==
+
+En Bretagne, la possession est transmise indirectement à la ligne collatérale.
+L’institution de la mainmise et de la mainlevée remplace en ce cas pour les héritiers collatéraux la saisine héréditaire.
+La possession héréditaire du défunt passe en main de justice : C’est la mainmise.
+Les héritiers devront réclamer à la justice la possession afin de pouvoir exercer leur droit : c’est la mainlevée.
+
+
+=== Section I mainmise ===
+
+
+==== Chapitre premier fondement et motifs ====
+
+On peut donner un double fondement à la mainmise :
+
+BASE HISTORIQUE : Conservation des droits du seigneur.
+
+Quand l’hérédité des fiefs et des tenures était encore mal établie, la ligne collatérale se voyait fréquemment exclue de la succession.
+A défaut d’héritiers directs, le seigneur reprenant le fief, le vassal devait venir lui demander le renouvellement de la concession.
+Le droit de succession des héritiers collatéraux reconnu plus tard, le seigneur continue néanmoins à prendre possession des successions collatérales pour remettre ensuite cette possession aux ayants droit, tant dans les successions nobles que roturières.
+La mainmise du seigneur comme la saisine générale de l’aîné noble sont des archaïsmes conservés au possessoire par la tradition bretonne.
+
+A l’époque des Coutumes rédigées, il est devenu illogique et injuste de soutenir, comme le fait d’Argentré, que le droit de mainmise sur les successions collatérales s’appuie encore sur le droit du seigneur aux déshérences.
+Il ne peut plus en effet y avoir déshérence que s’il n’y a pas d’héritiers collatéraux pour recueillir la succession. 
+
+BASE JURIDIQUE : Conservation du droit des héritiers collatéraux.
+
+Seul l’intérêt des héritiers collatéraux peut justifier au xvie siècle la mainmise dans les Coutumes bretonnes.
+C’est une question d’ordre public de protéger les droits éventuels des collatéraux fondés à succéder, en mettant en possession celui d’entre eux qui paraîtra avoir le plus de droit.
+
+
+==== Chapitre II À qui appartient le droit de mainmise ? ====
+
+Dans l’opinion de d’Argentré et de son temps, la mainmise est liée à la déshérence, il faut donc rechercher l’attribution du droit de déshérence pour déterminer le bénéficiaire du droit de mainmise.
+
+I. Théorie de d’Argentré. – Le seigneur de fief est censé, lors de l’investiture, s’être réservé le retour du fief entre ses mains, au cas de défaut d’héritier.
+La reprise du seigneur est un droit de simple féodalité, et non de justice.
+C’est un droit domanial et non juridictionnel.
+La théorie de d’Argentré est logique, néanmoins il n’y a pas là retour conventionnel, mais plutôt un retour légal que la Coutume réserve au seigneur de fief étant donnée la probabilité de ses intentions.
+
+II. La théorie suivie par les Coutumes de Bretagne. – La très ancienne coutume de Bretagne et l’ancienne Coutume proclament les successions collatérales en garde de justice.
+Cela équivaut en pratique à reconnaître les droits du seigneur de fief, puisqu’en Bretagne il n’y a pas de fief sans justice.
+La Nouvelle Coutume de Bretagne, sous l’influence de d’Argentré, adopte une rédaction différente, et, par crainte des empiétements de la justice royale, stipule formellement le droit du seigneur de fief.
+
+III. La théorie de Dumoulin. – Le fisc, en vertu d’un droit régalien sur les biens vacants, prend les successions en déshérence (le fisc des seigneurs haut-justiciers agissant en vertu d’un pouvoir délégué).
+Le domaine utile une fois inféodé ne doit jamais, à part les cas strictement prévus de révocation de la concession, faire retour au seigneur de fief.
+Ce dernier ne saurait donc reprendre à raison de sa directe le domaine utile aliéné à jamais.
+D’après Dumoulin, la saisie des déshérences par le seigneur haut justicier, comme l’institution bretonne de la mainmise, qui en est un prolongement, doit avoir comme but principal de sauvegarder les droits éventuels des héritiers.
+
+
+==== Chapitre III Nature de la mainmise ====
+
+
+===== A. Le droit du seigneur a une nature double : =====
+
+a) S’il se présente un héritier collatéral, le seigneur a possédé dans l’intérêt d’autrui comme gardien et dépositaire.
+
+b) Mais s’il ne s’en présente pas, le seigneur a possédé pour lui-même.
+
+
+===== B. Le droit des héritiers collatéraux. =====
+
+a) Est inexistant jusqu’à la mainlevée.
+
+b) Mais, dès la mainlevée, rétroagit au jour de l’ouverture de la succession.
+
+
+==== Chapitre IV Fonctionnement de la mainmise ====
+
+I. Attitude des héritiers. – Ils ne doivent pas s’opposer à la mainmise du seigneur, mais seulement lui demander mainlevée.
+
+II. Les tiers : a) Dans leurs rapports avec l’héritier collatéral ne peuvent arguer du défaut de mainlevée, comme l’héritier ne peut le leur opposer.
+
+b) Si aucun héritier n’apparaît, ils peuvent réclamer la procédure de vacance.
+
+III. Le seigneur de fief doit avoir : 1° une attitude passive en tant que seigneur, il ne doit point se transformer en partie.
+
+2° Une attitude active en tant que juridiction.
+Il saisit les immeubles ou les meubles de la succession (règles spéciales).
+Il perçoit les fruits.
+La justice du seigneur accomplit elle-même toutes les formalités de mainmise (scellés, inventaire, bannies, etc.). 
+
+
+=== Section II mainlevée ===
+
+
+==== A. Règles applicables à la ligne collatérale en toutes hypothèses. ====
+
+Forme de la demande de l’héritier. – Le décret d’envoi en possession. – – L’obligation de fournir caution de rendre la succession intacte s’il paraît dans la suite un héritier plus proche. – Inconvénients de cette obligation pour l’héritier. – Atténuation apportée par la jurisprudence. – Frais de mainlevée. – La procédure d’appel « omisso medio ».
+
+
+==== B. Procédure spéciale dans ces quatre hypothèses. ====
+
+I. – Un héritier collatéral demande seul mainlevée.
+Il obtient l’envoi en possession en prouvant sa ligne et son degré par témoins ou titres.
+Emploi de la preuve par commune renommée.
+L’héritier qui ne se présente pas peut être appelé.
+
+II. – Plusieurs héritiers se présentent sans se contester leurs droits : mainlevée est donnée d’après d’Argentré à celui qui, le premier, a fait la preuve.
+Dumoulin ne partage pas cette opinion.
+
+III. – Deux héritiers se contestent mutuellement leurs droits.
+On attend que le différend soit tranché pour envoyer en possession.
+
+IV. – Un héritier a déjà été envoyé en possession quand un autre héritier vient réclamer la succession :
+
+a) L’ancienne pratique bretonne admet que l’héritier déjà investi doit rester dans cette situation jusqu’à ce qu’un héritier plus proche soit connu.
+
+b) D’Argentré signale les inconvénients de cette jurisprudence, des puînés obtenaient mainlevée aux dépens de leurs aînés, mis de ce fait dans une situation inférieure.
+Il préconise le retour de la succession entre les mains du seigneur dès qu’un nouvel héritier se présente, afin que la question soit également jugée entre eux.
+Critique de ce système.
+
+c) La pratique ultérieure n’adopte pas l’opinion de d’Argentré ; dans un esprit plus large, elle finit par reconnaître que la mainlevée, prise par un héritier, libère également tous les autres héritiers du même estoc.
+
+
+== Conclusion ==
+
+Après avoir été un examen sérieux des droits de l’héritier collatéral, la mainlevée finit par n’être qu’une formalité vide de sens, que l’on éluda le plus possible.
+La mainlevée perdit de ce fait la seule utilité justifiant le maintien de cette ancienne prérogative seigneuriale.

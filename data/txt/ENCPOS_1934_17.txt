@@ -1,0 +1,249 @@
+identifier: ENCPOS_1934_17
+creator: Aloysius K. Ziegler
+date: 1934
+title: Histoire de la géomancie latine du milieu du xiie siècle au milieu du xviie siècle
+
+
+
+== Avant-propos ==
+
+
+
+
+== Bibliographie ==
+
+
+
+
+== Introduction ==
+
+I. Les diverses définitions du terme géomancie. – Jusqu’au xiie siècle, la géomancie servit à désigner d’une façon vague la divination par la terre.
+Cette définition donnée par Isidore de Séville a été reproduite pendant plus de cinq siècles.
+Au xiie siècle, le ternie géomancie a commencé à désigner arbitrairement et habituellement la méthode de divination appelée science du sable en arabe, bien que cependant il ait été parfois appliqué à d’autres méthodes de divination.
+
+II. Technique de la géomancie (la « science du sable »). – La géomancie est basée sur le hasard : on traçait d’abord des points sur le sable, que l’on supprimait ensuite deux par deux, d’où le nom de « science du sable ».
+On construisait ainsi des figures à quatre échelons, dans chacun desquels se trouvaient un ou deux points.
+On pouvait réaliser seize figures ayant toutes un nom spécial.
+Pour résoudre un problème déterminé, on plaçait les figures à l’intérieur de carrés ou maisons d’un cadre.
+La réponse résultait des multiples significations des figures, qui variaient, en outre, suivant les maisons occupées.
+La géomancie par elle-même était assez simple, mais l’intervention de l’astrologie, à laquelle on recourut souvent, venait la compliquer.
+On projetait aussi des points pour obtenir un nombre qui servait à trouver une réponse toute faite, dans les livres de sorts ou de la fortune, appelés également géomancie.
+
+
+== Première partie Exposé de la géomancie ==
+
+
+=== Chapitre premier la « science du sable » chez les arabes, les grecs et son introduction chez les latins. ===
+
+I. La « science du sable » chez les Arabes et les Grecs. – La « science du sable » commença chez les Arabes à une date peu précise.
+On est sûr qu’elle existait au xie ou même au xe siècle.
+Auparavant, les traités n’indiquent que des origines fabuleuses.
+Actuellement la géomancie se pratique encore beaucoup en Afrique et dans les pays d’influence arabe.
+Au xiiie siècle au plus tard, les traités arabes de la « science du sable » traduits en langue grecque firent leur apparition sous le nom de rabolion.
+
+II. L’introduction de la « science du sable » chez les Latins et l’adoption du mot géomancie. – Dès avant le milieu du xiie siècle, il existait des traités latins de géomancie : ceux d’Hugues de Santalla, de Platon de Tivoli et de Gérard de Crémone, à peu près contemporains.
+Hugues a été le premier, probablement, à utiliser le terme latin geomantia, qui a prévalu, malgré les noms de scientia arenalis, scientia linee, scientia terrae, ars punctorum ou punctatoria, utilisés par d’autres auteurs.
+
+
+=== Chapitre II Analyse des traités latins de géomancie. ===
+
+On peut analyser ensemble les traités latins, parce que la science géomantique n’a guère évolué du xiie jusqu’au xviie siècle.
+
+I. Définition. – Souvent, après le xiie siècle, on trouve une définition étymologique du terme geomantia, plus ou moins juste et, quelquefois, étrange.
+D’après les auteurs qui ont essayé de donner une définition formelle, c’était une divination basée sur les points géomantiques.
+Ceux-ci remplaçaient les corps célestes.
+Il en résultait une science d’une pratique plus simple que l’astrologie.
+
+II. Origines. – Comme les Arabes, les auteurs de traités latins ont donné à la géomancie des origines vagues ou imaginaires. 
+
+
+=== Chapitre III La méthode pour faire les points et les figures. Le Cérémonial. ===
+
+I. Méthode pour faire les points et les figures. – Rarement les auteurs enseignaient en détail et d’une façon intelligible la méthode pour tracer les points et construire les figures.
+Il y avait plusieurs façons de représenter graphiquement les figures, sous la forme de petits cercles, de simples points, de gros points, d’étoiles, de points et de traits (dans les traités arabes), des chiffres 1 et 2.
+Les seize figures portaient chacune plusieurs noms en latin, traduction plus ou moins exacte des noms arabes.
+
+II. Cérémonial. – Au commencement, on ne traçait les points que sur du sable ; par la suite, on put se servir de n’importe quelle matière.
+D’autres formalités rituelles étaient prévues dans certains traités, telles que des prières et des cérémonies magiques.
+Les ouvrages réglaient quelquefois aussi la conduite du géomancien et l’attitude à observer par le client.
+
+
+=== Chapitre IV La signification des figures. ===
+
+Les traités donnaient la signification générale des figures.
+Des vers mnémotechniques servaient à se les rappeler facilement.
+On multiplia les significations et compliqua la science géomantique en écrivant de longs chapitres sur le sens que pouvaient avoir les figures, selon leurs positions et leurs répétitions dans les maisons, leurs dérivations de deux autres figures et leurs relations avec les planètes. 
+
+
+=== Chapitre V Les solutions pratiques. ===
+
+Chaque auteur donnait des solutions pratiques et plusieurs d’entre eux composèrent de grands recueils portant sur toutes les questions de la vie courante.
+On possède, par ailleurs, des exemples d’application à des cas concrets : siège de Padoue, en 1256, par Ezzelin IV ; questions posées par l’électeur de Saxe Auguste Ier sur tel ou tel événement international et d’ordre privé.
+
+
+== Deuxième partie Les auteurs des traités de geomancie latine ==
+
+
+=== Chapitre premier Hugues de Santalla. ===
+
+On sait qu’Hugo Sanctalliensis, probablement d’origine espagnole, écrivit des traductions sur l’astrologie, la spatulomancie et, en particulier, la géomancie, pour son protecteur Michel, évêque de Tarrazona en Aragon, de 1119 à 1151.
+Les manuscrits sont nombreux et d’autres traités en renferment des extraits.
+Tannery a publié des passages considérables du manuscrit Bibl. nat., lat. 7354.
+Il nous semble que le ms.
+Vienne 5508, fol. 182-200, est plus complet que le précédent. 
+
+
+=== Chapitre II Platon de Tivoli. ===
+
+La question de la géomancie de Plato Tiburtinus, dont les œuvres datées sont comprises entre 1134 et 1145, est très embrouillée.
+On lui a attribué la traduction d’un recueil de solutions dû à Alfakinus, traduction éditée en 1687 dans le Fasciculus geomanticus.
+Nous n’avons pas de manuscrits plus anciens.
+Un autre fragment distinct se trouve dans le ms.
+Arundel 66, qui, seul, le rapporte à Platon.
+Trois manuscrits indépendants l’un de l’autre contiennent une introduction à une œuvre géomantique.
+Cette introduction est certainement authentique et l’auteur arabe s’appelle Alfarinus.
+Quant à l’œuvre qui la suit, deux des manuscrits diffèrent ; n’ayant vu que l’incipit du troisième, nous n’osons pas encore nous prononcer.
+
+
+=== Chapitre III Gérard de Crémone. ===
+
+Les amis de Gérard de Crémone, grand traducteur de Tolède, dressèrent peu après sa mort, en 1187, une liste de ses traductions.
+Parmi ses œuvres, on cite une géomancie.
+En effet, il y a trois géomancies qui portent le nom de Gerardus Cremonensis.
+Du reste, un autre auteur, qui vécut au milieu du xiiie siècle, s’appela Gerardus de Sabloneta Cremonensis.
+L’un de ces traités géomantiques a été publié parmi les œuvres de Cornélius Agrippa.
+Un autre, existant dans de nombreux manuscrits, a pour incipit : Si quis per artem geomanticam.
+Ces deux œuvres ont été confondues par Boncompagni et par tous ceux qui l’ont suivi.
+L’ouvrage attribué par Agrippa à Gérard a peu d’importance et n’est évidemment pas une œuvre du traducteur de Tolède.
+Si l’attribution est juste, il s’agit d’un traité de Gérard de Sabbionetta.
+La deuxième géomancie, de proportions considérables, n’est pas une traduction de l’arabe et nous la rapportons à Gérard de Sabbionetta.
+Une troisième géomancie, commençant par : Estimaverunt Indi, est indiquée dans un manuscrit d’Upsal, signalé par M. Birkenmajer, comme étant de Gérard de Crémone.
+Cette œuvre, par contre, a été traduite de l’arabe.
+A l’appui de cette assertion, nous avons trouvé dans Barthélemy de Parme à la fin du xiiie siècle, l’indication qu’il s’agit d’une traduction faite par Gérard de Crémone, à Tolède.
+S’il est exact que le traité arabe est dû à Alatrabulucus, autrement dit le
+    « Tripolitain », Abou Zeïd de Tripoli, cité dans le traité même, ne l’a pas écrit.
+La géomancie Estimaverunt Indi a peut-être été la plus importante du Moyen âge.
+C’est elle qui a été condamnée en 1277 par Etienne Tempier, évêque de Paris.
+
+
+=== Chapitre IV Salio de Padoue. ===
+
+Une géomancie traduite en 1218 (?), soit de l’arabe, soit de l’hébreu, est mise au compte de Salio.
+On peut identifier l’auteur avec un chanoine de Padoue de ce nom qui s’occupait, on le sait, d’astrologie.
+Nous avons retrouvé deux remaniements de ce traité.
+L’auteur du traité original se nomme Zacharias Albasarith ou Johannes Albusaiz.
+Par suite d’une erreur paléographique, on a voulu donner cette œuvre à Guillaume de Saliceto. 
+
+
+=== Chapitre V Les livres de sorts. ===
+
+Le genre de littérature représenté par les livres de sorts ou de la fortune était connu en Europe bien avant le xiie siècle, mais, à ce moment, on en a fait plusieurs traductions de l’arabe.
+On les appelait géomancies parce qu’on employait quelquefois des points projetés au hasard pour trouver le nombre d’une réponse.
+Ces traités qui existent dans de nombreux manuscrits ont été l’objet de plusieurs études.
+Parmi les traités les plus importants, figurent ceux attribués à Bernard Sylvester et à Albedacus.
+Le Liber Alfadhol est une traduction de Gérard de Crémone.
+
+
+=== Chapitre VI Les auteurs latins de traités géomantiques de la deuxième moitié du xiiie siècle. ===
+
+Gérard de Sabbionetta (Gerardus de Sablonetta Cremonensis) est connu comme un astrologue du milieu du xiiie siècle.
+Nous lui attribuons le traité géomantique débutant par Si quis per artem geomanticam.
+Cet ouvrage n’est pas une traduction de l’arabe.
+Le titre : Ab auctoribus via astronomica composita semble indiquer une compilation.
+Une liste de solutions pratiques est identique à un recueil attribué à Platon de Tivoli.
+Certaines allusions, du reste, paraissent indiquer une origine latine.
+Les nombreux manuscrits en latin ne sont pas datés.
+Une traduction italienne de la Bibliothèque nationale mentionne la date de 1294, mais cette date est vraisemblablement celle d’un traité de Barthélemy de Parme qui s’y trouve entremêlé avec la géomancie de Gérard.
+
+Il y a une géomancie attribuée dans de nombreux manuscrits à Guillaume de Moerbeke, pénitencier du pape, devenu en 1277 archevêque de Corinthe.
+Le titre des manuscrits indique que l’œuvre fut composée pour son neveu Arnulf, inconnu.
+Quelques-uns d’entre eux fixent la date de cet ouvrage à 1288, mais, d’après un autre témoignage, il serait de 1269.
+Thadée de Parme, écrivant en 1318, en fait l’attribution à Moerbeke, ce qui est confirmé par une traduction française de 1347.
+Cette dernière dit que Moerbeke le fit traduire du grec.
+En effet, nous avons trouvé quelques transcriptions de mots grecs dans l’ouvrage, mais l’auteur semble avoir aussi fait des emprunts au traité Estimaverunt Indi.
+C’est un ouvrage très long et très sec.
+
+D’après les manuscrits, Barthélemy de Parme aurait écrit, en 1288, une Summa de la géomancie qu’il aurait remaniée en 1294 et en 1295.
+Or on possède de lui plusieurs traités comportant de légères différences.
+Cette géomancie est de beaucoup la plus pratique et la plus vivante du Moyen âge.
+
+Bernard de Gourdon, professeur à Montpellier, a traduit une géomancie intitulée d’une manière étrange : Incipit arcanum magni Dei revelatum Tholomeo regi Arahum de reductione geomantiae ad orbem.
+Le colophon nous donne la date très précise du jeudi 22 décembre 1295.
+Cette géomancie se distingue par la grande place qu’elle fait à l’astrologie.
+
+Pour le moment, nous ne sommes pas en mesure de résoudre les problèmes que présentent les traités géomantiques attribués à Michel Scot et à Pierre d’Albano. 
+
+
+=== Chapitre VII Les auteurs de la fin du moyen age. ===
+
+Au xive siècle, il y a le traité considérable composé per Martinum Hispanum, physicum, abbatem de Cernatis in ecclesia Vurgensi... ad preces...
+Archimbaldi, abbatis Sancti Asterii ac canonici Parisiensis.
+Nous ne pouvons pas encore identifier cet abbé du diocèse de Burgos, mais Archimbaud fut abbé de la collégiale de Saint-Astier, dans le diocèse de Périgueux, en 1319.
+Les manuscrits de ce traité paraissent être très rares.
+
+A une date peu précise du xive siècle, fut traduit de l’arabe le traité dit d’Abdallah.
+Il commence ainsi : Dixit famulus Abdallah filius Aly, filii Mahsuph.
+Nous avons identifié ce traité comme étant la traduction du traité arabe d’Abdallah ben Ali ben el-Mah’fuf, qui a vécu avant 1397.
+Les manuscrits de ce traité latin sont assez nombreux.
+
+Une compilation géomantique fut écrite en 1391 ou 1392 pour le roi Richard II d’Angleterre.
+Elle se trouve dans le manuscrit Royal 12 C V.
+
+Un traité intitulé Geomantia Indiana existe en plusieurs manuscrits, dont le plus ancien est du XIVe siècle.
+
+En 1425 ou avant, a été rédigé un traité abondant qui débute par : Quoniam quamplures predecessorum.
+Nous en avons trouvé la date dans une traduction française de la Bibliothèque de Dresde.
+
+Vers 1426, nous rencontrons un petit traité ou compilation géomantique par Conrad Buitzruss, étudiant à Heidelberg.
+Il en existe un manuscrit unique et autographe.
+
+Au milieu du xve siècle, il y a le Compilatorium sive aggregatorium... totius artis geomantiae... editum per Rolandum Scriptoris. 
+
+
+=== Chapitre VIII Les auteurs du xvie et du xviie siècles. Les traités imprimés. ===
+
+Cornélius Agrippa (1486-1535) a écrit, à une date non précisée encore, une géomancie, imprimée parmi ses œuvres.
+Mais ailleurs l’auteur condamne et répudie la géomancie dans un passage assez amusant.
+Son traité est plus connu qu’il ne le mérite du fait qu’il a été la première géomancie latine imprimée.
+
+Au siècle suivant, nous avons le traité très développé de Robert Flud (1574-1637), médecin ayant fait ses études à l’Université d’Oxford, et partisan des sciences étranges.
+
+Une œuvre contemporaine, dont la première édition est datée de 1627, est celle qui porte le nom de H. de Pisis, médecin de Lyon.
+C’est une œuvre très développée.
+L’auteur fut un géomancien convaincu.
+
+
+=== Chapitre IX La géomancie devant la critique du temps. ===
+
+I. Les adversaires. – L’attitude des théologiens et des philosophes à l’égard de la géomancie n’a généralement pas été très nette.
+Le but primordial de ceux-ci consistait à conserver à la volonté sa liberté, à laquelle les sciences astrologiques portaient atteinte.
+L’ancienne condamnation par Isidore de Séville subsista, même après que le terme géomancie eût changé de sens.
+Saint Thomas d’Aquin, par exemple, a écrit contre la géomancie.
+A son tour, l’évêque de Paris condamna, en 1277, un traité géomantique.
+Les critiques d’Augustin d’Ancône, au commencement du xive siècle, ont été très tempérées.
+Il n’en fut pas de même du savant arabe Ibn Khaldoun, vers la fin du même siècle.
+Le concile de Trente ayant laissé au pape le soin de s’occuper de la mise à l’index, Pie IV, en 1564, y a fait figurer les livres de géomancie.
+
+II. Les défenseurs et les partisans. – Les arguments de ceux-ci se résumaient dans le fait que la géomancie ne détruisait pas réellement la libre volonté.
+On les trouve dans les traités géomantiques, notamment dans l’œuvre commençant par Quoniam quamplures predecessorum, et dans celle de Robert Flud.
+Parmi les auteurs et les protecteurs des auteurs, il y avait des personnages laïcs et ecclésiastiques haut placés : princes et rois, abbés et évêques.
+
+
+== Pièces justificatives ==
+
+
+
+
+== Table des manuscrits ==
+
+
+
+
+== Table des noms propres ==
+
+
+
+
+== Table des matières ==
+
+

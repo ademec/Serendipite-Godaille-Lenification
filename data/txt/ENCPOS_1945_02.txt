@@ -1,0 +1,146 @@
+identifier: ENCPOS_1945_02
+creator: Marguerite-Claude Badalo-Dulong
+date: 1945
+title: Ciperis de Vignevaux, chanson de geste du début du xve siècle. Étude et édition
+
+
+
+== Avant-propos ==
+
+Ciperis de Vignevaux n’a jamais été édité et aucune étude approfondie n’a donc pu lui être consacrée.
+Grâce à l’examen du texte en vers, du texte en prose et de fragments inutilisés jusqu’à présent, nous pensons pouvoir apporter quelques faits nouveaux à la connaissance de l’œuvre.
+
+
+== Bibliographie ==
+
+
+
+
+== Chapitre premier Analyse. ==
+
+
+
+
+== Chapitre II Description et comparaison des manuscrits. Établissement du texte. ==
+
+Nous ne possédons plus qu’un manuscrit de Ciperis de Vignevaux : P = Paris, Bibl. nat. fr. 1637 ; il est du xve siècle, incomplet du début et déparé par trois lacunes.
+
+Il a existé d’autres manuscrits ; le président Fauchet en a vu deux au xvie siècle et en a copié des passages dans un cahier conservé à la Bibliothèque nationale : fr. 24726.
+Nous appellerons ces fragments f.
+
+La bibliothèque de Grenoble a peut-être possédé un manuscrit, volé en 1842.
+
+P et f ne découlent pas l’un de l’autre ; ils présentent des différences assez sensibles pour nous faire supposer que nous sommes en présence de deux remaniements différents.
+
+La transcription de Fauchet étant peu sûre, nous établirons notre texte d’après P seul, que nous reproduirons le plus exactement possible.
+
+
+== Chapitre III Versification et langue. ==
+
+Versification. – Le poème est écrit en laisses d’alexandrins monorimes qui n’offrent aucune particularité notable.
+Les rimes étant peu variées, la langue de l’auteur ne nous sera connue que partiellement.
+
+Langue de l’auteur. – 1.
+Phonétique : Voyelles.
+Diphtongues.
+Consonnes. – 2.
+Morphologie : Déclinaison.
+Conjugaison. – 3.
+Syntaxe. – 4.
+Vocabulaire.
+
+Langue et graphies du copiste. – 1.
+Phonétique : Voyelles.
+Diphtongues.
+Consonnes. – 2.
+Morphologie ; Déclinaison.
+Conjugaison.
+
+La langue de l’auteur et celle du copiste sont analogues.
+Elles offrent toutes deux un mélange de formes franciennes et picardes, où ces dernières prédominent.
+Au point de vue de la date, cette langue est celle du moyen français.
+
+
+== Chapitre IV Sources littéraires. ==
+
+Sources principales. – Theseüs de Cologne, chanson de geste du xive siècle, à laquelle il est fait de nombreuses allusions dans notre texte ; Charles le Chauve, Hugues Capet, Florent et Octavian, chansons de geste du xive siècle ; Baudouin de Sebourc, chanson de geste des environs de 1350.
+
+Sources secondaires. – Beaucoup de noms propres et d’épisodes sont communs à Ciperis et à la plupart des Chansons de geste. – Les romans ont fourni quelques noms propres. – La légende de sainte Marguerite a été utilisée de façon originale.
+
+
+== Chapitre V Sources historiques. ==
+
+L’élément mérovingien. – L’action se situe au temps de Clotaire II et de ses successeurs.
+Ciperis doit être identifié avec Childéric 11 et non avec Chilpéric II, comme on l’a cru.
+
+Fondations d’abbayes. – Les fondations des monastères de Corbie et de Saint-Vaast d’Arras sont relatées assez exactement et attribuées à deux personnages de la Chanson, Baudour et Thierri, en qui il faut reconnaître sainte Bathilde et Thierry III.
+
+Sources locales. – Le récit se situe autour d’un lieu réel : le village de Foucarmont dans la Seine-Inférieure.
+Le comté de Vignevaux, qui s’y trouve, n’est autre que le comté d’Eu.
+L’auteur rapporte une légende relative aux origines du bourg, qui semble avoir survécu dans le pays, et la fondation de l’abbaye de Foucarmont.
+
+
+== Chapitre VI Patrie, date, auteur. ==
+
+Patrie. – L’étude des noms de lieux du texte confirme sa localisation autour de Foucarmont.
+
+Date. – La date de l’œuvre a donné lieu à des avis très divergents.
+Certaines allusions, dont une à Boucicaut, nous permettent de la situer aux environs de 1400.
+
+Auteur. – – L’auteur n’est pas Huon de Villeneuve, comme on l’a cru à tort.
+Quant au nom de Brienchon que livre la fin du texte, il peut appartenir aussi bien au copiste qu’à l’auteur. – Etant donné les éloges décernés aux Cisterciens et le choix d’un comte d’Eu comme héros du poème, il y a de fortes chances pour que l’auteur soit un moine de l’abbaye de Foucarmont, qui était le lieu de sépulture des comtes d’Eu.
+
+
+== Chapitre VII Valeur littéraire. ==
+
+Style. – Le style est mauvais, alourdi par des redondances et des chevilles dont l’auteur fait un usage immodéré.
+
+Composition et esprit de l’œuvre. – Les interminables récits de batailles, la pauvreté des analyses psychologiques, l’absence du pittoresque montrent la décadence irrémédiable du genre épique en cette époque tardive. – Des idées nouvelles apparaissent pourtant : éloge des enfants naturels, supériorité de la « noblesse du cœur » sur toute autre ; néanmoins, l’auteur affirme à plusieurs reprises son respect pour les grands et n’hésite pas à railler les humbles à l’occasion.
+Les bourgeois ont le plus mauvais rôle : de quelque pays qu’ils soient, ils sont cupides et trahissent pour de l’argent. – Ces pensées sont généralement exprimées sous formes de maximes placées en fin de laisses.
+
+
+== Chapitre VIII Succès et adaptation. ==
+
+Étant donné la date récente de l’œuvre, il n’y a pas lieu de s’étonner qu’elle soit ignorée des autres textes poétiques du moyen âge.
+Ce qui prouve son succès, c’est la mise en prose qui en fut faite au cours du xve siècle.
+
+Le manuscrit en prose (B) est conservé à la Bibliothèque de Bruxelles, sous la cote 3576-3577 : il a appartenu à la bibliothèque des ducs de Bourgogne.
+
+Il ne provient pas de P, mais de /, dont il est une version abrégée  : les allusions à Theseüs ont été supprimées, de même que les récits de batailles et de tournois et tout l’appareil de discours, prières, clichés dont est encombré le texte en vers.
+Il a été édité une fois au xve, deux fois au xvie siècle.
+En 1842, il a été incorporé dans la Bibliothèque bleue publiée par Silvestre.
+
+
+== Conclusion ==
+
+La chanson de Ciperis de Vignevaux offre un double intérêt : historique, parce qu’elle relate plusieurs traditions relatives au nord-ouest de la France et notamment au comté d’Eu, à la gloire duquel elle fut composée ; littéraire, car elle montre la survivance du genre épique à une époque tardive.
+
+
+== Texte ==
+
+
+
+
+== Notés critiqués ==
+
+
+
+
+== Notés ==
+
+
+
+
+== Index des noms propres ==
+
+
+
+
+== Table des rimes ==
+
+
+
+
+== Table des Proverbes ==
+
+

@@ -1,0 +1,258 @@
+identifier: ENCPOS_1933_11
+creator: Philip Moore
+date: 1933
+title: Les œuvres de Pierre de Poitiers, maître de théologie à Paris, chancelier de Notre-Dame (1193-1205)
+
+
+
+== Notice biographique ==
+
+Notre auteur naquit très probablement à Poitiers ou dans le Poitou ; en tout cas, il y vécut avant de se rendre à Paris, car on le trouve toujours désigné sous le nom de Petrus Pictaviensis ou Petrus Pictavinus.
+Nous ne savons presque rien de ses premières années.
+Sa vie de professeur se passa vraisemblablement tout entière à Paris, de 1167 jusqu’à sa mort, en 1205.
+Vers 1180, il fut l’objet, avec Abélard, Gilbert de la Porrée et Pierre Lombard, d’une attaque violente de la part de Gautier de Saint-Victor dans le Contra quatuor labyrinthos Franciae.
+Pierre de Poitiers y fut pris à partie principalement à cause de sa méthode dialectique qui cherchait à donner à la raison un plus grand rôle dans l’étude de la théologie.
+En introduisant la raison dans ce domaine, il se ménage justement une place importante dans l’histoire de la théologie.
+
+Les actes de la chancellerie de Notre-Dame montrent incontestablement que Pierre de Poitiers fut chancelier de 1193 à 1204.
+Une lettre d’innocent III témoigne qu’il exerçait encore cet office le 1er avril 1205, et sans doute y resta-t-il jusqu’à sa mort qui survint très probablement le 3 septembre 1205.
+Il fut nommé juge-délégué à plusieurs reprises par le Saint-Siège.
+
+Pierre de Poitiers est mort diacre.
+Le nécrologe de Notre-Dame nous le dit expressément, et plusieurs indications viennent le confirmer.
+
+Il ne faut pas confondre notre Pierre de Poitiers avec deux autres personnages du même nom, le moine de Cluny et le chanoine de Saint-Victor.
+
+
+== Les œuvres ==
+
+
+
+
+== Chapitre premier sententiarum libri quinque. Étude générale de l’œuvre. ==
+
+Les Sentences de Pierre de Poitiers existent, en entier ou en partie, dans trente manuscrits.
+Cette œuvre est publiée dans la Patrologie latine (CCXI, col. 789-1280), d’après une édition antérieure de Dom Hugues Mathoud.
+Personne ne doute qu’elle ne lui appartienne.
+Aubry de Trois-Fontaines, écrivant peu d’années après sa mort, la lui attribue.
+Neuf des manuscrits portent son nom.
+Mais la preuve définitive de l’authenticité nous est fournie par Gautier de Saint-Victor qui, du vivant même de Pierre de Poitiers, cita largement ces Sentences comme étant son œuvre.
+
+Les dates extrêmes de la composition de cet ouvrage doivent être 1168-1175 ; il est dédié en effet à Guillaume, archevêque de Sens.
+L’œuvre fut écrite sur les bords de la Seine, sans doute à Paris.
+
+Les Sentences sont divisées en cinq livres, dont le premier traite de Dieu unique, de la Trinité, des attributs divins, et des propriétés divines ; le deuxième, des créatures ; le troisième, de la réparation par la grâce et par les vertus ; le quatrième, des questions christologiques ; le cinquième, des sacrements et de l’eschatologie.
+
+En principe, l’auteur ne choisit les questions que dans la mesure où elles sont propres à la disputatio, c’est-à-dire aux exercices de l’Ecole.
+Il traite des disputabilia, des dubitabilia et des choses disputationi accommodata.
+
+Le livre est réfléchi et coordonné ; c’est l’œuvre personnelle de l’auteur, et non pas une reportatio d’un de ses élèves.
+
+
+== Chapitre II Sententiarum libri quinque. Influence de pierre Lombard sur pierre de Poitiers. ==
+
+Les Sentences de Pierre de Poitiers ne sont pas un commentaires sur les Sentences de Pierre Lombard.
+Néanmoins l’influence du maître se marque fortement dans l’œuvre de l’élève.
+Nous le voyons dans la disposition générale des matières, dans des questions communes à l’un et à l’autre, dans une certaine parenté de texte et dans un grand nombre de doctrines identiques.
+
+Pierre de Poitiers montre, d’autre part, son indépendance à l’égard de Pierre Lombard.
+Il introduit des divergences dans la disposition des matières, surtout en plaçant le traité des vertus avant celui de l’Incarnation.
+La partie morale de la théologie est, par conséquent, plus en évidence chez Pierre de Poitiers.
+Celui-ci insère dans son œuvre un certain nombre de questions qui ne se trouvent pas chez Pierre Lombard.
+Sa présentation reste bien personnelle, même lorsqu’il emprunte des questions à son maître.
+Il montre enfin une certaine indépendance doctrinale.
+
+
+== Chapitre III Sententiarum libri quinque. Influence de pierre de Poitiers sur Simon de Tournai, Prévostin de Crémone et maître Martin. ==
+
+L’influence de Pierre de Poitiers ne se manifeste pas au même degré chez ces trois maîtres.
+Prévostin de Crémone et Simon de Tournai en sont beaucoup plus indépendants que Maître Martin.
+Cependant aucun de ces maîtres n’échappe tout à fait à l’influence de notre auteur.
+Le traité des vertus se trouve avant celui de l’Incarnation dans les œuvres de tous ces théologiens.
+Des questions communes révèlent une influence évidente sur Maître Martin et une action probable sur Prévostin et sur Simon.
+La dépendance textuelle est fort étendue chez Maître Martin, rare chez Prévostin, et manque presque complètement chez Simon de Tournai.
+Quant à la doctrine, Prévostin et Simon échappent bien à l’influence de Pierre de Poitiers, ou plutôt de Pierre Lombard, tandis que Maître Martin dépend sans conteste de Pierre de Poitiers et de Simon de Tournai. 
+
+
+== Chapitre IV Allegoriae super exodum, leviticum et numeros ==
+
+Cette œuvre n’est pas un commentaire de ces trois livres en entier.
+D’après le prologue, elle se divise en quatre chapitres.
+Le premier est consacré aux matériaux du tabernacle de Moïse ; le deuxième, à l’agencement de ces matériaux ; le troisième, à ceux qui fabriquent le tabernacle ; le quatrième, à ceux qui se servent de ces objets (operantibus ex materia).
+Ce dernier chapitre constitue la plus grande partie du traité.
+Le tout est une interprétation spirituelle des textes, l’auteur choisissant ce qui est le plus apte à cette interprétation.
+
+La tradition manuscrite est presque unanime à attribuer ces Allégories à un Pierre de Poitiers.
+Rien n’indique les autres Pierre de Poitiers, ni le moine de Cluny, ni le chanoine de Saint-Victor, comme auteur probable.
+D’autre part, ce traité est bien le manuel scolastique qu’on pouvait attendre du chancelier.
+Les deux autres Pierre de Poitiers n’ont rien écrit dans ce genre.
+De plus, les indications internes ne manquent pas qui nous permettent de revendiquer cet ouvrage pour notre maître.
+
+On a distingué, au Moyen Age, quatre sens dans le texte de l’Ecriture Sainte : les sens historique, allégorique, tropologique, et anagogique.
+On trouve dans cette œuvre les définitions de ces sens et des règles qui gouvernent l’interprétation spirituelle du texte.
+Pierre de Poitiers insiste sur le sens historique, base indispensable de cette interprétation.
+Il semble affirmer que le sens spirituel peut faire partie, avec le sens historique, du sens littéral complet du texte.
+
+Enfin, pour notre auteur, le but principal de l’étude de l’Ecriture Sainte est de rechercher et de révéler le sens spirituel et non pas de connaître simplement le sens historique du texte.
+
+
+== Chapitre V Distinctiones super Psalterium. ==
+
+Ces Distinctiones, avec la Summa Abel de Pierre le Chantre et la Summa super Psalterium de Prévostin de Crémone, marquent une nouvelle manière de commenter le Psautier.
+La distinctio, ou l’interprétation du texte sacré d’après les quatre sens de l’Ecriture Sainte, y remplace la citation patristique qui caractérise les commentaires antérieurs.
+
+Cette œuvre nous est parvenue en deux états : une forme de texte continu, où les distinctions sont dans le corps du texte, et une forme schématique, où les mots à « distinguer » se trouvent à côté du texte et des lignes rouges rayonnent vers les différents sens.
+Il y a au moins onze manuscrits de la première catégorie, cinq de la deuxième.
+Cependant la forme schématique renfermée dans le ms. lat. 454 de la Bibl.
+Nat. de Paris diffère largement de celle contenue dans trois autres manuscrits, Evreux 46, Reims 161, et Troyes 1365.
+
+Nous n’avons pas pu décider si la forme schématique de cette œuvre est une première esquisse de la forme du texte continu ou si elle en est un extrait.
+Une étude des distinctions dans les deux états de l’œuvre n’a abouti à aucune conclusion définitive.
+Cependant quelques indications nous permettent d’y voir un extrait.
+
+Cette œuvre semble bien appartenir à Pierre de Poitiers.
+Aubry de Trois-Fontaines lui attribue des Distinctiones.
+Sur les onze manuscrits du texte continu, quatre portent son nom. 
+
+Le commentaire sur les Psaumes du ms. 455 de la Bibl.
+Nat., qui débute par un incipit presque identique :
+    « Ait Dominus ad Moysem : Facies mihi tentorium in introitu tabernaculi... », n’est pas cette œuvre de Pierre de Poitiers.
+
+Nous avons continué l’étude de Mgr.
+G. Lacombe sur les rapports des distinctions dans les œuvres de Pierre de Poitiers, Prévostin de Crémone et Pierre le Chantre.
+Il y a des rapports étroits entre notre maître et le Chantre : quatre cents distinctions environ leur sont communes.
+Cependant nous n’avons pas pu décider si l’un a copié l’autre ou si les deux ont suivi une même tradition.
+Prévostin semble bien indépendant, mais nous n’avons plus toutes ses œuvres.
+
+Quant à l’ordre chronologique de ces œuvres, celle du Chantre est probablement la première ; celle de Pierre de Poitiers est certainement antérieure à celle de Prévostin, puisqu’elle est contemporaine de Maurice de Sully, mort le 11 sept. 1196 ; Eudes de Sully avait déjà remplacé Maurice comme évêque de Paris au moment où Prévostin a écrit son œuvre.
+
+
+== Chapitre VI Les œuvres historiques de pierre de Poitiers. ==
+
+
+=== A. Compendium Historiae in genealogia Christi. ===
+
+Cette œuvre est un abrégé de l’histoire sainte, conçu en général sous la forme d’une généalogie du Christ.
+
+Elle existe en deux états.
+D’abord, sous la forme d’un opuscule à part.
+Dans cet état, l’abrégé se retrouve dans cinquante-cinq manuscrits au moins, datant du xiie au xvie siècle. 
+
+Le texte de l’œuvre est le même dans presque tous les manuscrits.
+Cependant le Ms.
+Royal 1 B.X du Musée Britannique comprend un texte où ont été intercalés des passages empruntés à l’Historia scholastica et le récit d’événements divers sous le titre d’Incidentia.
+
+U. Zwingli le jeune a publié cette œuvre en 1592, mais il l’attribue à Pierre de Poitiers, le moine de Cluny.
+L’Histoire littéraire a mis en doute cette attribution, mais sans se déclarer définitivement en faveur du chancelier.
+Nous l’avons déjà revendiquée pour notre auteur, parce qu’elle est bien le genre d’œuvre qu’on pouvait attendre de lui, tandis que rien dans les écrits ni dans la vie du moine de Cluny ne permet de regarder celui-ci comme l’auteur probable.
+En outre, Aubry de Trois-Fontaines nous avertit que le chancelier a inventé des arbres historiques de l’Ancien Testament, et notre abrégé en est un.
+Plusieurs manuscrits attribuent l’œuvre expressément au chancelier.
+Enfin, elle semble être postérieure à l’Historia scholastica, écrite plusieurs années après la mort du moine de Cluny.
+
+Dans son deuxième état, cette œuvre fait partie de quatre chroniques universelles au moins, dont trois anonymes, datant du xiiie siècle, sont renfermées dans les mss. 984 de Grenoble, 1314 de l’Université de Leipzig, et 96 d’Eton College.
+La quatrième est de Roger de Saint-Albans (mort en 1450).
+Ces chroniques sont toutes indépendantes les unes des autres, et chacune modifie notre abrégé d’une façon considérable.
+
+Pierre d’Icham (mort vers 1290), dans le prologue de sa Chronica de Regibus Angliae successive regnantibus a tempore Bruti ad 1301, indique, parmi ses sources, une chronique de Pierre de Poitiers, chancelier de Paris.
+Il cite en effet cet auteur pour le règne de dix-sept rois et une reine d’Edmund I (mort en 945) à Etienne I de Blois (mort en 1154).
+Mais cette chronique attribuée à Pierre de Poitiers n’est que la chronique universelle anonyme du ms. 96 d’Eton College.
+Pierre d’Icham fut sans doute trompé par l’inscription mise en tête de ce manuscrit :
+    « Incipit compendium Veteris Testamenti editum a magistro Petro Pictavensi et cancellario Parisiensi. »
+
+
+=== B. Continuatio Historiae scholasticae. Historia actuum Apostolorum. ===
+
+Dans cette œuvre, il s’agit de la dernière partie de l’Historia scholastica que l’on a jusqu’à présent attribuée tout entière à Pierre le Mangeur.
+Mais, dans la lettre de dédicace placée en tête des Historiae, l’auteur dit expressément qu’il n’a conduit son récit que jusqu’à l’Ascension du Christ, le dernier événement dans l’histoire des Evangiles.
+Deux gloses sur l’Historia scholastica, l’une écrite probablement avant 1187, et l’autre certainement en 1193, s’arrêtent à la fin de l’histoire des Evangiles.
+En outre, quelques-uns des plus anciens manuscrits des Historiae ne contiennent pas l’histoire des Actes.
+Enfin plusieurs manuscrits, tout en renfermant l’histoire des Actes, donnent quelques indications montrant qu’elle n’appartenait pas, à l’origine, à cette œuvre.
+Tous ces témoignages prouvent d’une manière incontestable que cette partie de l’Historia scholastica n’est pas de Pierre de Mangeur.
+
+D’autre part, le ms.
+Stowe 5 du Musée Britannique donne comme rubrique :
+    « Incipit Commentarium magistri Petri Pictavensis super Actus Apostolorum » (fol. 166 c).
+Puis, dans le ms. 313 du Corpus Christi College, à Cambridge, se trouve un extrait de l’histoire des Actes sous le titre :
+    « Petrus Pictavensis super Actus Apostolorum. » (fol. 61 d).
+On peut donc conclure que cette partie de l’Historia scholastica appartient à un Pierre de Poitiers.
+Ce n’est pas le moine de Cluny, décédé avant la composition de l’Historia scholastica.
+Le caractère de l’œuvre n’implique pas, d’autre part, que le chanoine de Saint-Victor en soit l’auteur.
+Le titre de maître que porte le ms.
+Stowe 5 convient plutôt au chancelier qu’au chanoine.
+
+
+== Chapitre VII Sermones. ==
+
+Nous connaissons cinquante-neuf sermons de Pierre de Poitiers qui sont renfermés dans le ms. lat. 14593 de la Bibl.
+Nat. de Paris.
+Cinquante-sept se trouvent aux fol. 289 a-351 c sous la rubrique :
+    « Incipiunt sermones magistri Petri P. ».
+Ce maître est bien Pierre de Poitiers, parce que vingt-huit de ces sermons sont reproduits sous son nom aux fol. 118a-168d.
+En outre, avec ces vingt-huit sermons, on en trouve deux autres que nous avons également revendiqués pour notre auteur.
+
+Plusieurs de ces sermons sont dispersés dans trois autres manuscrits au moins, mais ils y sont anonymes, sauf deux dans le ms. lat. 12293 de la Bibl.
+Nat.
+Ce manuscrit ne date que du xviie ou du XVIIIe siècle.
+
+Ces sermons représentent plusieurs années de prédication, mais nous n’avons trouvé aucun renseignement précis sur leur date.
+Ils furent très probablement prêchés vers la fin de sa carrière. 
+
+
+== Chapitre VIII Œuvres d’attribution fausse ou suspecte. ==
+
+I. Les Allegoriae super Vetus et Novum Testamentum sont attribuées à Pierre de Poitiers par plusieurs écrivains, mais la tradition manuscrite n’appuie pas cette attribution.
+Un seul manuscrit, le Royal 2 D. XII du Musée Britannique, datant du xiiie siècle, porte son nom, et cette inscription est d’une deuxième main.
+D’autre part, de nombreux témoignages se déclarent en faveur de trois autres maîtres.
+Hauréau a donné l’œuvre à Hugues de Saint-Victor ; R.M. Martin l’a récemment revendiquée pour Pierre le Mangeur ; nous publierons prochainement le résultat de nos recherches qui nous ont amené à attribuer l’œuvre à Richard de Saint-Victor.
+
+H. Dom Lottin a récemment mis en doute la valeur de l’attribution à Pierre de Poitiers des Glossae super sententias.
+Il a judicieusement remarqué que dans le ms. lat. 14423 de la Bibl.
+Nat. de Paris se trouve au revers de la page de garde l’inscription :
+    « In isto libro continentur distinctiones super Psalterium magistri Petri Pictaviensis et glose super Sententias ».
+Cette mention est du xiiie siècle, et ce n’est qu’une main beaucoup plus récente qui reprend ce texte pour y ajouter l’ejusdem qu’on serait tenté de lire soit avant soit après le mot glose dans l’inscription primitive.
+Cette inscription, qui est la source de toute attribution de ces Glossae, six autres manuscrits étant anonymes, est donc suspecte.
+Comme l’œuvre n’est attribuée à aucun autre auteur, il faut attendre de nouveaux renseignements avant de décider définitivement de l’authenticité de ces Glossae. 
+
+III. Aubry de Trois-Fontaines attribue une Tabula de vitiis et virtutibus à Pierre de Poitiers.
+Mais ne possédant pas l’incipit de ce traité et manquant d’autres renseignements, nous n’avons pas réussi à l’identifier.
+
+IV. L’Histoire littéraire attribue à notre auteur les Glossae in Divi Pauli et Jacobi epistolas.
+La source de cette attribution fut le ms.
+Angl.
+IV, 8128, aujourd’hui perdu.
+Le commentaire sur les épîtres de saint Paul, renfermé dans le ms.
+Kk I. 21 de la Bibliothèque de l’Université de Cambridge, appartient sans doute à Gilbert de la Porrée et non à Pierre de Poitiers, comme l’a cru le compilateur du catalogue.
+
+V. Une Summa de mysteriis Incarnationis Christi, qu’Oudin et l’Histoire littéraire mettent parmi les œuvres de notre auteur, appartient plus probablement à Pierre de Poitiers, chanoine de Saint-Victor, parce qu’elle est attribuée à un « frère »
+Pierre de Poitiers au fol. 273 d du ms. lat. 14886 de la Bibl.
+Nat. de Paris.
+Néanmoins cette attribution est tardive.
+
+VI. L’Histoire littéraire attribue trois autres œuvres à Pierre de Poitiers : De mysteriis Ecclesiae ; Instructiones circa divinum officium ; et De fide et e jus partibus.
+Nous n’avons pas retrouvé les deux dernières.
+La première est certainement l’œuvre d’un Pierre, chancelier de Chartres (mort vers 1039).
+L’Histoire littéraire a mal lu Montfaucon.
+
+VII. Les Epitres de Pierre de Poitiers, qui ont jadis fait partie de la Bibliothèque de Charles d’Orléans, appartiennent au moine de Cluny, et non pas au chancelier, comme Delisle le donne à croire en les mettant à son nom dans la table des matières de son Cabinet des Manuscrits.
+
+VIII. Enfin un Repertorium Morale qui se trouve parfois sous le simple nom de Pierre de Poitiers est l’œuvre de Pierre Bersuire (mort en 1362), également appelé Pierre de Poitiers.
+
+
+== Appendices ==
+
+
+
+
+== Pieces justificatives ==
+
+
+
+
+== Table des manuscrits ==
+
+
+
+
+== Bibliographie ==
+
+

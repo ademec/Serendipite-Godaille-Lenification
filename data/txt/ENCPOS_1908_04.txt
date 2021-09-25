@@ -1,0 +1,163 @@
+identifier: ENCPOS_1908_04
+creator: Clovis Brunel
+date: 1908
+title: Catalogue des actes de Ponthieu (xie siècle – 1279)
+
+
+
+== Préface ==
+
+Situation du comté de Ponthieu.
+Tableau généalogique de ses comtes.
+Résumé de leur histoire : ce sont les descendants des avoués de l’abbaye de Saint-Riquier ; ils n’ont pas existé avant le xie siècle, ils s’éteignent en 1279 par réunion du Ponthieu à la couronne d’Angleterre.
+
+Plan du catalogue des actes, son but : fournir tous les renseignements nécessaires à la critique diplomatique.
+Table des ouvrages cités.
+
+
+== Introduction diplomatique des comtes de Ponthieu ==
+
+
+
+
+== 1 . Mode de transmission des actes ==
+
+Peu d’originaux, copies très nombreuses.
+Étude des principaux fonds d’archives par ordre alphabétique : Abbeville, commune, hôpital, Amiens (bureau des finances) (critique du cartulaire de Ponthieu : c’est l’assemblage de fragments de quatre cartulaires différents), chapitre, hôpital, Aumale, Bertaucourt, Cercamp, Corbie, Dommartin, Doullens, Maintenay, Quend, Saint-Acheul, (étude du cartulaire), Saint-Josse-sur-Mer, Saint-Riquier (hôpital, abbaye), Saint-Sauve, Saint-Vulfran, Valloires.
+
+
+== 2. Description et Analyse des actes ==
+
+Les dimensions des chartes sont plus grandes au XIIe qu’au xiiie siècle.
+Replis simples et doubles.
+Exemple de sceau plaqué à gauche.
+Attaches de cuir, parchemin, lin ou soie.
+De la forme des nœuds.
+Indifférence de la couleur de la soie et de la cire.
+
+Les sceaux.
+La matrice du sceau de Gui Ier (♰ 1100), entourée de cercles portant des légendes appropriées, a servi jusqu’en 1220.
+Description des sceaux.
+
+La langue des actes.
+Aucun emploi du cursus.
+Le plus ancien exemple d’acte en langue vulgaire est de 1245.
+De l’emploi de cette langue conjointement avec le latin ; influence de l’idiome des documents servant à la rédaction de l’acte.
+
+Etude des différentes parties de la teneur.
+Invocation.
+Rare au xiiie siècle.
+Deux types principaux : In nomine sancte et individue Trinitatis, In nomine patris et filii et spiritus sancti.
+Amen.
+
+Suscription.
+Le pronom ego n’apparaît généralement que dans les chartes ; il fait défaut dans les lettres.
+La formule d’humilité devient au xiiie siècle une formule de majesté.
+Le titre de comte de Montreuil a été pris en 1204, celui de comte d’Aumale en 1262.
+
+Adresse et salut.
+L’adresse et le salut sont la caractéristique des lettres et des mandements.
+L’adresse est plus vague au xiiie siècle qu’au xiie. 
+
+Préambule.
+Trois types : nécessité d’imiter les ancêtres, nécessité de faire des dons aux églises, nécessité de l’écriture.
+Portée juridique de ce dernier type.
+
+Notification.
+
+Exposé et dispositif.
+
+Clauses finales.
+L’anathème.
+Il est le résultat d’une cérémonie religieuse.
+
+Annonce des signes de validation.
+La formule In cujus rei testimonium n’apparaît que dans les premières années du xiiie siècle.
+
+La date.
+Changement du millésime à Pâques.
+
+Signes de validation.
+Souscriptions.
+Les témoins sont classés par ordre de préséance ; ils ont été appelés pour témoigner ou ils étaient présents par hasard.
+Témoins de l’acte juridique et témoins de la recognition.
+Testes et présentes.
+Les testes ont un rôle actif.
+Les présentes assistent simplement.
+
+Seing manuel du comte.
+Quelques exemples au xie siècle.
+
+Les sceaux.
+
+
+== 3. Genèse des actes ==
+
+Aperçu des travaux sur cette question peu étudiée en France.
+Classification juridique des actes : la notice, l’acte probatoire, l’acte dispositif.
+
+Genèse de l’acte probatoire.
+Acte juridique et expédition.
+L’acte juridique : il est constitué par une cérémonie symbolique.
+Actes juridiques multiples.
+La traditio super altare est un contrat avec le saint patron de l’abbaye.
+
+Expédition.
+Expéditions tardives, absence primitive de la preuve écrite.
+Rédaction de la minute.
+Sa récognition par l’auteur.
+La récognition est constituée par la lecture à haute voix devant témoins.
+Modifications apportées à l’acte lors de la recognition.
+Recognition possible de la grosse.
+Mise en grosse.
+Du sens de la formule Datum per manum : elle est mise par le scribe de la grosse pour dégager sa responsabilité ; elle indique par qui la minute a été remise, ce n’est pas une formule de dessaisissement.
+Scellement.
+Les émoluments du sceau étaient affieffés.
+
+Table des dateurs.
+
+
+== 4. Actes faux ==
+
+Faux acte pour Saint-Josse-sur-Mer (1100), faux contrat de Guillaume Ier (1116), deux chartes de croisade de la collection Courtois (1191).
+
+
+== Catalogue des actes ==
+
+Nos 1 à 449.
+
+
+== Appendice les faux de l’abbaye de Saint-Valery ==
+
+Sources de l’histoire de cette abbaye.
+La vie du saint patron est un apocryphe du xie siècle.
+
+L’abbaye de Saint-Valery a eu la réputation d’être un atelier de faussaires.
+Ses procès en faux.
+
+
+=== 1. Faux laïcs ===
+
+Faux acte de Dagobert inédit (636) forgé à la fin du xe siècle.
+
+Faux acte de Charlemagne (809) forgé au xiiie siècle ; c’est un amalgame de l’acte de Dagobert avec un acte authentique de Charles le Simple (922).
+
+Indication d’acte suspect de Charles le Chauve. 
+
+Faux acte de Philippe le Hardi (1284) ; c’est un amalgame de l’acte de Dagobert avec une bulle d’Alexandre III (1165).
+
+Faux acte du comte Ansbert forgé au xive siècle ; utilise une charte authentique de Bouchart (998).
+
+Faux acte de Jean, comte de Ponthieu (1196) forgé à la fin du xve siècle ; utilise une donation authentique de Guillaume, comte de Ponthieu (1216).
+
+
+=== 2. Le privilège d’exemption ===
+
+Contradiction entre la vie de saint Geoffroi et les bulles de l’abbaye.
+Récit du débat entre Geoffroi, évêque d’Amiens, et les moines de Saint-Valery ; ceux-ci, pour soutenir leur exemption, auraient fabriqué de faux titres découverts par l’évêque à un concile de Reims et auraient été soumis à leur ordinaire par Pascal II. Série des bulles de l’abbaye conférant l’exemption ; la plus ancienne est de 981.
+
+Histoire des contestations entre les moines de Saint-Valery et l’évêque d’Amiens au xviie siècle ; les travaux auxquels elles ont donné lieu.
+
+Discussion des arguments présentés par les partisans de la véracité du récit de la vie de saint Geoffroi et ceux de l’authenticité des bulles : la Vita.
+Godefridi est un texte excellent, la bulle d’exemption primitive est suspecte, les suivantes sont bonnes.
+Impossibilité de conclure en l’absence des originaux.

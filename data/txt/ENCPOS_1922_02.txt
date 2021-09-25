@@ -1,0 +1,197 @@
+identifier: ENCPOS_1922_02
+creator: Robert Barroux
+date: 1922
+title: Pierre de la Ramée et son influence philosophique. Essai sur l’histoire de l’idée de méthode à l’époque de la Renaissance
+
+
+
+== Bibliographie ==
+
+
+
+
+== Introduction ==
+
+Avec Francis Bacon et René Descartes se manifeste un aspect nouveau de la pensée philosophique : la méthode.
+Tout le xviie siècle est occupé de cette idée profondément classique.
+Il semble qu’on ait méconnu les nombreux essais par lesquels la Renaissance en a préparé l’expression, et parmi eux le plus considérable, peut-être le premier, dont l’auteur est Pierre de La Ramée. 
+
+
+== Première partie L’origine de la méthode ==
+
+
+=== Chapitre premier les influences lointaines ===
+
+On trouverait les origines de l’idée de méthode chez les Anciens.
+Mais s’ils l’ont connue, elle n’était pas alors ce que l’on a entendu depuis par le terme de méthode.
+
+La méthode s’est formée peu à peu.
+Avec Roger Bacon la science du moyen âge en prépare l’avènement.
+L’humanisme à son début la fait également prévoir avec Pétrarque,
+
+
+=== Chapitre II La rhétorique ===
+
+La rhétorique ouvre la voie aux créateurs de la méthode.
+Elle fournit le vocabulaire que la dialectique empruntera.
+La rhétorique de Cicéron est exposée par Guillaume Fichet (Rhetorica, 1471).
+Le manuscrit latin 16233 de la Bibliothèque Nationale contient un traité de rhétorique.
+Il faut sans doute y voir un remaniement par Guillaume Fichet de la rhétorique précédente.
+
+A la théorie de Cicéron est adjointe celle d’Hermogène de Tarse.
+Le mot de μέθοδος emprunté par Fichet à cet auteur grec entre dès lors dans la langue latine sous la forme methodus.
+
+
+=== Chapitre III La dialectique ===
+
+Indépendamment de la rhétorique, la dialectique se renouvelle : Rodolphe Agricola (1422-1485) veut unir dialectique et rhétorique.
+Cette tentative sera féconde en résultats.
+Le platonisme avec Marsile Ficin (1433-1499) apporte des vues générales ; il élargit le champ de la pensée.
+Déjà Laurent Valla (1407-1457) avait, à sa lumière, éclairci la logique.
+Lefèvre d’Etaples (1455-1537) restaure le péripatétisme que la scolastique avait déformé.
+Ph.
+Mélanchton (1497-1560), continuant Agricola, contribue à renouveler la logique.
+J.-L. Vivès (1492-1540) explique que cette science doit se régler sur l’usage réel du discours et de la pensée.
+Elle ne doit point vouloir conformer la pensée ni le discours à des règles arbitraires.
+
+
+=== Chapitre IV Conclusion ===
+
+Tous ces progrès, toutes ces influences tendent au même but et ont pour conséquence naturelle la méthode.
+
+
+== Deuxième partie La méthode de nature ==
+
+
+=== Chapitre premier introduction ===
+
+La période comprise entre les années 1540 et 1560 environ, âge critique de la Renaissance qui alors se renouvelle, est aussi le moment où la méthode fut créée.
+Il faut distinguer le mot et l’idée : l’idée apparaît chez La Ramée et se constitue en trois étapes : 1543, 1547, 1555.
+Le mot est employé par Jean Sturm à la date de 1543 dans le 3e livre des Partitiones dialecticae, consacré à la démonstration : la démonstration de méthode est un des modes de démonstration exposés.
+La même année Pierre de La Ramée oppose à l’Organon d’Aristote une logique inspirée de Platon.
+Il y donne des règles de la disposition ou second degré du jugement.
+En 1547 la disposition est nommée par lui methodus.
+Dans la Dialectique de 1555, Pierre de La Ramée explique la méthode de nature, et fixe sa place définitive dans la logique.
+
+La méthode est constituée. 
+
+
+=== Chapitre II La méthode et la dialectique de la Ramée ===
+
+On peut suivre l’évolution de la pensée de La Ramée grâce aux éditions successives de sa dialectique.
+Dans les Dialecticae partitiones (1543), La Ramée distingue trois formes de raisonnement : le premier degré ou syllogisme ; le second degré ou disposition, qui sera nommé méthode en 1547 (une première forme des règles de la méthode est exposée) ; le troisième degré ou science suprême, qui ne paraîtra plus dans les éditions suivantes.
+Par sentence du Roi (1544, n. st.) cet ouvrage est condamné avec les Aristotelicae animadversiones du même auteur.
+Lorsque La Ramée obtient à nouveau le droit d’écrire, il donne les Dialecticarum Institutionum libri très, où il ne distingue plus que deux espèces de raisonnement : syllogisme et méthode.
+
+La méthode de doctrine reprend les règles du second degré du raisonnement.
+Cette forme de la doctrine est reproduite dans les éditions de 1548, 1349, 1552, 1553, 1554.
+En 1555, paraît la Dialectique en deux livres.
+La Ramée distingue cette fois trois autres formes de raisonnement : énonciation, syllogisme et méthode.
+Il formule trois règles de l’énonciation (ϰατὰ παντός, ϰαθ’ αὑτό. ϰαθόλου πρῶτον) qui recevront du Ramisme un grand développement, de même que celles de la méthode de nature.
+
+La méthode de nature qui améliore les règles exprimées en 1547 et 1553 enseigne qu’il faut suivre l’ordre de nature en allant du plus simple au plus composé, du plus général au plus particulier, du plus clair et notoire au plus obscur et moins connu.
+
+Toute l’œuvre de La Ramée est dominée par l’idée de raison qui lui vient de Platon, l’idée de nature et celle de pratique dialectique (exercitatio) qui remontent à Cicéron et à Quintilien.
+
+
+=== Chapitre III La doctrine dialectique de la Ramée ===
+
+La critique d’Aristote occupe une place fort importante dans l’œuvre de La Ramée.
+Pourtant peu à peu La Ramée rend mieux justice à Aristote : à partir de 1543 (Animadversionum Aristotelicarum libri IX et X) il en vient à se dire aristotélicien.
+Il accuse ses adversaires d’être de moins bons interprètes d’Aristote que lui (Defensio pro Aristotele, 1571).
+La méthode de nature qu’il présente comme tirée d’Aristote est surtout due à l’union de la rhétorique cicéronienne et de la dialectique platonicienne. •
+
+D’autres influences s’exercèrent encore sur l’esprit de La Ramée qui était ouvert à toutes les sciences et particulièrement attaché aux mathématiques.
+Il ne paraît pas qu’on puisse faire de rapprochement entre la création de la méthode et la conversion au protestantisme de La Ramée en 1561.
+
+
+=== Chapitre IV Autres essais de méthode ===
+
+La méthode de La Ramée n’est pas la seule qui paraisse à cette époque critique.
+Jean Sturm (1516-1581) emploie le terme de methodus dès 1538, en lui donnant le sens que lui donnait Hermogène.
+Lorsqu’il fait pénétrer ce terme dans la dialectique (1543), il ne développe pas beaucoup le sens que lui a donné la rhétorique.
+Mais au sujet de la progression mathématique, il formule des règles beaucoup plus voisines de celles que La Ramée consacre à la méthode : Jean Sturm est le dernier précurseur de La Ramée.
+
+Francisco Robortello (vers 1550-1600) expose une méthode de la rhétorique et Mario Nizoli (1498-1556) propose de rénover la dialectique par la grammaire.
+
+Giacomo Aconzio publié en 1558 un traité De Methodo, qui n’est pas sans valeur Mais Aconzio écrit postérieurement à La Ramée qu’il connaît : il ne s’en distingue qu’en restant plus près de Galien.
+
+
+=== Chapitre V Conclusion ===
+
+La méthode de nature, due à La Ramée, représente mieux les tendances générales du xvie siècle et recevra plus de développement que toute autre. 
+
+
+== Troisième partie Le Ramisme ==
+
+
+=== Chapitre premier le Ramisme en France ===
+
+Le Ramisme désigne l’expansion de la doctrine de La Ramée.
+
+En France il se confond avec les luttes que soutient ce philosophe.
+Omer Talon écrit une rhétorique conforme aux vues de son ami.
+La violence des critiques de J. Charpentier et la querelle qu’il entama avec Ossat, disciple de La Ramée, au sujet de la méthode, montrent à la fois l’importance de cette question et que la méthode était la chose de La Ramée.
+Après la mort de La Ramée à l’époque de la Saint-Barthélemy, sa doctrine, étant celle d’un réformé, est proscrite de l’Université.
+Pour des raisons religieuses le Ramisme ne peut se développer en France.
+
+
+=== Chapitre II Le Ramisme en Allemagne et sur les bords du Rhin ===
+
+Le Ramisme reçut en Allemagne une grande extension, dont l’évolution seule a été marquée.
+
+A l’état pur, il est représenté par J.-Th.
+Freigius.
+Artificiellement uni à la doctrine de Philippe Mélanchton il devient le Philippo-ramisme chez Beurhaus et Bilstenius.
+Keckermann rédige l’histoire du Ramisme, au début du xviie siècle : c’est que le mouvement a pris fin.
+Mais il a porté ses fruits : la méthode est définitivement entrée dans le cadre de la logique.
+
+
+=== Chapitre III Le Ramisme en Angleterre ===
+
+Le Ramisme apparaît assez pur en Angleterre.
+Il prend de l’extension à Cambridge sous l’action de la critique.
+E. Digby l’attaque (1580), W. Temple le défend et le développe brillamment.
+En 1615, Cambridge est encore considéré comme ramiste.
+Oxford est l’adversaire du Ramisme.
+
+Francis Bacon a beau le combattre, on voit encore paraître des traités de dialectique suivant les principes de La Ramée en 1626 et en 1672.
+Ce dernier est dû à John Milton.
+
+
+=== Chapitre IV Le Ramisme en écosse ===
+
+Son évolution est ici particulièrement régulière.
+Introduit à la fin du xvie siècle par Andrews Melville, il est enseigné alors dans les Universités, et au xviie siècle James Sharp l’expose à l’Université de S. Andrews (cahier de cours de l’année 1643-1644, écrit par Th.
+Kirkson et approuvé par Sharp) et Sophocardius, à l’Université d’Edinburgh (cahier de cours de M. Newall, 1674).
+Herbert Kennedy donne en • 1694 une théorie de la méthode qui est une traduction latine abrégée de la Logique de Port-Royal mêlée de principes et de formules ramistes.
+
+Ainsi le Ramisme se fond dans une doctrine qui se borne à le parfaire.
+
+
+=== Chapitre IV Conclusion ===
+
+Le Ramisme a eu pour effet d’enrichir la logique non pas tant des règles méthodiques adoptées par La Ramée que de l’idée même de méthode.
+
+
+== Conclusion générale l’évolution de la méthode ==
+
+L’idée de méthode, sinon le Ramisme, fructifia en France mieux que partout ailleurs.
+Sa place est consacrée dans la logique par Gassendi qui juge très équitablement La Ramée.
+Le domaine où la pensée se contrôle elle-même avait été accru par l’adjonction de la méthode à la logique.
+Mais ce progrès ne fut pas le dernier : Descartes fit de la méthode la base de sa philosophie.
+A-t-il été influencé par La Ramée ?
+Les deux méthodes ont plus d’un trait commun.
+Assurément Descartes acheva l’œuvre entreprise par La Ramée.
+
+La Logique de Port-Royal conserva le cadre tracé par La Ramée et lit la synthèse de la méthode de nature et de la méthode cartésienne.
+
+
+== Pièces justificatives ==
+
+
+
+
+== Appendice ==
+
+

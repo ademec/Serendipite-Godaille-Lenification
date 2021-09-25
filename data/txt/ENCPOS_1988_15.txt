@@ -1,0 +1,83 @@
+identifier: ENCPOS_1988_15
+creator: Valérie Neveu
+date: 1988
+title: Les plus anciennes chartes en langue française conservées dans le département de la Côte-d’Or (1239-1270)
+
+
+
+== Introduction ==
+
+S’inscrivant dans la collection des Documents linguistiques de la France dirigée par M. Jacques Monfrin, consacrée à la publication, dans le cadre départemental, des plus anciennes chartes originales du domaine d’oïl, le recueil des chartes de la Côte-d’Or fait suite à d’autres thèses de l’École des Chartes analogues.
+Il réunit deux cent trente pièces de novembre 1239 à avril 1271 (n. st.), plus un vidimus de 1271 publié en appendice.
+
+
+== Sources ==
+
+Les documents proviennent principalement des Archives départementales de la Côte-d’Or.
+La série B a fourni cent trente et un actes, la série H cent cinq, en comptant les vidimus et doubles expéditions, la série G douze actes et la série E un acte.
+Un petit complément a été fourni par les Archives municipales de Dijon (trois actes), auquel il faut ajouter la charte de franchise conservée à Salmaise.
+
+Étant donné le nombre considérable de liasses dont la date initiale remonte au moins au xiiie siècle, un dépouillement exhaustif n’a pu être mené que pour les séries B et H depuis la sous-série 17 H. Un dépouillement partiel a été effectué grâce aux cotes relevées dans divers ouvrages historiques pour les séries 1 H à 16 H, G et E. Si un certain nombre de pièces a pu ainsi échapper aux recherches, néanmoins leur nombre ne devrait pas être très élevé. 
+
+
+== Chapitre premier localisation des pièces ==
+
+Le dépôt de la Côte-d’Or étant régional, on y trouve des pièces d’origine géographique diverse : duché de Bourgogne (provenant de Côte-d’Or, Saône-et-Loire, est de l’Yonne), plusieurs pièces de la Haute-Marne, de la Franche-Comté, quatre pièces de la zone franco-provençale, enfin une pièce de la chancellerie royale et une pièce de Soissons.
+
+Une localisation plus précise peut être tentée grâce à l’étude des mains, facilitée par la collection de photographies réunie pour les départements du Doubs et de la Haute-Marne.
+Il a été possible de repérer plusieurs scribes dijonnais, deux scribes attachés au duc de Bourgogne, deux scribes de l’Yonne, un scribe du Val-des-Écoliers (Haute-Marne), ainsi que quatre scribes de la chancellerie des comtes de Bourgogne.
+
+
+== Chapitre II L’apparition du français ==
+
+L’apparition du français comme langue diplomatique est tardive dans le duché de Bourgogne, comparée aux régions voisines.
+Le premier original conservé, de 1239, émane d’un seigneur de la Haute-Marne, et il faut attendre 1244 pour trouver le premier original proprement bourguignon.
+Le nombre des originaux conservés traduit une progression brusque de l’emploi du français à partir de 1251, son usage s’étendant encore dans la décennie 1261-1270 :
+
+1239 : 1
+
+1244-1250 : 9
+
+1251-1260 : 96
+
+1261-1270 : 131.
+
+La chancellerie ducale ne paraît pas avoir favorisé l’emploi du français, à la différence de la chancellerie comtoise.
+Le duc de Bourgogne a recours à des scribes divers.
+En dehors de lui et des comtes de Bourgogne, aucun laïc n’a de chancellerie organisée.
+La chancellerie ecclésiastique la plus active est celle des clercs dijonnais, sans doute autour de la Sainte-Chapelle.
+
+
+== Chapitre III Commentaires linguistiques ==
+
+Syntaxe. – La déclinaison est très bien conservée dans la plupart des actes : très peu d’actes montrent un scribe multipliant les fautes de flexion.
+Après un régime en tête de phrase, l’inversion du sujet n’apparaît pas comme la norme.
+
+Morphologie. – La forme locale de l’article défini lo, lou, est majoritaire mais fortement concurrencée par le.
+Par contre, la forme contractée dou est presque la seule employée.
+Li est fréquemment employé au cas sujet féminin singulier. 
+
+Les conjugaisons présentent plusieurs formes locales, comme la désinence – ient à la troisième personne pluriel de l’imparfait et du conditionnel, les désinences -oe et -oent aux première et troisième personnes des mêmes temps, l’accentuation de la dernière syllabe à la troisième personne singulier du subjonctif présent et à la troisième personne pluriel des subjonctifs présent et imparfait, enfin le développement d’une désinence -oi, -ois à la première personne du présent.
+
+Phonétique. – On retrouve les traits phonétiques déjà connus comme caractéristiques de la Bourgogne, par exemple le développement d’un u devant b et l, la réduction du groupe -iee à -ie, l’absence de consonne épenthétique dans les groupes n’r, l’r, l’évolution particulière de e entravé.
+La confusion entre a et ai, u et ui, o et oi apparaît de façon inégale : la confusion a/ai se rencontre partout, tandis que peu de textes, les moins soignés, montrent une confusion générale des voyelles.
+Le n intervocalique est fréquemment mouillé.
+La diphtongue eu provenant de e fermé + l aboutit à au (aus, çaus) et le groupe en hiatus eü à aü.
+La graphie -ei (ou -ey) pour -é final issu de a libre accentué n’apparaît pas comme typiquement bourguignonne.
+On ne la retrouve que dans un petit nombre de pièces dont beaucoup proviennent de la Haute-Marne.
+
+Ponctuation et orthographe. – Beaucoup de scribes s’efforcent de suivre certaines règles.
+Le z est en général employé correctement aux formes fléchies, et sert à distinguer nos pronom de noz adjectif possessif.
+
+Conclusion. – L’influence des formes communes est sensible en particulier chez les scribes dijonnais.
+Peu de pièces offrent un caractère dialectal très marqué.
+
+
+== Édition ==
+
+Deux cent trente numéros, dont plusieurs vidimus et doubles expéditions, comprenant quatre actes non datés mais s’inscrivant sans doute dans les limites chronologiques ; en appendice, un vidimus de 1271 à caractère franco-provençal.
+
+
+== Index ==
+
+Table topo-onomastique.

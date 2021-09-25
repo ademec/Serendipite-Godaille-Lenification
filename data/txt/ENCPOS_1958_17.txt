@@ -1,0 +1,96 @@
+identifier: ENCPOS_1958_17
+creator: Madeleine Renaudin
+date: 1958
+title: Catalogues des actes de l’abbaye Saint-Jean-des-Vignes de Soissons depuis sa fondation (1076) jusqu’en 1267
+
+
+
+== Première partie Sources – Bibliographie ==
+
+
+=== Esquisse de l’histoire de l’abbaye ===
+
+L’abbaye Saint-Jean-des-Vignes est située sur une hauteur dominant la ville de Soissons au sud-ouest.
+Son acte de fondation est la charte que fit rédiger l’évêque Thibaud lorsque Hugues de Château-Thierry, à la fin du xie siècle, se dessaisit entre ses mains des bénéfices ecclésiastiques qu’il détenait illicitement afin d’en doter la petite communauté de prêtres de Saint-Jean-du-Mont ; cet acte fut confirmé en 1076 par un diplôme royal.
+
+C’est principalement au cours des xiie et xiiie siècles que se constitua le domaine temporel de l’abbaye, dans la ville de Soissons et la région avoisinante, où ses prieurés se multiplièrent.
+
+Aucun des premiers abbés ne se signale particulièrement à l’attention, sauf peut-être le onzième, Raoul, sous l’abbatiat duquel se placent les débuts des grands travaux somptuaires et utilitaires de l’abbaye, et qui joua un rôle dans des affaires dont le cadre dépasse celui de Saint-Jean-des-Vignes.
+
+La guerre de Cent ans, puis et surtout les guerres de Religion frappèrent lourdement l’abbaye ; elle fut mise à sac par les Protestants, maîtres de la ville en septembre 1567, et son chartrier fut en partie brûlé.
+Quelques mois auparavant, à la mort de l’abbé régulier Pierre Basin, le roi avait imposé à l’abbaye un abbé commendataire, le cardinal de Bourbon.
+Elle traversa les deux derniers sièges de l’Ancien Régime sans retrouver l’importance qu’elle avait eue au xive ou au xve siècle. 
+
+Supprimée à la Révolution, elle ne fut pas rétablie par la suite.
+Les bâtiments, systématiquement démolis au début du xixe siècle, souffrirent encore des dernières guerres.
+Il n’en subsiste aujourd’hui que les tours et le portail.
+
+
+== Deuxième partie Les cartulaires de l’abbaye ==
+
+
+=== Chapitre premier le cartulaire de la bibliothèque nationale (fonds latin 11004). ===
+
+Le cartulaire est un volume de parchemin datant du milieu du xiiie siècle, contenant aujourd’hui 421 actes en latin entre les années 1088 et 1257, classés suivant un ordre à peu près hiérarchique.
+
+Son examen montre que ce cartulaire fut abandonné, avant d’être entièrement achevé, et qu’il fut vraisemblablement remplacé, avant même la fin du xiiie siècle, par un autre cartulaire reprenant lès mêmes actes, mais classés beaucoup plus méthodiquement (peut-être suivant un ordre topographique).
+Ce cartulaire n’est pas parvenu jusqu’à nous.
+
+Deux actes sont datés à tort des années 1276 et 1288 ; ces dates doivent être corrigées en 1176 et 1188.
+
+Le groupe d’actes le plus important contenu dans ce cartulaire est le groupe des actes épiscopaux (136, pour 86 desquels c’est là l’unique tradition).
+
+
+=== Chapitre II Le cartulaire de la bibliothèque municipale de Soissons (ms. 5). ===
+
+De tous les actes que contient ce cartulaire, seuls cinquante-trois entrent dans les limites chronologiques de ce travail.
+
+C’est un gros volume élaboré à plusieurs reprises au cours du xive siècle, et même ultérieurement.
+Les actes y sont rigoureusement classés suivant les ordres topographique et chronologique.
+
+Ce cartulaire était à l’origine en deux volumes ; le premier volume a aujourd’hui disparu.
+
+
+== Troisième partie Introduction au catalogue des actes == 
+
+
+=== Chapitre premier nature et contenu des actes. ===
+
+Ce catalogue renferme 688 actes, pour lesquels nous possédons 213 originaux ; douze de ces actes sont rédigés en langue vulgaire.
+
+Examen en fonction des expéditeurs : chancellerie pontificale ; chancellerie royale française ; chancelleries ecclésiastiques ; simples particuliers.
+
+Le groupe le plus important est constitué par les actes émanés de chancelleries ecclésiastiques, parmi lesquels les actes de juridiction gracieuse.
+On remarque qu’un même fait, au début du xiiie siècle, est souvent consigné à la fois dans un acte intitulé au nom de l’archidiacre ou de l’official, et dans un acte intitulé au nom de l’évêque ; on remarque également que certains actes sont intitulés aux noms de deux officiaux, dont l’un doit finir sa carrière alors que l’autre la commence.
+
+
+=== Chapitre II Mentions dorsales figurant sur les actes originaux de l’abbaye. ===
+
+Leur examen montre que les actes furent d’abord répartis, dans le chartrier de l’abbaye, en une multitude de petits groupes, en fonction des expéditeurs ; ce classement a été complètement remanié vers 1260 et le chartrier fut classé suivant l’ordre topographique, adopté également dans le cartulaire aujourd’hui conservé à Soissons ; il y a alors concordance entre le classement du chartrier et celui du cartulaire.
+
+
+=== Chapitre III Les styles chronologiques utilisés. ===
+
+Il apparaît que le style de la Nativité, en usage dans le diocèse de Soissons dans le courant du xiie siècle, dut se maintenir jusque dans les premières années du xiiie.
+Il semble qu’il ait été ensuite directement remplacé par le style de Pâques.
+Aucun exemple probant du style de l’Annonciation n’a été trouvé.
+
+
+=== Chapitre IV Chronologie des douze premiers abbés. ===
+
+La chronologie que donne le chanoine Louen dans son Histoire de l’abbaye ne peut pas être retenue ; l’examen des actes de l’abbaye confirme celle que donnent les auteurs de la Gallia Christiana, 
+
+
+== Quatrième partie Catalogue des actes de l’abbaye ==
+
+
+
+
+== Pièces justificatives ==
+
+
+
+
+== Index général des noms de personnes, de lieux et de matières ==
+
+

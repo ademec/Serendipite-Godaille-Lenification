@@ -1,0 +1,143 @@
+identifier: ENCPOS_1971_17
+creator: Dominique-Élisabeth Le Coq-Morel
+date: 1971
+title: Étude sur les Matinées et Après-dinées du Seigneur de Cholières (1585-1587)
+
+
+
+== Introduction ==
+
+Pendant longtemps la littérature du xvie siècle n’a été étudiée qu’au travers des écrivains les plus importants et les auteurs secondaires ont été négligés.
+Le seigneur de Cholières, malgré la diversité de ses écrits, compte parmi ces auteurs mal connus.
+En étudiant les Matinées et Après-dinées, ce travail vise à mieux faire connaître l’auteur et ses œuvres et à apporter une contribution à l’histoire littéraire du xvie siècle.
+
+
+== Première partie Étude sur l’auteur ==
+
+L’auteur des Matinées et Après-dinées n’est connu que sous le nom de « seigneur de Cholières » et son identification n’a cessé de poser des problèmes aux érudits.
+
+Différentes thèses, souvent contradictoires, ont été avancées, les unes fondées sur la localisation du nom
+    « Cholières », les autres sur les expressions dialectales employées par l’auteur ; pour les uns il serait normand, pour d’autres tourangeau, pour d’autres encore grenoblois.
+
+Dans ses écrits, toutefois, l’auteur dorme l’anagramme de son nom, qu’il est plausible de développer en IEAN DAGONEAU. Cette thèse est corroborée par l’existence de quelques écrits signés
+    « I.D.S. de Cholières » et par l’existence, à la Bibliothèque municipale de Reims, d’un manuscrit signé J.D.C., qui présente certaines analogies d’inspiration et de forme avec les Matinées et Après-dinées. 
+
+
+== Deuxième partie Composition et thèmes des ouvrages ==
+
+
+=== Chapitre premier composition des Matinées et Après-dinées ===
+
+Chacun des deux ouvrages se compose de neuf séances de longueur inégale, qui rassemblent des devisants qui échangent leurs idées sur des sujets définis à l’avance.
+
+En général, l’auteur n’intervient que pour calmer l’ardeur des interlocuteurs, ou, en fin de séance, pour tirer la leçon des propos échangés si les devisants arrivent à un accord, ou pour constater leurs divergences s’ils n’y parviennent pas.
+
+
+=== Chapitre II Thèmes abordés dans les Matinées et Après-dinées ===
+
+Dans les discussions, une place très importante est consacrée aux problèmes posés par le mariage, puis par le droit et la médecine.
+
+Sont consacrées au mariage :
+
+Matinée V :
+    « Des laides et belles femmes, lesquelles doit-on épouser de préférence »,
+
+VI :
+    « De la jalousie du mary et de la femme »,
+
+VII :
+    « De l’inégalité de l’aage des mariez »,
+
+VIII :
+    « Des lettrez et des guerriers, lesquels sont les meilleurs époux »,
+
+IX :
+    « De la trefve conjugale » ;
+
+Après-dinée II :
+    « Du mariage »,
+
+III :
+    « De la puissance maritale »,
+
+V :
+    « Du babil et caquet des femmes ».
+
+Sont consacrées au droit et à la médecine :
+
+Matinée II :
+    « Des loix et de la médecine »,
+
+III :
+    « Des mains des advocats »,
+
+IV :
+    « Des chatrez » ;
+
+Après-dinée I :
+    « Du veiller et du dormir »,
+
+VII :
+    « Des vieillards et des jeunes enfans, s’ils peuvent engendrer ». 
+
+Enfin, des sujets divers sont abordés dans les séances suivantes :
+
+Matinée I :
+    « De l’or et du fer » ;
+
+Après-dinée IV :
+    « De l’arbre de vie »,
+
+VI :
+    « Des barbes »,
+
+VIII :
+    « Des prognostics et prédictions astrologiques »,
+
+IX :
+    « Des lunatiques ».
+
+L’énumération de ces thèmes permet de voir quels étaient les sujets en vogue à la fin du xvie siècle et surtout de constater la place qu’occupe encore la « querelle des femmes ».
+
+
+== Troisième partie Place de l’auteur dans le xvie siècle ==
+
+
+=== Chapitre premier les idées ===
+
+Les thèmes traités éclairent déjà les idées de l’auteur, mais la façon dont il les aborde permet de mieux comprendre sa mentalité.
+
+Sur les problèmes posés par les rapports entre les hommes et les femmes, notamment au sein du mariage, on ne peut pas dire que Cholières soit particulièrement favorable aux femmes, mais il faut noter toutefois qu’il met dans la bouche de certains devisants des tentatives, bien timides il est vrai, de défense des femmes.
+
+Sur les avocats et les médecins, les critiques vont bon train, tant sur leur manque de science que sur leur rapacité au gain.
+On peut également noter chez l’auteur une assez bonne culture juridique, qui le rapproche de certains de ses contemporains.
+
+Les sciences physiques ou occultes ne sont pas étrangères à l’intérêt de Cholières, mais ses connaissances sur ces sujets sont assez réduites.
+Dans la séance intitulée l’« Arbre de vie », au cours de laquelle il se risque à des considérations pseudo-philosophiques, on peut voir combien ce genre lui convient peu.
+
+
+=== Chapitre II Les sources ===
+
+Les sources anciennes abondent.
+Les citations sont puisées dans le texte, semble-t-il, pour les auteurs latins et dans des traductions pour les auteurs grecs.
+
+La Bible, l’Ancien Testament et les épîtres de saint Paul en particulier, sont mis à contribution, ainsi que les Pères de l’Église, saint Augustin surtout, et des théologiens comme Pierre Lombard et Hugues de Saint-Victor.
+
+Le Corpus juris civilis, le Décret de Burchard et celui de Gratien, les écrits de Paul, Ulpien, Accurse, Balde, Bartole, Jean André, Panormitain, Cujas, etc., semblent familiers à Cholières.
+
+Enfin, l’auteur fait de nombreux emprunts à ses contemporains, surtout Rabelais et Du Bartas.
+Il faut également noter l’influence des écrits espagnols.
+
+
+=== Chapitre III Le style ===
+
+La forme adoptée, le dialogue, permet de mettre en évidence un langage vif, coloré, vert, parfois émaillé de nombreuses expressions populaires.
+
+L’influence de Rabelais est manifeste et l’auteur semble chercher à l’égaler, à imiter ses tournures, voire à lui emprunter certaines trouvailles.
+
+
+== Conclusion ==
+
+Le discrédit dans lequel est tombé Cholières semble injustifié.
+S’il n’est pas un auteur très original, il apparaît toutefois comme un honnête porte-parole des préoccupations du xvie siècle finissant.
+D’autre part, il permet de mieux comprendre l’évolution des genres littéraires au xvie siècle et la naissance d’œuvres plus élaborées.

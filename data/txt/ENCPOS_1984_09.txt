@@ -1,0 +1,103 @@
+identifier: ENCPOS_1984_09
+creator: Mireille Lamarque
+date: 1984
+title: Un art de mourir du xive siècle : Ung enseignement moult piteux de Jean de Remin. Édition critique
+
+
+
+== Première partie Commentaire ==
+
+
+=== Chapitre premier les manuscrits et l’édition de 1503 ===
+
+Ung enseignement moult piteux est conservé dans deux manuscrits.
+
+Le manuscrit français 1578 de la Bibliothèque nationale contient, du folio 1 au folio 74v, 5582 vers octosyllabes, en regard desquels sont transcrites des citations latines bibliques et patristiques.
+Ce manuscrit, datant du xve siècle, est le seul à reproduire le texte intégral du poème de Jean de Remin.
+Il a fait partie de la collection du comte Philippe de Béthune, frère du duc de Sully, léguée par ses héritiers à la Bibliothèque royale.
+Il réunit sous un titre erroné, Le livre des sept sages de Rome, deux ouvrages distincts mais l’un et l’autre consacrés à des thèmes religieux.
+En effet, du folio 75 au folio 110v figure un texte anonyme intitulé Li livre de la vie Nostre Seigneur Jhesu Crist.
+Ce rapprochement entre un art de mourir et une vie du Christ n’a pas lieu de surprendre, étant donné la date du manuscrit.
+Il s’agit pour le fidèle d’apprendre à supporter la souffrance avec sérénité, afin de gagner son salut : telle est la leçon que délivre le poème de Jean de Remin.
+La Passion sert de modèle à cette ligne de conduite : d’où l’ample diffusion des vies du Christ.
+Les deux ouvrages sont donc rassemblés logiquement dans un même manuscrit.
+
+Le manuscrit 73 J 55 de la Bibliothèque royale de La Haye ne comprend, aux folios 126v-142v, que les neuf cents premiers vers du poème, présentés sans les citations latines et sous le titre de Livre d’impacience.
+Il date, lui aussi, du xve siècle.
+Les trois ouvrages de morale qui précédent le poème dans le manuscrit (folios 1-126) sont également des méditations sur la souffrance et la mort.
+
+L’édition plagiaire d’Antoine Vérard (Bibliothèque nationale, Réserve Yh.7) reproduit intégralement, bien qu’elle modernise le vocabulaire, le poème de Jean de Remin tel qu’il se présente dans le manuscrit français 1578, y compris les citations latines ; elle donne le nom de l’auteur et porte la date falsifiée de 1502 (1503 n. st.).
+Clôturant l’ouvrage, le poème est imprimé à la suite de dix autres textes dont le premier donne son titre au volume : Les regnars traversant les perilleuses voyes des folles fiances du monde, de Jean Bouchet (publié par Antoine Vérard sous le nom de Sébastien Brand) et qui traitent tous de la vanité de la vie mondaine et des peines de l’enfer (La complaincte d’ung damné, la Ballade de pertinacité, d’après un ouvrage de Jean Bouchet, un traité sur la vanité des arts libéraux et des arts mécaniques, Des vices et des vertus, Des estatz du monde, sans doute de Jean Bouchet, précédé de deux ballades, La complaincte douloureuse de l’ame damnee, un petit dialogue entre Dieu et le diable, et la Ballade des abuz du monde).
+
+Ung enseignement moult piteux vient à sa place, pour apporter une morale finale conduisant au salut.
+
+
+=== Chapitre II L’auteur, sa langue et sa versification ===
+
+L’auteur, Jean de Remin, n’est connu par aucun autre ouvrage.
+La langue qu’il utilise est parsemée de traits dialectaux du Nord-Est de la France ; or son patronyme semblerait indiquer une parenté avec Philippe de Beaumanoir (Philippe de Remi), dont le frère possédait depuis 1294 des terres en Champagne (à cette date, une charte le mentionne à l’occasion d’un partage dans cette région).
+Jean de Remin n’a laissé aucune trace dans les pouillés et obituaires de la région ; il ne figure pas davantage parmi le personnel administratif du royaume, ni parmi les officiers royaux.
+
+Les vers sont des octosyllabes à rime plate.
+L’auteur recherche la rime riche.
+
+
+=== Chapitre III Analyse de l’œuvre ===
+
+Ung enseignement moult piteux met en scène un mourant et un prêtre venu lui porter les derniers sacrements.
+L’auteur assiste au dialogue ; il le rapporte dans l’intention d’instruire ses lecteurs et de délivrer à ceux qui souffrent un enseignement qui leur permette de prendre leur mal en patience, afin d’obtenir ici-bas la rémission de leurs péchés (1-46). 
+
+Au mourant qui ressent d’affreuses souffrances dans tout son corps, le prêtre explique, à l’aide d’exemples bibliques, qu’il est puni par les cinq sens qui ont été chez lui le véhicule du péché (47-720).
+Il considère ensuite la misère de la condition humaine, dès avant la naissance jusqu’à la vieillesse et la mort implacable (721-942).
+Nul n’échappe au jugement divin, qui conduit l’âme soit en enfer, soit au paradis, soit au purgatoire ; à cette occasion est évoqué le purgatoire de saint Patrice (943-1526).
+
+Signe de l’amour divin, la souffrance permet d’expier les péchés sur terre, moyennant plusieurs conditions : le baptême, la confession, la contrition, et après la mort, la satisfaction acquise par les aumônes ou les prières : il faut donc prier tout particulièrement pour les âmes du purgatoire (1527-2096).
+
+Les infirmités du malade lui viennent de ses péchés : avarice, parjure, ivrognerie, luxure, d’où l’obligation de sobriété, de chasteté (surtout pour les prêtres) et de respect du mariage ; la danse, la fréquentation des tavernes et l’élégance sont à bannir.
+La punition divine sur terre est une chance de salut à prendre en gré (2097-3860).
+Le moribond reconnaît son indignité, mais se plaint d’avoir perdu femme, enfants et fortune.
+C’est un bien, assure le prêtre, car si une femme vertueuse est un trésor, une mauvaise femme est un fléau ; quant aux enfants, ils sont ingrats ; mieux vaut donc qu’ils soient morts (3861-4540).
+Parce que la fortune se perd faute de charité, le fidèle doit pratiquer l’aumône de la miséricorde et pardonner à ses ennemis, à l’exemple de Jésus (4541-4998).
+
+Le malade maudit avec colère les ennemis qui ont pillé sa maison, violé sa femme et tué son fils.
+Il se fait reprendre durement par le prêtre qui prêche le pardon des offenses, indispensable pour obtenir en retour la miséricorde divine.
+Le malade ne doit pas se plaindre d’avoir perdu ses biens : ils n’étaient qu’un prêt de la Fortune, sur lequel il n’avait aucun droit.
+Sa femme a accompli son purgatoire sur terre ; il faut, de plus, prier pour les criminels qui se damnent (4999-5358).
+
+Reconnaissant ses torts, le mourant s’inquiète cependant de calomnies qu’un voisin fait courir sur son compte ; pour le rassurer, le prêtre cite l’exemple du Christ.
+Les victimes de la médisance peuvent être assimilées à des martyrs « en conscience » si elles savent supporter leur mal avec patience (5359-5544).
+
+Sa mission remplie, le prêtre absout le malade et lui administre l’extrême-onction.
+De retour chez lui, l’auteur consigne par écrit les propos qu’il a recueillis, pour l’édification de ses futurs lecteurs (5545-5582).
+
+
+=== Chapitre IV Les sources ===
+
+Ung enseignement moult piteux appartient au courant des arts de mourir qui accordent une large place à la nécessité du repentir, à la rédemption par la souffrance acceptée avec sérénité.
+Cependant, l’œuvre ne se présente pas comme un manuel théorique destiné aux prêtres.
+Tout en recourant aux mêmes thèmes que Gerson dans la Medecine de l’ame ou que l’Ars moriendi traduit par Jean Miélot, notamment à ceux de la nécessité de la patience et de la préparation à la mort, le poème s’adresse à des laïcs : il met en scène des personnages auxquels les lecteurs peuvent s’identifier ; vers la fin du texte, le dialogue qui s’engage entre le prêtre et le malade sur les malheurs de la vie est sans doute inspiré par une expérience directe de la guerre.
+Les motifs de la misère humaine, de l’inéluctabilité de la mort sont empruntés au De miseria d’Innocent III. Fondamental dans la religion de l’époque, l’exemple du Christ et de sa Passion est invoqué à plusieurs reprises.
+Diverses notions telles que la punition par les cinq sens, l’opposition des vertus et des vices ou les phases de la confession, courantes déjà au xiiie siècle, appartiennent au répertoire des manuels de confession (Formula confessionis de Jean Rigaud, Summa de poenitentia de Jean d’Erfürt, Summa collectionum de Durand de Champagne).
+Des sujets communs se retrouvent dans le poème de Jean de Remin et dans le Miroir de l’ame que traduit Jean Miélot un siècle plus tard : la pénitence, la vanité du monde, la misère humaine, le sort de l’âme après la mort.
+
+Le purgatoire tient une place importante dans le poème, témoignant du succès du Purgatoire de saint Patrice.
+Il en est de même pour l’idée des vicissitudes de la fortune, héritée de Boèce.
+En outre, dans le passage assez long consacré aux femmes, l’influence du Roman de la Rose est sensible ; on peut rapprocher ces passages du Miroir de mariage d’Eustache Deschamps et des Lamentations de Matheolus traduites par Jean Le Fèvre, ainsi que du Livre de Leesce du même Jean Le Fèvre.
+
+
+== Conclusion ==
+
+Longue exhortation utilisant tous les thèmes religieux dominants de l’époque, le poème de Jean de Remin se présente comme un sermon à bâtons rompus, construit sans plan bien défini, pour revenir avec insistance sur les thèmes de la pénitence et de la souffrance salvatrice.
+Son originalité réside surtout dans sa date de 1366, précoce pour un art de mourir en français.
+
+
+== Deuxième partie Édition ==
+
+Le manuscrit français 1578 a servi de manuscrit de base.
+Les variantes du manuscrit de La Haye ne portent que sur les neuf cents premiers vers.
+L’édition d’Antoine Vérard apporte quelques compléments pour les vers qui manquent dans le manuscrit français 1578.
+
+
+== Annexes ==
+
+Citations latines marginales. – Glossaire.

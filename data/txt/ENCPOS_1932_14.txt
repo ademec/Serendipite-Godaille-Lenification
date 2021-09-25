@@ -1,0 +1,205 @@
+identifier: ENCPOS_1932_14
+creator: Francis Salet
+date: 1932
+title: L’architecture religieuse dans le comté de Brie du xie au xvie siècle
+
+
+
+== Avant-propos ==
+
+
+
+
+== Sources ==
+
+Courte notice sur le manuscrit 220 de la Bibliothèque de Provins qui n’est autre que le
+    « Livre pelu » de Saint-Quiriace de Provins (Liber pilosus Sancti Quiriaci) que l’on disait perdu depuis le xviiie siècle.
+Il contient une chronique de la collégiale Saint-Quiriace, écrite au xve siècle.
+
+
+== Bibliographie ==
+
+
+
+
+== Introduction le comté de Brie ==
+
+Limites.
+Géographie.
+Géologie ; nature de la pierre et carrières.
+Histoire politique, religieuse et économique. 
+
+
+== Premiere partie Etude de quelques Edifices ==
+
+Saint-Ayoul de Provins.
+Croisée du transept et croisillon nord du xie siècle (peut-être 1048), non voûtés.
+Le portail a été sculpté vers 1160 : rapports très nets avec le Portail Royal ; différences très marquées avec celui de Saint-Loup de Naud, voisin et contemporain.
+Chœur de la fin du xiiie et du xve siècle ; nef des xiiie et xvie siècles.
+
+Saint-Loup de Naud.
+Chœur, transept et deux travées de nef du xie siècle, voûtés d’un cul-de-four, « l’une coupole sur trompes, de berceaux et de voûtes d’arêtes.
+Cette partie de l’édifice relève plus de la Bourgogne que de l’Ile-de-France.
+Les deux travées occidentales de la nef datent de la fin du XIIe siècle (sans doute après la donation importante du comte Henri-le-Libéral en 1167) ; les supports sont alternés bien que les voûtes soient simples ; la voûte d’arêtes persiste sur les collatéraux.
+Le portail, contemporain de la nef, s’éloigne de celui de Chartres et manifeste peut-être une influence bourguignonne.
+
+Sainte-Croix de Provins.
+Croisée du transept de la première moitié du xiie siècle, voûtée postérieurement.
+Nef du xiiie, chœur du xvie.
+
+Couilly.
+Travée sous le clocher de 1140-1150 environ, voûtée d’ogives.
+Ce clocher semble avoir été placé à cette époque sur le vaisseau central.
+Le reste de la construction remonte aux xiiie et xvie siècles.
+
+Saint-Quiriace de Provins.
+Chœur construit par les soins d’Henri-le-Libéral, vers 1157-1160.
+Le plan est unique : une chapelle carrée s’ouvre sur un déambulatoire carré.
+La partie droite est voûtée d’une voûte octopartite, seul exemple en France avec celui de Voulton, imité de Saint-Quiriace.
+
+Une seconde campagne de construction au début du xiiie siècle ajoute deux chapelles au chevet, ce qui le rend plat, et deux cryptes sous ces chapelles, une salle capitulaire au sud, et construit la croisée du transept qui est voûtée d’ogives à ce moment.
+L’existence d’un dôme dès cette époque ou d’une tour sur la croisée est une pure légende : le dôme actuel a été conçu et exécuté après les dévastations causées par un incendie en 1662.
+
+Une troisième campagne en 1238 monte le transept (le mur du croisillon nord avait été construit en partie dès le xiie siècle) et une travée de nef.
+Une autre travée de nef.
+Une autre travée de nef est exécutée au xvie siècle et la construction demeure inachevée.
+
+Les arcs-boutants ne datent que du début du XIIIe siècle : au xiie, l’équilibre du vaisseau est assuré par la forme bombée de la voûte, qui ramène les poussées à la verticale.
+
+Saint-Quiriace de Provins se rattache à la cathédrale de Sens, non seulement par des détails de décoration, mais surtout par son élévation sans tribunes et son système d’équilibre.
+
+Ancienne chapelle du Palais des Comtes à Provins.
+Construite par Henri-le-Libéral avant 1178.
+Influence de Saint-Quiriace.
+
+Voulton.
+Construite vers 1180 et vers 1220, elle emprunte à Saint-Quiriace sa voûte octopartite et bombée, mais dès le xiie siècle, utilise les arcs-boutants.
+Dans la nef, les supports sont alternés bien que les voûtes soient simples.
+Les collatéraux sont voûtés d’arêtes.
+
+L’architecture cistercienne.
+Ruines de l’église de Preuilly, construite vers 1160, sans doute couverte dé croisées sexpartites.
+Les voûtes basses sont d’arêtes.
+
+Ruines de l’église de Jouy, consacrée entre 1200 et 1222.
+D’après les textes de l’époque révolutionnaire, il semble que les bâtiments réguliers s’élevaient au nord de l’église.
+
+Donnemarie-en-Montois.
+Construite en deux campagnes au xiiie siècle.
+Le clocher conservé de l’église du xiie s., porte à faux sur les voûtes collatérales.
+
+Rozoy-en-Brie.
+Edifice du début du xiiie et du XVIe siècle, couvert tout entier de voûtes sexpartites et sans arcs-boutants.
+
+Lagny.
+Chœur de l’église, construit non vers 1370 comme le disent les historiens, mais vers 1250, et inachevé en élévation.
+Dans le transept, se trouvent des restes de l’église précédente qui indiquent qu’elle était voûtée d’ogives vers 1130 ou 1140.
+
+Rampillon.
+Construite à la fin du xiiie siècle.
+Le portail est de la même époque.
+L’église, par son architecture, manifeste quelques influences normandes.
+
+
+== Seconde partie L’architecture religieuse dans le comté de Brie ==
+
+
+=== Chapitre premier ===
+
+Comme en Ile-de-France et en Champagne, presque toutes les églises romanes ont été rebâties à l’époque gothique et l’on ne peut citer aucun édifice qui soit tout entier de style roman.
+La majorité des églises de la région remonte à la première moitié du xiiie siècle.
+Matériaux : la pierre est un calcaire d’excellente qualité, léger et résistant.
+Emploi du grès dans quelques cas, en particulier dans les clochers du xvie siècle.
+Appareil.
+Orientation et brisures d’axe. 
+
+
+=== Chapitre II Plan ===
+
+Reconstructions partielles conservant une partie de l’édifice antérieur, généralement le clocher.
+De nombreux exemples de clochers ainsi conservés et placés sur la dernière ou avant-dernière travée du bas-côté sud, semblent indiquer que c’était leur emplacement le plus fréquent au xiie siècle.
+
+Les églises à nef unique sont extrêmement nombreuses à l’époque gothique et terminées par des chevets plats.
+Les déambulatoires sont une rare exception, ainsi que les transepts : l’absence de transept est de règle à l’époque gothique, même dans les édifices importants.
+
+
+=== Chapitre III Voûtes et équilibre ===
+
+Les quelques édifices romans ne sont pas voûtés, sauf Saint-Loup de Naud qui réunit tous les modes de voûtement du Moyen-Age, et doit être mis à part : la coupole et le berceau ne se trouvent pas ailleurs.
+
+Les voûtes d’arêtes sont rares aussi à l’époque romane.
+Par contre, on possède plusieurs exemples à l’époque gothique et jusqu’à une date avancée du xiiie siècle, de leur emploi pour les voûtes basses, même lorsque le vaisseau central est voûté d’ogives.
+
+Les voûtes octopartites de Saint-Quiriace de Provins et de Voulton n’ont pas fait école.
+L’étude de ces deux édifices prouve que la voûte bombée n’est pas une maladresse de la part des premiers constructeurs gothiques, mais un moyen d’équilibrer un vaisseau important sans arcs-boutants. 
+
+La Brie est une des régions où la voûte sexpartite a eu le plus de faveur.
+Elle est couramment employée jusqu’au milieu du xiiie siècle.
+
+Les plus anciens arcs-boutants sont ceux de Voulton.
+Ce mode de contrebutement reste l’exception dans les édifices de dimensions modestes.
+
+
+=== Chapitre IV Supports ===
+
+Le type du xie siècle est un simple massif restangulaire qui correspond à des églises non voûtées.
+A l’époque gothique, la colonne est parfois employée dans toute la longueur du vaisseau, sans doute par influence de Notre-Dame de Paris.
+
+L’alternance est très fréquente et se rencontre même dans des édifices couverts de voûtes simples (Saint-Loup de Naud, Voulton).
+
+
+=== Chapitre V Élévation intérieure et extérieure ===
+
+Le triforium est rare dans les églises de campagne.
+Certains édifices importants en sont dépourvus (Sainte-Croix de Provins, Voulton).
+
+Les nefs obscures se rencontrent couramment a l’époque romane et persistent à l’époque suivante dans plusieurs exemples.
+Quelques églises remplacent les fenêtres hautes par des oculi, par influence de Notre-Dame de Paris.
+Les triplets sont extrêmement nombreux.
+
+L’extérieur se distingue surtout par la beauté des clochers, d’un style assez particulier.
+Ce sont souvent des clochers-porches ; ils sont rarement placés sur le vaisseau central, souvent sur les bas-côtés.
+Ceux du xvie siècle sont de remarquables constructions.
+Le couronnement à quatre pignons est fréquent, mais les flèches ne se trouvent presque jamais.
+
+
+=== Chapitre VI Mouluration, décoration, sculpture ===
+
+Le type de base du xiie siècle (une gorge entre deux tores inégaux) persiste au début du xiiie.
+Pour les ogives, les profils les plus fréquents sont ceux d’une gorge ou d’une arête entre deux tores et celui du tore aminci.
+Le profil des tailloirs est légèrement en retard sur celui des grandes cathédrales voisines.
+Les chapiteaux n’offrent rien de remarquable.
+Ceux de la nef de Montévrain remontent au moins au xie siècle.
+Les seuls chapiteaux historiés sont ceux de la travée sous le clocher de Montévrain, vers 1130 ou 1140.
+
+Les portails du type de Chartres étaient nombreux en Brie.
+Il en existait à Lagny, à Saint-Thibaut de Provins, à Nesle-la-Reposte.
+Celui de Saint-Ayoul de Provins peut avoir subi une influence directe du Portail Royal.
+Il n’en est pas de même de celui de Saint-Loup de Naud qui semble être l’œuvre d’un sculpteur bourguignon.
+
+
+== Conclusions ==
+
+Ecoles et influences.
+Il n’est pas possible d’isoler l’architecture briarde pour en faire une famille indépendante ni de la rattacher à l’une des écoles voisines. 
+
+Influence de l’école champenoise.
+Plusieurs exemples de plans champenois et de fenêtres champenoises, mais dans des édifices qui, par leurs autres caractères, s’apparentent à ceux de l’Ile-de-France.
+Il ne faut pas faire de la Brie champenoise une annexe de l’école de Champagne.
+
+Influence très nette de l’Ile-de-France et, dans plusieurs exemples, de Notre-Dame de Paris.
+
+Influence de la Normandie à Rampillon et Nangis, et dans les clochers de Lizines et de Champeaux.
+
+Influence de la Bourgogne et plus particulièrement de Sens.
+Place de la cathédrale de Sens et de Saint-Quiriace de Provins dans l’histoire de l’architecture gothique sans arcs-boutants.
+
+
+== Tables ==
+
+
+
+
+== Album : plans, coupes et photographies ==
+
+

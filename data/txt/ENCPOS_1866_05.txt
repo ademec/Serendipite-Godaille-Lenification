@@ -1,0 +1,119 @@
+identifier: ENCPOS_1866_05
+creator: Francis Molard
+date: 1866
+title: Essai sur l’organisation et la procédure des officialités dans les trois diocèses de Lausanne, Vienne et Grenoble
+
+
+
+== Première partie Organisation du tribunal de l’officialité ==
+
+I. Le tribunal de l’Officialité est composé des fonctionnaires suivants dans les trois diocèses de Lausanne, de Vienne et de Grenoble, à savoir : 1° l’Offïcial ; 2° et 3° le Chancelier et son Vice-receveur ou Mestral ; 4° et 5° le Procureur fiscal et son Substitut ; 6° et 7° les Notaires jurés et leurs sous-greffiers (subscribæ) ; 8° les familiares.
+
+
+=== Official ===
+
+LL L’official, qualifié du titre de magister dans le diocèse de Vienne, de celui de dominus dans les deux diocèses de Lausanne et de Grenoble, dit en parlant de lui-même nos, et non ego, comme les officiaux du nord de la Loire. 
+
+III. L’official peut cumuler avec son titre non-seulement les dignités de son chapitre, mais encore celles des chapitres des diocèses étrangers.
+
+IV. L’official est soumis à l’évêque, ou, à défaut de l’évêque, au chapitre où le doyen le remplace parfois avec le titre de Vice-gérant.
+
+V. L’official est rétribué par l’évêque, ainsi que la cour d’officialité.
+Il a droit à un casuel.
+
+
+=== Le chancelier ===
+
+VI. La charge de chancelier donne la noblesse.
+
+VII. La charge de chancelier s’afferme moyennant un prix déterminé payé tous les quatre ans.
+
+VIII. Il y a pourtant une filière à suivre pour arriver à cette place.
+Pour avoir le droit d’affermer la charge, il faut avoir été clerc juré ou vice-receveur.
+
+IX. Mais le besoin d’argent fait passer parfois sur ces règles, et tout notaire peut devenir chancelier, et même affermer le produit tout entier du tribunal d’officialité.
+
+X. Le chancelier présente le procureur fiscal à l’approbation de l’évêque et partage avec lui le profit des bans.
+
+XI. Le chancelier a le droit de faire les publications en cour d’officialité.
+Il a une paye fixe et un salaire casuel.
+
+
+=== Le procureur fiscal ===
+
+XII. Il remplissait le rôle de ministère public.
+Il recevait les plaintes et dénonciations et agissait lui-même en cas de scandale patent.
+
+XIII. Il recevait les produits des amendes des compositions et des condamnations.
+
+XIV. Il rendait ses comptes tous les deux ou trois ans.
+Ses gagesse composaient d’un quart des bans et d’un casuel fourni par le chancelier.
+
+XV. Il avait un substitut pour l’aider et le remplacer en cas de maladie. 
+
+XVI. Il avait la haute surveillance sur l’exécution des coupables, les prisons de l’official, et réglait avec le châtelain les dépenses des prisonniers arrêtés par la cour séculière et renvoyés à l’official après examen préalable.
+En cas de discord, l’official jugeait et décidait entre eux.
+
+
+=== Les clercs jurés ===
+
+XVII. Les clercs jurés pouvaient être clercs d’un autre diocèse, notaires impériaux et apostoliques, secrétaires de l’évêque ou du souverain du pays, prêtres, et curés ayant charge d’âmes.
+
+XVIII. Ce sont eux qui transmettent à l’official les demandes de sceller.
+Ils signent, rédigent, tous les deux ou à tour de rôle, les actes scellés par l’official (à Vienne depuis 1553, à Lausanne depuis 1360).
+
+XIX. Ils peuvent être commis par l’official à des affaires importantes, comme l’examen des témoins, la rentrée des biens cédés en fraude des créanciers, etc.
+
+XX. Ils ont des sous-greffiers.
+Ils rédigent et copient tous les actes et pièces de procédure en cour d’officialité.
+
+XXI. Ils ont un traitement fixe et un casuel à prendre sur les frais des procès.
+Leur charge est à ferme, et se paye tous les deux ans.
+Ils président directement aux exécutions des clercs,
+
+
+=== Les familiers ===
+
+XXII. Ils aident aux jurés de la cour séculière dans les exécutions des clercs, portent les lettres d’exécution, les citations, et les monitoires.
+
+XXIII. L’huissier proclamateur, qui est aussi un des familiers, sonne la cloche qui annonce l’ouverture de la cour et signe aux lettres d’absolution.
+
+XXIV. La cour de l’official chôme tous les dimanches et pendant un certain nombre de jours fériés dont le détail est contenu dans un calendrier spécial destiné à celte cour. 
+
+
+== Deuxième partie Procédure du tribunal de l’officialité ==
+
+
+=== Procédure civile ===
+
+I. La compétence du tribunal d’officialité s’étendait territorialement sur un doyenné ou un archiprêtré tout entier, et individuellement sur toutes les personnes ecclésiastiques qui se trouvaient dans le ressort dudit doyenné (quand bien même ces personnes étaient clercs ou avaient charge d ûmes en pays étrangers).
+
+II. Il y avait des procureurs et des avocats attachés au tribunal d’officialité.
+Ils étaient nommés par l’official et prêtaient serment entre ses mains.
+Un salaire annuel leur était attribué en outre de leurs honoraires.
+
+
+=== Procédure criminelle ===
+
+III. Les sentences portées par le tribunal d’officialité, affectaient trois formes bien distinctes : la compositio, la condemnatio, la marciatio.
+
+IV. L’official avait droit de prononcer la mort et la confiscation en cas de sortilége et d’hérésie.
+Les peines pour l’adultère, le rapt, la fornication et la détention arbitraire des biens de l’Église étaient les excommunications majeures et mineures, l’échelle, la prison et l’amende.
+
+V. L’appel, tant au civil qu’au criminel, était porté par devant l’archevêque diocésain ou le pape.
+L’official du diocèse voisin était alors chargé de faire enquête et prononçait en dernier ressort.
+
+
+=== Attributions extrajudiciaires des officiaux ===
+
+VI. Les attributions extrajudiciaires des officiaux sont la rédaction des actes synodaux, les visites pastorales faites de concert avec l’évêque, et, au seizième siècle, le vicariat général pour le spirituel et le temporel de l’évêché.
+
+VII. Ce sont aussi la sépulture et le payement des dettes des curés au moyen de leurs dépouilles.
+
+VIII. Les officiaux forment le conseil de l’évêque dans toutes les affaires importantes, religieuses ou temporelles, politiques ou civiles.
+
+IX. Les officiaux scellent de leur sceau tous les actes importants, quand prière leur en est faite par les parties ou quand l’ordre leur en est donné par l’évêque.
+
+Chaque élève publiera les positions de sa thèse isolément et sous sa responsabilité personnelle.
+
+(Règlement du janvier 1860, art. 7.)

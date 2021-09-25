@@ -1,0 +1,92 @@
+identifier: ENCPOS_1950_22
+creator: Paulette Portejoie
+date: 1950
+title: L’ancien coutumier de Champagne. Étude et édition
+
+
+
+== Bibliographie ==
+
+
+
+
+== Introduction ==
+
+L’ancien coutumier de Champagne est une œuvre privée, rédigée par un praticien entre 1295 et 1300, dans le bailliage de Troyes ou celui de Chaumont.
+C’est une compilation en soixante-six articles, composée de notables de droit souvent illustrés de sentences judiciaires qui nous ont transmis le nom des parties et des juges, nous permettant ainsi de connaître l’évolution de la justice à la fin du xiiie siècle.
+
+
+== Première partie Le droit de l’ancien coutumier ==
+
+
+=== Chapitre premier l’état des personnes. ===
+
+L’ancien coutumier contient un certain nombre de règles sans lien entre elles, mais suffisantes pour nous permettre de nous faire une idée des institutions.
+
+Les nobles. – La noblesse en Champagne se transmet aussi bien par la mère que par le père.
+
+Les serfs. – Le servage est resté très rigoureux, la majeure partie de la population champenoise était serve.
+Les serfs étaient soumis à des redevances : chevage, corvées, taille, et à des incapacités caractéristiques de leur état, dont les principales étaient le formariage et la mainmorte. 
+
+
+=== Chapitre II La condition des terres. ===
+
+Il y a une corrélation entre la hiérarchie des personnes et celle des terres qui doit le plus possible être respectée.
+
+Le fief. – Tenure noble, concédé à charge de services, le fief est régi par les règles qui sont dictées par les besoins de la féodalité.
+Il ne peut être ni démembré ni abrégé sans l’autorisation du seigneur, car, tel qu’il est, le fief assure les obligations féodales.
+Les trois cas pratiques d’abrègement de fief sont l’affranchissement d’un serf, la vente du fief à un établissement ecclésiastique ou à un roturier.
+La dévolution du fief par succession donne lieu à l’application du droit d’aînesse en ligne directe et du privilège de masculinité, plus accentué pour les successions collatérales.
+La tenure en frérage masque, vis-à-vis du seigneur, le partage de la succession ; l’aîné garantit ses frères qui lui font hommage.
+
+Les tenures serviles. – Les tenures serviles sont réservées aux serfs et ne peuvent être acquises par des hommes libres.
+Celui qui en reçoit une par succession doit s’en défaire sous peine de confiscation.
+
+Les alleux. – Nombreux en Champagne, les alleux sont des terres pratiquement libres, soumises seulement à la justice du seigneur dans le ressort duquel elles se trouvent.
+
+
+=== Chapitre III Le droit de la famille. ===
+
+Les mineurs. – La garde des mineurs est confiée au survivant des père et mère, ou au frère aîné majeur.
+Le gardien administre les biens du mineur sous le contrôle de la justice et de l’assemblée des parents.
+L’âge de la majorité est fixé à quatorze ans pour les garçons et onze ans pour les filles.
+
+La dissolution de communauté de biens entre époux. – La femme noble survivante a droit à un préciput qu’elle peut accepter ou refuser.
+Noble ou roturière, la veuve reçoit la moitié des biens communs et un douaire qui s’analyse en la jouissance viagère de la moitié des propres du mari.
+
+Les donations. – Les donations sont soumises à la règle « donner et retenir ne vaut », qui est un principe général du droit commun coutumier.
+
+Les successions. – Les biens roturiers se partagent également entre les successibles du même degré, sans représentation.
+L’ascendant donateur exerce le droit de retour.
+
+
+=== Chapitre IV Le droit pénal. ===
+
+Le bris d’asseurement. – Le bris d’asseurement est un crime assimilé au meurtre.
+Le coupable est à l’entière discrétion du seigneur, corps et biens.
+
+Les délits légers. – Les délits contre la personne : coups et blessures, injures, de même que les délits contre les biens : déplacement de bornes, abus de droit d’usage dans les bois, délits de chasse et de pêche, sont punis d’amende.
+
+
+=== Chapitre V La procédure. ===
+
+Compétence. – En matière civile, le tribunal compétent est celui du domicile du défendeur, sauf pour les causes féodales et immobilières.
+En matière criminelle, c’est le tribunal du domicile du coupable, sauf en cas de flagrant délit où le justicier du lieu de l’arrestation est compétent.
+
+Le procès. – L’ajournement est toujours oral.
+Le défendeur peut opposer des barres à la requête du demandeur.
+La preuve s’est modifiée en ce sens que le duel judiciaire est en régression et remplacé par la preuve testimoniale.
+
+Voies de recours. – Les anciennes voies de recours : défaute de droit et appel de faux jugement, font place à l’appellation, germe de l’appel moderne.
+
+
+== Deuxième partie Édition ==
+
+L’ancien coutumier de Champagne nous a été conservé par huit manuscrits qui sont : Bibliothèque nationale, ms. fr. 25546 ; Bibliothèque municipale de Provins, ms. 29 ; Bibliothèque nationale, ms. fr. 5256, fol. 1-6 et fol. 168-182 ; Bibliothèque nationale, ms. fr. 19832 ; Bibliothèque nationale, ms. fr. 5317 ; Bibliothèque royale de Stockholm, ms.
+XXIX ; Bibliothèque nationale, ms. fr. 5257 ; Bibliothèque nationale, collection Dupuy, ms. 426.
+Le texte n’a été publié que par Pierre Pithou dans son ouvrage intitulé : Les coustumes du bailliage de Troyes en Champagne (1607).
+
+
+== Texte ==
+
+

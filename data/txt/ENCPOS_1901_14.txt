@@ -1,0 +1,5 @@
+identifier: ENCPOS_1901_14
+creator: André Philippe
+date: 1901
+title: L’architecture religieuse aux xie et xiie siècles dans l’ancien diocèse d’Auxerre
+

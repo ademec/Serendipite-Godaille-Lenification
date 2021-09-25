@@ -1,0 +1,70 @@
+identifier: ENCPOS_1986_07
+creator: Thibaut Girard
+date: 1986
+title: Le Traité du droit et du comportement des armes de Du Cange. Édition critique et commentaire
+
+
+
+== Introduction ==
+
+Malgré le renouveau récent des études héraldiques de caractère scientifique, l’œuvre des héraldistes du xviie siècle reste très mal connue.
+C’est particulièrement le cas de celle de Charles Du Fresne, sieur du Cange (1610-1688), d’autant plus que celui-ci, en dépit de la gloire que lui ont value ses travaux de lexicographe, n’a jamais fait l’objet de recherches biographiques approfondies.
+
+
+== Première partie Commentaire ==
+
+
+=== Chapitre premier les manuscrits héraldiques de du Cange ===
+
+Les premiers témoins de l’intérêt de Du Cange pour l’héraldique sont les manuscrits qu’il a copiés dans les années 1630-1635.
+Son œuvre de copiste et de compilateur porte sur trois types d’ouvrages : les armoriaux, les traités de blason médiévaux et les manuscrits décrivant l’organisation des tournois et de diverses cérémonies.
+La plupart de ces copies ont pour objet des armoriaux, notamment celui du héraut Vermandois, celui du héraut Urfé (probablement collationné avec un manuscrit de l’armorial du héraut Sicile) et une partie de celui du héraut Navarre. 
+
+
+=== Chapitre II Le traité du droit et comportement des armes le projet et sa réalisation ===
+
+Le Traité du droit et comportement des armes (Bibliothèque nationale, manuscrit français 9466) a été commencé vers 1633 et sa rédaction s’est poursuivie, de façon irrégulière, jusqu’en 1654-1655 environ.
+Conçu à l’origine comme un traité d’héraldique classique, il a peu à peu évolué vers des recherches plus érudites.
+
+L’histoire des armoiries. – Du Cange a d’abord essayé de trouver un lien entre les emblèmes utilisés dans l’Antiquité et les armoiries, mais il s’est rapidement aperçu qu’il faisait fausse route.
+La partie historique du Traité est de ce fait inachevée.
+
+Le droit héraldique. – En revanche, une place très importante est accordée aux questions juridiques.
+Le propos initial de Du Cange était d’offrir aux gentilshommes de son temps les connaissances juridiques nécessaires au respect et à la compréhension des règles de l’héraldique.
+Toutefois, sa formation de juriste l’a insensiblement conduit à traiter de sujets plus théoriques, telles que les prérogatives des souverains en matière de port des armoiries.
+
+
+=== Chapitre III Sources et particularités de composition du traité ===
+
+La culture de Du Cange est si vaste qu’il peut, sur tout sujet, invoquer l’autorité d’un très grand nombre d’auteurs.
+
+Culture et références intellectuelles de Du Cange. – La plupart des sources auxquelles se réfère le Traité appartiennent au domaine écrit et, plus précisément, à celui de l’imprimé, car Du Cange s’intéresse peu aux témoignages figurés.
+Il emprunte ses exemples de préférence aux juristes, à la littérature grecque et latine, aux historiens byzantins et surtout aux chroniqueurs et mémorialistes du Moyen Age français.
+
+L’art de la citation chez Du Cange. – Du Cange cite un grand nombre d’auteurs, mais sans y apporter toujours la rigueur nécessaire.
+Il lui arrive assez fréquemment de déformer involontairement les termes d’une citation ou d’attribuer à un auteur des propos qui appartiennent à un autre.
+
+Le style et la composition du
+    « Traité ». – L’abondance des citations conduit parfois Du Cange à s’écarter de son propos et à commenter plus longuement les auteurs qu’il cite que les questions à propos desquelles il les mentionne.
+D’autre part, la place considérable tenue dans sa culture par la littérature classique et par le Moyen Age n’est pas sans influence sur son style, qui comporte un certain nombre d’archaïsmes et qui, en général, n’est pas d’une grande fluidité. 
+
+
+=== Chapitre IV L’influence du traité sur l’œuvre postérieure de du Cange ===
+
+Après avoir abandonné la rédaction du Traité, Du Cange ne s’est pas totalement désintéressé de l’héraldique.
+Certaines de ses œuvres postérieures, notamment les Dissertations sur Joinville et le Glossaire latin, traitent à plusieurs reprises des armoiries.
+Cependant, il est très rare que les termes du Traité y soient repris textuellement.
+En revanche, les citations communes sont nombreuses.
+
+
+== Deuxième partie Édition du traité du droit et comportement des armes ==
+
+Le travail d’édition a consisté à reconstituer un ordre logique dans un manuscrit autographe (Bibl. nat., fr. 9466) qui regroupe de façon peu cohérente divers états du texte, depuis de simples esquisses jusqu’à des chapitres définitivement mis au net.
+
+Par ailleurs, étant resté à l’état d’ébauche, il se caractérise par son aspect composite et disparate.
+Le principe de la présente édition a donc été d’une part de ne retenir que ce qui se présentait sous une forme à peu près achevée, d’autre part d’éliminer les redites et les digressions trop importantes.
+
+
+== Annexes ==
+
+Projets de plan du Traité rédigés par Du Cange. – Présentation comparée des tables des matières de l’original d’un « manuscrit de blason » et de sa copie par Du Cange. – Essai de reconstitution du catalogue de la bibliothèque de Du Cange.

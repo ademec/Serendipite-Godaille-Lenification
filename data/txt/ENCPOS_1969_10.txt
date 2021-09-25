@@ -1,0 +1,65 @@
+identifier: ENCPOS_1969_10
+creator: Erik Le Maresquier
+date: 1969
+title: La chronique dite de Jean de Venette, édition critique
+
+
+
+== Chapitre premier l’auteur ==
+
+La chronique dite de Jean de Venette a longtemps été considérée comme la troisième et dernière continuation (1340-1368) de la chronique latine de Guillaume de Nangis.
+De fait, elle se présente bien ainsi dans tous les manuscrits, à l’exception d’un seul, conservé à Londres, dans lequel elle se présente isolée ; mais ce caractère doit être tenu pour accidentel, comme en fait foi une mention portée à la fin du texte : Mémorandum quod hec cronica continet gesta tantum LXVIII annorum, videlicet ab anno Domini 1301° usque ad annum 1368m.
+
+On a longtemps attribué cette œuvre anonyme à un certain Jean de Venette, auteur d’un long poème en français, l’Histoire des trois Maries.
+A. Coville, dans une notice du tome XXXVIII (1949) de l’Histoire littéraire de la France, a réfuté cette opinion.
+
+De l’auteur de la chronique nous savons seulement qu’il fut moine (frater quidam), de l’ordre des carmes vraisemblablement, et qu’il était né à Venette (Oise) en 1307 ou en 1308.
+Il a vécu habituellement à Paris et il est mort certainement peu après 1368.
+Nous n’avons pas cru devoir modifier le titre consacré de la chronique, bien que son auteur demeure anonyme.
+
+
+== Chapitre II Manuscrits et éditions ==
+
+La tradition du texte. – La chronique de Jean de Venette est conservée par sept manuscrits.
+Le manuscrit de Londres, British Museum, Arundel 28, que nous désignons par la lettre A, a été daté par L. Delisle comme étant de la fin du xive siècle ou du début du xve siècle.
+Il est écrit sur parchemin.
+Deux manuscrits sont conservés à la Bibliothèque municipale de Dijon (manuscrits 570 et 571, désignés respectivement par les lettres D et E) ; le premier est écrit sur parchemin, le second sur papier ; tous les deux doivent être datés de la fin du xive siècle ou du début du xve siècle ; ils ont appartenu à la bibliothèque de Cîteaux.
+Les autres manuscrits sont sur papier et sont plus tardifs : le manuscrit 228 de la Bibliothèque municipale de Lyon (L), copié au xve siècle, et les trois manuscrits de Paris, Bibliothèque nationale, lat. 4921 A (B), lat. 11729 (P) et lat. 13704 (C).
+P et C proviennent de Saint-Germain-des-Prés ; le premier a été copié à la fin du xve siècle, le second n’est pas antérieur au xvie siècle.
+Enfin, le manuscrit B (xviie siècle) a appartenu à Baluze.
+
+Le classement des manuscrits. – L’étude des variantes fait apparaître immédiatement l’indépendance du manuscrit A par rapport aux autres manuscrits, qui forment un groupe homogène à l’intérieur duquel toutefois on peut rapprocher D et E. D’autre part, B et C doivent être rapprochés de P, dont ils dépendent étroitement.
+Quant à L, il est plus proche de P que du groupe D E.
+
+Les éditions. – La première édition de la chronique de Jean de Venette a été donnée par d’Achery, au tome XI du Spicilegium : elle a été établie d’après le manuscrit P. Cette édition a été réimprimée par La Barre dans la deuxième édition du Spicilegium, au tome III ; il a introduit dans le texte quelques leçons du manuscrit D, connu de d’Achery, qui en avait publié des extraits dans le tome XIII de la première édition.
+
+En 1843, H. Géraud a donné une nouvelle édition de la chronique de Jean de Venette, à la suite de son édition de la Chronique latine de Guillaume de Nangis.
+Cette édition est faite d’après les trois manuscrits de Paris (P, B et C) et d’après la réimpression de La Barre pour les leçons du manuscrit D.
+
+En 1953, M.R.A. Newhall a publié une traduction anglaise de la chronique de Jean de Venette établie par Jean Birdsall (The Chronicle of Jean de Venette, translated by Jean Birdsall..., edited by Richard A. Newhall, New York, Colombia University Press, 1953) ; il a accompagné cette traduction, qui suit le texte de l’édition Géraud avec quelques emprunts au manuscrit de Londres, d’une abondante et précieuse annotation ; mais la collation du manuscrit de Londres est assez défectueuse.
+
+
+== Chapitre III Intérêt de la chronique de Jean de Venette ==
+
+Le texte du manuscrit de Londres (A) est nettement supérieur à celui des autres manuscrits.
+Mais le principal mérite de ce manuscrit est de nous restituer un texte mieux écrit que ne le laissent supposer les autres copies.
+Les fautes sont beaucoup moins nombreuses et la langue est moins altérée.
+Si, malgré tout, la langue de l’auteur reste rude (verbis rudibus), comme il se plaît à le reconnaître lui-même, elle ne manque pas de charme : sous la forme latine conventionnelle, on sent une pensée originale, qui ne doit rien à la rhétorique et s’exprime simplement.
+On peut parler véritablement de latin « national ».
+
+L’intérêt exceptionnel de la chronique de Jean de Venette a été bien mis en valeur par Coville.
+Surtout la sincérité de l’auteur ne saurait être mise en doute.
+Il se pose en témoin des événements qu’il raconte et il n’hésite pas à avouer son ignorance ; et c’est pourquoi son récit est parfois décevant.
+Mais, quand il rapporte des faits dont il a été le témoin, son récit est extrêmement vivant.
+De plus, il n’hésite pas à exprimer son opinion, et ce n’est pas le moindre intérêt de sa chronique, dont la rédaction a certainement été plus discontinue qu’on ne l’a pensé.
+
+
+== Édition critique ==
+
+Pour l’établissement du texte, nous avons suivi le manuscrit de Londres (A).
+Les leçons des autres manuscrits forment l’apparat critique ; toutefois nous avons écarté B et C, qui suivent le texte de P en le corrigeant.
+Le texte a été découpé en paragraphes, dont la numérotation est continue.
+
+Index des noms de personne.
+
+Index des noms de lieu.

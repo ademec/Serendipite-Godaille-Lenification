@@ -1,0 +1,437 @@
+identifier: ENCPOS_1992_09
+creator: Marion Duvigneau
+date: 1992
+title: Les journaux d’agriculture pratique et d’économie rurale entre 1828 et 1848 : propagation des progrès agricole dans la France des notables
+
+
+
+== Introduction ==
+
+La presse est, avec la diffusion par l’exemple et l’enseignement, le principal mode de vulgarisation des nouveautés techniques.
+Des journaux d’agriculture font donc leur apparition en France dès la promotion de l’agronomie au rang de science, dans la deuxième moitié du XVIII’ siècle.
+
+Mais le véritable essor du genre date de la période 1828-1848 car c’est seulement dans la première moitié du XIX’ siècle que le pays entre dans l’ère de l’agriculture « perfectionnée ».
+La loi du 18 juillet 1828 libéralise le régime de la presse à point nommé pour faire du journalisme agricole l’auxiliaire efficace et peu coûteux d’un pouvoir soucieux de voir l’agriculture française progresser, afin d’en finir avec les menaces de disette et de freiner un exode rural dangereux pour la paix sociale. 
+
+
+== Sources ==
+
+Les journaux agricoles publiés entre 1828 et 1848 constituent la source essentielle.
+Ils ont été répartis en deux corpus différents, l’un d’une cinquantaine de titres édités dans la capitale, et l’autre d’environ cent trente titres publiés dans les départements.
+Deux grandes catégories de sources complémentaires se présentaient : les documents émanant des institutions ayant en charge l’agriculture et les sources traditionnelles de l’histoire de la presse et de l’édition.
+
+Ont donc été dépouillées, aux Archives nationales, les archives du Conseil d’agriculture (F10 1573-1574), de la Société royale et centrale d’agriculture (76 AJ), de l’institution royale agronomique de Grignon (84 AJ) et les circulaires du ministère de l’Agriculture et du Commerce (AD XIX C 88, AD XIX D 256), ainsi que, à la Bibliothèque administrative de la ville de Paris, le catalogue de la bibliothèque du ministère de l’Agriculture et du Commerce.
+Quelques sondages ont été effectués dans les séries M des Archives départementales de Paris, de la Sarthe et du Haut-Rhin.
+
+Ont également été recherchées, aux Archives de Paris, les mentions d’actes de société dans les archives du Tribunal de commerce de la Seine (D. 31 et D. 32 U3) et les minutes correspondantes au Minutier central des notaires parisiens ; aux Archives nationales, les archives de la direction de la Librairie conservent les déclarations de publication pour la presse parisienne (F18 312-425) et la presse départementale (F18 431-515), les dossiers des imprimeurs de Paris (F18 1726-1837) et des départements (F18 1838-2162), les registres de déclarations des imprimeurs (F18⁎ II 18-35), les déclarations correspondantes des imprimeurs de Paris (F18 43-119 et 157-167) et des départements (F18 120-156 et 169-173).
+Quelques renseignements ont été fournis aussi par des documents de la série T des Archives départementales du Haut-Rhin.
+
+Le fonds Huzard de la Bibliothèque de l’institut est très riche pour reconstituer l’histoire de cette famille.
+Des renseignements d’ordre biographique sur différents collaborateurs de la presse agricole figurent dans les dossiers d’officiers conservés au Service historique de l’Armée de terre, dans les dossiers de Légion d’honneur aux Archives nationales, ainsi qu’aux archives de l’Académie des sciences, dans les dossiers des membres et correspondants de la section d’économie rurale. 
+
+
+== Avant-propos presse et agriculture, des physiocrates aux agronomes ==
+
+
+=== Chapitre premier les ancêtres de la presse agricole ===
+
+Les journaux agricoles du xviiie siècle.
+Naissance d’un genre. – Les journaux d’agriculture font leur apparition vers 1750 avec le Journal œconomique, la Gazette d’agriculture, le Journal de l’agriculture, du commerce et des finances, les Éphémérides du citoyen, le Journal de physique et la Bibliothèque physico-économique.
+A la veille de la Révolution, Sarcey de Sutières publie un supplément au Journal général de France.
+Repris par Dubois de Jancigny, il devient, en 1790, Feuille d’agriculture et d’économie rurale, puis Feuille du cultivateur.
+
+La
+    « Feuille du cultivateur », organe de la propagande agricole officielle de la Révolution. – Dubois et son collaborateur le médecin Broussonnet, secrétaire perpétuel de la Société royale d’agriculture, réunissent autour de la Feuille du cultivateur, bi-hebdomadaire, tous les membres de la Société royale d’agriculture, qui continue ainsi à vivre à travers le journal, même après le décret du 2 août 1793 supprimant les académies et sociétés.
+Dubois ayant, le 1er brumaire an II, accédé à de hautes responsabilités au sein de la Commission des subsistances et approvisionnements, il confie la rédaction de la Feuille du cultivateur à Lefebvre, et le Comité de salut public, sur son rapport, souscrit à 2 000 exemplaires du journal qui sont distribués dans les départements de la République.
+Le gouvernement suspend ses abonnements en l’an VII et Lefebvre liquide l’entreprise ; le journal cesse de paraître à la fin de l’an IX.
+
+L’Empire et le début de la Restauration : longue somnolence de la presse agricole. – En floréal an V, l’abbé Tessier (1741-1837), introducteur des mérinos à la ferme expérimentale de Rambouillet en 1786, et Rougier de la Bergerie (1757-1836), député de l’Yonne à l’Assemblée constituante, décident de fonder les Annales de l’agriculture française qui empruntent à la Feuille du cultivateur une partie de ses collaborateurs et sont imprimées par la citoyenne Huzard.
+Les principaux collaborateurs du nouveau journal sont Vilmorin, Cels, Gilbert et Jean-Baptiste Huzard, membres du Bureau d’agriculture.
+La publication, interrompue en l’an VII et l’an VIII, reprend en l’an IX pour remplacer la Feuille du cultivateur comme journal d’agriculture officiel et organe de la Société d’agriculture de la Seine reconstituée.
+Devenu préfet de l’Yonne, après le 18 Brumaire, Rougier de la Bergerie quitte la capitale et Tessier, nommé inspecteur des bergeries impériales, s’associe l’inspecteur des pépinières impériales, Bosc (1759-1828), comme co-rédacteur de l’an IX à 1828.
+Rougier reviendra cependant à la presse agricole en 1819 avec Y Agronome français, recueil mensuel qui paraît jusqu’en 1822, puis avec les six numéros de la Revue agronomique du baron Rougier de la Bergerie publiés par Jean-Louis Rousselon de janvier à juin 1830.
+A la mort de Tessier en 1837, le gendre de Mme Huzard, Louis Bouchard, prend la direction des Annales de l’agriculture française.
+Il meurt prématurément en décembre 1841 et la rédaction est confiée à un comité choisi parmi les collaborateurs, presque tous membres de la Société royale et centrale d’agriculture.
+Le fils de Louis Bouchard sera, de 1853 à 1873, le dernier rédacteur en chef de ces Annales qui ont accueilli les savantes contributions des agronomes les plus réputés du xixe siècle.
+
+Les Annales de l’agriculture française perdurent donc, mais l’Empire et le début de la Restauration constituent une période de somnolence pour la presse agricole avec seulement deux nouveaux titres ; la Bibliothèque des propriétaires ruraux (an XI-1813), que le secrétaire de la Société linnéenne, Thiébaut de Berneaud, tente de faire renaître dans la Bibliothèque du propriétaire rural en 1827-1828, et Y Agronome français de Rougier de 1819 à 1822.
+Il faut attendre 1824 pour assister à la création de deux périodiques importants : le Bulletin des sciences agricoles et commerciales du baron de Férussac et les Annales agricoles de Rouille.
+
+
+=== Chapitre II Nécessité et moyens d’un réveil de la presse agricole (1824-1828) ===
+
+La libéralisation de la presse en 1828. – La loi du 18 juillet 1828 exempte les journaux non politiques de cautionnement, confirmant ainsi le privilège des « feuilles relatives aux sciences et aux arts » déjà exemptées du timbre par la loi de finances du 25 mars 1817.
+Libérés de ces pressions financières, les journaux d’agriculture peuvent se développer et participer à l’effort de modernisation de l’agriculture française.
+
+La difficile modernisation de l’agriculture française. – En ce deuxième tiers du xixe siècle, le passage par l’écrit est en effet d’autant plus nécessaire que les perfectionnements techniques s’appuient sur des principes d’agro-biologie nouvellement mis en lumière par des recherches scientifiques pointues, en rupture totale avec l’agriculture traditionnelle.
+
+L’essor de la presse agricole française entre 1828 et 1848. – Alors que, pour diffuser ces découvertes, plusieurs journaux agricoles ont déjà fait leur apparition en Italie et en Grande-Bretagne depuis 1824, la loi de 1828 permet un remarquable essor de la presse agricole française dont la production augmente de 45 % en 1828-1829.
+Vingt-huit journaux paraissent à Paris entre 1843 et 1848 ; les événements de février entraînent la disparition de 21 % des titres, parmi lesquels le Cultivateur, les Annales de Flore et de Pomone et les Annales des haras et de l’agriculture, et il faut attendre le retour à l’ordre pour assister à de nouvelles créations (Recueil encyclopédique d’agriculture en 1851, Vie des champs en 1852, Journal des fermiers en 1853).
+
+En province également, les journaux d’agriculture sont nombreux, avec environ 1,5 journaux par département.
+Néanmoins, dans 21 % des départements (départements pauvres du Sud et du Centre de la France, mais aussi départements moins défavorisés de l’Ouest), aucun journal d’agriculture ne paraît entre 1828 et 1848.
+En revanche, huit départements suffisent à éditer 28 % des journaux agricoles locaux.
+Un problème de définition se pose, soulevé par certains préfets qui hésitent à considérer comme des « écrits périodiques » les journaux de sociétés d’agriculture locales, qui constituent près de 90 % de cette production et sont davantage des publications administratives que de véritables journaux agricoles.
+
+
+== Première partie Administration, sociétés savantes et agriculteurs ==
+
+
+=== Chapitre premier administration et presse agricole ===
+
+L’administration de l’agriculture et les journaux spécialisés. – À la veille de la Révolution de Juillet, le gouvernement de Martignac cherche à améliorer la situation agricole de la France, en partie pour des raisons économiques, l’équilibre de la balance commerciale pâtissant des importations de produits agricoles anglais et hollandais, en partie aussi pour arracher la population désœuvrée des villes à « une position dangereuse pour elle-même et menaçante pour le repos public ».
+
+En quête de moyens plus efficaces pour diffuser les progrès scientifiques et techniques, l’administration de l’agriculture se structure.
+Directeur de l’Agriculture entre 1828 et 1830, Étienne Tessières de Boisbertrand (1750-1858) remet en activité le Conseil supérieur d’agriculture, apporte son soutien à la fondation de l’institut horticole de Fromont, de l’Institution royale agronomique de Grignon et de la magnanerie expérimentale de Sénart.
+En 1831, un département du Commerce et des Travaux publics englobant l’administration de l’agriculture se détache du département de l’intérieur et, en 1836, l’agriculture fait son apparition dans l’intitulé du nouveau ministère.
+La grande mutation administrative s’opère dans les années 1840 avec l’installation du bureau d’Agriculture rue de Varenne et la mise en place d’une inspection générale de l’agriculture dont les quatre premiers fonctionnaires sont Joseph de Mauny de Mornay, G. Lefebvre Sainte-Marie, ancien élève de Grignon puis directeur du haras du Pin, Victor Rendu, ancien élève du Mesnil-Saint-Firmin, et Charles-Édouard Royer, éditeur du Moniteur de la propriété et de l’agriculture.
+
+L’administration des forêts du royaume appartient au département des Finances avec le corps bien structuré des eaux et forêts, encore renforcé par la fondation en 1824 d’une École royale forestière implantée à Nancy et la promulgation du code forestier en 1827.
+Sur ce modèle, un corps des haras, nécessaire pour le service des « remontes » de l’armée, cherche à se constituer au sein du ministère de l’Agriculture et bénéficie de l’intérêt nouveau suscité par les courses hippiques : une école est fondée au haras du Pin en 1840 et le sous-directeur des haras, Eugène Gayot, formé à l’École vétérinaire d’Alfort et, de 1828 à 1833, rédacteur en chef du Journal du Comice agricole de la Marne, soutient la publication des Annales des haras et de l’agriculture de 1844 à 1848.
+
+En revanche l’État gère encore peu d’établissements susceptibles de former les agriculteurs dont le royaume aurait besoin.
+Sont regroupés sous le terme d’« établissements ruraux » les trois écoles vétérinaires (Lyon, Alfort et Toulouse) et les bergeries royales.
+Jusque vers 1825, les écoles vétérinaires forment les seuls techniciens en mesure de remplir une mission de propagande agricole.
+
+Le Conseil supérieur d’agriculture, institué par ordonnance royale du 28 janvier 1819 et réorganisé sous le nom de Conseil d’agriculture en 1831, est composé de grands propriétaires membres des différentes sociétés d’agriculture du royaume et de fonctionnaires.
+André Pommier, éditeur de l’Écho des halles, est rappelé à y siéger en tant que représentant de la presse agricole.
+
+Le cours d’agriculture du Muséum et, à partir d’août 1836, les trois cours de culture, mécanique et chimie agricoles du Conservatoire royal des arts et métiers assurent aussi la diffusion des nouvelles techniques.
+Oscar Leclerc-Thouin, professeur de culture au Conservatoire, publie des résumés de ses cours dans la Revue agricole, tandis que Louis Moll, professeur de mécanique, est un des collaborateurs réguliers de Y Agronome puis du Journal d’agriculture pratique.
+
+Des sociétés savantes contribuent aussi à diffuser les progrès agricoles, au premier rang desquelles l’Académie royale des sciences, qui publie des Mémoires et dont la section d’économie rurale compte parmi ses membres les fondateurs des Annales de l’agriculture française, et la Société royale et centrale d’agriculture dont Mme Huzard édite les Mémoires, le Bulletin des séances et les Annales de l’agriculture française qui en sont l’organe mensuel.
+
+D’autres sociétés existent, publiant des bulletins dont la matière est reprise par les journaux agricoles : Société d’encouragement pour l’industrie nationale, Société royale d’horticulture, Académie de l’industrie agricole, manufacturière et commerciale, Société d’amélioration des laines, Société séricicole.
+
+L’administration de l’Agriculture ne dispose pas de bulletin officiel avant 1840.
+L’institution du Conseil supérieur d’agriculture en 1819, puis sa remise en activité en 1829, l’amènent donc à recourir aux Annales de l’agriculture française comme lien organique entre le conseil parisien et ses correspondants dans le royaume, et entre l’administration et ses préfets.
+Le journal de Bosc et Tessier voit ainsi à deux reprises son tirage augmenter, passant de 300 à 800 exemplaires en 1819-1822, puis de 600 à 1 000 exemplaires en 1829-1832.
+Le système ne donne cependant pas entière satisfaction, certains conseils généraux refusant de souscrire ces abonnements forcés sur les fonds départementaux.
+
+On l’abandonne donc, mais le pouvoir garde des contacts avec la presse agricole : au moins jusqu’en 1834, le bureau d’Agriculture doit s’abonner « aux ouvrages d’économie rurale » et, à partir de 1841, les inspecteurs de l’agriculture partagent avec la Société royale et centrale la charge de décider des périodiques à subventionner.
+Presque tous les journaux agricoles de la capitale sont ainsi subventionnés en 1847 et les abonnements souscrits aux frais de l’administration sont envoyés aux sociétés d’agriculture les plus actives du royaume.
+En 1837, et de nouveau en 1846, le bureau d’Agriculture fait tirer à 20 000 exemplaires des articles sur le sulfatage des grains parus dans les Annales de Roville et la Normandie agricole, les préfets étant chargés de les distribuer dans les campagnes.
+
+Par ailleurs, un journal d’agriculture se crée dans le giron de l’administration, très mal vu de ses confrères : la Revue agricole, animée entre 1838 et 1848 par le sous-chef du bureau de l’Agriculture, Prosper de Lagarde, et dont les collaborateurs, Victor Rendu, Oscar Leclerc-Thouin, les barons de Tocqueville et de Mortemart de Boisse, peuvent tout à loisir « puiser dans les cartons ministériels ».
+
+Le rôle des pouvoirs locaux en matière de vulgarisation agricole. – Certaines administrations départementales cherchent, elles aussi, à favoriser le développement de la presse agricole.
+Le Conseil général d’Ille-et-Vilaine use en 1832 de son influence auprès des maires pour qu’ils souscrivent des abonnements au Cultivateur de Dufresne de la Chauvinière.
+En 1827, pour faire suite à la Statistique des Bouches-du-Rhône du préfet de Villeneuve, un de ses collaborateurs, Toulouzan de Saint-Martin, fonde les Annales provençales d’agriculture pratique auquel le Conseil général du département souscrit quelques abonnements, de même que le Conseil général de l’Aveyron au Propagateur de l’industrie de la soie en France en 1839.
+Mais aucun n’est aussi actif que le Conseil général du Haut-Rhin, qui, à l’initiative du préfet Bret, crée de toutes pièces en 1835-1836 la Feuille des comices agricoles du Haut-Rhin.
+
+Quant aux feuilles plus traditionnelles des sociétés d’agriculture ou des comices agricoles, elles survivent grâce aux subventions allouées par les conseils généraux ou l’État dans le cadre des encouragements à l’agriculture.
+La Société d’agriculture de la Sarthe, par exemple, consacre 27 % de son budget à la publication de son bulletin mensuel.
+
+
+=== Chapitre II Le public des journaux d’agriculture ===
+
+Chiffres de tirage : un public restreint. – Les journaux d’agriculture de la capitale ne tirent jamais à plus de 3 000 exemplaires entre 1828 et 1848, ce chiffre étant atteint par le Journal d’agriculture pratique de l’abbé Perrin en 1833 et par le Journal des comices agricoles en 1838-1839.
+L’Écho des halles tire à 2 600 exemplaires en 1840, le Moniteur de la propriété et de l’agriculture à 2 500 exemplaires en 1845, mais la plupart des journaux, à l’instar du Cultivateur et du Moniteur agricole, ont un tirage oscillant entre 1 000 (Annales de Roville, Agronome d’Auguste de Rochau, Assureur des récoltes, Annales des haras...) et 2 000 exemplaires (Journal d’agriculture pratique de Bixio, Agronome d’É. Roche...).
+Certains, même très célèbres, ne sont tirés qu’à 500 exemplaires, c’est le cas de Y Agriculture de l’Ouest de la France, de la Revue agricole, des Annales de Fromont.
+Dans les départements, la Société d’agriculture de Haute-Garonne tire le Journal des propriétaires ruraux, puis Journal d’agriculture pratique pour le Midi de la France, à 800 exemplaires, mais le Bulletin de la Société départementale du Haut-Rhin est tiré à 300 exemplaires seulement, ce qui semble être le seuil de rentabilité pour ce type de presse.
+Ces publications périodiques, à l’exemple des Annales de Roville, peuvent connaître plusieurs éditions.
+
+Le public agricole dans la première moitié du xixe siècle. – Ces tirages sont d’autant plus faibles que le monde rural est encore peu alphabétisé ; la diversité linguistique du royaume aggrave encore les difficultés de la vulgarisation agricole par l’écrit, alors qu’il n’existe de journaux agricoles bilingues qu’en Alsace (bulletins de la Société d’agriculture du Bas-Rhin, des comices agricoles de l’arrondissement de Sélestat et des comices agricoles du Haut-Rhin).
+En 1827-1828, Duparc tente, avec le Cultivateur, de publier un journal d’agriculture populaire d’une forme proche de celle de l’almanach qui, diffusé par le colportage, demeure la source d’information scientifique la plus accessible au public paysan.
+Les notables cherchent, en instruisant « les classes inférieures de la société », à « rectifier les idées populaires » mais sans faire du paysan un savant.
+
+L’Église peut exercer une saine influence sur le progrès agricole : l’abbé Théodore Perrin lance en avril 1833 un « appel au clergé de France » et fonde en novembre 1833 le Journal d’agriculture pratique, soutenu par l’Association religieuse pour les progrès de l’agriculture en France qui se crée en mars 1834 sous la présidence du duc de Montmorency.
+Cette association crée un Bureau de l’agriculture universelle, chargé de rédiger le journal et la Revue de l’agriculture universelle, et encourage la fondation de la ferme-école de l’abbé Eugène Carpentier au Mesnil-Saint-Firmin dans l’Oise.
+Mais l’abbé Perrin quitte la direction du Journal d’agriculture pratique en novembre 1834.
+Mis en faillite par son successeur, le dévot Félix Gautier des Brosses, et confié par décision de justice à un de ses collaborateurs, le professeur de botanique Pierre-Antoine Masson-Four, le journal cesse de paraître fin 1835 et son titre est repris en juin 1837 par Bixio.
+Cette tentative, spéculation de « propagandistes déguisés sous le costume monastique » selon des concurrents malveillants, se solde donc par un échec.
+
+En définitive, puisque seul « le bourgeois qui habite ses champs » bénéficie de suffisamment d’instruction et de loisir pour lire les journaux scientifiques, « les publications agronomiques se trouvent exclusivement concentrées entre les mains de la partie éclairée de la nation qui s’occupe des intérêts de l’agriculture ».
+Or cette catégorie s’accroît avec la présence de nombreux demi-solde qui se sont retirés sur leurs terres après 1815, tels Bugeaud près d’Excideuil, Noguès à Jû-Belloc ou Bertrand aux Lagnys.
+Plusieurs éminents collaborateurs de la presse agricole sont d’anciens militaires : Georges de Chambray, Auguste Bella, Firmin-Louis Aubergé, Galbois, Gasparin...
+S’y ajoutent après 1830 les grands propriétaires légitimistes en « exil intérieur », parmi lesquels le comte Hervé de Kergorlay à Canisy ou le comte Guillaume-Ferdinand de Douhet dans le Puy-de-Dôme.
+Ainsi, dans les années 1830-1835, « se fixer à la campagne n’est plus s’enfermer dans une profonde et fatigante obscurité ».
+Désormais, les avantages de la civilisation ne seront plus concentrés dans les villes et l’épithète de « gentilhomme campagnard » cesse en France d’être une insulte.
+
+Pour faire connaître sa publication, un éditeur de journal agricole envoie des prospectus ou des numéros-modèles aux préfets et aux maires, aux curés et en général à tous les notables qui s’occupent d’agriculture.
+Chaque année Duverger tire environ 2 000 exemplaires du prospectus du Journal d’agriculture pratique de Bixio ; en 1840, Renouard imprime jusqu’à 20 000 exemplaires du prospectus du Cultivateur de Dufresne de la Chauvinière.
+Les prix d’abonnement diffèrent selon les journaux : de 4 francs par an seulement pour l’Agriculteur de Paul Dupont, spécialement bon marché, à 12 francs pour le Cultivateur ou le Journal d’agriculture pratique de Bixio.
+Les journaux spécialisés sont souvent plus chers encore : l’abonnement à la Revue forestière coûte 20 francs, au Journal des haras, 40 francs.
+
+Modes de lecture du journal agricole. – Différents modes de lecture s’offrent au public du journal agricole : la lecture privée avec la souscription d’un abonnement personnel servi par la poste ou des messageries privées et la lecture publique dans une bibliothèque publique, un cabinet de lecture « littéraire et agricole » (celui du Moniteur de la propriété et de l’agriculture à Paris, celui de l’Ami des champs à Bordeaux), un cercle (le Cercle agricole de la rue de Beaune fondé en 1835), ou des salons privés (ceux du baron de Férussac, rue de l’Abbaye, en 1827-1829).
+A l’institut agricole de Roville, les élèves cotisent pour 2 francs par mois au « fonds d’abonnement de lecture ».
+
+
+== Deuxième partie Les moyens de l’essor d’une presse agricole ==
+
+
+=== Chapitre premier les entreprises de presse ===
+
+Des sociétés en commandite. – La grande majorité des journaux agricoles ont un propriétaire unique, parfois le libraire éditeur : les Annales de l’agriculture française appartiennent à Mme Huzard puis à son gendre, les Annales de Flore et de Pomone et la Revue agronomique du baron Rougier de la Bergerie à Jean-Louis Rousselon ; mais les plus importants, et les plus viables, sont ceux dont la publication est financée par une société de capitaux : c’est le cas, à Paris, du Cultivateur, des Annales forestières, de l’Écho des halles, du Moniteur agricole, du Moniteur de la propriété et de l’agriculture, du Journal des haras.
+Le Code de commerce étant défavorable à la constitution de sociétés anonymes, c’est à la commandite qu’ont recours le plus souvent les éditeurs de journaux.
+
+Le capital du Moniteur de la propriété et de l’agriculture est de 18 000 francs seulement, celui du Cultivateur de 30 000 francs ; mais, en 1835, celui de la Société centrale des arts agricoles qui édite deux bi-hebdomadaires, l’Écho des halles et le Petit Courrier de la halle, est de 400 000 francs.
+Les recettes proviennent du produit annuel des abonnements et des annonces ; les dépenses sont constituées par les frais d’impression, pour environ un tiers, les frais de bureau, pour 25 à 30 %, et les frais d’affranchissement à la poste, pour 20 à 25 %.
+D’après les estimations de Dufresne de la Chauvinière en 1829, il faut 750 abonnés à un journal mensuel comme le sien pour dégager un réel profit, et les actions prises dans son Cultivateur produisent 26 % à 1 500 abonnés.
+
+Les bailleurs de fonds. – Les propriétaires de ces journaux ont des personnalités variées : à gauche, on trouve Auguste de Rochau, d’origine allemande, ancien lieutenant-colonel de cavalerie, qui s’associe en mars 1828 avec Achille Tenaille de Vaulabelle pour la publication du Journal des haras.
+En 1831, Rochau fonde un
+    « Bazar des chevaux » avec un certain Isaac Lévi, dit Salvador Ravel.
+De 1833 à 1836, il se consacre à la publication de l’Agronome et du Journal de l’armée.
+Son journal agricole est alors absorbé par le Moniteur de la propriété et de l’agriculture, et il s’associe en juillet 1838 avec le comte Hippolyte de Beaurepaire pour fonder une
+    « Compagnie générale des subsistances et approvisionnements de la ville de Paris » ; il meurt entre 1840 et 1845.
+
+Plus à droite, le Cultivateur a pour co-fondateurs Pierre-Claude Dufresne de la Chauvinière (1774-1861), entré dans la Garde nationale de Paris en avril 1814, et qui quitte l’armée en août 1815 pour se consacrer à l’horticulture et à l’édition agricole, et le baron François-Jérôme-Léonard de Mortemart de Boisse (1785-1878), gros propriétaire de Seine-et-Marne, membre de la Société royale et centrale d’agriculture, de la Société d’horticulture de Paris, de la Société d’amélioration des laines et du Conseil d’agriculture.
+On rencontre parmi les actionnaires du journal plusieurs actionnaires de la société de l’Encyclopédie de l’agriculture (Bailly de Merlieux, Louis Bouchard et le baron de Galbois), des membres de la Société royale et centrale d’agriculture (Dubois, Morin de Sainte-Colombe J 1843, Huerne de Pommeuse f 1840, Vilmorin), des notabilités intellectuelles et politiques (le futur député Amédée Desjobert, ancien élève de Roville, Gascq, Louis-René Villermé, membre de l’Académie des sciences morales et politiques et du Conseil de salubrité) et de gros propriétaires terriens de Brie et du Berry.
+Mortemart de Boisse quitte la collaboration du Cultivateur en décembre 1830 et vend ses actions en 1838 pour devenir collaborateur de la Revue agricole de Prosper de Lagarde.
+Depuis 1835, le Cultivateur est l’organe du légitimiste Cercle agricole de la rue de Beaune et de la Société des progrès agricoles qui y est attachée et compte parmi ses membres actifs des notables légitimistes comme le duc de Doudeauville, Ambroise-Polycarpe de la Rochefoucauld (1765-1841) et le duc de Montmorency, Anne-Charles-François (1768-1846), qui font toujours montre de sympathie à l’égard des institutions susceptibles de favoriser le développement agricole, d’où seul peut venir la régénérescence morale d’une société corrompue par le capitalisme industriel.
+
+Le Moniteur de la propriété et de l’agriculture est fondé en décembre 1835, après l’échec du Journal d’agriculture pratique, par Pierre-Antoine Masson-Four, ancien professeur de sciences naturelles appliquées à l’École royale forestière de Nancy et membre de la Société linnéenne de Paris.
+Dès janvier 1837, il est remplacé comme gérant de la société par Charles-Isidore de Jocas, auquel succède de juin 1840 à septembre 1843.
+Charles-Édouard Royer, évincé de Grignon.
+Puis le vicomte de Selle et un certain Marie gèrent le journal jusqu’en octobre 1846, date à laquelle Pierre-Aristide-Adolphe Lefour, directeur de l’école d’agriculture de la Varenne-Saint-Maur, collaborateur des Annales de l’agriculture française, de F Agriculteur et du Journal d’agriculture pratique de Bixio, reprend pour deux ans le journal.
+Si les gérants changent si souvent, c’est du fait du rôle très important joué par les membres de la commission de surveillance dans la gestion du Moniteur de la propriété et de l’agriculture.
+Les actionnaires sont encore plus marqués à droite que ceux du Cultivateur puisqu’on y trouve plusieurs personnes impliquées dans l’équipée de la duchesse de Berry. 
+
+
+=== Chapitre II Les premières maisons d’édition agricole ===
+
+Les Huzard, imprimeurs d’Ancien Régime, agronomes du XIX⁎ siècle. – En 1833, 65 % des journaux agricoles sont imprimés par Mme Huzard.
+Sa fille Adèle-Joséphine Bouchard-Huzard n’en tire plus que 22 % en 1845 mais pendant toute la première moitié du xixe siècle, la maison Huzard conserve le quasi-monopole de l’édition agricole et surtout de sa diffusion.
+Le succès de cette entreprise est né de la conjonction de deux types de compétences, celles, techniques et commerciales, de Marie-Rosalie Vallat-la-Chapelle (1766-1842), fille d’imprimeur, et celles, scientifiques, de son mari Jean-Baptiste Huzard (1755-1838), ancien élève de l’École vétérinaire d’Alfort, bibliophile et membre de la Société royale d’agriculture.
+Nommé en 1794 membre de la Commission d’agriculture et inspecteur général des écoles vétérinaires, il collabore à la fondation des Annales de l’agriculture française et est élu membre de la section d’économie rurale et domestique de l’Académie des sciences dès la mise en place de l’institut.
+
+Ses premiers contacts avec le monde de l’édition agricole remontent à la publication de son premier ouvrage, un Essai sur les eaux aux jambes des chevaux, chez la veuve Vallat-la-Chapelle en 1784.
+En 1792, date de son mariage avec la fille de son éditeur, il possède le tiers d’une librairie située cour de la Jussienne.
+Profitant des opportunités immobilières de la Révolution, le couple fait l’acquisition en 1795 d’un immeuble, rue de l’Éperon.
+Quarante ans plus tard, Mme Huzard et son fils aîné Jean-Baptiste achètent l’immeuble voisin.
+Des travaux font communiquer les deux bâtiments en 1837.
+C’est là, juste derrière l’imprimerie de Panckoucke, que Mme Huzard puis ses successeurs exercent leur commerce d’imprimerie-librairie jusqu’à la fin du xixe siècle.
+Mme Huzard est l’imprimeur de la Société royale et centrale d’agriculture, de la Société d’encouragement pour l’industrie nationale, de la Société d’horticulture de Paris, des Hospices civils de Paris et de l’École vétérinaire d’Alfort, puis de l’Institution royale agronomique de Grignon.
+Elle édite les Annales de l’agriculture française, les Annales de Grignon, les Annales de la Société d’horticulture de Paris, le Recueil de médecine vétérinaire, le Bulletin de la Société d’encouragement pour l’industrie nationale, les Annales de Fromont...
+En 1826, pour préparer sa succession, elle associe pour moitié à son commerce d’imprimerie son fils aîné et à son commerce de librairie sa fille Adèle-Joséphine.
+
+Jean-Baptiste Huzard fils (1793-1878), diplômé d’Alfort, est membre du Conseil de salubrité, de la Société royale et centrale d’agriculture, de l’Académie de médecine, de la Société d’horticulture de Paris, de la Société d’amélioration des laines...
+
+Son frère cadet, Démophile, épouse la fille d’un imprimeur du quartier Saint-André-des-Arts et, sous la raison sociale Huzard-Courcier, il est entre 1820 et 1830 « imprimeur-mathématique ».
+Sa fille Anne-Félicité Huzard épouse François-Haken Philippar (1802-1849) en 1842.
+D’abord simple ouvrier aux pépinières royales de Versailles, celui-ci suit les cours de Thouin au Muséum ; en 1831, il est nommé professeur d’agriculture à l’école normale de Versailles puis chargé du cours municipal de botanique appliquée et du cours général de culture au grand séminaire de Versailles.
+Sa renommée le fait choisir en 1837 comme professeur de sylviculture à Grignon.
+Membre de la Société royale et centrale d’agriculture, il fonde la Société d’horticulture de Seine-et-Oise en 1845.
+Il collabore aux principaux journaux agricoles du temps (Annales de l’agriculture française, Annales de Fromont, Annales de Grignon, Moniteur des eaux et forêts...).
+Son fils Edmond (1845-1905), professeur à La Saulsaie puis au Lézardeau, sera directeur de Grignon de 1883 à 1901.
+
+Adèle-Joséphine (1796-1876), épouse en 1823 un principal de collège, propriétaire dans le Perche, Louis Bouchard (1784-1841).
+En 1830, celui-ci prend des actions dans le Cultivateur de Dufresne de la Chauvinière et dans l’Encyclopédie de l’agriculture de Bailly de Merlieux.
+C’est lui qui succède en 1839 à sa belle-mère, comme libraire et comme imprimeur.
+Il relance le commerce en éditant des auteurs nouveaux comme Royer, Rendu, Lecouteux, mais meurt prématurément et sa veuve reprend tant bien que mal la maison Bouchard-Huzard.
+Son fils Louis Bouchard-Huzard (1824-1873), membre de la Société impériale et centrale d’agriculture, contribue à lui garder quelques contacts dans le monde agricole.
+
+En 1842, les quatre enfants se partagent la succession qui leur rapporte à chacun environ 140 000 francs, une véritable fortune qui prouve le succès des affaires de la rue de l’Éperon pendant la première moitié du xixe siècle.
+Pour compléter ce tableau de la dynastie Huzard, il faut ajouter la fille naturelle de Jean-Baptiste, Marguerite-Rosalie (1779-1826), mariée en 1801 au directeur adjoint de l’Ecole vétérinaire de Lyon, Jacques-Marie Hénon, qui meurt en 1809.
+Leur fils Jacques-Louis Hénon (1802-1872), botaniste lyonnais, est un opposant libéral.
+
+La Librairie agricole de la Maison rustique, de l’encyclopédie au journal agricole. – La veuve Bouchard-Huzard laisse en 1876 à sa fille Adèle-Rosalie et à son gendre Jules Tremblay, ancien chef de bureau au ministère de l’Agriculture, une affaire qui ne tarde pas à sombrer, face à la concurrence de la Librairie agricole de la Maison rustique.
+
+Charles-François Bailly (1800-1862), avocat polygraphe reconverti dans l’édition de manuels, entreprend en 1825, dans le cadre d’une
+    « Union encyclopédique », l’édition d’une Encyclopédie portative, la publication d’un Mémorial encyclopédique et progressif des connaissances humaines périodique, et la traduction de l’Encyclopedia of agriculture de John Loudon.
+La société qu’il fonde à cet effet en mai 1830 réunit Dufresne de la Chauvinière, Mortemart de Boisse, Galbois, Bouchard, Leclerc-Thouin et Soulange-Bodin.
+Puis, reprenant le titre du traité d’agriculture publié en 1566 par Charles Estienne, Bailly de Merlieux s’associe avec François Malepeyre, auteur d’une quarantaine de manuels Roret, et donne une orientation plus vaste au projet de 1830, transformant la traduction initialement prévue en œuvre originale, qui paraît par livraisons et bénéficie du concours de tous les collaborateurs de la presse agricole.
+La publicité de l’entreprise est orchestrée en 1833-1834 par Emile de Girardin, éditeur du Journal des connaissances utiles et fondateur de l’institut agricole de Coëtbo, associé à l’éditeur Paulin et à Alexandre Bixio ; Bixio (1808-1865), médecin, carbonaro et collaborateur du National, a sauvé la Revue des deux mondes de la faillite fin 1831.
+Au total, 240 000 prospectus sont adressés « aux amis de l’agriculture, aux amis de l’ordre, de la liberté et du bien-être public ; aux jeunes hommes studieux ».
+
+Les quatre premiers volumes de la Maison rustique du xixe siècle paraissent de 1835 à 1837 et connaissent un succès éditorial foudroyant, puis la société éditrice se dissout.
+Bailly de Merlieux fonde dès mai 1836 une société de la Nouvelle Maison rustique pour la publication d’une encyclopédie d’horticulture et d’une « encyclopédie des ménages » qu’il cède en novembre 1837 au directeur de « l’Agence littéraire », Timoléon Fleury.
+Émile de Girardin est accaparé par la publication de son journal, la Presse.
+Quant à Malepeyre et Bixio, ils se retrouvent en concurrence pour la publication d’un périodique « qui perpétuerait et étendrait encore en France ce zèle pour l’industrie agricole » suscité par la parution de la Maison rustique.
+Lancé en juillet 1837, le Journal de l’agriculture pratique et des arts agricoles de François Malepeyre ne tient pas plus de deux numéros face au Journal d’agriculture pratique que Bixio lance à la même date.
+François Malepeyre sera encore, de 1842 à 1872, le co-rédacteur de l’Agriculteur praticien ou Revue progressive d’agriculture qui prend la suite de la Revue progressive d’agriculture de Noisette et Boitard.
+
+Au contraire, le journal de Bixio devient un des principaux titres de la presse agricole et paraîtra avec succès jusqu’en 1936.
+Un empire de presse se constitue peu à peu autour de ce journal avec en 1842 la fondation des Annales forestières, en 1844 la création d’un Almanach du jardinier, et en 1847 le rachat de la Revue horticole d’Audot, puis l’absorption progressive des principaux concurrents.
+Bixio fonde une maison d’édition, la Librairie agricole de la Maison rustique, qui publie, à partir de 1843, les plus grands ouvrages d’agronomie (Cours d’agriculture de Gasparin, Voyages agronomiques de Lullin de Châteauvieux...).
+Du 20 au 29 décembre 1848, Bixio est ministre de l’Agriculture et du Commerce puis, en 1852, il entre au Crédit mobilier des Péreire, abandonnant la direction de l’entreprise à Jules Dusacq, ancien prote de l’imprimeur de la Maison rustique, Du verger.
+
+
+=== Chapitre III La confection d’un journal agricole ===
+
+Les collaborateurs de la presse d’économie rurale. – Il y a souvent confusion entre propriétaire ou gérant et rédacteur en chef d’un journal, entre actionnaires et collaborateurs.
+Le rédacteur en chef du Moniteur de la propriété et de l’agriculture est payé 1 200 francs par an auxquels s’ajoutent une action de 150 francs et 5 % sur les bénéfices.
+Briaune, rédacteur des Annales de l’Institution royale agronomique de Grignon, reçoit 1 500 francs par an, dont 60 % versés par Louis Bouchard, éditeur du journal, et 40 % par Grignon.
+Beaucoup de professeurs d’agriculture voient une source de prestige dans la collaboration à un journal d’agriculture, car la position de professeur « est un état d’ilotisme peu profitable à tous égards si la voie de la presse ne leur est pas ouverte pour se faire entendre quelquefois du fond de l’espèce d’oasis qui les emprisonne ».
+
+La majorité des « écrivains de la presse agricole de Paris » sont « des agronomes de cabinet » : 80 % des collaborateurs du Cultivateur sont membres de la Société royale et centrale d’agriculture, 60 % de la Société d’horticulture de Paris ; les membres de l’institut, du Conseil d’agriculture, de la Société d’amélioration de laines et de l’Académie de médecine constituent entre 5 et 20 % d’entre eux ; deux tiers sont nobles ou prétendus tels.
+Les correspondants du journal sont choisis à 17,5 % en Ile-de-France, à 26,5 % seulement au sud de la Loire et 40 % d’entre eux sont nobles.
+Près de 5 % dirigent leur propre journal agricole en province ou à l’étranger.
+
+Des scientifiques ou des économistes de haut niveau n’hésitent pas à donner de temps en temps un article de fond ou d’humeur aux journaux d’agriculture.
+On trouve ainsi parmi les collaborateurs de Y Agronome d’Auguste de Rochau entre 1833 et 1836 : le chimiste républicain François-Vincent Raspail, le directeur de la bergerie royale de Rambouillet Charles-Germain Bourgeois, l’agronome Louis Moll, l’économiste Émile Bères, le juriste Léopold Malepeyre, le botaniste Jean-Henri Jaume-Saint-Hilaire...
+Dans les années 1840, le Moniteur de la propriété et de l’agriculture ou le Journal d’agriculture pratique accueillent les signatures les plus prestigieuses.
+
+Le cadre rédactionnel des journaux agricoles. – Il n’existe pas de quotidien agricole sous la Monarchie de Juillet et même les hebdomadaires sont rares.
+L’Écho des halles, bi-hebdomadaire, est le seul journal qui permette les réactions à chaud.
+Les journaux paraissant plus d’une fois par mois ne peuvent en effet être exemptés du droit de timbre, aussi la périodicité la plus courante est-elle la parution mensuelle.
+Certains titres, comme Y Agriculture de l’Ouest de la France ou Y Assureur des récoltes, sont même trimestriels.
+Le journal de Roville paraît une fois par an seulement, celui de Grignon moins régulièrement encore.
+
+Le format le plus courant pour les mensuels est l’octavo avec une surface oscillant le plus souvent entre 24 et 28 dm2 (format des journaux imprimés par Mme Huzard), ce qui ne permet pas l’impression sur deux colonnes ; il tend à augmenter à partir de 1836, atteignant les 37 dm2 sous l’influence du format de la Maison rustique, repris par le Journal d’agriculture pratique de Bixio.
+Les quelques hebdomadaires sont, quant à eux, des in-4° imprimés sur trois colonnes.
+Les livraisons mensuelles comptent en général deux à trois feuilles d’impression, soit 32 à 48 pages.
+
+Le contenu est peu structuré, les éditeurs proposant une tripartition entre agriculture, zoopédie et horticulture, ou éclatant la matière entre une dizaine de rubriques ; des « mélanges » et une mercuriale viennent compléter le périodique.
+La publicité fait une apparition discrète sous forme d’annonces professionnelles (ventes de bêtes, propriétés à reprendre, et surtout annonces de grainetiers ou de fabricants de machines agricoles, comme Quentin-Durand dans Y Agronome).
+Tous les journaux sont illustrés de bois rendus nécessaires pour la compréhension du texte (charrues ou constructions rurales) et parfois de représentations d’animaux lithographiées, mode venue d’Angleterre et importée par le biais des journaux hippiques.
+
+Les journaux d’agriculture ont pour source première de leur information la presse généraliste, économique, scientifique ou agricole.
+Les éditeurs dépouillent pour leurs lecteurs les rubriques agricoles du Temps, du Constitutionnel, du Journal des économistes et résument les mémoires lus devant les sociétés savantes.
+Certains numéros de Y Agronome par exemple sont constitués à plus de 53 % d’extraits de presse ou de documents officiels.
+Outre ces sources écrites et théoriques, les lecteurs sont priés d’apporter au journal « le concours de leurs lumières et de leurs observations pratiques ».
+
+N’importe quel imprimeur peut tirer un journal agricole.
+Cependant, avant 1837, une seule imprimerie fait vraiment concurrence à la maison Huzard dans ce créneau, c’est celle de Jacques-Albert Decourchant, 1, rue d’Erfurt.
+Cet imprimeur, électeur en Seine-et-Marne et membre de l’Académie de l’industrie agricole, manufacturière et commerciale, est davantage spéculateur qu’homme de l’art ; après avoir tenté en 1828 d’imprimer des ouvrages de piété en portugais à destination de Rio de Janeiro, il s’associe aux entreprises de l’abbé Perrin (Journal d’agriculture pratique en 1833-1834 puis
+    « Société reproductive des bons livres » en  1837-1838) et à celles de Bailly de Merlieux (Encyclopédie portative et Maison rustique) avant de laisser son imprimerie et sa clientèle à Schneider en 1839.
+L’essor de la presse agricole brise vers 1840 le monopole de la rue de l’Éperon : Dupont, Gros, Hauquelin, Guiraudet et Jouaust, Belin, Bourgogne et Martinet, Casimir... impriment tous un ou plusieurs titres.
+En province, le faible nombre d’imprimeurs restreint le choix.
+Même si le journal agricole n’a pas un fort tirage, son impression n’est pas nécessairement archaïque : avant même 1830 l’imprimerie de la rue de l’Éperon était mécanisée.
+En 1842, on y trouve quatre presses mécaniques, douze presses à bras et 49 000 kg de caractères.
+Voisine de Lorilleux, Mme Huzard a été une des premières à tester ses encres.
+
+
+== Troisième partie Les journaux d’agriculture et leur contenu ==
+
+
+=== Chapitre premier typologie de la presse agricole française ===
+
+Le journal et la société savante : un réseau national, une forme archaïque. – Héritage du xviiie siècle, les journaux de sociétés d’agriculture ne représentent plus, entre 1828 et 1848, que 15 % de la presse agricole parisienne mais encore 88 % de la presse agricole départementale.
+Sous une forme archaïque, on y trouve le procès-verbal des séances de la société, les mémoires qui lui sont présentés, des rapports sur des expériences menées par les sociétaires, une revue de la presse agricole et le programme des prix mis au concours.
+Le seul journal de ce type vraiment original est celui que publie la Société d’agriculture de Haute-Garonne qui paraît de 1805 à 1838 sous le titre de Journal des propriétaires ruraux pour les départements du Midi, puis fait peau neuve en se transformant en Journal d’agriculture pratique et d’économie rurale pour le Midi de la France, sur le modèle du journal de Bixio.
+
+Le journal et l’institut agricole : diffusion des expériences techniques et pédagogiques. – C.J.A. Mathieu de Dombasle (1777-1843) crée en 1822 une école d’agriculture à Roville dans la Meurthe.
+En 1810 il avait fondé une sucrerie de betteraves, puis, ruiné par la fin du blocus continental, il se tourne vers l’agriculture et loue à Antoine Bertier (1761-1854) le domaine de Roville pour vingt ans.
+Il adjoint à l’école une fabrique d’instruments aratoires perfectionnés où sont produites les fameuses « charrues Dombasle ».
+Entre 1824 et 1832, Mathieu de Dombasle publie les Annales de Roville ou mélanges d’agriculture, d’économie rurale et de législation agricole.
+L’institut agricole de Roville forme toute une génération d’agronomes français et un certain nombre de collaborateurs de la presse agricole : Louis Moll, Amédée Desjobert, Victor Duffourc, Henri Bourdon...
+
+Mathieu de Dombasle publie encore un Supplément aux Annales de Roville en 1837 et surtout, entre 1832 et 1843, il donne aux journaux d’agriculture de la capitale (Agronome, Cultivateur, Journal d’agriculture pratique) des articles sur les sujets les plus divers.
+La presse agricole contribue à créer et entretenir un mythe dombaslien ; ses anciens élèves réunis en
+    « Société rovillienne » fondent en juillet 1844 l’Utilité qui prend en 1846 le titre du Rovillien.
+Rédigé par Chrétien de Roville, le journal est absorbé en juin 1856 par le Journal d’agriculture pratique.
+
+Un demi-solde, Auguste Bella (1777-1856), et un ingénieur des Ponts-et-Chaussées, Polonceau, décident après une visite à Mathieu de Dombasle en 1825 la fondation d’un institut agricole semblable mais « à une distance de Paris qui permît des relations fréquentes avec les sources d’instruction qui y abondent ».
+Après un voyage de Bella et Desjobert en Allemagne et en Belgique au cours duquel ils visitent l’institut agricole d’Hohenheim en Würtemberg, et celui de Möglin en Prusse, une société anonyme est créée au printemps 1827 sous le nom d’institution royale agronomique pour exploiter le domaine royal de Grignon, en Seine-et-Oise.
+Le nouvel institut reçoit ses premiers élèves en 1828 et devient, après la fermeture de Roville en 1843, le principal institut agricole du royaume.
+Bella imite Dombasle en tout, y compris dans la publication d’Annales de l’Institution royale agronomique de Grignon à partir de 1828.
+Mais il ne fait pas l’unanimité et le professeur d’économie rurale, Charles-Édouard Royer, est chassé de Grignon en 1840 pour s’être associé à la cabale menée par l’Écho des halles et le Journal d’agriculture pratique contre la gestion de Bella.
+
+C’est un ancien élève de Roville, l’Alsacien Jules Rieffel (1806-1886), qui est appelé à diriger l’institut agricole constitué par l’armateur nantais Charles Haentjens en novembre 1830 à Grandjouan en Loire-Inférieure.
+En 1839 il fonde Y Agriculture de l’Ouest de la France qui devient en 1844 le « moniteur de l’Association bretonne » et paraît jusqu’à la Révolution de 1848.
+On y trouve des articles d’Eugène Neveu-Derotrie, de Gustave Heuzé...
+
+A leur suite et au retour d’une mission en Allemagne du Nord qui l’a mis en contact avec Wulfen et Thünen, Césaire Nivière, ancien élève de Roville et professeur départemental d’agriculture du Rhône, fonde en 1840 un institut agricole sur son domaine de La Saulsaie dans la Dombes, qui sera nationalisé en 1848 comme ceux de Grignon et de Grandjouan.
+Mais, faute de temps, Nivière doit interrompre la publication des Annales agricoles de la Saulsaie au bout d’une livraison.
+
+Moins durable est la création en 1829 de l’institut horticole de Fromont, en Seine-et-Oise, par Étienne Soulange-Bodin (1774-1842), un des fondateurs de la Société royale d’horticulture de Paris, membre de la Société linnéenne de Paris, de la Société royale et centrale d’agriculture.
+Des Annales de l’institut horticole de Fromont sont publiées de 1829 à 1835, mais il semble que l’école ait cessé de fonctionner dès 1831.
+
+Le journal « commercial ».
+Rentabilité financière de la presse agricole. – Avec l’apparition de ces premiers établissements d’enseignement agricole, la grande nouveauté de la période 1828-1848 est la naissance de journaux d’agriculture sans attaches institutionnelles, édités à Paris par des entreprises de presse indépendantes : Y Agronome, le Journal d’agriculture pratique, le Cultivateur, le Moniteur de la propriété et de l’agriculture, F Agriculteur praticien, la Revue agricole...
+Cette presse a « dépouillé en grande partie les journaux ou les mémoires des sociétés d’agriculture de l’intérêt qu’ils avaient eu jusqu’alors » car « ces journaux d’agriculture résument et reproduisent tout ce qui se publie d’intéressant » et « ils reçoivent de province des articles qui auraient été adressés aux sociétés d’agriculture s’ils n’existaient point, et qu’on leur donne de préférence, parce que leur tribune a plus de retentissement ».
+
+A ces journaux d’agriculture mensuels, il convient d’ajouter les hebdomadaires et bi-mensuels, plus politiques (Écho des halles d’André Pommier, Moniteur agricole d’Henri Fauvel, Gazette agricole puis France agricole de F. Becker, Avant-Garde agricole du marquis de Travanet), les journaux économiques (Journal des travaux publics, de l’agriculture, du commerce et de l’industrie), les journaux « d’industrie agricole et manufacturière » (Annales de l’industrie manufacturière, agricole et commerciale de J.G.V. de Moléon, Agriculteur manufacturier de Dubrunfaut, Flandre agricole et manufacturière, Bulletin de sucres de Bailly de Merlieux) et les journaux de vulgarisation encyclopédique (Journal des connaissances utiles, Journal des connaissances usuelles et pratiques), rédigés par des polygraphes.
+
+
+=== Chapitre II Journaux agricoles spécialisés ===
+
+Des périodiques agricoles spécialisés naissent au fur et à mesure que l’agriculture se développe et se diversifie, mais toutes les branches d’activité n’ont pas encore leur journal.
+
+Les journaux horticoles. – La presse horticole est très variée avec pour principaux titres : la Revue horticole, héritière du Bon Jardinier fondé en 1754, d’abord éditée par Audot puis rachetée par Bixio, le Journal des jardins puis Journal et flore des jardins et enfin Annales de Flore et de Pomone du libraire Jean-Louis Rousselon, les Annales de Fromont de Soulange-Bodin, les Annales des jardiniers amateurs, l’Horticulteur universel de C. Lemaire, le Journal d’horticulture pratique et de jardinage d’Ignace-Horace Cousin.
+
+Les journaux vétérinaires. – Dès 1825 paraît un Recueil de médecine vétérinaire qui a pour rédacteur en chef le directeur de l’École vétérinaire d’Alfort.
+Un Journal de médecine vétérinaire publié par l’École vétérinaire de Lyon s’en détache en 1845, tandis que deux journaux éphémères sont lancés autour de l’École vétérinaire de Toulouse.
+Parallèlement le Journal de médecine vétérinaire théorique et pratique, puis Journal des progrès des sciences zooiatriques puis Clinique vétérinaire paraît de 1830 à 1869, moins professionnel.
+
+Les journaux hippiques. – L’engouement pour les courses déclenche l’essor d’une presse hippique spécialisée, autour du Journal des haras d’Achille de Montendre (1828-1862).
+En 1845, les anciens élèves de l’Ecole des haras du Pin décident de fonder un journal plus professionnel avec le concours des professeurs d’Alfort et du Pin : les Annales des haras et de l’agriculture paraissent sous la direction d’Antoine Richard jusqu’à la Révolution de 1848. 
+
+Les journaux forestiers. – Les textes officiels (jurisprudence, arrêtés et circulaires) constituaient la substance principale des premiers journaux forestiers, Mémorial forestier de Goujon de 1801 à 1808 et Annales forestières de Jacques-Joseph Baudrillart de 1808 à 1816.
+Émile Dieudonné, forestier et avocat, fait paraître de juin à septembre 1841 une Revue forestière destinée à informer les forestiers et à servir de conseil juridique aux propriétaires de forêts.
+Puis Alexandre Bixio lance en 1842 les Annales forestières, dont les actionnaires sont tous fonctionnaires des eaux et forêts, et que cherche à concurrencer le Moniteur des eaux et forêts du « bûcheron de la Nièvre »
+Jean-Bazile Thomas, hostile à la politique des forestiers sortis de Nancy.
+
+Les journaux séricicoles. – L’industrie de la soie suscite beaucoup d’espoirs dans le deuxième tiers du xixe siècle.
+La Société séricicole pour la propagation et l’amélioration de l’industrie de la soie en France publie de 1837 à 1851 des Annales rédigées par Frédéric de Boullenois et Henri Bourdon, et plus particulièrement destinées à la sériciculture du nord de la France, tandis qu’Amans Carrier publie à Rodez de 1838 à 1844, pour les petits magnagniers du Midi, le Propagateur de l’industrie de la soie en France.
+Léon de Teste publie aussi une Revue sérigène en 1843-1844 qui prend en compte le point de vue des industriels soyeux.
+
+Encore peu de journaux viticoles. – En 1833-1834 paraît un Vignicole, journal des vignerons.
+De 1835 à 1838 la Société d’œnologie française et étrangère publie son Bulletin et de 1838 à 1841 un négociant en vins, Lecoutre de Beauvais, édite le Producteur bordelais.
+Puis il ne paraît plus de journal viticole jusqu’à la fin de la Monarchie de Juillet.
+
+
+=== Chapitre III Les journaux agricoles locaux ===
+
+Quelques journaux de sociétés d’agriculture recueillent d’intéressantes contributions : celles de Marc-Antoine Puvis au Journal de la Société d’agriculture de l’Ain, celles du vicomte de Rainneville au Cultivateur de la Somme publié par le Comice agricole de l’arrondissement d’Amiens, celles de Mathieu de Dombasle, Bertier et du chimiste Braconnot au Bon cultivateur de la Société d’agriculture de Nancy.
+Mais les journaux locaux les plus originaux sont ceux qui paraissent indépendamment de toute institution éditrice : le Laboureur breton à Lorient, la Normandie agricole à Caen, et surtout les journaux agricoles de trois départements méridionaux : la Gironde, l’Aveyron et les Bouches-du-Rhône.
+
+Bordeaux ou « l’agriculture comme source de richesse et garantie du repos social ». – L’activité savante de Bordeaux est dans la première moitié du xixe siècle ordonnée autour de la Société linnéenne qui publie ses travaux dans l’Ami des champs de Jean-François Laterrade.
+Puis une ferme expérimentale est créée en 1823 à Pessac sous le patronage du duc de Bordeaux.
+Le vice-président du Comice central du département de la Gironde, Hugues, y mène des expériences qui aboutissent à la mise au point dans les années 1830 d’un semoir permettant la culture en lignes.
+Pour faire connaître son invention, Hugues publie en 1838-1840 un Propagateur du progrès qui bénéficie du soutien de Montmorency, Doudeauville et La Rochefoucauld.
+
+En 1837, la première chaire d’agriculture départementale de France est instituée à Bordeaux pour Auguste Petit-Lafitte qui fonde en mai 1840 Y Agriculture comme source de richesse et garantie du repos social, journal de grande tenue auquel collaborent Léonce de Lamothe, agronome et archéologue, le comte Odart, œnologue et propriétaire viticole, et plusieurs personnalités agricoles du Sud-Ouest.
+
+Les propagateurs du progrès en Aveyron. – En Aveyron, c’est la Société d’agriculture départementale, née à la Révolution, qui réunit les agriculteurs les plus actifs, les Rodat, les Cabrières, Girou de Buzareingues..., dont les enfants sont envoyés à Roville.
+Couplant son activité avec celle de la dynastie d’imprimeurs Carrère-Devic, elle favorise l’éclosion d’une presse agricole régionale.
+À côté du Bulletin de la société, Amans Rodat rédige en effet la Feuille villageoise de l’Aveyron de 1806 à 1825, puis le Propagateur aveyronnais de 1827 à 1832, auquel collabore Carrier, éditeur du Propagateur de l’industrie de la soie.
+
+La presse agricole rouerguate est un modèle pour le Propagateur agricole du Cantal publié par la Société d’agriculture du département de 1838 à 1858 parallèlement à son Bulletin et dont la rédaction est confiée en 1840 au Rovillien Duffourc et au vétérinaire Antoine Richard.
+
+Les
+    « Annales provençales d’agriculture pratique ». – C’est aussi l’alliance entre les agriculteurs du département et un imprimeur, Feissat, qui fait le succès des Annales provençales d’agriculture pratique publiées à Marseille de 1827 à 1853.
+En 1835, le gendre de Feissat, Barlatier, s’associe à Marius Plauche, propriétaire dans les Bouches-du-Rhône et le Var, pour continuer la publication avec le soutien financier du Conseil général.
+Les rédacteurs du journal sont le magnanier Eugène Robert, l’économiste Zéphirin Jouyne, l’avocat Alexandre Clapier, l’ingénieur Hippolyte de Villeneuve-Flayosc.
+
+
+=== Chapitre IV La presse étrangère ===
+
+Diffusion en France de l’œuvre des agronomes étrangers. – Les sociétés d’agriculture s’honorent de la présence parmi leurs correspondants des plus grands agronomes étrangers, dont Mme Huzard et la Maison rustique publient d’utiles traductions.
+On trouve aussi quelques journaux agricoles étrangers en France, le plus souvent diffusés par Treuttel et Würtz ou le libraire anglais William Galignani.
+
+Grande-Bretagne et Allemagne, les deux grands modèles. – Le modèle anglais est le plus ancien et les Annals of agriculture d’Arthur Young (1784-1815) ont largement contribué à le diffuser, influençant les Annales de l’agriculture française.
+Sous la Monarchie de Juillet, le grand écrivain agronome est John Loudon (1783-1843), auteur de la fameuse Encyclopedia of agriculture imitée par Bailly de Merlieux, éditeur du Gardener’s magazine (1826-1844), et collaborateur des principaux grands journaux anglais et écossais, British Farmer’s magazine (1827-1841) et Quaterly journal of agriculture (1828-1842). 
+
+Les journaux allemands sont plus connus encore, et plus utilisés par la presse agricole française ; Louis Moll leur donne même des articles.
+Le plus célèbre de ces périodiques est celui de l’institut agricole de Möglin, qui paraît depuis 1817 sous le titre de Moeglinische Annalen der Landwirtschaft, mais il s’en publie des dizaines outre-Rhin, au moins un par État.
+
+Les contacts avec les pays francophones. – Les agronomes de Suisse et d’Italie ont des liens d’autant plus étroits avec leurs homologues français que l’obstacle de la langue n’existe pas, des francophones comme le Genevois Lullin de Châteauvieux (1772-1842) et le Turinois Matthieu Bonafous (1793-1852) assurant la liaison avec les italophones et les germanophones.
+Parmi les nombreux journaux de la péninsule italienne, le plus intéressant est le Giornale agrario-toscano (1827-1865) du marquis Cosimo Ridolfi (1794-1865), fondateur de l’institut agricole de Meleto.
+
+Quant au journal du Bruxellois Max Desaive, la Sentinelle des campagnes, qui relaie en 1836 la parution du Journal d’agriculture, d’économie rurale et des manufactures du royaume des Pays-Bas, il ne diffère en rien des journaux d’agriculture français.
+
+
+=== Chapitre V Brève analyse de contenu ===
+
+Les nouvelles techniques agricoles. – Les journaux publiés entre 1828 et 1848 se veulent d’agriculture pratique et donnent donc des exemples précis d’assolements, des recettes d’engrais (notamment V Assureur des récoltes de Louis Nozahic et son concurrent le Véritable assureur des récoltes d’Antoine-Marius Turrel qui se consacrent à la défense de la méthode du Provençal Pierre Jauffret mort en 1837), des notices sur les nouvelles cultures (pavot, gesse, colza, betterave, pomme de terre, maïs, riz, tabac...) et des descriptions des espèces animales les plus performantes : mérinos et chèvre du Tibet puis mouton Dishley et surtout bœuf Durham.
+
+Plus techniques encore sont les articles consacrés aux nouveaux instruments aratoires, et surtout aux charrues perfectionnées, à l’installation de pompes à purin, à la construction de bergeries, machines à battre, féculeries, etc. et à la mise en place de systèmes d’irrigation intelligents.
+
+A la suite des Annales de Roville, les journaux agricoles cherchent aussi à introduire en France de nouvelles techniques comptables liées aux notions nouvelles de productivité et de rendement.
+La statistique, qui se développe au XIX’ siècle, s’attache aussi à cerner les difficultés de l’agriculture française.
+
+L’organisation de l’agriculture. – Dès les années 1830 et surtout à partir des circulaires de l’été 1836, les journalistes agricoles proposent de nouveaux systèmes d’« organisation de l’agriculture » comprenant un ministère particulier, l’institution de missions agronomiques à l’étranger, des chambres consultatives, des concours, congrès et expositions agricoles, un enseignement agricole à trois niveaux, un Code rural, un système de crédit et d’assurances agricoles, etc. 
+
+La presse agricole est durant toute la période largement protectionniste et participe à « la défense du travail national », surtout après l’ordonnance de 1839 dégrévant les sucres coloniaux.
+
+
+== Conclusion ==
+
+La vulgarisation de l’agriculture perfectionnée se fait entre 1828 et 1848 par l’intermédiaire des sociétés savantes dont les bulletins fournissent la matière scientifique des journaux d’agriculture, eux-mêmes destinés à un public instruit de notables locaux qui assurent le relais auprès des paysans.
+L’introduction de ses principes a peu à peu transformé les campagnes, et la crise frumentaire de 1845-1846 est la dernière du siècle.
+
+Néanmoins certains, dans les années 1840, considèrent que la presse agricole n’est qu’un palliatif tant que « chacune de nos exploitations rurales n’a pas à sa tête un homme suffisamment instruit ».
+Et les journalistes agricoles de réclamer la mise en place d’un système d’enseignement agricole que la Seconde République organise effectivement, par le décret du 3 octobre 1848 dont le rapporteur à l’Assemblée est Antoine Richard, rédacteur du Propagateur agricole du Cantal puis des Annales des haras et de l’agriculture.
+
+
+== Pièces justificatives ==
+
+Lettre de Mme Huzard sur le droit de timbre (1814). – Circulaires de 1829 sur la remise en activité du Conseil supérieur d’agriculture, du préfet du Haut-Rhin annonçant la création de la Feuille des comices agricoles du Haut-Rhin (1835). – Actes concernant la vie des sociétés éditrices du Cultivateur (1829-1831) et du Moniteur de la propriété et de l’agriculture (1835-1848). – Inventaires des imprimeries Huzard (1839) et Bouchard-Huzard (1842). – Correspondance de Royer de Bella au sujet des Annales de l’Institution royale agronomique de Grignon (1838-1839). – Prospectus de l’institut horticole de Fromont (1829). 
+
+
+== Annexes ==
+
+Carte statistique de la presse agricole départementale. – Listes des membres de la section d’économie rurale de l’Académie des sciences, de la Société royale et centrale d’agriculture et du Conseil d’agriculture. – Graphiques montrant la répartition du capital de l’Écho des halles, de celui du Cultivateur, et la part de chaque imprimeur dans le tirage des journaux agricoles parisiens. – Tableaux généalogiques des familles Huzard et Carrère-Rodat. – Fusions, absorptions et transformations de la presse agricole autour du Journal d’agriculture pratique aux XIX’ et XX’ siècles. – Cartes du voyage agronomique d’Auguste Bella (1826), de celui de Césaire Nivière (1839) et des principales écoles d’agriculture en Europe.

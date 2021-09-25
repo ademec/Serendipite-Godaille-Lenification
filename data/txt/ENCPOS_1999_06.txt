@@ -1,0 +1,187 @@
+identifier: ENCPOS_1999_06
+creator: Caroline Becker-Jeanjean
+date: 1999
+title: Les récits illustrés de voyages pittoresques publiés en France entre 1770 et 1855
+
+
+
+== Introduction ==
+
+Une étude des récits illustrés de voyages pittoresques doit d’abord viser à élaborer une définition du genre.
+Le premier corpus identifiable consiste, pour ce faire, dans les ouvrages dont le titre contient explicitement l’adjectif « pittoresque », bien qu’il existe évidemment, au-delà, des voyages ressortissant au même genre sans faire apparaître ce terme précis ; c’est par exemple le cas de l’ouvrage de David-Julien Leroy intitulé Sur les ruines des plus beaux monuments de la Grèce (1758 et 1770).
+Par ailleurs, seuls sont pris en compte les récits illustrés : ce sont les plus nombreux mais, surtout, l’image joue un rôle essentiel dans ce genre qui cherche, à la fois, à informer et à faire rêver le lecteur ; comme l’écrit Fortis (1821) :
+    « Une description n’est donc qu’une espèce d’introduction, ou d’avant-scène qui pique la curiosité sans la satisfaire ....
+Le peintre seul peut les les sites lui représenter et parler vivement à l’imagination, par l’illusion que produisent les ressources de son art. »
+
+Définir ce phénomène consiste tout d’abord à mesurer son ampleur et à le situer dans le temps, en dressant un tableau bibliographique analytique, autant que possible exhaustif pour la production des deux pays les plus fertiles dans ce domaine d’édition, la France et l’Angleterre ; celui-ci compte quelque trois cent quarante titres.
+L’analyse proprement dite, en revanche, porte spécifiquement sur la production française.
+Le dénombrement bibliographique montre que la production devient significative dans les années 1770 et qu’elle disparaît vers 1855.
+Le terme de l’étude correspond aussi à l’introduction, dans les voyages pittoresques, du nouveau procédé d’illustration que constitue la photographie. 
+
+
+== Sources ==
+
+La liste des voyages qui forment la matière de l’étude a été établie principalement à partir des collections de trois bibliothèques : la Bibliothèque nationale de France, la bibliothèque Sainte-Geneviève et la British Library.
+Les notices recueillies ont été confrontées à celles que fournissent les instruments bibliographiques généraux, et complétées par l’examen direct des recueils.
+
+Ont été utilisées en complément quelques sources manuscrites, surtout des correspondances, et en premier lieu celle du baron Taylor avec Adrien Dauzats et avec quelques autres collaborateurs.
+
+
+== Première partie Analyse de la production ==
+
+
+=== Chapitre premier tableau bibliographique ===
+
+Le tableau bibliographique élaboré en vue de l’étude comprend les données de la production française et étrangère (à l’exception notable de l’Allemagne).
+Bien que l’étude se limite à l’examen de la partie française de la production, elle ne saurait faire l’économie de la comparaison.
+Le classement géographique (France, Angleterre, autres pays) fournit une vision plus claire de l’évolution de la production par pays, et permet de constater les avances ou les retards respectifs.
+Les rééditions sont classées dans une rubrique particulière : il serait d’autant plus trompeur de les intégrer dans la statistique générale que les données qui les concernent sont lacunaires.
+
+
+=== Chapitre II Analyse du tableau : courbes de production et fréquence des destinations ===
+
+Le tableau permet d’établir des courbes de production par années, par périodes de cinq ans et par pays, et ainsi de déterminer l’évolution quantitative du genre : il naît dans les années 1770, connaît une croissance irrégulière jusqu’en 1815 (avec un creux dans les années 1805-1815), atteint son apogée entre 1820 et 1838, pour disparaître progressivement entre 1838 et 1855.
+
+La statistique permet également d’analyser par pays, à travers les lieux mentionnés dans les titres, la fréquence des visites durant les trois périodes définies ci-dessus.
+Il en résulte que, à partir des années 1835, les destinations, limitées depuis 1820 à quelques pays européens, changent : les voyageurs recommencent à parcourir des régions plus lointaines, notamment l’Orient.
+Les années 1835-1855 ne seront donc pas seulement marquées par une baisse du nombre de titres nouveaux mais également par une diversification des lieux visités. 
+
+
+=== Chapitre III Patrimoine et romantisme ===
+
+Les observations précédentes conduisent à étudier les rapports des voyages pittoresques avec la naissance du romantisme, d’une part, et avec la lente élaboration de la notion de patrimoine, d’autre part.
+L’analyse de la production permet de conclure que la mode du récit illustré de voyage pittoresque est européenne, les principaux centres d’édition étant Londres et Paris.
+
+L’emploi conjoint des deux modes de représentation, écrit et figuré, d’une même réalité contribue à éclairer la notion et les moyens d’expression du pittoresque tout au long de la période.
+
+
+== Deuxième partie La quête du savoir (1770-1800) ==
+
+
+=== Chapitre premier les deux modèles français ===
+
+La production française du xviiie siècle est marquée par la publication de deux ouvrages remarquables tant par leur ampleur que par leur qualité intellectuelle et typographique : le Voyage pittoresque des royaumes de Naples et de Sicile (1781-1786) de l’abbé de Saint-Non et le Voyage pittoresque de la Grèce (1782-1822) du comte de Choiseul-Gouffier.
+Saint-Non inaugure le genre avec des exigences artistiques d’emblée fort élevées, puisqu’il s’adjoint, pour illustrer les textes qu’il rédige, des collaborateurs aussi prestigieux que Hubert Robert ou Jean-Honoré Fragonard.
+Tous les monuments dignes d’intérêt sont cités et représentés, ainsi que les phénomènes les plus curieux, tels que des miracles donnant lieu à des scènes d’hystérie populaire, ou des éruptions volcaniques.
+Il s’agit de promener le lecteur en imagination dans des lieux inconnus.
+
+La publication du Voyage pittoresque de la Grèce débute au même moment ; les ambitions scientifiques de l’auteur en sont plus étendues.
+Il voyage dans les îles grecques en recueillant des informations artistiques, mais aussi géographiques, géologiques et archéologiques.
+La publication de son récit, en trois volumes, s’étend sur quarante ans, et constitue un exemple idéal de l’évolution du genre à bien des égards.
+
+
+=== Chapitre II La théorie anglaise ===
+
+Les écrits théoriques sur le pittoresque en tant que valeur esthétique sont extrêmement rares et, pour la plupart, dus à des Anglais.
+De la naissance à la disparition du voyage pittoresque (et au-delà, jusqu’aux historiens de nos jours), l’île reste par excellence le lieu de réflexions et de débats sur la notion même de pittoresque.
+Le plus célèbre de ces ouvrages, intitulé Three Essays on the Picturesque, on Picturesque Travel, and on Sketching Landscapes (1792), est traduit en fran çais en 1799 et constitue la première réflexion entièrement consacrée à cette nouvelle notion, qui vient transformer les valeurs esthétiques académiques.
+Il développe l’idée que le pittoresque provient de la variété et de la rudesse de la nature, et s’oppose en cela au beau idéal :
+    « Un bâtiment de Palladio en marbre, bien terminé, poli, lisse... est beau ; pour qu’il soit pittoresque, il faut le casser à demi, étaler les pierres à ses pieds, strier la façade... »
+Il annonce clairement le goût des voyageurs pour les ruines, les paysages d’une majesté sauvage.
+
+
+=== Chapitre III Le voyage pittoresque comme quête du savoir ===
+
+De 1770 à 1815 environ, le voyage pittoresque peut se définir comme une quête du savoir ; le voyageur vise à enrichir ses connaissances et celles du lecteur.
+C’est ce qui explique que le champ d’exploration géographique soit si large ; il s’étend à tous les continents à l’exception de l’Afrique centrale et australe.
+Les deux modèles français en la matière, les récits de Saint-Non et de Choiseul-Gouffier, donnent le ton : le voyageur doit rapporter des informations sur l’histoire, l’architecture, les mœurs, le folklore, etc., des pays visités.
+Mais, comme les étendues parcourues peuvent être immenses, ces récits ne sont pas exhaustifs : il ne s’agit pas de constituer des inventaires architecturaux ou de réaliser des études ethnographiques ; les voyageurs s’efforcent plutôt de fournir au lecteur des idées générales, de lui faire partager leurs sentiments, leur admiration ou leur goût pour telle ou telle vue.
+Animés néanmoins du souci de la précision, ils amassent des connaissances exactes.
+Le ton du discours est donc en général vif, voire enthousiaste, et exprime une véritable soif d’aventure.
+Au xviiie siècle, les lieux pittoresques sont ceux qui inspirent des sentiments d’admiration, de fascination ou de terreur.
+La perspective adoptée par les dessinateurs vise à accentuer les impressions que leur a procurées la vue.
+
+
+== Troisième partie Le voyage pittoresque comme quête du patrimoine national ==
+
+Dès le début du xixe siècle, se font sentir les changements qui vont affecter le genre pendant la période du romantisme.
+Les voyageurs se désintéressent progressivement de l’Antiquité et manifestent un attrait particulier pour les paysages alpestres.
+Cette phase de transition (entre 1800 et 1815) peut être mise en lumière en observant l’évolution du traitement accordé à quelques « lieux communs », soit éléments typologiques du paysage, soit monuments célèbres, qui sont l’objet de la plus grande attention tout au long de la période : les grottes et les volcans, ou le temple de Ségeste en Sicile.
+
+
+=== Chapitre premier les voyages pittoresques et romantiques dans l’ancienne France du baron Taylor ===
+
+Le principal modèle du genre en France au xixe siècle consiste dans les Voyages pittoresques et romantiques dans l’ancienne France du baron Taylor et de Charles Nodier.
+Cette publication, la plus imposante du genre, étendue sur près de soixante ans (1821-1878), se compose de vingt et un volumes in-folio et a requis l’emploi d’une centaine d’artistes.
+La mise en œuvre est particulièrement lourde, puisqu’il s’agit de coordonner l’envoi de dessinateurs dans diverses parties du pays pour représenter les scènes dignes d’intérêt.
+L’entreprise est dirigée de main de maître par le baron Taylor, grande figure de son temps.
+Profondément conscient de la valeur artistique et historique des monuments du patrimoine français et de la nécessité de les préserver, il entraîne les lecteurs dans une rêverie à travers l’espace et à travers les siècles, pour leur montrer ce qui fait l’histoire et la grandeur de la nation.
+Il affiche une prédilection pour le Moyen Age, période négligée jusque-là au profit de l’Antiquité grecque et romaine, et participe par là au mouvement romantique en même temps qu’à la naissance de l’archéologie française.
+L’ombre de cette œuvre plane incontestablement sur la production française du xixe siècle ; le genre éditorial mais aussi la définition même du pittoresque en ont reçu une profonde empreinte.
+
+
+=== Chapitre II Le modèle anglais ===
+
+Le Voyage bibliographique, archéologique et pittoresque en France du R.P. Thomas Frognall Dibdin est publié en 1821 et traduit en français en 1825.
+La traduction ne comprend pas d’illustrations.
+Les voyageurs pittoresques anglais, contrairement aux Français, ne font pas de leurs « promenades » à travers l’Angleterre une quête patrimoniale, pour cette raison que la notion de patrimoine national n’est pas encore apparue dans le pays.
+La conception exposée par William Gilpin semble faire école.
+
+
+=== Chapitre III Une quête du patrimoine de la France ===
+
+En 1820, les romantiques s’emparent du genre et l’adaptent à leur rêve ; ils en font l’un des instruments de l’expression de leurs aspirations.
+Le récit illustré de voyages pittoresques connaît de profondes mutations, dont la plus importante est la réduction du champ géographique d’exploration ; les voyageurs, en quête d’un passé national oublié, ne dépassent plus que très rarement les frontières de leur pays.
+Le voyage pittoresque se transforme en une promenade à travers des pays aimés et chargés d’histoire.
+Il est une vivante illustration de l’évolution de la représentation du paysage.
+Et le pittoresque réside dès lors dans le pouvoir de suggestion du paysage.
+Mais cette rêverie n’est pas purement contemplative, il s’agit de faire ressurgir un passé oublié et délaissé, de redécouvrir les temps médiévaux longtemps ignorés au profit de l’Antiquité.
+Le choc de la Révolution a servi de catalyseur à la prise de conscience d’un patrimoine national en péril.
+Le récit se veut archéologique, il constitue un retour aux sources de l’histoire, les illustrations deviennent extrêmement précises et le rapport étroit entre le texte et l’image, qui s’analysent comme deux données scientifiques, est le garant de cette exactitude.
+Ce qui est pittoresque au xixe siècle, c’est l’aura historique, c’est la capacité d’un lieu, d’un paysage, d’un monument à entraîner le voyageur dans une rêverie.
+Les sentiments qu’il inspire ne sont plus ni d’admiration ni de fascination, ils se transforment en une prise de conscience vertigineuse de l’écoulement du temps et du poids de l’histoire.
+L’expression et la représentation de ce sentiment passe par une dramatisation des paysages et des monuments sont (cieux tourmentés, végétation fouettée par le vent).
+La lithographie, qui apparaît en 1820 dans les voyages pittoresques, se prête bien à ce style.
+
+Une minorité de voyageurs, néanmoins, dans les années 1820, continuent à partir au loin explorer des terres inconnues.
+Si l’on retrouve dans les récits quelques échos du xviiie siècle, la forme et le contenu ont subi des changements importants.
+Le champ des connaissances explorées s’élargit ; il ne s’agit plus d’étudier les ruines classiques, mais les civilisations primitives.
+Le pittoresque réside encore dans l’observation de l’inconnu ; les sentiments qu’il inspire tiennent certes toujours de l’admiration et de la fascination, mais entraînent l’artiste dans une quête de la différence ; le voyage pittoresque devient un effort de définition de soi face à ce qui est radicalement autre, il n’est plus seulement un voyage d’instruction, une quête de connaissances nouvelles, mais un voyage vers soi.
+
+
+== Quatrième partie Le voyage pittoresque comme quête de soi-même (1835-1855) ==
+
+
+=== Chapitre premier le lent déclin du genre ===
+
+Les années 1830 sont marquées par un regain de l’attrait pour les destinations lointaines, comme échappatoires à l’atmosphère confinée des sociétés européennes.
+Mais l’industrialisation de la production de voyages pittoresques illustrés et la naissance de l’archéologie étouffent le rêve.
+Progressivement, se développent de véritables structures et stratégies éditoriales, comme celles de la maison Ostervald.
+Ce phénomène s’accompagne d’une dépréciation du mot « pittoresque » dans les esprits.
+Le déclin du genre est amorcé, les publications sont moins amples, moins soignées et moins nombreuses.
+
+
+=== Chapitre II L’irrésistible attrait de l’Orient ===
+
+A l’image des artistes de leur temps, les voyageurs pittoresques subissent le charme irrésistible de l’Orient, et ils en donnent une vision relativement originale qui n’est ni celle de orientalistes proprement dits, ni celle des scientifiques, mais une synthèse des deux.
+Le plus bel exemple en est l’ouvrage que le baron Taylor publie en 1839 sous le titre La Syrie, l’Égypte, la Palestine et la Judée considérées sous leurs aspects historiques, archéologiques et descriptifs.
+
+Lieu par excellence du rêve, de l’expérience de soi, de la découverte des fondements anthropologiques et archéologiques de la civilisation, l’Orient devient aussi le lieu d’une expérimentation de l’image et de son pouvoir. 
+
+
+=== Chapitre III La photographie et les voyages pittoresques ===
+
+Le genre pittoresque disparaît définitivement au milieu des années 1850, et le procédé photographique, l’un des facteurs de sa disparition, y aura été peu utilisé.
+L’adoption très rapide du nouveau médium par les architectes, les archéologues et les voyageurs montre qu’il répond parfaitement aux attentes du moment, et témoigne de l’évolution du rôle et de la place de l’illustration dans les voyages pittoresques.
+Il s’est opéré un déplacement du support de l’information, du texte vers l’image : celle-ci devient le vecteur essentiel de la connaissance, celui-là n’ayant guère plus qu’une fonction de distraction.
+Dans ce contexte, on comprend que la photographie, grâce au degré de précision qu’elle atteint, ait supplanté la gravure.
+La mode n’est plus au rêve mais à l’observation objective et scientifique du monde, elle n’est plus aux voyages pittoresques mais aux missions d’exploration scientifique.
+
+
+== Conclusion ==
+
+Les récits illustrés de voyages pittoresques constituent véritablement une mode européenne entre 1770 et 1855.
+Le genre participe à la fois du romantisme, de l’archéologie, de la science historique et des sciences de l’homme naissantes.
+Il illustre également l’évolution des genres picturaux et la lente abolition du système esthétique mis en place avant la Révolution.
+Il transcrit avec précision toutes les étapes de la mise en place de la civilisation de l’image.
+Il aura sur les méthodes littéraires de description une influence durable.
+
+
+== Pièces justificatives ==
+
+Lettres du Baron Taylor. – Carnets de voyage d’Adrien Dauzats. – Extraits de publications.
+
+
+== Annexes ==
+
+Tableau des guides pittoresques publiés au xixe siècle. – Index des artistes employés aux Voyages pittoresques et romantiques dans l’ancienne France du baron Taylor. – Cartes. – Photographies. – Index des noms propres.

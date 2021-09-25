@@ -1,0 +1,129 @@
+identifier: ENCPOS_1937_15
+creator: Suzanne Quioc
+date: 1937
+title: La Chanson de Jérusalem. Étude historique et critique
+
+
+
+== Première partie ==
+
+
+=== Bibliographie ===
+
+
+
+
+=== Introduction classement général des versions du cycle de la croisade ===
+
+
+
+
+=== Chapitre premier principaux travaux dont le cycle de la croisade et plus particulièrement la « conquête de Jérusalem » ont été l’objet. ===
+
+1° Études philologiques.
+
+2° Études critiques : exposé des théories récentes qui attribuent au cycle de la Croisade une origine orientale. 
+
+
+=== Chapitre II Divers états dans lesquels la « conquête de jerusalem » nous est actuellement connue. ===
+
+La Conquête de Jérusalem nous est parvenue sous quatre formes : 1° une version en vers alexandrins du xiiie siècle contenue dans neuf manuscrits. – 2° Une traduction en prose, comprenant l’ensemble du cycle, contenue dans le manuscrit Bibl. nat., fr. 786. – – 3° Une traduction relativement fidèle, combinée avec d’autres éléments, dans la Gran Conquista de Ultramar, compilation espagnole s’arrêtant à l’an 1271. – 4° Un remaniement en vers français, faisant partie d’un long poème du xive siècle, intitulé le Chevalier au Cygne et Godefroid de Bouillon.
+
+
+==== I. Étude comparée des neuf manuscrits. ====
+
+Ils se répartissent en trois groupes :
+
+Le premier est constitué par les manuscrits : a) Bibl. nat., fr. 12558, notre manuscrit de base, qui paraît conserver la version la plus ancienne ; h) le manuscrit fr. 795, dont la version est identique, mais moins correcte ; c) le manuscrit fr. 1621, publié par Hippeau, auquel il manque plusieurs passages importants contenus dans tous les autres.
+
+Le second groupe comprend les manuscrits Bibl. nat., fr. 786, et Berne 320, qui nous fournissent une version intermédiaire entre celle du premier et celle du troisième groupe.
+
+Le troisième groupe est constitué par le remaniement de la fin du xiiie siècle, conservé dans les manuscrits Bibl. nat., fr. 12569, et 3139 de l’Arsenal. 
+
+
+==== II. La traduction en prose du xiiie siècle. ====
+
+Elle n’a pu être faite, comme le dit Mme Verlet, sur le manuscrit Bibl. nat., fr. 795 ; elle ne correspond exactement à aucun des manuscrits que nous possédions.
+
+III et IV. L’étude des deux autres formes sous lesquelles est connue la Conquête de Jérusalem fera l’objet de nos chapitres VI et XI.
+
+
+=== Chapitre III L’élément historique dans la « conquête de Jérusalem ». ===
+
+Cet élément est plus important qu’on ne l’a admis jusqu’à présent.
+L’auteur du poème est d’accord avec les historiens sur des points très précis.
+Deux passages de caractère historique n’ont pas été remarqués jusqu’ici parce qu’ils manquent au manuscrit 1621, édité par Hippeau.
+
+La Conquête de Jérusalem ne concorde avec aucune chronique particulière ; si l’auteur en a consulté une, il l’a rendue méconnaissable pour des fins poétiques.
+
+
+=== Chapitre IV La topographie dans la « conquête de Jérusalem ». ===
+
+Les indications de la chanson concordent avec celles des Itinéraires.
+Il est donc probable que c’est à une source écrite, et non à l’observation personnelle, que l’auteur doit ses informations topographiques. 
+
+
+=== Chapitre V Rapports possibles de l’auteur ou du remanieur de la « conquête de jerusalem » avec la famille de Coucy. ===
+
+Thomas de Marie, sire de Coucy, joue un rôle de premier plan dans notre poème, et plusieurs barons alliés à sa famille sont cités dans la Conquête de Jérusalem et dans la Chanson d’Antioche.
+Il entre le premier à Jérusalem, exploit qui est annoncé à plusieurs reprises.
+Une tradition analogue, concernant Thomas de Marle, est rapportée dans la Chronique d’Aubry de Trois-Fontaines, qui n’a pu l’emprunter directement à notre chanson.
+
+
+=== Chapitre VI La « conquête de Jérusalem » et la « Gran Conquista de Ultramar ». ===
+
+La Gran Conquista suit de très près notre chanson jusqu’au chant VI de l’édition Hippeau ; elle traduit ensuite un texte différent et de caractère beaucoup plus historique, tout en ayant avec la Conquête de Jérusalem un grand nombre d’épisodes communs.
+
+
+=== Chapitre VII La « conquête de jerusalem » et la ((chanson d’Antioche ». ===
+
+Selon M. Hatem, l’auteur primitif de la Conquête de Jérusalem a imité d’un bout à l’autre la Chanson d’Antioche.
+En réalité, plusieurs passages caractéristiques communs aux deux chansons émanent de leur remanieur, Graindor de Douai.
+
+
+=== Chapitre VIII Autres sources littéraires de Graindor de Douai. ===
+
+Emprunts à diverses chansons de geste, telles que Roland, Ogier le Danois, Guillaume d’Orange, et au Roman d’Alexandre, soit en ce qui concerne la couleur locale, soit dans le domaine du merveilleux.
+
+
+=== Chapitre IX Conclusion des chapitres précédents. ===
+
+Graindor de Douai a connu un poème analogue à celui dont la Gran Conquista de Ultramar nous conserve la fin.
+Si les deux textes présentent des différences, c’est que Graindor a refait la fin de la Conquête de Jérusalem, c’est-à-dire la description de la bataille d’Ascalon, sur le modèle de celle d’Antioche ; il a amplifié le récit par des emprunts à des sources littéraires et par la répétition de certains épisodes.
+Un des objets de ces modifications était de rattacher plus étroitement la branche des Chétifs à celles d’Antioche et de Jérusalem.
+Notre poème est donc en grande partie l’œuvre de Graindor, surtout pour le début et pour la fin.
+La thèse qui attribue à la Conquête de Jérusalem une origine syrienne ne paraît pas suffisamment fondée. 
+
+
+=== Chapitre X La « conquête de jerusalem » et le poème de croisade imité de baudri de bourgueil. ===
+
+L’auteur de ce poème a connu, non une Chanson d’Antioche primitive, comme on l’a dit, mais les remaniements des chansons d’Antioche et de Jérusalem par Graindor.
+La date de ce poème, fixée approximativement par Paul Meyer, nous fournit un terminus ad quem pour le remaniement de Graindor qu’il a utilisé.
+
+
+=== Chapitre XI La « conquête de jerusalem » et le poème de 1356, ou le « chevalier au Cygne et Godefroid de Bouillon ». ===
+
+Les transformations profondes subies par notre texte dans ce remaniement sont dues à l’utilisation du Livre d’Eracles, autant qu’à l’influence des romans de la Table ronde.
+
+
+=== Appendice la « chanson des Chétifs ». ===
+
+La Chanson des Chétifs se prolonge dans la Conquête de Jérusalem ; la question de son origine nous intéresse de très près.
+
+Discussion de la théorie de M. Goossens, suivant laquelle l’œuvre célébrerait la conquête de la principauté d’Édesse par Baudouin, frère de Godefroi de Bouillon, et emprunterait ses éléments merveilleux à des thèmes locaux utilisés par l’épopée arabo-byzantine.
+Aucune influence de ce genre ne se retrouve dans la Conquête de Jérusalem.
+
+
+== Deuxième partie ==
+
+
+
+
+== Édition de 1,930 vers ==
+
+
+
+
+== Index des noms propres ==
+
+

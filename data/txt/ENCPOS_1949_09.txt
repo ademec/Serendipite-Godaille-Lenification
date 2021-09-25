@@ -1,0 +1,137 @@
+identifier: ENCPOS_1949_09
+creator: Gaston Duchet-Suchaux
+date: 1949
+title: Le Carolinus de Gilles de Paris. Étude et édition
+
+
+
+== Première partie Étude ==
+
+
+=== Chapitre premier les manuscrits et les éditions du « Carolinus ». ===
+
+Le Carolinus nous a été transmis par deux manuscrits : l’un se trouve à la Bibliothèque nationale, lat. 6191 (P) ; l’autre est au British Museum, Add. 22399 (L).
+P est le manuscrit qui a été offert, le 3 septembre 1200, par Gilles de Paris au futur Louis VIII. Il ne contenait alors que les cinq livres du Carolinus.
+La Captatio benivolentie et les annexes historiques ont été ajoutées après 1216 par l’auteur.
+L est une copie de P faite au xiiie siècle.
+Seul le livre V a été édité par dom Brial.
+
+
+=== Chapitre II La vie et les œuvres de Gilles de Paris. ===
+
+Chanoine de Saint-Marcel, Gilles de Paris est né à Paris en 1162, y a fait ses études, eut pour condisciple Guillaume Le Breton, dont il resta l’ami.
+Gilles fit deux séjours à Rome sous le pontificat de Clément III (1187-1191).
+Nous l’y trouvons encore en 1196, sous le pontificat de Célestin III, auprès duquel il était venu défendre les intérêts du doyen du chapitre de Saint-Marcel.
+
+Œuvres. – Éditeur de l’Aurora de Pierre Riga, Gilles de Paris apporta mainte retouche à ce poème.
+Il a écrit, en outre, un Traité en vers sur les peines d’Enfer, édité par Pol Leyser.
+De plus, il déclare avoir écrit dans sa jeunesse des pièces légères.
+Rien ne nous en est parvenu.
+Le Carolinus a été composé entre le printemps 1196 et le mois d’avril 1200.
+
+
+=== Chapitre III Analyse du « Carolinus », ===
+
+ 
+
+
+=== Chapitre IV Quelques jugements poetés sur le « Carolinus ». ===
+
+L’article d’A. Duval, au t.
+XVII de l’Histoire littéraire de la France, est la première étude de quelque ampleur consacrée à Gilles de Paris.
+A. Duval voit dans ce dernier un très mauvais poète et un partisan fanatique de la Cour de Rome.
+P. Lehmann a récemment suggéré tout l’intérêt du Carolinus.
+
+
+=== Chapitre V Gilles de Paris historien. ===
+
+Gilles proclame à mainte reprise son souci d’exactitude.
+Comme tous les historiens du Moyen Age, il rejette les traditions orales, ajoute foi aux seuls récits des chroniques.
+Ses velléités critiques sont malheureuses.
+
+Le Carolinus a pour source principale la Vita Karoli d’Éginhard.
+Mais Gilles de Paris ne reproduit pas passivement les données de ce texte ; il a un plan original, et qui procède d’intentions arrêtées.
+Il met en lumière certains faits pour en reléguer d’autres dans l’ombre.
+
+Ce qu’il ne doit pas à Éginhard, il l’emprunte au fonds de connaissances historiques commun à tous les chroniqueurs de son temps.
+Il a utilisé la chronique de Réginon de Prüm, l’œuvre de Thégan, admet, en outre, quelques données légendaires.
+
+
+=== Chapitre VI Gilles de Paris et la politique pontificale. ===
+
+Gilles de Paris attribue une grande place dans son récit au couronnement de Pépin le Bref et aux deux couronnements de Charlemagne.
+Or, ces événements faisaient depuis cent ans l’objet d’âpres discussions entre les partisans du sacerdoce et ceux de l’Empire.
+C’est Innocent III qui donna sa forme définitive à la théorie pontificale de la translation du pouvoir impérial.
+Gilles ne défend pas ces thèses, mais conçoit les rapports entre les deux pouvoirs comme un échange de services rendus d’égal à égal et fructueux pour les deux parties.
+Si l’un des deux doit avoir la prééminence, ce serait bien plutôt Charlemagne que le pape.
+
+
+=== Chapitre VII Gilles de Paris apologiste de la monarchie française. ===
+
+Gilles de Paris ne laisse pas d’être sévère envers Philippe-Auguste lorsqu’il s’agit de la répudiation d’Ingeburge, mais souvent se manifeste son admiration pour l’œuvre de ce roi.
+L’ouvrage entier, lorsqu’on y regarde de près, apparaît comme une apologie, non seulement de la famille carolingienne, mais bien de la monarchie française tout entière.
+A cet égard, le Carolinus vient se ranger parmi les productions littéraires où se manifeste la volonté des Capétiens de passer pour les héritiers légitimes des Carolingiens.
+Comme dans la littérature contemporaine, on sent s’affirmer dans le Carolinus un jeune orgueil national.
+
+
+=== Chapitre VIII Charlemagne vu par Gilles de Paris. ===
+
+Le Charlemagne de la littérature latine eut ses traits dessinés par l’imagination de moines.
+Aussi vint-on à en faire un saint, et la Descriptio est destinée à justifier la béatification de l’empereur.
+
+Le Charlemagne de Gilles de Paris procède de la Descriptio par plus d’un trait ; il est proche aussi de la figure donnée à l’empereur franc par le Pseudo-Turpin.
+
+Mais le récit de Gilles de Paris, habilement mené, fait apparaître sans ■ effort les traits d’un noble caractère.
+C’est un Charlemagne, pieux sans doute, mais surtout puissant et sereinement majestueux, qui nous est présenté.
+
+
+=== Chapitre IX Étude littéraire du « capolinus ». ===
+
+La morphologie et la syntaxe de Gilles de Paris n’offrent que peu d’originalité.
+L’étude de la syntaxe des modes présente quelque intérêt ; il faut retenir l’extrême liberté avec laquelle Gilles use de l’infinitif.
+
+La composition de l’œuvre est mieux équilibrée que celle de la plupart des œuvres contemporaines.
+
+Le style est bien artificiel, abuse des procédés recommandés par les traités techniques de l’époque pour « amplifier » le discours.
+Pourtant on perçoit bien des accents sincères, et telle description n’est pas sans force suggestive.
+
+La versification est régulière.
+Le rythme du vers épouse heureusement le mouvement de la phrase.
+
+
+=== Conclusion ===
+
+Le Carolinus est une œuvre qui assure à son auteur une place honorable parmi les poètes du xiie siècle.
+
+
+== Deuxième partie Édition ==
+
+
+=== I. Texte. ===
+
+
+
+
+=== II. Notes explicatives, ===
+
+ 
+
+
+=== III. Index des noms propres. ===
+
+
+
+
+=== IV. Glossaire. ===
+
+
+
+
+== Liste des ouvrages consultés ==
+
+
+
+
+== Table des matières ==
+
+

@@ -1,0 +1,146 @@
+identifier: ENCPOS_1898_10
+creator: Léon Levillain
+date: 1898
+title: Examen critique des chartes mérovingiennes et carolingiennes de l’abbaye de Corbie (viie-xe siècles)
+
+
+
+== Introduction. ==
+
+Un examen d’ensemble des sources diplomatiques de l’abbaye Saint-Pierre de Corbie n’a jamais été fait ; les chroniques d’Antoine de Caulaincourt, de dom Benoît Coquelin, de Bonnefons, de dom Grenier sont sans critique.
+Même après Mabillon et don Antonio Yepes, l’histoire de cette abbaye reste à écrire.
+Notre but est de préparer les matériaux de cette histoire.
+
+
+== Chapitre premier. Les archives de Corbie avant la Révolution. ==
+
+Les archives de Corbie ont de très bonne heure perdu la plus grande partie des documents originaux mérovingiens et carolingiens.
+Les originaux qui existaient avant 1789 existent encore aujourd’hui. 
+
+Au treizième siècle seulement, les moines commencent à prendre soin de leurs archives.
+En 1295, Jean de Candas répartit les pièces dans vingt-sept fonds et la table de son cartulaire peut être considérée comme le premier inventaire méthodique du buffet (Cartulaire Noir).
+En 1421, A. Hochecorne procède à un nouveau classement. 11 crée dix fonds qui correspondent aux traités de son inventaire ; chaque fonds comporte des subdivisions qui correspondent aux chapitres dudit inventaire.
+Le répertoire de Hochecorne est en même temps qu’un catalogue un règlement des archives.
+Au dix-septième siècle, le nombre des fonds est réduit à trois.
+Ce dernier classement, d’abord légèrement modifié, fut abandonné en 1778.
+A cette date, Lemoine remania les fonds, et de 1778 à 1781 rédigea l’inventaire qui est encore en usage aux archives de la Somme : les pièces étaient classées dans des liasses, et les liasses, groupées méthodiquement, étaient enfermées dans six armoires.
+
+Nous pouvons restituer presque entièrement la série des documents mérovingiens et carolingiens, grâce surtout aux cartulaires anciens de l’abbaye.
+Quelques-uns des dix ma nuscrits qu’on désigne du nom de cartulaires sont des recueils factices ; ils contiennent des fragments de cartulaires démembrés.
+Ces recueils factices ont été formés au dix huitième siècle.
+Nous avons dressé une liste de dix-sept cartulaires, sans laquelle il est impossible de déterminer les familles des copies anciennes qui nous ont transmis diplômes, chartes et bulles.
+
+Catalogue des cartulaires.
+
+
+== Chapitre II. Les diplômes mérovingiens. ==
+
+I. Le diplôme de fondation. – Les dates de temps et de lieu font défaut.
+Récemment, M.B. Krusch l’a déclaré faux ; les raisons qu’il donne ne sont pas bonnes.
+Une dernière irrégularité (monasterio vestro) disparaît sans diffi culté.
+La critique externe permet de conclure que le document conservé dans les archives était une copie et non l’original, probablement une copie figurée faite au dixième siècle.
+
+Le texte est authentique : 1° la teneur du diplôme concorde avec les autres sources narratives et diplomatiques ; 2° il n’y a pas trace d’interpolations.
+La critique interne du document démontre que la copie fut faite sur l’original mutilé, ce qui explique le rajeunissement de quelques formules.
+
+Le diplôme de fondation doit être replacé en tète des acta sincera de l’abbaye de Corbie.
+Il est une donation et une immunité, concédées par Clotaire III entre les 10 octobre-16 novembre 657 et le 23 décembre 661.
+
+II. Exemption des tonlieux de Clotaire III. – Une tractoria fut accordée à l’abbaye de Corbie par le roi Clotaire III, le 23 décembre 661.
+La date de lieu est Eterpigny et non Etrépagny.
+L’authenticité du diplôme, contestée par M.B. Krusch, ne peut être mise en doute.
+La copie du cartulaire qui nous a transmis ce texte fut prise sur l’original qui disparut au dixième siècle.
+
+III. Diplôme de Thierry III. – Ce diplôme, qui confirme l’élection de l’abbé Erembert, a, comme les précédents, été déclaré faux sans raison suffisante par M.B. Krusch.
+Rien ne peut être relevé contre son authenticité ; la vraisemblance plaide même en sa faveur. 11 se place entre 673 et 690.
+Il sert à rectifier les dates de l’élection de Ghrodegarius et d’Erembert.
+
+IV. Diplôme de Chilpéric II. – Confirmation d’une concession de revenus à prélever sur le tonlieu de Fos et d’une tractoria restreinte accordées par Clotaire III et déjà confirmées par Childéric II (29 avril 716, Compiègne).
+Son authenticité est certaine.
+M. Imbart de la Tour s’est trompé sur sa signification et sur sa portée.
+
+V. Diplômes mérovingiens perdus. – Leur nombre s’élève à huit ; l’objet de chacun d’eux nous est connu.
+
+VI. Catalogue des diplômes mérovingiens. 
+
+
+== Chapitre III. Les diplômes carolingiens. ==
+
+I. Confirmations de l’immunité par Pépin le Bref et par Charlemagne. – Ces deux diplômes sont authentiques.
+Celui de Charlemagne est daté d’Orville, 16 mars 769. – La formule N. viris illustribus. – Ces deux actes ont des caractères mérovingiens qui font croire qu’ils ont été copiés sur le dernier des diplômes mérovingiens cités par eux.
+
+II. Jugement de Charlemagne. – Ce jugement, rendu à Schlestadt entre les 30 mai-2 juin 774 et décembre 775, condamne deux avoués de Corbie à restituer des biens à Saint-Michel d’Honow.
+Ce texte concerne-t-il Corbie ?
+
+III. Diplôme de l’empereur Charlemagne. – Ce diplôme, extrait d’un formulaire en notes tironiennes du neuvième siècle, a été attribué à tort aux empereurs Louis le Pieux et Lothaire.
+Il se place entre 800 (25 déc.) et 814 (28 janv.).
+Charles consent à un échange de terres entre le fisc royal et l’abbaye.
+
+IV. Confirmation de l’immunité par Louis le Pieux (29 janv. 815). – La date donne lieu à une discussion sur le point de départ des années du règne.
+Le diplôme a été sollicité par Adalhard le Jeune et non par Adalhard le Vieux.
+
+V. Diplôme de Louis le Pieux et Lothaire et diplôme de Louis, roi de France. – Le diplôme de Louis le Pieux et Lothaire, d’août 825, confirme l’immunité et donne aux moines la licentia eligendi.
+Il est un acte interpolé du dixième siècle, en rapport avec le diplôme de Louis.
+Celui-ci exempte l’église d’Huyse de la juridiction épiscopale de Tournai-Noyon.
+Déclaré faux par Le Ver, proclamé authentique par Fortia d’Urban et attribué par lui à Louis le Bègue, c’est un faux du dixième siècle qui porte la date du 19 mars 877, Compiègne.
+
+VI. Les diplômes de Charles le Chauve et un diplôme de Charles le Simple. – En 810, Charles le Chauve con firme les immunités de Corbie ; cette confirmation est perdue. – A une date indéterminée entre le 14 décembre 842 et le commencement de février 843, à Amiens, le roi concède à Corbie le pont de Daours et le vectigal que le fisc y percevait.
+Cette donation est inédite. – Entre le 8 septembre 843 et le mois d’août 844, à Compiègne, Charles le Chauve donne à l’abbaye le domaine de Wailly.
+Ce diplôme, qui nous fait connaître une donation de la reine Gerberge, femme de Carloman, permet de placer l’élection de Paschase Radbert comme abbé de Corbie entre ces deux dates.
+Il est perdu. – Le 3 octobre 856, à Verberie, Charles le Chauve confirme la donation de terres sises à Roye et à Feuquières faite par la reine Hirmentrude.
+La copie de Bonnefons qui nous met en possession d’un texte inédit est déplorable ; l’analyse de dom Grenier est inexacte. – Le 18 septembre 857, à Kiersy-sur-Oise, Charles le Chauve donne au monastère le manse Waheliregius situé dans le domaine de Wailly.
+
+Tous ces diplômes sont authentiques.
+
+Le 29 mars 877, l’empereur Charles le Chauve confirme les diplômes royaux, privilèges épiscopaux et bulles pontificales de l’abbaye et étend à tout évêque, ancien abbé ou moine de Corbie, l’interdiction faite à l’évêque diocésain de s’immiscer dans les affaires du monastère.
+Ce diplôme est un faux du dixième siècle forgé à l’aide du diplôme authentique de Charles le Simple (9 nov. 901, Fresnois) qui confirme les diplômes, chartes épiscopales et bulles pontificales de l’abbaye et étend l’immunité au Castellum.
+
+VII. Catalogue des diplômes carolingiens.
+
+
+== Chapitre IV. Les privilèges ecclésiastiques. ==
+
+Ils sont au nombre de six. – Le privilège d’exemption donné à Captonnaco, le 6 septembre 664, par l’évêque d’Amiens, Berthefridus, a été l’objet de longues discussions.
+Launoy l’a condamné ; G. de Sainte-Beuve a défendu son authenticité ; Lecointe le croit interpolé ; M.B. Krusch s’est rallié à l’opinion de Launoy.
+
+Il a existé une charte primitive qui comportait l’immunité laïque, une immunité ecclésiastique restreinte, et la liberté de l’élection abbatiale soumise à l’autorisation du roi et de l’évêque. – L’acte du concile de Paris (846) confirme les privilèges ecclésiastiques de Corbie et n’ajoute rien à cette charte primitive. – Le 7 octobre 855, Benoît III, par une bulle qui nous est parvenue en orignal, étendit l’immunité ecclésiastique à tous les évêques dont les diocèses renfermaient des terres de l’abbaye, exemptait ladite abbaye du droit de gîte et proclamait la liberté absolue de l’élection abbatiale. – Le 28 avril 863, par bulle authentique, Nicolas 1er confirme les privilèges ecclésiastiques antérieurs, exonère l’abbaye des frais d’ordination, de consécration des autels et d’acquisition du saint chrême, et il institue pour l’abbaye l’appel en cour de Rome.
+En 901, Charles le Simple avait confirmé les chartes ecclésiastiques ; en 903, le 26 décembre, Christophe donne une confirmation des mêmes chartes et étend l’immunité à la ville récemment entourée de murailles. – La charte de Berthefridus conservée dans les archives n’était pas l’original, mais un texte récrit du dixième siècle qui résume tous les autres documents ecclésiastiques et y ajoute le droit de juridiction exclusive pour l’abbé.
+Elle a été refaite à l’aide de la charte primitive, d’une formule de Marculf, de la bulle originale de Benoît III et de la bulle authentique de Nicolas Ier.
+Elle est en rapport avec une lettre de Vitalien (6 sept. 664, Captonnaco), essai informe d’un faux avéré, avec le diplôme remanié de Louis le Pieux et de Lothaire, et les diplômes faux de Louis, roi de France, et de l’empereur Charles le Chauve.
+
+
+== Chapitre V. Les chartes privées. ==
+
+Il a existé de nombreuses donations privées des époques mérovingienne et carolingienne.
+Peu nous sont connues.
+L’abbé Mordramne a donné Tennes ; Adalhard, son patrimoine ; une certaine Benedicta, Ribemont ; une autre femme, Inda, Bettoncourt et Avesnes ; le sacristain Jean, un manse qu’il possédait à Avesnes.
+Le duc Richard Ier de Normandie restitue à l’abbaye Dampierre qu’elle avait reçu d’on ne sait qui.
+Le comte d’Amiens, Ermenfroi, fait don de Méricourt-l’abbé ; cette donation est renouvelée par le comte Vautier Ier, sa femme et ses enfants (986).
+En 985, ce comte avait reconnu le bon droit de Corbie dans la rivalité de l’abbaye avec les vicomtes Rorico et Sasgualo.
+
+Il a dû exister aussi des chartes d’administration intérieure qui, par leur nature même, étaient appelées à disparaître.
+Une d’elles nous a été conservée, celle du camérier Jean, instituant l’anniversaire de l’abbé défunt Ratold (986).
+
+Catalogue des actes privés.
+
+
+== Conclusions. ==
+
+Les sources diplomatiques nous présentent trois phénomènes d’ordre différent : l’accroissement du temporel, le développement de l’immunité laïque et l’extension de l’immunité ecclésiastique, qui, tous trois, concourent à un même but.
+L’abbaye de Corbie, fondée entre 657 et 661 par la reine Balthilde, et fille de Luxeuil, devient à la fin du dixième siècle une seigneurie ecclésiastique indépendante en possession des droits régaliens de justice et de monnaie.
+
+
+== Pièces justificatives. ==
+
+Diplômes, chartes, bulles pontificales, actes privés, rangés par ordre chronologique.
+
+
+== Appendices. ==
+
+I. Le classement des archives de 1421.
+
+II. LES ANCIENS CATALOGUES D’ABBÉS DE CORBIE : étude et texte.
+
+III. De l’équivalence de roborare et d’affirmare dans l’annonce des signes de validation.
+
+IV. Les types des formules initiales du dispositif.

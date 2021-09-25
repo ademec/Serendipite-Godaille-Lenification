@@ -1,0 +1,216 @@
+identifier: ENCPOS_1970_17
+creator: Jean-François Le Nail
+date: 1970
+title: Vocabulaire toponymique de Campan
+
+
+
+== Introduction ==
+
+Présentation de Campan. – Campan est un chef-lieu de canton de l’arrondissement de Bagnères-de-Bigorre, dans le département des Hautes-Pyrénées.
+Les noms de lieu qui font l’objet de cette étude ont été recueillis dans un territoire composé de la commune de Campan et de certaines de ses propriétés situées dans les limites de communes voisines, couvrant une superficie approximative de 120 km2.
+
+Cette aire géographique correspond à peu près au bassin du Haut-Adour : le fleuve est constitué par deux affluents principaux coulant dans des vallées étroites et se rejoignant à Sainte-Marie-de-Campan pour former la vallée de Campan proprement dite.
+Les altitudes varient de 2 700 m environ à 660 m.
+
+La géographie a déterminé l’activité agricole des montagnards qui se sont de tout temps consacrés à l’élevage.
+La population, après avoir augmenté régulièrement jusqu’au milieu du xixe siècle, n’a cessé de décroître depuis cette époque.
+L’habitat groupé, le village-rue, l’habitat dispersé sont concurremment représentés.
+
+La découverte de rares objets datant de l’énéolithique et de l’âge du bronze permet de penser que la vallée fut habitée ou parcourue avant l’ère historique.
+Campan apparaît pour la première fois dans la mention que fait Pline du peuple des Campani.
+Une pierre milliaire (iiie-ive siècle) marque l’occupation romaine, qui a laissé des vestiges plus importants à Bagnères-de-Bigorre, dont les eaux thermales étaient déjà célèbres.
+Au début du ve siècle, les Campani sont rattachés à la cité des Bigerriones, qui formera l’évêché de Tarbes et le comté de Bigorre.
+La pénurie de documents anciens nous laisse dans l’ignorance de ce que fut Campan entre le ve et le xiie siècle.
+En 1136, la donation de Cabadur à l’abbé de Morimond nous apprend que le comte de Bigorre disposait à cette date de ces montagnes et laisse supposer qu’il était déjà seigneur direct de Campan. 
+
+L’histoire connue de la vallée, protégée par ses montagnes des guerres qui ravagent la plaine, n’est qu’une longue suite de luttes pour la possession des territoires pastoraux, contre les seigneurs et les communautés civiles et religieuses qui possèdent ces terres ou prétendent avoir des droits sur elles : vicomte d’Asté, seigneur d’Aspin, abbaye de Lescaladieu, commanderie de Bordères, communautés d’Asté et Gerde, de Beaudéan, de Bagnères, d’Aspin, des Quatre-Veziaux de la vallée d’Aure, de Cieutat en Nébouzan, de Tarbes.
+Méthodiquement, Campan étendra ses droits et ses possessions jusqu’à nos jours.
+
+Le dialecte. – On parle à Campan un sous-dialecte du gascon, intermédiaire entre celui de la montagne et celui de la plaine de Bigorre.
+L’influence du sous-dialecte de la vallée d’Aure s’y fait également sentir.
+
+L’étude des noms de lieu permet de signaler un certain nombre de phénomènes d’ordre phonétique, d’autant plus fréquents que le sens des toponymes n’est plus perçu, et d’ordre morphologique (suffixation, emploi de l’article, des adjectifs).
+
+La toponymie. – On assiste en ce moment, semble-t-il, au début d’une décadence de la toponymie orale.
+La connaissance des noms de lieu de la montagne n’est plus que l’apanage de gens surtout âgés.
+Les habitants de plus de trente ans savent encore bien les noms de leurs quartiers, mais les générations nées après 1945 les ignorent le plus souvent.
+
+
+== Sources ==
+
+La base du relevé toponymique a été fournie par le cadastre de Campan (1825) et celui de Bagnères (1813).
+
+Les sources diplomatiques sont en général peu anciennes, de nature diverse et dispersées dans de nombreux dépôts : Archives nationales (JJ. 12) ; Archives départementales des Basses-Pyrénées (séries B ; E, qui renferme le censier de Bigorre de 1429), des Hautes-Pyrénées (séries C ; H, abbaye de Lescaladieu ; E, communes), de la Haute-Garonne (séries B, Réformation ; H. Malte, commanderie de Bordères) ; Archives communales de Campan (important terrier des environs de 1650), de Bagnères, d’Asté et de Cieutat.
+
+Des sources cartographiques, surtout la carte au 1/25 000e de l’I.G.N., ont été utilisées.
+
+Des habitants de Campan, systématiquement interrogés, ont donné l’état actuel des toponymes recueillis lors du dépouillement de ces sources. 
+
+
+== Première partie La nature ==
+
+
+=== Chapitre premier pierres et rochers ===
+
+Pierres, rochers et falaises donnent naissance à beaucoup de noms à base de péne, carrot, malh, bec, garragnète.
+Dans les territoires montagneux, les zones d’éboulis sont appelées arralhère, grousade, esgratalh ou sont désignées à l’aide de métaphores, bachérè « vaisselier », grimbalhàres « lieux couverts de miettes ».
+
+
+=== Chapitre II Sommets et hauteurs ===
+
+La désignation des hauts sommets intéresse peu le montagnard, qui ne leur applique qu’un petit nombre de termes spécifiques et quelques métaphores, espade « épée », campana « clocher », mède « meule de foin », à la différence des collines et des mamelons de la basse montagne et des vallées, pour lesquels son registre toponymique est beaucoup plus vaste.
+
+
+=== Chapitre III Les pentes ===
+
+Costes et ses dérivés, pouyade, abarade, espoune s’appliquent aux pentes couvertes de prairies.
+En montagne, on distingue généralement les pentes douces et herbeuses (taule, lis, pan) des versants raides et rocheux (arrabèys, escrahères).
+
+
+=== Chapitre IV Plaines et replats ===
+
+Lane et basse désignent les seules vraies plaines de Campan, les petites plaines alluviales des bords de l’Adour.
+Pla et ses dérivés, cinte, hèche sont des noms donnés à des replats situés en montagne ou sur les versants de la vallée.
+La pauvreté de ce vocabulaire est fonction du relief. 
+
+
+=== Chapitre V Les dépressions ===
+
+Le lexique oronymique distingue plusieurs sortes de dépressions : coume, bat s’appliquent à un vallon ; clot, tou, hosse, les dérivés du latin fundus, la métaphore crampète « chambrette », à des cuvettes ; nombreux sont les mots gascons exprimant la notion de ravin ; par contre, il y a peu de variété dans la terminologie des grottes et des gouffres.
+
+
+=== Chapitre VI Orientation et exposition ===
+
+Campan fait partie de l’aire des Pyrénées gasconnes où est en usage un système original d’orientation, se référant à la fois à la course du soleil et à la disposition de la vallée.
+Pour exprimer la différence d’altitude le montagnard a recours aux images de la tête (cap) et du pied (pè).
+L’exposition à l’ombre tient plus de place dans la toponymie que l’exposition au soleil.
+
+
+=== Chapitre VII Les phénomènes naturels ===
+
+Les phénomènes météorologiques (neige, vent) ont laissé peu de traces dans la toponymie de Campan, à la différence des éboulements (terralhs) et surtout des avalanches (lit et ses dérivés) dont ils sont cause.
+
+
+=== Chapitre VIII Les couleurs ===
+
+Le noir, le blanc et le rouge sont les couleurs les plus fréquentes du vocabulaire oronymique général.
+Campan ne fait pas exception à la règle, mais il faut ajouter à cette liste le vert, couleur très rare en toponymie et d’introduction sans doute récente. 
+
+
+=== Chapitre IX La nature du sol ===
+
+La nature caillouteuse des terres alluviales et des dépôts morainiques est révélée par les termes aréalh, péyras, péyrè.
+Tuc et tup désignent des dépôts de tuf ; le participe passé herrat, l’adjectif péyrous, le toponyme Grésioles se réfèrent à des étendues de terrain couvertes de pierres.
+Aygassère, grabe, lagùe et lagos, mouras et palus signalent l’existence de marécages et de sols humides.
+
+
+=== Chapitre X Les eaux ===
+
+Le registre hydronymique est étendu.
+A côté de gaube, d’origine obscure, adour, aygue, sourde, arriu, goutilh s’appliquent aux eaux courantes.
+Les dérivés de pich participent à la fois de la signification de « cascade » et de celle de « filet d’eau ».
+Ilhe et arribe, terres en bordure de l’Adour, sont inséparables de la notion d’eau courante.
+Eoo et estanc, archaïques, ont été partout remplacés par le français lac.
+Gourgue est encore bien vivant.
+
+
+=== Chapitre XI Bois et végétation ===
+
+Les termes généraux désignant les bois (hourc, séube) ou les taillis (barèlhe) ont disparu au profit de bos.
+Arrame et hoelhassat rappellent l’exploitation forestière.
+
+Les arbres et les arbustes, surtout sauvages, sont bien représentés, de même que les plantes sauvages, qui apparaissent dans la toponymie dans la mesure où elles sont utilisables par l’homme.
+
+
+=== Chapitre XII Les animaux ===
+
+Les animaux non domestiques semblent représentés selon des critères affectifs : le coq de bruyère et le loup viennent en tête, suivis de l’ours, du vautour, du blaireau, du chat sauvage, puis d’animaux et d’insectes divers.
+Les bêtes qui font ou ont fait l’objet de l’élevage (chèvres, ovins, juments, mules, marie « femelle stérile »), n’ont laissé leur nom qu’à certains endroits des quartiers de montagne. 
+
+
+== Deuxième partie L’homme et la nature ==
+
+
+=== Chapitre premier les voies de communication ===
+
+La nomenclature des rues du bourg et des chemins de la vallée est constituée par des dérivés des mots latins carrus et via et du mot d’origine gauloise camminus.
+Beaucoup plus riche est la liste des mots désignant les sentiers et passages tracés dans la montagne ou à travers les prés, ainsi que les cols et les brèches mettant en communication versants et vallées.
+
+
+=== Chapitre II L’exploitation du sol ===
+
+Artigue est le mot le plus ancien qui ait été appliqué aux défrichements.
+Il était encore vivant au xvie siècle.
+Nabalhet, usclat, échar sont d’origine plus récente.
+Un certain nombre de termes généraux expriment la qualité des terres exploitées (cam, casau, clos, lauranse, prat, yèr) ainsi que leur forme (agulhou, anclade, cayre, courréye).
+
+
+=== Chapitre III Bornes, limites et clôtures ===
+
+La notion de bornes et de limites (terme, peyrehite, barrague) semble avoir surtout laissé des traces dans la toponymie de la montagne ; celle de clôtures (barralhe, murret, barane, clède) est représentée dans les quartiers de prés et à la limite des communaux.
+
+
+=== Chapitre IV L’élevage ===
+
+L’élevage a donné les noms de lieu buala et bedat, qui rappellent les anciens usages et règlements pastoraux.
+Cabanes, courtàus et d’autres mots désignant les établissements construits par les bergers pour eux et leurs animaux, sont évidemment nombreux en montagne. 
+
+
+=== Chapitre V L’industrie ===
+
+Une douzaine de termes sont utilisés pour rappeler l’existence d’une industrie à usage local, alimentée par les ressources naturelles du pays, la forêt, le sous-sol (chaux, ardoise, marbre, tuf), ou mue par la force hydraulique (moulins, scieries, tanneries).
+
+
+=== Chapitre VI Les établissements humains ===
+
+L’habitat étant surtout dispersé, peu de termes désignent les agglomérations.
+Bièle et bourg s’appliquent au bourg de Campan, bésiàu à des ensembles de quelques maisons (case, oustàu).
+Les bâtiments publics ou à usage défensif ne sont pas mieux représentés.
+Par contre, un certain nombre de toponymes sont formés à l’aide des noms de constructions agricoles.
+
+
+=== Chapitre VII La religion ===
+
+Les monuments religieux sont la gleyse, les cimitéris, les crouts et, probablement, la mounyoye « montjoie ».
+Le souvenir du clergé séculier survit peu dans les noms de lieu, au contraire de celui du clergé régulier.
+Quinze noms de saints ont donné naissance à des toponymes.
+
+
+=== Chapitre VIII Traditions et légendes ===
+
+Les traditions et légendes ont laissé peu de traces.
+Les feux de la Saint-Jean sont à l’origine des lieux-dits Halhà ; la Tute de Salabran est une grotte dont la croyance populaire faisait la demeure d’une chèvre d’or ; le Cam batalhé et les Mourtes rappellent des combats légendaires. 
+
+
+== Troisième partie Les noms de personne ==
+
+
+=== Chapitre premier les noms communs de personne ===
+
+Les noms communs de personne devenus toponymes sont surtout des noms de métier et, dans une proportion moindre, des noms de dignité, de fonctions et de castes.
+
+
+=== Chapitre II Les anthroponymes ===
+
+Le relevé des noms de personne devenus noms de maisons et passés dans la toponymie révèle que cinquante-trois noms de lieu ont été formés à l’aide d’un prénom et cinq à l’aide de deux prénoms ou d’un prénom et d’un nom additif agglutinés ; environ cent quarante-cinq noms additifs sont à l’origine de lieux-dits.
+
+
+== Quatrième partie Toponymes inexpliqués ==
+
+Nous n’avons pas su expliquer une centaine de termes.
+
+
+== Index du vocabulaire toponymique ==
+
+
+
+
+== Documentation photographique ==
+
+
+
+
+== Cartes ==
+
+

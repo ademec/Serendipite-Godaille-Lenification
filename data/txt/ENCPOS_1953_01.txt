@@ -1,0 +1,143 @@
+identifier: ENCPOS_1953_01
+creator: Claude-Georgette Bernard
+date: 1953
+title: La mise en prose du roman de Blancandin et l’Orgueilleuse d’Amour
+
+
+
+== Bibliographie – Sources ==
+
+
+
+
+== Première partie Les diverses rédactions du roman ==
+
+
+=== Chapitre premier analyse du roman. ===
+
+Le jeune Blancandin, qui s’est enfui du palais paternel, embrasse par surprise, sur le conseil d’un chevalier, la belle Orgueilleuse d’Amour.
+Celle-ci, d’abord furieuse, ne tarde pas à l’aimer.
+Mais elle est assiégée dans sa cité par un roi païen, Alimodès, qui fait prisonnier Blancandin.
+Une tempête le délivre et il atterrit dans l’Inde, où sa prouesse le fait aimer du roi, qui lui donne une flotte pour secourir Orgueilleuse.
+Après diverses aventures, Blancandin vainc Alimodès et épouse Orgueilleuse d’Amour.
+
+
+=== Chapitre II Étude des manuscrits. ===
+
+Les manuscrits en vers. – Le roman est conservé dans les manuscrits français 375 et 19152 de la Bibliothèque nationale.
+Ces manuscrits présentent deux rédactions différentes.
+Celle du manuscrit 19152, qui est la plus courte, semble la meilleure.
+Un fragment du roman a été publié par P. Meyer en 1889 (Romania, XVIII) ; il appartient à une version beaucoup plus longue, sans doute remaniée.
+Le roman a été écrit en Picardie entre 1200 et 1229.
+L’auteur n’en est sans doute pas Mestre Requis.
+
+Les manuscrits en prose. – Manuscrit 3576-3577 de la Bibliothèque royale de Bruxelles et manuscrit français 24371 de la Bibliothèque natio nale.
+Ces manuscrits sont des remaniements d’un troisième, disparu, que le manuscrit de Bruxelles a abrégé et celui de Paris développé et transformé.
+
+
+== Deuxième partie La mise en prose ==
+
+
+=== Chapitre premier raisons des mises en prose. ===
+
+Une adaptation était nécessaire : la langue du xiiie siècle n’est plus comprise, les mœurs ont changé, les goûts littéraires aussi : on n’écoute plus, on lit ; le goût de l’histoire, le souci de vraisemblance et de logique, une tendance nouvelle au réalisme et au sens de l’observation sont favorables à la prose.
+La mode impose la prose.
+
+
+=== Chapitre II La mise en prose du « roman de Blancandin ». ===
+
+Par son sujet,
+    « Blancandin » flatte le goût du romanesque, resté très vif chez les lecteurs du xve siècle.
+Il met en valeur toutes les vertus chevaleresques.
+Il est même d’actualité par son esprit de croisade et le fait qu’il se passe en Frise.
+C’est un roman assez célèbre auquel il est fait allusion dans plusieurs œuvres du Moyen Age et qui a été imité par le
+    « Roman de la Violette »,
+    « Richars li Biaus » et
+    « Tristan de Nanteuil ».
+
+
+=== Chapitre III Destinataire et date de la mise en prose. ===
+
+Le manuscrit de Bruxelles a figuré dans la bibliothèque de Philippe le Bon.
+Le manuscrit de Paris Bibl. nat., fr. 24371 a été fait pour Jean de Créquy, comme le prouvent le prologue et sa ressemblance avec le manuscrit 1082 du Musée Condé à Chantilly,
+    « Octhovien ».
+Ce dernier a été achevé pour Jean de Créquy en 1454.
+Le
+    « Roman de Blanchandin », œuvre postérieure du même remanieur, a donc été écrit entre 1454 et 1474, date de la mort de Jean de Créquy.
+
+
+=== Chapitre IV Les procédés de la mise en prose. ===
+
+Les deux manuscrits représentent deux stades différents de la mise en prose.
+Le manuscrit de Bruxelles raconte l’histoire, le manuscrit de Paris l’embellit. 
+
+Procédés employés dans le manuscrit de Bruxelles. – Suppressions : style plus concis, pas de descriptions d’armes, récits de combats écourtés.
+Additions dues au souci de clarté qui conduit à diviser le récit en chapitres, au souci de vraisemblance, dans les faits et les caractères, ce qui pousse le remanieur à ajouter des nuances psychologiques, à l’adaptation des modèles aux mœurs du xve siècle.
+Quelques pages sont simplement dérimées.
+
+Procédés employés dans le manuscrit de Paris. – Additions nombreuses.
+Le style est plus diffus, avec des pléonasmes et de longues descriptions où reviennent toujours les mêmes images.
+L’auteur rappelle souvent les faits qu’il a déjà exposés.
+La psychologie des personnages est mieux étudiée et leurs sentiments racontés tout au long.
+Il ajoute des développements pieux ou précieux.
+Enfin, un épisode est entièrement nouveau et le cadre géographique du récit différent.
+
+
+== Troisième partie Intérêt de la mise en prose ==
+
+
+=== Chapitre premier progrès dans l’étude des caractères. ===
+
+La source du progrès est le souci de vraisemblance.
+Les personnages secondaires ont un caractère plus accusé ; celui de Beatrix est complètement différent.
+Le caractère de Blancandin a évolué : il est moins puéril, plus intellectuel, moins féodal, plus sensible et plus courtois.
+La psychologie d’Orgueilleuse d’Amour, comment elle devient amoureuse et comment elle manifeste son amour pour Blancandin, est aussi étudiée avec plus de finesse et de logique.
+
+
+=== Chapitre II L’art militaire. ===
+
+Le combat individuel devient un tournoi plus courtois.
+La stratégie prend de l’importance ; l’artillerie se développe et les villes ont plus de peine à résister à un siège ; l’équipement du chevalier est différent.
+La prose apporte des renseignements divers sur le ravitaillement des armées et leur mobilisation.
+
+
+=== Chapitre III Influence de l’actualité politique. ===
+
+Le changement géographique est dû à un déplacement de l’intérêt politique.
+La croisade ne se fait plus en Palestine, mais en Dacie ou en Prusse.
+Les Pays-Bas, donc la Frise, ont une importance croissante au point de vue économique et les ducs de Bourgogne portent tout leur intérêt sur ces régions.
+La lutte entre le roi de Prusse et le roi de Pologne correspond à un événement réel.
+Les institutions se sont développées.
+L’importance du conseil auprès des princes grandit.
+La hiérarchie des fonctionnaires, en province, s’est perfectionnée.
+La bourgeoisie est devenue puissante.
+
+
+=== Chapitre IV Archéologie et mœurs. ===
+
+Le souci de confort et de raffinement du point de vue matériel et social grandit.
+Les châteaux sont plus vastes et mieux éclairés ; l’urbanisme apparaît.
+Les tissus ont changé.
+La politesse est plus raffinée, le respect des convenances beaucoup plus grand.
+Ce souci des formes se manifeste, en particulier, dans la foi, devenue dévotion, et dans la préciosité.
+
+
+=== Conclusion ===
+
+Ces différences sont le reflet d’une évolution vers une vie plus confortable, plus raffinée, plus rationnelle aussi.
+Ce sont peut-être ces recherches maladroites des mises en prose du xve siècle qui ont permis la création des œuvres plus parfaites de la Renaissance et du xviie siècle.
+
+
+== Quatrième partie Édition comparée partielle du roman en vers du xiiie siècle et du roman en prose du xve ==
+
+Texte établi d’après le manuscrit français 375 de la Bibliothèque nationale, dont la version a servi de base aux remaniements en prose, et d’après le manuscrit français 24371 de la Bibliothèque nationale, qui représente le dernier stade de remaniement.
+
+
+== Édition du texte ==
+
+
+
+
+== Annexes ==
+
+

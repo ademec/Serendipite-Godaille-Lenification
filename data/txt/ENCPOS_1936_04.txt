@@ -1,0 +1,170 @@
+identifier: ENCPOS_1936_04
+creator: Jean Dubois
+date: 1936
+title: Le préambule des diplômes byzantins jusqu’à la fin du xiiie siècle
+
+
+
+== Introduction exposé de diplomatique byzantine ==
+
+
+=== Chapitre premier transmission des actes byzantins. ===
+
+Les actes byzantins sont connus soit par de simples copies, plus ou moins anciennes, soit par des copies authentiquées par l’autorité ecclésiastique ou par la chancellerie impériale, soit enfin par les originaux eux-mêmes.
+
+Des copies trompeuses ou des faux se rencontrent à côté des diplômes originaux.
+
+Aucun registre de chancellerie n’a subsisté. 
+
+
+=== Chapitre II Archives ou sont conservés des actes byzantins. ===
+
+La plupart des actes byzantins subsistant sont conservés avec un soin jaloux dans les monastères de l’ancien Empire byzantin, spécialement dans ceux de l’Athos, dans le couvent de Lavra en particulier.
+
+Le plus ancien chrysobulle original date de 1052.
+
+
+=== Chapitre III Diverses sortes d’actes byzantins. ===
+
+Actes privés ; actes provenant des chancelleries ecclésiastiques ; actes émanés d’un fonctionnaire ; actes impériaux.
+
+
+=== Chapitre IV La chancellerie impériale byzantine ===
+
+Le chef de la chancellerie est d’abord le questeur ; au xie siècle, le protasecretis devient le directeur des bureaux.
+Depuis le viiie siècle, le logothète du drome est chargé des actes pour des destinataires étrangers.
+L’έπὶ τοῦ ϰανιϰλείου ou « préposé à l’encrier » s’occupe, à partir du ixe siècle, des mentions en rouge à mettre sur les chartes.
+Le μυστιϰός rédigeait la correspondance privée de l’Empereur.
+Après 1204, le Grand Logothète succède à la fois au protasecretis et au logothète du drome, et il n’existe plus de chancellerie organisée. 
+
+
+=== Chapitre V Les actes impériaux du groupe des prostagmata. ===
+
+Les actes impériaux les moins solennels s’appellent prostagmata ; ils sont écrits sur papier, de petite dimension ; ce sont des ordres administratifs validés par le ménologe inscrit en grandes lettres rouges par l’Empereur.
+
+
+=== Chapitre VI Les actes impériaux intermédiaires entre les prostagmata. Et les actes très solennels. ===
+
+Ce groupe comprend les édits ; les « lettres pour l’étranger » qui peuvent être écrites en lettres d’or sur vélin pourpre et en plusieurs langues ; le kodikellos, diplôme de luxe nommant à une dignité ; le sigillion, forme d’apparat des décisions impériales.
+
+
+=== Chapitre VII ===
+
+LES ACTES TRÈS SOLENNELS : χρυσόβουλλον σιγίλλιον ou χρυσόβουλλος λόγος.
+
+Les chrysohulles apparaissent au début du ixe siècle ; ils sont désignés d’abord le plus souvent du nom de χρυσόβουλλον σεγίλλιον ; puis la qualification de χρυσόβουλλος λόγος est préférée à la fin du xie siècle.
+
+Les plus anciens chrysobulles originaux sont écrits sur papier dit bombycin ; depuis le milieu du xiiie siècle, les diplômes sont sur parchemin.
+
+La dimension moyenne d’un chrysobulle est de deux mètres sur quarante centimètres.
+
+D’une manière générale, les chartes impériales sont écrites dans la libraria de leur époque.
+De 1057 à 1087, les chrysobulles originaux, et de 1079 à 1089, les copies authentiquées par la chancellerie impériale peuvent être écrits dans une écriture très fleurie ; cette écriture spéciale de chancellerie est dans l’ensemble verticale, mais comporte certaines lettres ou hastes exagérées ou fortement inclinées à droite ; elle use du v à trois branches.
+
+Une invocation et une intitulation en longues lettres étirées, ainsi qu’une adresse contenant une forte proportion de caractères latins, peuvent occuper la première et la seconde ligne du chrysobulle entre 1057 et 1104.
+
+Un Legimus à l’encre rouge a fait place, au viie siècle, au terme de récognition Legi.
+Du xie au xiiie siècle, le Legimus précède sur les originaux et remplace dans les copies de la chancellerie impériale la souscription nominale de l’Empereur, qui écrit son nom et sa titulature à l’encre rouge à la fin du chrysobulle.
+
+
+== Première partie Préliminaires généraux == 
+
+
+=== Chapitre premier nature et durée du préambule du diplôme byzantin. ===
+
+Le diplôme byzantin est le privilège chrysobulle accordé par l’Empereur.
+Le préambule du diplôme byzantin est un communis locus, motivation générale de l’acte et ornement du discours diplomatique.
+Le préambule peut se trouver dans le diplôme byzantin jusqu’à la fin de l’Empire d’Orient.
+
+
+=== Chapitre II L’absence du préambule dans les diplômes byzantins. ===
+
+De 873 à 1282, sur cent diplômes actuellement connus, quarante-six sont dépourvus de préambule.
+On peut ordinairement donner une raison à l’absence de préambule dans ces actes impériaux.
+
+
+== Deuxième partie Le contenu et la forme des préamrules ==
+
+
+=== Chapitre premier l’adaptation du préambule au dispositif du diplôme. ===
+
+L’adaptation du préambule au dispositif du di plôme est en général convenable, mais elle peut aussi rester assez vague ; le préambule forme même quelquefois un développement absolument indépendant.
+
+
+=== Chapitre II Les différents thèmes des préambules. ===
+
+Les préambules à thème religieux, les plus nombreux, expriment habituellement la pensée qu’il est convenable pour un empereur de faire du bien aux hommes pieux, afin que ceux-ci prient pour le souverain et le public.
+Parfois le préambule religieux est un exposé dogmatique ou une sorte de petit sermon.
+
+Les préambules de thème politique montrent la ligne de conduite invariable des empereurs qui pratiquent la justice à l’égard de tous.
+
+Les préambules de thème moral peuvent être faits de maximes, telles qu’en écrirait un moraliste.
+
+Le préambule philosophique est très rare.
+
+
+=== Chapitre III Les modes de développement des thèmes. ===
+
+Des comparaisons présentent l’Empereur comme un soleil éclatant.
+Des métaphores font d’or ce qui appartient au souverain.
+De larges symboles montrent dans l’Empire un édifice ou un vaisseau endommagé, ou font entrer le lecteur dans un jardin mystique.
+
+Quelques développements sont fournis par des citations, rarement textuelles, de l’Écriture.
+L’An cien Testament est au moins aussi souvent utilisé que le Nouveau.
+
+
+=== Chapitre IV Les sources des préambules. ===
+
+Les préambules actuellement connus paraissent être originaux dans la proportion de un sur cinq.
+Des préambules en imitent, semble-t-il, d’autres, mais jamais un préambule ne reproduit exactement, même en partie, un préambule.
+La variété est un des traits les plus caractéristiques du préambule des diplômes byzantins.
+
+
+=== Chapitre V Les procédés de composition des préambules. ===
+
+Dans les préambules, trouvent place : l’interrogation, la symétrie, l’opposition, la gradation, procédés de rhétorique ; la déduction, la démonstration, l’argumentation dialectique, procédés logiques ; l’apologue, la narration, procédés psychologiques ; les maximes, les transitions légères, procédés littéraires.
+
+
+=== Chapitre VI (la langue et le style des préambules. ===
+
+La langue des préambules est noble et ordinairement claire.
+Le style est souvent redondant, mais toujours varié. 
+
+
+== Troisième partie L’Évolution historique du préamrule ==
+
+
+=== Chapitre premier les préambules, des Origines au milieu du xie siècle. ===
+
+La littérature des préambules a déjà une vie propre et elle produit des pièces originales.
+
+
+=== Chapitre II Les préambules, du milieu du xie siècle a l’avènement des comnènes. ===
+
+Les préambules deviennent plus fréquents et moins pieux.
+Ils peuvent contenir plusieurs images courtes ou une seule longue comparaison.
+
+
+=== Chapitre III Les préambules pendant le règne d’Alexis Ier Comnène. ===
+
+Les préambules sont moins nombreux, moins imagés et plus courts.
+D’une expression abstraite et redondante, ils tendent vers le genre de la maxime morale.
+La noblesse de leur style évolue vers le formalisme. 
+
+
+=== Chapitre IV Les préambules sous les derniers comnènes et les anges (1118-1204). ===
+
+Les préambules sont plus rares encore.
+La rhétorique disparaît bientôt complètement.
+A la maxime morale est préférée la dissertation psychologique ou le large tableau vivant.
+
+
+=== Chapitre V Les préambules, de la conquête latine a la fin du règne de Michel VIII paléologue (1204-1282). ===
+
+Le nombre des préambules redevient moyen.
+Dans cette période apparaissent deux nouveaux genres de préambules : le préambule lyrico-mystique, inspiré par les Psaumes, et le préambule philosophique.
+
+
+== Conclusion ==
+
+Tandis que le préambule des diplômes occidentaux évolue peu, le préambule des diplômes byzantins est toujours varié et souvent original et il constitue jusqu’à la fin du xiiie siècle un genre littéraire vivant.

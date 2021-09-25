@@ -1,0 +1,516 @@
+identifier: ENCPOS_1916_01
+creator: Pierre d’Espezel
+date: 1916
+title: L’organisation militaire de la France pendant la première partie du xvie siècle
+
+
+
+== Introduction ==
+
+Raisons qui ont fait choisir la période 1500-1560 : importance des réformes accomplies sous Louis XII, François Ier et Henri II ; décadence de l’armée pendant les guerres de religion.
+
+
+== Bibliographie ==
+
+
+
+
+== Table des ordonnances utilisées ==
+
+
+
+
+== Première partie La direction de l’armée ==
+
+I. Le Commandement suprême. 1.
+Le Roi.
+
+2.
+Le connétable.
+Vacance prolongée de la connétablie ; persistance des fonctions et titres officiels ; serment ; gages ; son intime union avec les maréchaux de France : les ordonnances, leur tribunal commun de la connétablie la prouvent.
+
+3.
+Les maréchaux de France.
+Leur nombre varie de 3 à 5, mais le chiffre normal est de 4 ; serment ; fonctions ; gages. 
+
+Les essais de répartition de la France en régions militaires : 1521, 1524, 1547.
+
+4.
+Les lieutenants généraux et les gouverneurs.
+Les lieutenants généraux par tout le royaume. – Les lieutenants généraux pour telle province ou région ; leurs fonctions ; leur autorité.
+
+Les gouverneurs : nombre ; titre et fonctions : les lieutenants généraux et gouverneurs ont en principe plus d’autorité au point de vue militaire que les gouverneurs des provinces de l’intérieur qui n’ont pas droit à ce titre ; serment ; traitement.
+
+II. Les modifications dans le commandement suprême.
+
+Le Roi se défie de l’état-major traditionnel : révocation générale de 1542.
+Il favorise tout un nouvel état-major.
+
+1.
+Les chefs de corps.
+Si l’un (le grand maître des arbalétriers) n’est qu’un titre sans fonctions, les autres (maître de l’artillerie, colonels généraux de l’infanterie, capitaines généraux des chevau-légers, du ban) sont bien vivants et actifs.
+Or, ils ne relèvent que du Roi.
+
+2.
+Les chefs d’armée.
+Leurs pouvoirs sont désormais fixés par lettres de commission, qui peuvent leur subordonner maréchaux et gouverneurs.
+Eux aussi relèvent directement du Roi.
+
+Connétable, maréchaux, gouverneurs peuvent jouer encore un rôle important : ils ne le peuvent que s’ils sont en faveur.
+Montmorency, véritable chef de l’armée avant d’être connétable, y jouit de peu d’influence, quand il est disgracié, quoique connétable.
+
+Un organe stable demeure, le Conseil privé, simple instrument de la volonté royale : ses attributions croissantes en matière militaire, d’après les ordonnances et le registre d’Henri II. L’autorité directe du Roi sur l’armée grandit de plus en plus. 
+
+
+== Deuxième partie Les troupes ==
+
+
+=== Section première la maison du roi ===
+
+I. Garde du corps. 1.
+Archers écossais : origine ; recrutement d’abord exclusivement écossais, puis français ; capitaines ; répartition : les 24 archers du corps, les 77 archers de la garde ; service à la cour, en guerre ; costume ; privilèges ; solde.
+
+2.
+Archers français : effectif total, toujours 300 environ ; 2 compagnies sous Louis XII, 3, puis 4 sous François Ier ; capitaines ; solde ; fonctions spéciales.
+
+II. Cent Gentilshommes.
+Ils sont en réalité 200, divisés en deux bandes ; recrutement ; chefs ; costume ; privilèges ; solde.
+
+III. Cent Suisses.
+Recrutement ; chefs : les La Marck ; costume ; solde.
+
+IV. Cornette du Roi ou cornette blanche.
+C’est un corps formé de gentilshommes volontaires et d’officiers de la Cour, qui n’existe qu’en temps de guerre et sert sous les ordres directs du Roi. – Il peut y avoir une « cornette du Dauphin », une « cornette des princes ».
+
+La Maison du Roi a une certaine unité : les mobilisations générales de ce corps. 
+
+
+=== Section II la cavalerie ===
+
+
+==== Chapitre premier le ban et arrière-ban ====
+
+I. Nature du service.
+Le service est réel et pèse sur toute terre vassale, possédée ou non par un gentilhomme ; tous les détenteurs de fiefs le doivent, mais les exemptions sont nombreuses : fonctionnaires (gens des cours souveraines, gens de guerre, de finance), communautés (bourgeois des bonnes villes, chapitres, abbayes), exemptions personnelles ; essais de restrictions, ordonnances de révocation générale : 1534, 1553, 1557, 1558.
+
+II. Accomplissement du service.
+Le service est en principe fait à cheval ; les essais de service à pied (1536, 1541, 1545) ; retour au service à cheval sous Henri II ; le nombre d’hommes à fournir déterminé par le revenu ; l’armement exigé : sa réduction en 1555 à l’équipement de chevau-léger, les arquebusiers à cheval du ban ; le service est en principe dû en personne, même par les roturiers ; les remplacements, leurs modalités, leur taxe ; la durée : à l’intérieur, 40 jours, puis 3 mois ; hors frontière, 40 jours.
+
+III. Organisation de l’effectif.
+État-major permanent : capitaine général, lieutenant général, mestre de camp ; – Les compagnies : chefs, effectif, solde.
+
+IV. Fonctionnement.
+Le roi connaît les ressources que peut fournir le ban par les déclarations de fiefs prescrites par les ordonnances et les rapports des élus. – Convocation : lettres du Roi aux baillis et sénéchaux, assemblée, montre « en robes » par les baillis. – Mise en marche : lettres du capitaine général, montre en armes par les capitaines, paiement de la solde, départ.
+
+V. Particularités provinciales.
+Normandie (ordonnance de 1556), capitaine général, taxe, montres. – Bourgogne, Bordelais, Limousin, Dauphiné prétendent ne devoir le service que dans leur pays. – Provence, Bretagne.
+
+VI. Valeur.
+Des documents officiels ressort l’importance qu’on y attachait, en tout cas les convocations sont nombreuses : de 1503 à 1563, 79, dont 11 générales, réparties sur 31 années.
+La décadence réelle, causée par la coexistence des troupes de métier et les abus du remplacement, signalée par tous les contemporains ; les remèdes proposés ; la seule solution : choisir entre les troupes de métier et les milices.
+
+
+==== Chapitre II La gendarmerie ====
+
+Importance attribuée à cette grosse cavalerie.
+
+I. Le chef suprême.
+Action toute particulière du connétable et des maréchaux sur les compagnies d’ordonnance.
+
+II. Les compagnies.
+Composition : elles sont divisées en « lances », qui comptent, avant 1554, un homme d’armes et deux archers ; après, un homme d’armes et un archer et demi (sic).
+Quant aux « coustiliers » encore mentionnés, ce ne sont plus que des suivants, « cadets » voulant entrer aux compagnies, valets, etc. – Effectif : variable, de 20 à 100 lances. – Levées, augmentations d’effectif : étude des modalités.
+
+III. Les gens des Ordonnances.
+Obligations générales : le serment.
+
+Officiers et appointés : capitaine, lieutenant, enseigne, guidon, maréchal des logis, fourriers, trompettes.
+La résidence des officiers à la garnison, leurs fonctions.
+
+Hommes.
+Conditions générales : âge, noblesse ; empressement des gentilshommes à entrer dans les compagnies ; mesures destinées à assurer le recrutement. – Enrôlements : ils ne se font qu’à la montre et par les commissaires des guerres.
+    « Cassements ».
+Changements de compagnie.
+    « Montres » ou revues : quatre par an (trois « en robes », une générale « en armes »). – Les congés habituels : 1/4 ou 1/3 de l’effectif. – Armement et costume : les règlements de 1534 et de 1549 ; l’allègement des armures ; les « hoquetons » d’ordonnance. – Solde : son insuffisance sous François Ier en dépit du palliatif de 1534 ; la grande « crue » de 1549.
+
+IV. L’effectif total.
+Difficultés qu’on a à le fixer.
+En somme, le nombre des gens d’armes et archers seuls semble varier entre 5.000 et 9.000 hommes.
+
+
+==== Chapitre III La cavalerie légère ====
+
+I. Chevau-légers.
+Ils sont nombreux sous François Ier et Henri H ; mentions de corps importants en 1537, 1541, 1551, 1553, 1558.
+
+Chef suprême.
+Le Capitaine ou Colonel général permanent, distinct des colonels particuliers et temporaires.
+
+Organisation.
+Répartis en bandes que commandent des capitaines.
+Recrutement : beaucoup d’Italiens.
+Effectif : de 50 à 200 hommes.
+Armement.
+Solde : ses variations sous François Ier et Henri II ; l’augmentation de 1553.
+Montres.
+
+H. Arquebusiers à cheval.
+Antérieurs au commandement de Brissac en Italie, ils n’ont donc pu être créés par lui ; les rapprocher des arbalétriers à cheval, cette autre infanterie montée qui a fort bien pu changer d’armes.
+
+Organisation : leur rattachement en 1553 aux compagnies d’ordonnance.
+Armement.
+Solde.
+
+III. Pistoliers.
+Ces cavaliers allemands, remplacés depuis par les « reîtres », sont introduits par Henri II.
+
+Organisation.
+Répartis en « cornettes » de 100 à 400 hommes.
+Permanence de leur état-major, seul payé en temps de paix.
+
+IV. Estradiots.
+D’origine albanaise, très employés sous Charles VIII et Louis XII, ils le sont moins sous François Ier, qui tend à les fondre dans les bandes de chevau-légers ; cependant ils persistent jusqu’au milieu du xvie siècle.
+Armement.
+
+V. Argoulets.
+D’origine italienne, introduits après les estradiots.
+Armement.
+
+
+=== Section III l’infanterie ===
+
+
+==== Chapitre premier les bandes et les régiments ====
+
+
+===== § 1. Les bandes =====
+
+I. Origines.
+Création des « bandes de Picardie » par Louis XI (1480), des « bandes de Piémont » par Louis XII (1509).
+
+H. Importance croissante de l’infanterie.
+Témoignage des écrivains Discipline militaire, Machiavel), des ordonnances.
+La proportion des gens de pied dans les armées croît toujours sous François Ier, moins rapidement sous Henri H ; essais de comparaison. 
+
+Le pouvoir royal favorise les compagnies d’archers, pépinières de bons tireurs ; notes sur ces compagnies : création, organisation, privilèges, services qu’elles rendirent.
+
+III. Organisation. 1.
+État-major général : le colonel général, sa création en 1542 coïncide avec la diminution du connétable ; la division du commandement : le « dela les Monts » et le « deçà les Monts » ; autorité. – Les mestres de camp, suppléants du colonel et intermédiaires entre lui et les capitaines des bandes. – Les sergents-majors, auxiliaires des mestres de camp.
+
+2.
+Bandes : l’infanterie est répartie en bandes ou compagnies. – Levée des bandes ; enrôlements. – Cadre : le capitaine, son autorité limitée par celle du colonel général, le lieutenant, l’enseigne, les sergents, les caporaux, les « lanspessades », soldats d’élite, le fourrier, le fifre et les « tabourins ». – Hommes : origine, noms (aventuriers) ; serment. – Effectif : 500 hommes sous Louis XII et jusqu’en 1527, 300 après cette date, 270 ou 280 depuis 1553 ; il est réparti en arquebusiers (1/3, puis 1/4 de l’effectif) et en piquiers et hallebardiers. – Montres mensuelles. – Solde : réglée uniformément pour la première fois en 1527, augmentée et graduée en 1553. – Discipline : les ordonnances de M. de Châtillon et celles de Brissac (1554) ; échelle des crimes et des châtiments. – Licenciement : certaines bandes sont à peu près permanentes, ce sont les « vieilles bandes entretenues »
+
+
+===== § 2. Les régiments =====
+
+Inconvénients du système des bandes : manque de souplesse et d’efficacité de ce trop grand nombre de corps trop peu importants ; exemples des « tercios » espagnols, des « régiments » de Suisses et de lansquenets. – Pas de régiments en France en 1560 ; en 1562 il en existe plusieurs, formés des anciennes bandes. – Licenciés sur les instances des protestants en 1563, ils sont réorganisés après la tentative de ces derniers sur le Roi et persistent désormais.
+
+
+==== Chapitre II Les francs archers et les légions ====
+
+
+===== § 1. Les francs archers =====
+
+Les dernières levées. – Les légions provinciales sont créées à leur place (1534).
+
+
+===== § 2. Les légions =====
+
+I. Origines.
+Raisons de cette création, réaction contre les mercenaires étrangers, les aventuriers ; désir d’augmenter la rapidité de la levée, d’éviter les frais énormes occasionnés par les mercenaires ; influence de l’Antiquité.
+
+II. Nombre.
+Elles sont levées au nombre de sept dans les provinces frontières (dédoublement de la légion de Champagne-Bourgogne, inexistence de la légion de Bretagne).
+
+III. Organisation première.
+La légion : recrutement exclusivement régional en principe ; levée par les chefs eux-mêmes ; effectif : chaque légion comprend 6.000 hommes commandés par un colonel nommé par le Roi et répartis en 6 bandes.
+
+La bande.
+Chefs : capitaine, lieutenant, deux enseignes, quarante caporaux ; cadre spécial : fourriers, sergents de bataille, fifres et tambours (tous permanents en temps de paix). – Hommes : levés pour la guerre seulement, exempts de tailles en temps de paix, divisés en arquebu siers (de 1 /10 à 1/3 de l’effectif de chaque bande, près de 1 /3 de l’effectif total) et en piquiers et hallebardiers. – Montres : au camp, deux fois par an, ce sont des « périodes d’instruction ». – Solde : en temps de paix, ce n’est pour les hommes qu’une indemnité de déplacement pour la montre. – Récompenses : anneau d’or, avancement régulier, anoblissement. – Justice : les légionnaires ne sont justiciables des Prévôts des maréchaux que lorsqu’ils sont sous les drapeaux.
+
+Les débuts des légions sont brillants : montres passées par le Roi. – Emploi à la guerre : elles gardent surtout les frontières. – Rapides marques d’indiscipline, de lâcheté : 1536, 1543, 1545.
+
+IV. Réorganisation sous Henri II (1558).
+Les légions sont réduites à la forme des bandes des gens de pied et perdent tout caractère original.
+
+Elles sont tenues désormais en piètre estime par le public : chansons satiriques.
+Néanmoins elles subsistent jusqu’en la deuxième partie du xvie siècle.
+
+V. Comparaison des francs archers et des légions.
+Après avoir comparé le recrutement, les privilèges, la solde, l’effectif et sa répartition, les exercices, on peut conclure que les deux créations partaient du même principe, bien que les légions eussent un caractère plus « militaire ».
+Elles étaient vouées au même échec pour les mêmes raisons, surtout l’insuffisance de soldats par occasion, inexercés, en face des troupes de métier.
+
+
+==== Chapitre III L’infanterie étrangère ====
+
+I. Suisses.
+Leur renommée militaire. – Relations avec la France depuis Charles VII : levées sous Louis XI, Charles VIII, Louis XII ; rupture en 1510 ; Marignan, traités de 1515-1516 : la « paix perpétuelle » de Fribourg. – Pensions des Cantons.
+Privilèges des Suisses en France.
+
+Quelques levées sous François Ier et Henri II.
+
+Organisation.
+Levées : le consentement des Cantons, les
+    « Capitulations » avec les chefs. – Chefs : les « colonels » ; pas encore de colonel général en titre d’office. – Répartition de l’effectif : enseignes de 300 hommes environ, dont 1/10e d’arquebusiers, commandées par un capitaine, un lieutenant, un porte-enseigne. – Les enseignes sont groupées par vingt ou plus en « régiments » dotés d’un état-major distinct et complet sous les ordres d’un colonel.
+Un personnel spécial et nombreux assure la justice. – Montres. – Solde.
+
+II. Allemands (Lansquenets).
+Premiers emplois en France.
+Liste de levées.
+
+Organisation.
+Chefs : colonels.
+Le premier colonel général en titre d’office, de 1544 à 1546 ; les colonels par commission. – Levées : « capitulations » avec les chefs, pensions, subventions. – Répartition de l’effectif : enseignes de 250 à 500 hommes dont 1 /3 d’arquebusiers, groupées par 10, 15, 20 ou plus en régiments dont l’organisation se rapproche de ceux des Suisses. – Solde : les pensions permanentes en temps de paix aux officiers.
+
+III. Italiens et Corses.
+Même organisation que les bandes françaises.
+Y eut-il réellement un colonel général des Italiens en titre d’office (1558) ?
+En tout cas, le colonel général des Corses ne date que de 1569.
+
+
+=== Section IV l’artillerie ===
+
+I. Personnel ordinaire.
+Il est couché sur l’Etat annuel signé du Roi et permanent.
+
+Maître de l’artillerie : ses droits et fonctions, sa surintendance générale sur tout le personnel, ses gages.
+
+Lieutenant général : représentant et suppléant direct du maître de l’artillerie, nommé par le Roi sur la présentation de celui-ci.
+
+Contrôleur général : assisté de 11 commis, il centralise les écritures et surveille le matériel.
+
+Trésorier ordinaire : payeur des gages des officiers ordinaires, réunion de ses fonctions en 1561 à celles de trésorier extraordinaire.
+
+Garde général : créé en 1547, il est chargé, avec ses 11 commis, de la garde des 11 magasins de l’artillerie, il est responsable de tout le matériel.
+
+Commissaires : lieutenants du lieutenant général.
+
+Canonniers : chargés de « mettre en œuvre » le canon, ils deviennent souvent commissaires.
+
+Gens de métiers : charpentiers, forgeurs, etc.
+
+Capitaines du charroi.
+
+Prévôt général : chargé d’assurer la discipline.
+
+Chirurgiens, apothicaires.
+
+Privilèges généraux du personnel ordinaire.
+
+II. Personnel extraordinaire.
+Levé en temps de guerre, il double entièrement le personnel ordinaire (commissaires, canonniers, etc.).
+De plus il comprend :
+
+Salpêtriers : au nombre de 300, répartis dans tout le royaume, ils doivent recueillir chaque année une certaine quantité de salpêtre que centralisent dans quatorze greniers, les trois
+    « Trésoriers des salpêtres ».
+Ils jouissent de nombreux privilèges.
+Le Roi, de plus, fait faire par les villes des provisions de salpêtre qu’au besoin il réquisitionne.
+
+Pionniers : soldats du génie et de l’artillerie, ils sont levés par les élus.
+
+III. Matériel.
+Les sept calibres : poids, vitesse de tir, consommation de poudre et de boulets, personnel nécessaire, etc. – L’organisation des « magasins », garde, surveillance. – La fabrication des nouvelles pièces, des boulets, de la poudre : formalités auxquelles elle donne lieu. – L’organisation des transports : réquisitions, les « charrois » organisés définitivement en 1552.
+
+IV. Justice.
+Le Bailli de l’artillerie. – Son siège au Louvre. – La répression des édits sur le salpêtre semble surtout visée.
+
+V. Finances.
+Finances ordinaires : dirigées par le Trésorier ordinaire, elles sont chargées seulement de payer le personnel ordinaire.
+
+Finances extraordinaires : tout le reste est de leur ressort sous la direction d’un Trésorier. – Division en « deça » et « dela les monts » (1558).
+Réunion à l’Ordinaire en 1561. – Ordonnancements. – Totaux des frais.
+
+L’organisation de l’artillerie jouit d’une telle autonomie qu’il a paru indispensable de traiter immédiatement la justice et les finances.
+
+
+=== Section V les forteresses ===
+
+I. Les forteresses.
+Leur importance dans les opérations à celte époque.
+
+1.
+Répartition géographique : sur les frontières et aussi dans l’intérieur. – C’est encore le système de fortifier la moindre bicoque.
+
+2.
+Direction des forteresses : il n’y a pas de surintendant général des fortifications, mais quelques directeurs provinciaux.
+
+3.
+Constructions nouvelles : elles sont faites sous les ordres de directeurs nommés par le Roi.
+
+4.
+Inspection, entretien, réparations.
+Au xve siècle, trésoriers de France et baillis étaient chargés de veiller au bon état des forteresses ; au xvie siècle, le Roi nomme à cet effet des commissaires. – Les réparations se font sous la direction des gouverneurs. – Beaucoup d’ingénieurs sont Italiens.
+
+II. Les garnisons.
+Garnisons ordinaires.
+
+1.
+Les capitaines de place : recrutement, gages variables, les cumuls.
+
+2.
+Le service de guet : par qui il est dû, comment on l’acquitte dans les villes frontières et dans l’intérieur. – Les taxes de remplacement. – Exemple : le guet de Paris. – Sauf dans certaines grandes villes, le guet n’est plus qu’une police urbaine.
+
+3.
+Les mortes paies : gens de guerre à solde réduite et en service sédentaire. – Leur situation est réglée par l’ordonnance du 22 mai 1551, jusqu’ici assez peu remarquée. – Recrutement : ce ne sont pas exclusivement des compagnies d’invalides, pour y entrer il faut que ceux-ci puissent faire un peu de service. – Répartition de l’effectif : il doit compter 45 °/0 d’arquebusiers, 45 °/0 de hallebardiers, 10 °/0 de canonniers. – Solde. – Les villes et provinces où ils résident.
+
+4.
+Les garnisons proprement dites : composées de gens de pied et aussi de cavalerie, ne se trouvent que dans les places importantes.
+
+Garnisons extraordinaires.
+En cas de menace de l’ennemi, on renforce extraordinairement les garnisons qui comptent alors de gros effectifs.
+
+
+== Troisième partie Les services généraux ==
+
+
+=== Section première les « montres » ===
+
+Les montres ou revues sont un moyen de contrôle à la fois financier et militaire ; d’où leur importance. 
+
+I. Personnel.
+Personnel ordinaire.
+
+1.
+Commissaires ordinaires des guerres : subordonnés directs des maréchaux qu’ils remplacent, ils sont nommés par le Roi, puis mis en possession après serment par les maréchaux.
+Nombre : 8 en 1525, 16 en 1551. – Gages.
+
+2.
+Contrôleurs ordinaires des guerres.
+Chef : le « secrétaire et contrôleur général de l’ordinaire et extraordinaire des guerres ».
+Liste depuis la création (1472). – Les contrôleurs ordinaires : à l’origine. simples commis du secrétaire général, puis érigés en titre d’office. – Nombre. – Gages. – Les contrôleurs provinciaux, créés en 1557.
+
+Personnel extraordinaire.
+Commissaires et contrôleurs ordinaires sont en cas de besoin doublés par des « extraordinaires » ; de plus, parfois, le Roi leur adjoint des inspecteurs sans titre d’office.
+
+II. Fonctionnement.
+Le capitaine présente ses hommes, le commissaire examine leurs armes et équipage, le contrôleur vérifie les effectifs et « passe la quittance » pour les faire solder par le payeur.
+
+Règles générales : les commissaires et contrôleurs sont exclusivement chargés de faire passer les montres ; nul paiement ne peut être fait qu’après une montre ; tout homme qui n’a pas passé la montre ne peut être payé que sur le vu de « lettres de relief » que le Roi et le Connétable peuvent seuls délivrer.
+
+Modalités particulières : étude détaillée des montres de la gendarmerie (trimestrielles ; mécanisme assez compliqué), des gens de pied, des chevau-légers et des troupes étrangères (mensuelles ; depuis 1557 leur organisation est centralisée par les contrôleurs provinciaux), des mortes paies (trimestrielles ; commissaires et contrôleurs spéciaux), des légions (semestrielles).
+
+Chaque montre est constatée par la confection de « rôles » en plusieurs exemplaires destinés aux autorités • militaires, connétable, chefs de corps, en même temps qu’aux trésoriers des guerres et au secrétaire général qui centralise les écritures et contrôle l’emploi des fonds.
+
+
+=== Section II l’intendance ===
+
+I. Vivres. 1.
+Personnel : il n’est ni régulier ni stable ; on trouve des « commissaires des vivres » chargés de l’achat et de la répartition des vivres pour une armée ou pour les places d’une région.
+
+2.
+Ravitaillement.
+Les garnisons.
+Gendarmerie : les villes closes doivent lui fournir les vivres ; les campagnes, les fourrages, qu’elle paye au taux fixé par les gouverneurs, ceci jusqu’en 1549 ; depuis, moyennant l’augmentation de leur solde, les gens d’armes doivent se fournir de tout ce qui leur est nécessaire « au prix du marché ». – Mortes paies, gens de pied, ban : mêmes règles à peu près que pour la gendarmerie. – Forteresses : approvisionnées par des munitionnaires qui ont traité avec le Roi.
+Pour les places frontières, précautions spéciales.
+
+Mouvements de troupes en temps de paix.
+Bandes ou compagnies isolées : des commissaires les conduisent par la route que fixent les gouverneurs, et veillent à la répartition des logements et des vivres avec pleins pouvoirs. – Pour les troupes nombreuses, ou les provinces frontières, étapes réglées à l’avance par des commissaires spéciaux.
+
+En campagne, les troupes sont ravitaillées par réquisitions faites sur les provinces ou traités passés avec des munitionnaires. – Les marchands sont encouragés par des exemptions à venir vendre des vivres au camp.
+
+II. Logement.
+Chez l’habitant des villes closes qui doit fournir gratuitement le gîte et les ustensiles ; exemptions nombreuses.
+
+III. Service de santé.
+On n’en trouve guère que des mentions : les chirurgiens réguliers de l’artillerie, avec leurs aides et apothicaires, les chirurgiens à la suite de l’armée, les chirurgiens de la gendarmerie en 1566.
+
+Invalides.
+Trois moyens d’assurer leur sort sont concurremment employés : les pensions ; les places de mortes-paies ; les places de religieux lais dans les monastères de fondation royale.
+
+IV. Aumôniers militaires.
+Prévus dans les légions d’Henri II et les régiments suisses.
+
+
+=== Section III les finances ===
+
+Les frais de la guerre sont la principale charge du Trésor.
+Nombre des moyens financiers spécialement destinés à procurer les ressources nécessaires : « crues » de tailles, contributions imposées aux villes, emprunts, aliénations du domaine, etc.
+
+Tous les services de la guerre reçoivent les fonds nécessaires : jusqu’en 1523, des généraux des finances ; depuis, du trésorier de l’Épargne.
+
+Le paiement est assuré par plusieurs services.
+
+1.
+Ordinaire des guerres.
+Sous la direction de deux trésoriers des guerres (supprimés de 1534 à 1543), il assure le paiement de la gendarmerie (par l’entremise de payeurs, d’abord simples clercs des trésoriers, puis commis en chaque compagnie, enfin érigés en titre d’office en 1542), des commissaires et contrôleurs ordinaires des guerres, des prévôts ordinaires des maréchaux.
+Étude de la comptabilité.
+
+2.
+Extraordinaire des guerres.
+Sous la direction du trésorier de l’Extraordinaire (alternatif en 1534, séparé en « deçà » et « dela les Monts » en 1547) il paie surtout les gens de pied français (par l’intermédiaire d’abord de commis, puis de payeurs en titre d’office en chaque compagnie), les étrangers et les légions.
+
+3-4.
+Ordinaire et Extraordinaire de l’artillerie déjà étudiés.
+
+5.
+Trésoriers des chevau-légers.
+De simples commissions, leurs charges sont érigées en office alternatif (1553).
+Leurs comptes.
+
+6.
+Travaux des forteresses.
+Les fonds nécessaires proviennent : des octrois levés par les villes elles-mêmes et contrôlés par des officiers spéciaux (1515), des fonds alloués par le Conseil privé et répartis par le gouverneur.
+
+Les paiements sont faits sur l’ordre des gouverneurs, d’abord par des commis puis par deux trésoriers alternatifs en titre d’office (1553) ; ils sont vérifiés par des contrôleurs spéciaux.
+
+7.
+Mortes paies.
+Payées par un receveur établi en chaque province frontière.
+
+8.
+Garde.
+Chaque corps a ses payeurs spéciaux.
+
+Le Ban et les Prévôts « subsidiaires » ont une organisation financière purement locale.
+
+
+=== Section IV la justice ===
+
+I. Juridiction d’exception.
+
+Le système de licenciement des troupes, en libérant brusquement les gens de guerre sans leur assurer de ressources, cause de graves désordres : les aventuriers tiennent les champs, pillent, volent, etc .
+
+Remèdes.
+Ordonnances générales et spéciales (1523, 1337, 1546, 1549, 1553, etc.) ordonnant de courir sus aux vagabonds, les mettant hors la loi ; mandements aux baillis et sénéchaux, aux princes du sang, aux chefs de l’armée de « purger » telle ou telle province ; pouvoirs spéciaux aux prévôts des maréchaux.
+
+II. Juridiction ordinaire.
+
+1.
+La connétablie et maréchaussée.
+
+C’est un tribunal, siégeant à la Table de marbre à Paris.
+Le connétable et les maréchaux de France, qui ont juridiction sur les gens de guerre, lui délèguent leur pouvoir. – Sa compétence s’étend à peu près à toutes les affaires militaires, sauf appel au Parlement.
+
+2.
+Les prévôts des maréchaux.
+
+Connétable et maréchaux leur délèguent leur juridiction auprès des troupes.
+
+Ils sont divisés en trois categories. a.
+Prévôt général de la Connétablie : rattaché directement au connétable, il exerce ses fonctions dans toute la France. b.
+Prévôts ordinaires : en règle ils sont quatre (un par maréchal de France) ; leurs officiers ; leurs gages. c.
+Prévôts provinciaux ou « subsidiaires » : ils sont au nombre d’une trentaine, établis peu à peu dans les provinces qui les paient directement ; supprimés en 1544, à l’exception de 13 d’entre eux, et remplacés par les lieutenants criminels de robe courte, ils sont restaurés à partir de 1555.
+
+Privilèges généraux des prévôts.
+
+Essai de répartition de la France entre les quatre maréchaux, à qui tous les prévôts eussent rendu compte (1547).
+
+Compétence.
+Pas de distinction à faire à ce sujet entre les diverses catégories, sauf au sujet du ressort, les prévôts provinciaux n’ayant juridiction que dans leur province.
+En 1515, leur compétence est purement militaire ; ils se font remettre les soldats coupables par leurs chefs, font le procès, exécutent la sentence.
+Ils doivent chevaucher à la suite des troupes pour faire observer la justice. – En 1537, on leur attribue la juridiction exclusive et sans appel sur les vagabonds, étendue en 1544 aux sacrilèges, fauteurs d’attaques à main armée, etc. – En 1550, ils n’ont plus cette juridiction que concurremment avec les juges ordinaires.
+Les ordonnances de 1561 et 1563 restreignent encore leurs pouvoirs. – En 1538, ils reçoivent également la connaissance exclusive des délits de chasse ; ils l’ont encore en 1552, mais il n’en est plus question en 1561.
+
+Cette juridiction sommaire et sans appel était, malgré ses abus, rendue nécessaire par l’état des mœurs et de la législation militaires.
+
+
+== Conclusion ==
+
+Diverses tendances se manifestent dans l’armée de François Ier et d’Henri II : décadence des troupes qui ne sont pas de « métier », des « milices » (ban, francs archers, légions) ; perfectionnement des troupes composées de soldats de carrière ; importance croissante de l’infanterie et des armes à feu, de l’artillerie ; prépondérance du pouvoir royal direct.
+
+En somme, les institutions militaires, sous l’impulsion royale, évoluent vers la formation d’une armée exclusivement de métier, où l’artillerie et surtout l’infanterie se placent de plus en plus au premier rang et qui, de plus en plus aussi, se trouve sous la direction et le contrôle immédiats du pouvoir royal, « dans la main » du Roi.
+
+
+== Pièces justificatives ==
+
+

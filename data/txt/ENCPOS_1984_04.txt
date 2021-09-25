@@ -1,0 +1,95 @@
+identifier: ENCPOS_1984_04
+creator: Jean-Luc Eichenlaub
+date: 1984
+title: Le Tractatus de diversis materiis predicabilibus d’Etienne de Bourbon. Première partie : Dono timoris. Édition et étude
+
+
+
+== Introduction ==
+
+Dans la première partie de son recueil de matériaux à l’usage des prédicateurs, le Tractatus de diversis materiis predicabilibus, le dominicain Étienne de Bourbon (mort en 1261) traite de la crainte de Dieu sous ses divers aspects et, plus largement, de tout ce que doivent craindre les hommes.
+L’image du Dieu Juge est partout sous-jacente ; on peut vraiment parler de « christianisme de la peur » (Jean Delumeau).
+
+
+== Première partie Présentation ==
+
+
+=== Chapitre premier Étienne de Bourbon et le « Tractatus de diversis materiis predicabilibus » ===
+
+C’est dans le cadre du développement des ordres mendiants (Prêcheurs spécialement) et de la prédication nouvelle qu’ils pratiquent, s’adressant systématiquement à un large public, que se situe l’œuvre d’Étienne de Bourbon.
+
+La vie même de l’homme est étroitement liée à ce mouvement.
+Après des études à Mâcon (il est né vers 1190 à Belleville-sur-Saône) et à Paris, Étienne de Bourbon entre dans l’ordre dominician et devient prédicateur général.
+A la fin de sa vie, retiré au couvent de Lyon, il rédige son œuvre, le Tractatus de diversis materiis predicabilibus, qu’il laisse inachevée.
+
+Le Tractatus a pour cadre les dons du Saint Esprit, procédé systématique qui peut sembler parfois artificiel, mais qui permet à l’auteur de présenter l’ensemble de la foi chrétienne.
+
+
+=== Chapitre II La première partie du « Tractatus » : « de dono timoris » structure du texte ===
+
+Dans la classification des dons du Saint Esprit, qui se fixe après beaucoup de débats, le don de crainte occupe une place à part ; don en quelque sorte négatif, relativement mal intégré dans le septénaire, il se trouve habituellement placé au début de l’énumération.
+Tel est le cas dans le Tractatus d’Étienne de Bourbon, où il constitue le thème de la première partie.
+Étienne de Bourbon conçoit ce don de manière très large, se différenciant de ses prédécesseurs qui, lorsqu’ils ont traité de la crainte de Dieu, n’ont retenu comme don du Saint Esprit que la seule crainte filiale (Pierre Lombard).
+S’il consacre la première partie de son traité à des développements sur la crainte de Dieu (dont il distingue sept sortes), il s’y préoccupe surtout de ce que l’homme doit craindre : fins dernières et danger de ce monde.
+
+En effet, le De dono timoris est divisé en dix titres (tituli).
+Les trois premiers seuls traitent de la crainte de Dieu, respectivement des sept sortes de crainte de Dieu, des effets de la crainte de Dieu, de l’obligation qu’il y a de craindre Dieu.
+Ils occupent environ treize pour cent de cette première partie du Tractatus.
+La matière qui a trait à ce que l’homme doit craindre est, elle, beaucoup plus abondante, spécialement en ce qui concerne les fins dernières : les tituli consacrés successivement à l’enfer, au purgatoire, au jugement général (Jugement dernier) et au jugement particulier (mort) représentent à peu près soixante-dix pour cent du texte.
+Parmi eux, les plus importants en volume (respectivement vingt-neuf et trente-deux pour cent de l’ensemble « fins dernières ») sont ceux qui concernent l’enfer et le Jugement dernier.
+Les trois derniers tituli développent ce que l’homme doit craindre en ce monde : le péché, le danger que lui fait courir le monde, le démon enfin.
+Ces titres correspondent approximativement à dix-sept pour cent du De dono timoris.
+Parmi eux, d’ailleurs, le titre final ne paraît être là que pour la forme, puisque son pourcentage de texte par rapport à l’ensemble s’abaisse à deux et demi.
+
+Ainsi donc, Étienne de Bourbon centre principalement le De dono timoris sur les fins dernières, avec une insistance plus particulière encore sur le Jugement dernier.
+Peut-être la partie de la Summa de virtutibus de Guillaume Perault consacrée au don de crainte a-t-elle pu l’influencer en ce sens. 
+
+
+=== Chapitre III Les sources du « de dono timoris » ===
+
+Dans son prologue, Étienne de Bourbon a indiqué lui-même les sources auxquelles il a puisé.
+Un inventaire détaillé des emprunts, présenté dans le cadre des titres, permet de déterminer l’importance relative de chacun d’entre eux à travers l’ensemble du texte et surtout en fonction de chaque sujet abordé.
+
+Dans le domaine biblique, l’Ancien Testament prédomine largement avec près de trois quarts des citations et allusions, l’auteur marquant une prédilection appuyée pour les livres poétiques et sapientiaux.
+Les proportions varient assez peu au cours de la première partie du Tractatus ; toutefois, les titres traitant du purgatoire et du Jugement dernier comportent un nombre plus élevé de citations néotestamentaires.
+
+Pour les autres sources prédominantes, on note l’utilisation importante des œuvres de saint Augustin, qui font l’objet de soixante-deux citations, principalement dans les passages relatifs au purgatoire et au danger de ce monde ; les écrits de saint Jérôme reviennent vingt-cinq fois, surtout à propos du Jugement dernier ; saint Grégoire est représenté par quatre-vingt-onze emprunts, répartis en particulier dans les titres sur l’enfer, le Jugement et le danger de ce monde ; saint Bernard est invoqué dans cinquante-huit passages, spécialement pour étayer l’argumentation sur le Jugement dernier et le danger de ce monde.
+
+Enfin, les Vite Patrum sont très souvent mises à contribution (quarante-neuf emprunts), surtout dans les titres sur l’enfer et le Jugement dernier ; les vies de saints sont particulièrement utilisées dans le titre sur la mort ; les exempla provenant de contemporains d’Étienne de Bourbon nommément cités illustrent de préférence les considérations sur l’enfer et sur le purgatoire.
+
+
+=== Chapitre IV Postérité de la première partie du « Tractatus » ===
+
+Deux œuvres se révèlent très proches du De dono timoris d’Étienne de Bourbon.
+L’une et l’autre ont connu un succès considérable : on possède, en effet, soixante-dix-neuf témoins manuscrits de la première, le De dono timoris d’Humbert de Romans (dominicain, maître général de l’ordre, mort en 1277), ouvrage qui fut même imprimé, à la fin du xve siècle, sous le nom d’Albert le Grand ; la seconde, le Speculum morale, longtemps attribué à Vincent de Beauvais, fut éditée jusqu’au xviie siècle.
+Dans les deux cas, l’importance de la diffusion justifie que soit tenté un repérage serré des parties communes avec le texte d’Étienne de Bourbon.
+
+La confrontation de ce dernier est aisée avec le De dono timoris d’Humbert de Romans, dont le plan reproduit exactement celui de la première partie du Tractatus, avec des titres de proportion sommairement identique, bien que les passages relatifs à l’enfer et au Jugement dernier y soient relativement plus développés.
+À ce propos, notons le plan en sept parties de l’édition imprimée : crainte, enfer, purgatoire, jugement divin, crainte de la mort, crainte du péché, crainte des dangers.
+
+Pour ce qui est du Spéculum morale, il est connu depuis longtemps (Jacques Échard, 1719) que le Tractatus est l’une de ses sources.
+De fait, des passages entiers de celui-ci s’y retrouvent mot pour mot.
+
+
+== Deuxième partie Édition ==
+
+Le texte est établi à partir de quatre manuscrits :
+
+P. Paris, Bibliothèque nationale, lat. 15970, fol. 139-190 a, qui a servi de manuscrit de base.
+
+V. Paris, Bibliothèque nationale, lat. 14598, fol. 1-75 c.
+
+H. Heidelberg, Universitätsbibliothek, Salem, 10, 2, fol. 1-52 b.
+
+E. Erlangen, Universitätsbibliothek, ms. 341, fol. 1-57 d.
+
+
+== Éclaircissements et compléments ==
+
+Identification des citations. – Les exempla et leur sources. – Tables et index : table des citations et allusions bibliques ; index des noms de personnes ; index des noms de lieux ; index des sources (citations, exempla) ; index des exempla ; concordances avec la numérotation de l’édition d’Albert Lecoy de la Marche et avec celle des exempla de l’Index exemplorum de Frederick C. Tubach.
+
+
+== Annexes ==
+
+Transcription du ms.
+Paris, Bibl. nat., lat. 15953, fol. 188-210 (Humbert de Romans, De dono timoris), collationnée avec le texte imprimé du Liber de abundantia exemplorum (dans les Opera Alberti Magni, Ulm, Johannes Zainer, 1473). – Jean-Thiébaut Welter et ses recherches sur les exempla.

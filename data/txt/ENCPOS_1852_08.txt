@@ -1,0 +1,59 @@
+identifier: ENCPOS_1852_08
+creator: Alphonse-Martial Chazaud
+date: 1852
+title: Étude sur les verbes français
+
+
+
+== I verbes réguliers. ==
+
+Les quatre conjugaisons françaises peuvent et doivent se réduire à une seule, ayant pour désinences personnelles au singulier une consonne et au pluriel une syllabe.
+Ces désinences restent les mêmes à tous les temps.
+
+Le présent de l’indicatif se forme en les ajoutant immédiatement au radical.
+
+Les autres temps simples en insérant entre le radical et la désinence personnelle une voyelle ou diphthongue caractéristique.
+
+Les terminaisons de chaque temps ainsi formé ont varié avant de se fixer.
+
+Formes dans l’ancienne langue et dans la langue actuelle du
+
+Présent de l’indicatif.
+Suppression de l’s a la première personne du singulier, et du t à la troisième dans les verbes en er et les autres.
+
+Imparfait indicatif en eve, ove, oue et ais.
+
+Parfait indicatif en ai, is, us, uis, et sans voyelle formative. 
+
+Imparfaits du subjonctif en sse, avec les mêmes voyelles formatives que le parfait indicatif.
+
+Présent subjonctif en e, ce, se, ge.
+Suppression de l’i aux première et deuxième personnes plurielles de ce temps.
+
+Formation du futur et du conditionnel.
+
+Infinitif.
+Souvent deux et même trois formes différentes issues du même infinitif latin et restant dans la langue actuelle.
+
+
+== II verbes irréguliers. ==
+
+Les véritables irrégularités des verbes tiennent à ce qu’ils ont conservé à la fois plusieurs des formes dérivées du latin à l’origine de la langue.
+
+Elles consistent en altération :
+
+1° Des voyelles ou diphthongues ;
+
+2° Des consonnes du radical.
+
+Altération d’a en ai, d’ai en a, d’oi en oy, et e, d’ol, al en ou, au, d’ou en eu, ui.
+
+Suppression des consonnes radicales : 1° l, d, m, t, au singulier du présent de l’indicatif ; 2° l, v, lv, s, ss, à l’infinitif et au présent indicatif, reparaissant au pluriel du présent indicatif et aux deux nombres des autres temps.
+
+
+== III verbes défectifs. ==
+
+Les uns par nature et réguliers, les autres parce qu’ils sont tombés en désuétude et généralement irréguliers.
+
+Le milieu du dix-septième siècle est, pour ceux de la seconde espèce, l’époque d’une disparition plus ou moins complète aujourd’hui.
+Les auteurs des siècles précédents offrent le moyen de les reconstituer en entier, sauf un seul : je vais (vado).

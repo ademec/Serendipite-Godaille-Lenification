@@ -1,0 +1,108 @@
+identifier: ENCPOS_1921_14
+creator: René Prigent
+date: 1921
+title: Le formulaire de Tréguier, publié avec une introduction et des notes
+
+
+
+== Introduction ==
+
+Intérêt du manuscrit nouvelle acquisition latine 426, de la Bibliothèque Nationale ou Formulaire de Tréguier. – Divisions et sources du travail. – Bibliographie.
+
+
+== Première partie ==
+
+
+=== Section première. – Le manuscrit du Dictamen. ===
+
+1.
+Histoire du manuscrit.
+Provenant de l’abbaye de Marmoutiers et perdu, au commencement du xixe siècle, par la bibliothèque de Tours, J. Desnoyers l’a recouvré et donné à la Bibliothèque Nationale. – C’est un formulaire de lettres missives.
+
+2.
+L’examen des pièces qu’il renferme permet d’établir que le recueil a été composé dans le pays de Tréguier, d’où le nom qui lui est donné de Dictamen Trecorense ou Formulaire de Tréguier.
+Il contient des lettres qui ont pu être rédigées entre 1297 et 1318.
+Le recueil a été formé vers 1320.
+
+3.
+Il est nécessaire de faire ici l’examen paléographique du manuscrit, pour déterminer quel est l’auteur du Formulaire.
+On constate que le scribe est peu habile et commet de nombreuses fautes.
+D’après l’écriture et la forme particulière de certaines lettres, on conclut que l’on a affaire à un rédacteur unique.
+Cependant, il y a quelques notes d’une main étrangère. 
+
+4.
+Le compilateur du Formulaire n’est pas l’auteur des formules ; son rôle s’est borné à les transcrire.
+
+5.
+Le scribe, resté anonyme, est originaire du pays de Tréguier ; c’est un écolier, et, sans doute, un clerc.
+
+
+=== Section deuxième. – Le formulaire. ===
+
+1.
+A l’exception de quelques préceptes rimés, qui ne sont point de la main de l’anonyme, la partie didactique fait entièrement défaut, et le Formulaire ne contient que des modèles de lettres.
+
+2.
+Comment l’on rédigeait une lettre autrefois.
+Les cinq parties d’une lettre.
+
+a) La salutation.
+La plupart des noms propres ont été supprimés.
+Quelques formules débutent par un tour diffus.
+
+b) L’exorde.
+Il est tiré soit de l’Écriture, soit d’un ouvrage profane, les Disticha Catonis, Boëce ; mais, le plus souvent, les formules présentent quelque considération générale en rapport avec le sujet de la lettre.
+
+c) La narration et la pétition, parfois distinctes, mais ordinairement fondues ensemble.
+
+d) La conclusion.
+Quelques formules ont conservé la date.
+
+e) Dans les lettres, on se conforme aux règles courantes sur le style et le cursus.
+
+3.
+Valeur des pièces contenues dans le Formulaire.
+Les unes sont des lettres authentiques, les autres de simples compositions, des dictamina.
+Examen de ces deux catégories de formules.
+
+4.
+Ces dictamina n’ont pu être composés que par un clerc, qui était peut-être le maître de l’anonyme.
+Le Formulaire, en effet, est moins un traité véritable qu’une œuvre d’écolier.
+
+
+== Deuxième partie Le Dictamen Trecorense ==
+
+1.
+Aucun ordre dans le manuscrit du Dictamen.
+Dans la transcription, les 157 formules ont été réparties en six sections.
+Groupement proposé par A. de la Borderie.
+C’est le cadre qui est adopté avec quelques modifications. 
+
+2.
+Dans la publication que Léopold Delisle a faite de certaines pièces (Histoire littéraire de la France, t.
+XXXI, et Mémoires de la Société archéologique de l’Orléanais, t.
+XXIII) l’éditeur n’a pas cru devoir respecter l’orthographe du manuscrit ; il a corrigé des fautes qui sont caractéristiques.
+
+3.
+Table de concordance des formules dans la transcription et dans l’original.
+
+
+=== II. – Le texte. ===
+
+Section I. Affaires ecclésiastiques (35 nos).
+
+II. Féodalité (18 nos).
+
+III. a) Agriculture (12 nos).
+
+b) Commerce (13 nos).
+
+c) Professions et métiers (15 nos).
+
+IV. Mœurs de la vie privée (16 nos).
+
+V. Enseignement (38 nos).
+
+VI. Formules juridiques et pièces d’imagination (10 nos).
+
+Chaque section est accompagnée d’éclaircissements.

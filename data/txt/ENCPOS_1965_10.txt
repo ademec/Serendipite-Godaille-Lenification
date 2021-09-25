@@ -1,0 +1,137 @@
+identifier: ENCPOS_1965_10
+creator: Arnaud Ramière
+date: 1965
+title: Documents linguistiques du Lauragais
+
+
+
+== Avant-propos ==
+
+Conçue comme une contribution à la collection des Documents linguistiques du midi de la France inaugurée par Paul Meyer et continuée par M. Ci.
+Brunel avec Les plus anciennes chartes en langue provençale, cette étude a porté sur le Lauragais de 1200 à 1600, date approximative de la disparition totale du languedocien des documents d’archives.
+
+
+== Introduction ==
+
+Le pays. – Le Lauragais est une zone de transition dont le seuil de Naurouze est le centre ; il établit la communication entre le monde méditerranéen et l’Atlantique, du bassin aquitain aux terres à vignes du Carcassonnais.
+Borné au nord par la chute brusque de la Montagne Noire, il empiète au sud sur les derniers glacis pyrénéens de la Piège.
+
+On distingue de part et d’autre de Naurouze deux régions différentes, l’une de caractère continental, l’autre déjà plus méridionale.
+
+Histoire. – Limite orientale du diocèse de Toulouse, le Lauragais n’a cessé depuis l’époque franque de dépendre politiquement de cette ville, jouant le rôle de marche : ainsi se développa la seigneurie de Laurac qui donna son nom à la région.
+Incluse après 1271 dans le domaine royal, la jugerie de Lauragais, devenue sénéchaussée en 1553, ne cessa de former, jusqu’en 1789, une unité cohérente.
+
+Voies de communications. – Castelnaudary doit son développement à sa position au carrefour de la voie romaine reliant Narbonne à Toulouse et des axes de communication entre l’Albigeois et les Pyrénées.
+
+Les routes ont cependant évolué suivant les époques : les côteaux aujourd’hui désertiques de la Piège, en particulier, étaient la zone la plus fréquentée et la plus peuplée au moyen âge.
+
+Économie. – Pays essentiellement agricole, le Lauragais eut aussi une intense activité drapière et fut, à partir du xive siècle, le centre de la culture du pastel.
+
+
+== Chapitre premier les sources ==
+
+Les archives concernant le Lauragais médiéval sont extrêmement nombreuses.
+La présente étude est fondée sur l’examen d’un millier de liasses ou registres.
+
+Archives nationales. – Le Trésor des chartes a fourni vingt-sept chartes de Ramon Amiel, scribe d’Auriac, dont sept, antérieures à 1201, ont déjà été publiées par M. Brunel.
+
+Archives départementales de l’Aude et archives communales. – Les séries E (notaires) et H des Archives départementales ont fourni le plus de documents, notamment les statuts de la confrérie Notre-Dame de Fanjeaux, du xiiie siècle.
+Les archives de Castelnaudary conservent une série exceptionnellement riche de comptes consulaires ; les coutumes et le leudaire du xive siècle constituent le texte le plus long et le plus intéressant des documents linguistiques qui ont été retrouvés.
+
+Les archives, inédites, de Fendeille fournissent un grand nombre de documents peu élaborés et très proches du parler local.
+
+Ailleurs on trouve plusieurs documents cadastraux.
+
+Archives départementales de l’Ariège. – Parmi les documents qui concernent le Lauragais, seul un groupe de cinq quittances est en languedocien.
+
+Archives départementales des Basses-Pyrénées. – Quelques documents concernant la vie municipale à Auterive, dépendance du comté de Foix, sont conservés aux Archives des Basses-Pyrénées.
+
+Archives départementales de la Haute-Garonne et archives communales. – La riche série E des Archives départementales a fourni de nombreuses pièces justificatives concernant des actes passés devant les notaires, mais peu d’instruments publics.
+Le fonds de Malte, très important pour le Lauragais, possède relativement peu de textes languedociens.
+
+Aux Archives municipales de Toulouse, les layettes conservent des documents importants provenant des municipalités du Lauragais occidental.
+Ailleurs, on trouve, comme dans l’Aude, de nombreux documents cadastraux et, à Revel, un compte consulaire.
+
+Archives privées. – Les archives diocésaines de Carcassonne ont fourni un arbitrage de Mireval et des inventaires de l’hôpital de Castelnaudary. 
+
+M. de Marion-Brézillac possède des documents concernant Fanjeaux, notamment un testament en languedocien.
+
+Le chartrier de M. Yves Marquier de Villeneuve conserve les archives de la baronnie de Villeneuve-la-Comtal : des enquêtes judiciaires et des documents comptables y sont rédigés dans la langue du pays.
+
+Les archives municipales ont fourni la plus grande proportion de documents en languedocien : les rares municipalités qui ont conservé leurs archives présentent des séries continues sans équivalent dans les autres fonds.
+
+
+== Chapitre II Catalogue des documents en languedocien ==
+
+Le catalogue comprend tous les documents originaux en languedocien qui ont été trouvés, ainsi que les principales copies contemporaines, jusqu’en 1600.
+
+Pour plus de commodité dans la présentation, le pays a été divisé en trois zones géographiques : le Terrefort toulousain, à l’ouest (cent cinquante-six documents, vers 1168-1564) ; le nord-est, avec la plaine de Castelnaudary (quatre-vingt-six documents, 1222-1600) ; les côteaux de la Piège, au sud-est (deux cent trente-quatre documents, 1266-1592).
+
+
+== Chapitre III Emploi du languedocien du xiie au xvie siècle ==
+
+Jusqu’au xive siècle les textes en languedocien sont exceptionnels parmi la grande masse des documents latins ; on ne peut, jusqu’alors, parler de décadence du latin, peut-être en raison de la richesse économique de la région.
+
+Dans la seconde moitié du xive siècle apparaissent les premiers textes importants (coutumes de Castelnaudary, leudaire) et surtout les séries de comptes : à Castelnaudary à partir de 1360, à Fendeille à partir de 1396.
+Au xve siècle le nombre des documents en languedocien va croissant ; le latin ne disparaît que dans les documents municipaux.
+
+Pour les notaires, le latin demeure lié au caractère public des actes.
+En revanche, les conventions préalables ou les quittances sont une fois sur deux dans la langue des parties, même si c’est un notaire qui les rédige : le cas le plus frappant est celui de brèves languedociennes traduites en latin dans l’extensoir.
+
+De 1500 à 1539, l’emploi du languedocien se généralise : la langue a évolué depuis le xiie siècle, mais on ne saurait parler de décadence, au contraire, puisque la langue de tous les jours a acquis droit de cité dans les textes.
+On ne rencontre, néanmoins, qu’un seul registre de notaire entièrement languedocien.
+
+Enfin on trouve des traductions de textes d’abord rédigés en latin, des essais poétiques et des enquêtes judiciaires dans lesquelles les dépositions de témoins sont rapportées telles qu’elles ont été prononcées.
+
+Après l’édit de Villers-Cotterets (1539), on trouve encore soixante-sept textes en languedocien, mais pas un seul n’est officiel : ce ne sont plus que des documents privés, comptes ou documents cadastraux. 
+
+
+== Chapitre IV Introduction du français ==
+
+Les archives communales conservent des actes en français émanant, dès 1384, de l’administration royale.
+
+Les premiers documents français écrits en Lauragais sont en rapport avec l’activité du Parlement de Toulouse, au début du xvie siècle.
+On suit bien l’adoption progressive du français dans les enquêtes judiciaires de Lagarde, de 1515 à 1532 ; dans les registres de délibérations de Castelnaudary, le français apparaît en 1535 dans les contrats d’arrentements, mais seulement en 1545 dans les délibérations elles-mêmes.
+
+Certains notaires rédigent aussi leurs minutes en français dès 1534 au Villasavary, ou 1537 à Laurac ; la plupart du temps, alors, ils emploient les trois langues.
+
+L’ordonnance de Villers-Cotterets ne fera que stimuler un mouvement déjà commencé, mais, si les notaires emploient encore le latin, ils abandonnent aussitôt, sans exception, la langue du pays.
+Les villes n’adoptent généralement le français qu’à partir de 1545, mais un petit centre comme Fendeille utilise encore couramment le languedocien à la fin du siècle.
+
+
+== Chapitre V Aperçu dialectologique ==
+
+Il ne semble pas que les textes édités révèlent des limites dialectales nettes, la plupart des particularités (-il>-iel et -ial ; emploi de le et lo ; -n, -r, -t caducs en finale, etc.) sont également réparties.
+
+Certains faits, dont les limites semblent n’avoir jamais été signalées jusqu’à présent, apparaissent comme nettement localisés dans le Lauragais oriental : palatalisation de s par un y voisin, passage de dy et ct à un son de type tch, mouillure de ll intervocalique.
+
+
+== Morphologie ==
+
+Table des formes.
+
+
+== Glossaire ==
+
+La plupart des mots ont été notés afin d’établir un relevé des formes attestées, datées et localisées avec précision. 
+
+
+== Index des noms propres ==
+
+
+
+
+== Recueil des textes ==
+
+Ouest toulousain. – Sont publiés : dix-huit documents du xiiie siècle, parmi lesquels les chartes d’Amiel, d’Auriac, et les coutumes de Caignac ; six documents du xive siècle, dont les essais poétiques du notaire Louis de Fabrica ; quatre documents du xve siècle d’origine municipale ; quinze documents du xvie siècle (dépositions de témoins, compoix, quittances).
+
+Nord-est, plaine de Castelnaudary. – Sont publiés : six documents du xiiie siècle émanant de la commanderie de Pexiora ; six documents du xive siècle (coutumes, leudaire, comptes, procès de Castelnaudary) ; six documents du xve siècle (élections de Saint-Papoul) ; sept documents du xvie siècle (délibérations municipales, inventaire, contrats, compoix).
+
+Sud-est, la Piège. – Sont publiés : un document du xiiie siècle (les statuts de la confrèrie de Fanjeaux) ; neuf documents du xve siècle (comptes de Fendeille, quittances de Fanjeaux) ; quatorze documents du xvie siècle (dépositions de témoins, testaments, comptes, quittances, jugements).
+
+
+== Planches ==
+
+Fac-similés de documents.
+Cartes géographiques et économiques.
+Répartition géographique de la palatalisation.

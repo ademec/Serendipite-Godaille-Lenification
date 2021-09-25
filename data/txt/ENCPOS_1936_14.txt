@@ -1,0 +1,152 @@
+identifier: ENCPOS_1936_14
+creator: Paul Ourliac
+date: 1936
+title: Le droit privé avignonnais aux xive et xve siècles
+
+
+
+== Première partie Les personnes ==
+
+
+=== Chapitre premier la condition des personnes. ===
+
+L’« air de la ville » rend libre, et, par là, plus égales les conditions juridiques.
+Nobles, bourgeois, simples habitants jouissent d’un même droit.
+Il y a des esclaves, Tartares ou Éthiopiens, mais le baptême suffit à les affranchir.
+Les Juifs possèdent la pleine capacité civile, tanquam veri cives.
+Les religieux ne sont pas frappés de mort civile ; on leur applique fort exactement la théorie justinienne de la dedicatio au monastère.
+Les lépreux perdent leurs droits politiques, mais paraissent conserver leurs droits civils.
+
+
+=== Chapitre II Le mariage. ===
+
+La pratique, en cette matière, suit exactement la doctrine des canonistes.
+Sur un seul point, elle marque un retard ; on attribue le rôle primordial à la copula carnalis.
+La communauté de vie fait présumer le mariage, et ce n’est qu’après la consommation que le mariage devient indissoluble.
+Les sépa rations de corps, qui ne sont admises, en principe, que pour cause d’adultère, résultent souvent, après 1450, de pactes de séparation amiable.
+
+
+=== Chapitre III La puissance paternelle. ===
+
+La puissance paternelle ne dure pas pendant toute la vie du père ; le fils majeur de vingt-cinq ans jouit d’une assez grande liberté : il peut contracter librement avec son père, avec ses frères et sœurs en puissance, avec des étrangers ; il peut toujours faire une donation à cause de mort, voire un testament.
+Il suffit qu’il renonce expressément à la patria potestas et accompagne sa renonciation d’un serment pour qu’on lui reconnaisse une pleine capacité.
+Une bulle de Pie II de 1459 renouvelle contre lui les prohibitions du sénatus-consulte macédonien.
+
+Ce droit est très différent de celui qui a cours, à la même époque, dans des familles rurales ; dans une ville, l’unité économique n’est pas la famille, mais le simple ménage.
+Les pouvoirs romains du père ne se conçoivent plus dès qu’il cesse d’être le chef de la communauté familiale.
+
+La puissance paternelle naît des modes romains, adoption et adrogation ; elle naît aussi de leur doublet coutumier, hérité du passé, l’affiliation : celle-ci résulte de la vie en commun et suppose, entre le père et le fils, une communauté de tous biens.
+On rencontre des donations d’enfants qui ne sont autre chose qu’un placement charitable. 
+
+
+=== Chapitre IV Les tutelles et la capacité des mineurs. ===
+
+L’organisation de la tutelle est romaine dans ses grandes lignes ; le droit canonique a pu servir, en cette matière, de véhicule aux idées justiniennes.
+Il faut noter qu’il existe un conseil de parents, souvent consulté, et que la datio tutele est toujours faite par le juge.
+
+Le mineur est capable s’il a affirmé sa capacité par serment.
+Tous les actes contiennent mention d’un duplex juramentum, ce qu’il faut entendre de deux serments, prêtés l’un après l’autre ; le premier serment, suivant la glose, facit minorera videri majorera ; le deuxième prive le mineur de toutes les voies de nullité dont aurait pu jouir un majeur.
+Cet état de droit, fort rigoureux à l’incapable, fut adouci vers le milieu du xve siècle, par la pratique des dispenses.
+On fit alors prêter aux mineurs un troisième serment, celui de ne jamais demander la dispense des deux premiers.
+
+
+== Deuxième partie Les biens ==
+
+
+=== Chapitre premier la propriété et les droits réels. ===
+
+La propriété est limitée par des servitudes fort diverses et laissées, pour la plupart, à l’arbitrage des maîtres des rues.
+Le séjour des papes fut l’occasion d’une législation des loyers très rigoureuse, qui restreignit les droits du propriétaire.
+L’usufruit est conçu comme un transfert de propriété ad tempus.
+L’engagement immobilier existe à côté de l’hypothèque.
+La pratique organisa, fort habilement, dès le xive siècle, une procédure de purge.
+
+
+=== Chapitre II L’emphytéose. ===
+
+Le régime usuel des fonds urbains aux xiie et xiiie siècles est le bail à accapte.
+Les règles romaines de l’emphytéose vinrent modifier quelques-uns de ses traits.
+On pratiqua le droit de prélation ; les cens prirent les caractères du canon emphytéotique ; les laudemia tinrent la place des trézains et de l’intragium ; mais la condition essentielle du bail à accapte, le paiement d’une redevance, appelée aussi accapte, payée lors de la concession, persista toujours.
+
+Le taux des cens ne cessa de croître pendant tout le xive siècle.
+Les sous-concessions et les baux à rente, ou pensiones, furent très peu pratiqués.
+Au xve siècle, diverses mesures eurent pour effet de libérer la propriété ; une bulle de Calixte III, de 1455, autorisa le rachat des cens excessifs sur le pied du denier quinze.
+
+Les rapports du propriétaire et de l’emphytéote témoignent d’un mélange complexe de droits personnels et de droits réels.
+Le propriétaire peut exercer la commise ; purement privée au xive siècle, celle-ci devient judiciaire au xve.
+L’emphytéote peut libre ment aliéner le fonds ; la vente, l’échange, le partage, dans certains cas la constitution de dot et les transmissions à cause de mort entraînent le paiement des lods.
+Le droit de prélation est d’usage fréquent.
+Une bulle de Martin V, de 1418, lui crée une contre-partie au profit du tenancier : c’est le droit, pour celui-ci, d’exercer le retrait contre toute vente de la directe à laquelle il est soumis.
+
+
+=== Chapitre III L’affacheria. ===
+
+L’affacheria, pratiquée pour les fonds ruraux, est un métayage conclu pour un très court espace de temps.
+La part de la récolte attribuée au propriétaire est fort modique ; elle peut ne pas excéder le sixième ou le septième.
+
+
+== Troisième partie Le droit familial ==
+
+
+=== Chapitre premier le droit des gens mariés. ===
+
+La dot, promise lors des fiançailles, est habituellement payée au moment de la célébration du mariage.
+Sa consistance est fort variable ; elle peut toujours être augmentée pendant le mariage.
+
+Le mari est usufruitier de l’immeuble dotal ; la femme en est nue propriétaire.
+Leur concours suffit à rendre valable une aliénation de cet immeuble.
+La renonciation de la femme à la loi Julia et à l’authentique si qua millier tient en échec les règles romaines qui assuraient la protection de la dot, l’inaliénabilité et l’hypothèque privilégiée.
+Vers le milieu du xve siècle, on restreignit la liberté des époux.
+On inséra au contrat de mariage des clauses d’emploi et de remploi ; on fit prêter à la femme le serment de ne jamais consentir, par la suite, à une aliénation de l’héritage dotal ; surtout la jurisprudence admit le système de la dotalité subsidiaire : l’aliénation fut valable seulement dans le cas où le mari possédait des biens suffisants pour assurer le recours ultérieur de la femme.
+
+L’époux survivant tire du contrat de mariage des droits divers.
+La femme perçoit assez souvent un augment de dot qui n’est pas, contrairement aux textes romains, une exacte contre-partie de la dot.
+Le mari reçoit un contre-augment, ou même le droit de retenir tout l’apport de sa femme.
+
+
+=== Chapitre II Les principes généraux du droit successoral. ===
+
+Le moment de l’ouverture de la succession, le calcul de l’actif successoral, les partis qui sont ouverts à l’héritier sont réglés par les principes romains.
+Les proches parents ont droit à la légitime (ou Falcidie), dont la quotité donne lieu à beaucoup d’hésitations.
+L’héritier institué retient la quarte trébellianique.
+Dans le cours du xve siècle, on en vint à admettre, sous l’influence des canonistes, qu’il pouvait la cumuler, le cas échéant, avec la légitime. 
+
+
+=== Chapitre III La succession ab intestat. ===
+
+La dévolution successorale est réglée par les novelles 118 et 127, sauf sur un point : on répugne à admettre la mère à la succession de ses enfants.
+
+Le trait le plus notable du droit successoral est l’exclusion des filles dotées de la succession de leurs parents.
+La règle est contenue dans les statuts dits de 1243 ; mais, quoi qu’on ait prétendu, les filles n’ont pas droit à leur légitime avant les statuts de 1441.
+Même après cette date, les notaires firent renoncer les filles dotées à la succession de leurs parents, ce qui aboutit à étendre la portée de l’exclusion autant qu’il plaisait aux parties de le faire.
+
+
+=== Chapitre IV Les testaments. ===
+
+La capacité de faire un testament est reconnue aux femmes mariées, aux Juifs, aux lépreux, aux excommuniés.
+Les évêques ne peuvent tester valablement, car ils sont soumis au droit de dépouille.
+Le pape peut seulement leur accorder une licentia testandi, de portée restreinte.
+Dans la deuxième moitié du xive siècle, les papes d’Avignon astreignirent les simples clercs au système de la licentia ; à la fin du xve siècle, les légats prétendirent en user de même.
+
+On rencontre le plus fréquemment des testaments nuncupatifs écrits ; mais il existe aussi des testaments oraux, mystiques ou clos, olographes, des testaments faits devant un curé ou en temps de peste.
+L’effet de la clause codicillaire insérée dans tous les testaments est des plus minimes ; elle couvre les irrégularités de forme.
+
+Le testament contient essentiellement une institution d’héritier et des legs.
+La présence d’exécuteurs, ou gadiatores, n’est pas nécessaire à sa validité.
+Les substitutions fidéicommissaires n’ont pas une grande portée avant l’extrême lin du xve siècle.
+
+Le testateur peut prêter le serment de ne pas révoquer son testament.
+Il peut, au moins au xive siècle, restreindre sa liberté par l’insertion de clauses dérogatoires.
+
+
+== Conclusion ==
+
+Le droit romain est tenu en échec sur bien des points.
+Le droit canonique, s’il est en désaccord avec lui, est suivi de préférence ; la fréquence des arbitrages maintient un droit d’essence coutumière ; les renonciations, accompagnées d’un serment, mettent en question toutes les lois d’ordre public ; elles sont une véritable insurrection contre l’ordre législatif romain.
+Malgré tout, le progrès du droit romain est incontestable ; il est dû pour une grande part, à l’influence des formulaires.
+La première marche en avant a lieu entre 1300 et 1350 ; puis le progrès reprend vers 1440, et il sera définitif.
+
+
+== Pièces justificatives ==
+
+

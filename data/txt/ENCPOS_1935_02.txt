@@ -1,0 +1,233 @@
+identifier: ENCPOS_1935_02
+creator: Pierre Breillat
+date: 1935
+title: La langue des inscriptions monétaires mérovingiennes
+
+
+
+== Préface ==
+
+Les monnaies mérovingiennes nous offrent une collection très riche de noms propres, tant de lieux que de personnes.
+Leur intérêt : ces légendes sont très proches de la prononciation populaire et se localisent dans toutes les régions de la France.
+
+
+== Sources ==
+
+
+
+
+== Bibliographie ==
+
+
+=== Chapitre premier les voyelles gallo-romanes. ===
+
+
+==== A. – Les voyelles accentuées. ====
+
+L’a présente peu de traces d’altération, même en syllabe ouverte ; les graphies -aio et -eco du suffixe – aco. 
+
+L’e bref, quoiqu’il eût un son ouvert, a pu être rendu par i, mais généralement devant un yod ou le groupe : nasale + consonne – remarque semblable à celle de Pirson sur les inscriptions de Gaule.
+La variante, Porto vie, de Porto veteri, constitue-t-elle un exemple ancien de diphtongaison de l’e bref tonique libre ?
+
+L’e long, conformément à la règle, est souvent noté i, – surtout dans les formes en -ensis –.
+Le monosyllabe rex qui conserve partout ailleurs l’orthographe traditionnelle est, à plusieurs reprises, gravé rix.
+Cas particulier de ficit ; diphtongaison de l’e libre dans Bleiso castro ; transcription de l’e long d’origine grecque par i.
+
+L’i bref, est noté e dans un grand nombre d’exemples, et le plus souvent devant : n + consonne ; les variantes de fit, fiet et fiit semblent mieux s’expliquer par une reconstruction morphologique que par des raisons phonétiques.
+
+L’i long est conservé partout, même dans Remidio (Remedio dans les textes).
+
+L’o bref est transcrit u dans des cas exceptionnels, qui s’expliquent généralement par des circonstances extérieures ; cas de l’o celtique devenu a en germanique : Varmacia fit.
+
+L’o long et l’u bref échangent fréquemment leurs signes.
+
+L’u long est quelquefois rendu par o sous l’influence du suffixe -on- ; cas particulier : Ardino fit (confusion phonétique ulong/ilong, et influence du suffixe -in-).
+
+
+==== B. – Les voyelles atones. ====
+
+L’a est, dans quelques cas, noté e et même i à la prbtonique non initiale ; l’a du suffixe -óialo- ; dans Abrinktas, valeur syllabique du signe k (=ca).
+
+L’e bref est parfois exprimé par un i, dans les mêmes conditions qu’à la tonique, mais aussi dans d’autres circonstances, notamment à l’initiale, et à la finale (ablatif singulier de la 3e déclinaison).
+Notation par i de l’e bref atone en hiatus.
+
+L’e long et l’i bref échangent fréquemment leurs signes.
+
+L’i long est assez souvent gravé e, même à la désinence du génitif singulier de la seconde déclinaison.
+
+L’o bref, est parfois noté u, notamment devant nasale.
+
+L’o long s’exprime fréquemment par u, surtout à la finale ; désinences : -u de l’ablatif singulier, et -us de l’accusatif pluriel de la seconde déclinaison.
+
+L’u bref s’écrit o, particulièrement dans le suffixe – ulus, et au nominatif singulier de la seconde déclinaison : -os.
+
+L’u long passe à o dans des conditions exceptionnelles : fausse étymologie (locundus), ou hésitation entre les mots celtiques -duro et doro, affaiblissement en e dans les noms en -dero.
+
+L’u grec est généralement rendu par i, mais aussi par e.
+
+
+==== C. – Phénomènes généraux intéressant les voyelles, ====
+
+Assimilation ; dissimilation ; les cas de syncope de la voyelle atone, si rares dans les documents écrits, semblent plus nombreux sur les monnaies ; quant à la chute de la voyelle finale, il est souvent difficile d’affirmer que l’on n’a pas affaire à une forme abrégée ou non latinisée. 
+
+
+=== Chapitre II Les voyelles germaniques. ===
+
+L’a bref : au. second ternie des composés, cas indistincts d’« i- Umlaut » ; au premier ternie, étude du thème harja (noms en Air-), des noms en Gar ()–, Gair ()– (complexité de cette racine), des formes parallèles Ragn ()–, Agn ()–, Hagn ()– et Magn ()– (variantes en Rign ()–).
+Une alternance al/el dans certains thèmes.
+
+L’a long provient du e long primitif ; coexistence des éléments -mar-, -mer-, -rad-, -red-, etc..., aussi bien comme premier que comme second composant ; prédominance des variantes en a qui sont généralement à la base des correspondants modernes.
+L’alternance -mad-, -med- ne semble pas à retenir.
+
+L’e long, outre son évolution en a, paraît aussi sous des formes dialectales en i long (vandiliques, ostrogothiques et wisigothiques) ; bien qu’il fût ouvert, il a été parfois écrit i, selon la notation romane de l’e long.
+
+L’e bref est toujours rendu par e ; cas des finales – birtus et -gildus.
+
+L’i bref peut être noté e : il est difficile de distinguer entre la notation romane (-fridus, -fredus) et l’influence celtique (de thèmes, parents ou voisins des thèmes germaniques ; noms en Sig ()–).
+Etude des formes en Gisl ()–.
+L’i long est généralement conservé : l’alternance -vins, -veus ; les suffixes -in-, -en- ; -lin-, – len-.
+
+L’o bref ne se rencontre pas ; les composés en Bon ()– et Domn ()– sont des hybrides latino-germains.
+
+L’o long demeure inaltéré : absence de notations romanes en u, à cause du timbre ouvert de cet o ; les exemples en a proviennent de racines en u parallèles à celles en o.
+
+L’u bref est plusieurs fois écrit o : les noms en Droct ()– sont plus nombreux que ceux en Druct ()– ; explication par la seule graphie romane (Gond-, Mond-) ou par l’a (e, o)– Umlaut germanique.
+Etude des noms en Chlod ()–.
+
+Rareté de l’u long : sa conservation.
+
+La « voyelle de liaison » : l’o et l’influence celtique ; le maintien ou l’introduction de l’a, lorsque le second terme commence par un r et surtout lorsqu’il contient un a à la syllabe initiale ; pour 17, influence de la composition latine, et assimilation à un i de la syllabe suivante du second terme ; la fréquence de la liaison par e ; chute de la voyelle de liaison, notamment dans les composés en -ulfus.
+
+
+=== Chapitre III Les diphtongues. ===
+
+Le groupe ae est presque toujours rendu par e, quelquefois par i, principalement aux génitif et locatif singulier de la première déclinaison.
+Les exemples de graphie inverse, si fréquents dans les textes et même dans les inscriptions, ne se rencontrent qu’une fois par exception sur les monnaies (principe d’économie des signes).
+
+La diphtongue germanique ai est notée ai, ae, e.
+
+La diphtongue gallo-romaine au : réduction régulière à a devant un u accentué de la syllabe suivante ; notation intermédiaire ao et passage à o : les monnaies, avec les inscriptions, présentent à peu près seules, des exemples d’altération d’au.
+La diphtongue germanique peut être notée aussi ao, o ; ces graphies se trouvent devant d, n, r et s’expliquent aussi bien par les tendances phonétiques romanes que germaniques. -baud- et -bod- doivent être deux formes d’une même racine.
+
+La diphtongue grecque eu se trouve la plupart du temps transcrite eo.
+La graphie eo est aussi la plus fréquente dans les noms germaniques (quelques exemples -iu-, -io-) ; l’explication en réside surtout dans les tendances romanes, mais aussi parfois dans les lois phonétiques barbares.
+Cas de réduction de la diphtongue germanique à son second, ou à son premier élément ; la notation populaire -au-.
+
+
+=== Chapitre IV Les consonnes. ===
+
+
+==== A. – L’aspiration. ====
+
+L’aspiration gallo-romane est négligée dans l’écriture.
+
+L’aspiration germanique.
+A l’initiale, devant voyelle : notation fréquente ch-, puis h-, chute dans quelques exemples, dont certains sont discutables.
+A l’initiale devant consonne : notations par ch-, c-, f-, et chute.
+A l’initiale du second terme : devant voyelle, notation par ch-, h, et chute ; devant consonne, notation par ch- et chute.
+La chute de l’aspiration affecte surtout les noms provenant du Sud de la France.
+A l’intérieur de l’un des deux termes : un exemple d’aspiration intervocalique, -vechus (généralement – veus, -vius) ; l’aspiration interconsonantique est complètement disparue (la graphie -berctus des diplômes est inconnue des monétaires) ; entre voyelle et consonne, noms en droct ()–, avec le traitement déjà roman : Droictoaldus. 
+
+
+==== B. – Les occlusives palatales. ====
+
+Dans les post-palatales gallo-romanes, sonorisation du c intervocalique, qui parfois a dégagé un yod ; la finale -mago > -mo.
+
+Dans les médio-palataies, ch- exprime l’occlusive sourde à l’initiale (Cariliaco, Chariliaco) •, sonorisation du c, et chute du g intervocalique.
+
+Le g prépalatal a le son d’un yod ; incertitude de la valeur du c devant e, i (le signe C exprimant S devant un e, ou un i, doit être une forme de lettre grecque).
+Les occlusives palatales devant consonne (-cr- intervocalique > -gr-, et même -r- ; x – s ; -nct-réduit à -nt-) et à la finale (chute du c).
+Le -qu- intervocalique, sonorisé devant a (selegas).
+
+Le c germanique : rares exemples d’une mutation en fricative (-ch-), ou de la sonorisation romane à l’intervocalique.
+
+Le g germanique : chute possible à l’intervocalique, devant voyelle vélaire, et même devant a (Aragasti, Araste) ; devant e, i, traitement souvent semblable au g latin, mais les graphies -chisilus révèlent le désir d’exprimer un son occlusif.
+
+Remarque : la confusion entre C et G semble parfois uniquement graphique.
+
+
+==== C. – Les groupes : consonne + yod. ====
+
+Di- sonne devant voyelle comme i simple ; -ci- est la graphie quasi unique pour exprimer c + yod et t + yod ; ces deux groupes paraissent déjà réduits parfois à -s-. 
+
+
+==== D. – Les consonnes dentales. ====
+
+Le t gallo-roman resté sourd peut être noté th- ; il est sonorisé à l’intervocalique ; le t final des formes verbales fi, fici.
+Le t germanique s’écrit aussi t, th ; recours sans doute inutile à une mutation t > z pour expliquer les noms Gaucemare et Charecaucius.
+
+Le d : incertitude de sa valeur à l’intervocalique, où il est parfois noté t ; la question de sa chute.
+Le d germanique ; sa valeur, sa conservation (sauf final de syllabe où il s’assourdit) ; les formes Tiriciaco et Teuberciaco, Tiberciaco.
+
+Le th- germanique : à l’initiale, notation la plus fréquente par t (parfois th-) ; à l’intérieur du mot, derrière consonne, passage à l’occlusive d ; à l’intervocalique, notation générale par d (parfois -th-), et chute possible.
+
+L’s- : prothèse d’une voyelle devant l’s impure, et phénomène inverse ; la chute de l’s finale ne paraît pas devoir être envisagée.
+
+
+==== E. – Les consonnes labiales. ====
+
+Le p gallo-roman : sa sonorisation à l’intervocalique.
+
+Le b gallo-roman confondu avec v.
+Conservation du b germanique : il devait avoir encore, même à l’intervocalique, le caractère occlusif.
+
+Le v disparaît à l’intervocalique devant voyelle vélaire ; le cas de Conbenas, Cummonigo.
+
+L’f gallo-roman intervoealique peut se sonoriser en v ; conservation de 1’/ germanique.
+
+Le son bilabial-vélaire, w, germanique.
+A l’initiale du mot, notation générale par w, parfois par v ; absence de formes en Gu-.
+A l’initiale du second terme, il peut être rendu par v, mais le plus souvent, il tombe après un o, voyelle de liaison : Arno/aldus, Berto/ino ; dans les composés en -wulf, il disparaît, et la voyelle de liaison se fond avec l’u : Bertulfus.
+
+
+==== F. – Les liquides, les nasales. ====
+
+Pas d’exemple sûr de vocalisation de 17 vélaire.
+La double forme des composés du thème vilja.
+
+Confusion – peut-être graphique souvent – de m et n devant labiale.
+L’assimilation -mn- > -n(n)– dans les noms en – (h) ramnus-, la dissimilation : Cilemanis.
+Chute de l’n devant s et peut-être devant d, de l’m devant labiale.
+
+Les cas de redoublement et de simplification des consonnes intéressent presque uniquement l’n.
+
+
+=== Chapitre V Morphologie et syntaxe. ===
+
+La 1re déclinaison. – Les noms de lieux sont généralement en -a au singulier (ablatif), en -as au pluriel (accusatif).
+Traces du locatif -æ (e, i).
+
+La 2e déclinaison.
+Les noms de personnes paraissent au nominatif (-us, -os, –.s) ou à l’ablatif (-o, – u), très rarement avec la désinence -um de l’accusatif ; exemples du génitif en i. (-i ou -ii dans les noms en -ius) ; exemple de locatif en -i (Sri.
+Iorgi).
+
+Les noms de lieux ont, au singulier, la désinence de l’ablatif (-o, -u) ; exemples du nominatif-accusatif neutre -um ; au pluriel, ils sont à l’accusatif (en -us généralement) ou à l’ablatif en -is (variantes en -es).
+
+La 3e déclinaison. – Les noms parisyllabiques ont, au singulier, le cas direct en -es, -is, et le cas indirect en -e (parfois -i).
+Les noms de lieux imparisyllabiques, sauf l’exception de Narbo, ne connaissent au singulier que la forme de l’ablatif, -one (rares variantes -oui).
+Les noms de personnes imparisyllabiques ont le cas direct en -o, ou -a (désinence anglo-saxonne ou wisigothique), et le cas indirect en -one, -ane (variantes en -oni, -ani).
+Cas de Iaco/Iacote, Iacoti.
+Au pluriel, les noms de lieux ne sont jamais qu’à l’accusatif : parfois en -es, plus souvent en -is, plus fréquemment encore en -as (influence celtique).
+
+La 4e déclinaison. – Les ablatifs domo et porto.
+
+Les formes verbales. – facit, fecit, et fit avec leurs variantes.
+Les passifs barbares particuliers aux monnaies : fitur se rencontre un peu partout ; l’exemple isolé : ficitur.
+
+Les prépositions. – A, de, in.
+
+
+== Conclusion ==
+
+
+
+
+== Appendice ==
+
+Un fait assez fréquent mérite qu’on le signale : c’est la présence simultanée sur des pièces de la même localité d’une forme solennelle d’un nom de personne et d’une forme hypocoristique correspondante, (ainsi Alligisels et Alloni à Angers).
+Le même monétaire a-t-il pu graver tantôt son nom solennel, tantôt son nom familier ?
+
+
+== Index ==
+
+

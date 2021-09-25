@@ -1,0 +1,169 @@
+identifier: ENCPOS_1861_07
+creator: Paul Viollet
+date: 1861
+title: Étude sur la « cour du vicomte » ou juridiction bourgeoise en Orient au temps des croisades
+
+
+
+== Préliminaires. ==
+
+Tout ce qui concerne le droit suivi en Orient par les Croisés est d’une grande importance pour l’histoire du droit français proprement dit, du droit de l’Occident.
+Les textes qui nous sont parvenus concernent les uns la haute cour, les autres la cour des bourgeois.
+Nous avons étudié ces derniers ; ils nous ont servi :
+
+1° A exposer l’organisation judiciaire des bourgeois ;
+
+2° A donner un résumé des règles de procédure suivies devant leur juridiction.
+
+Tel est le plan de notre travail ; nous l’avons fait précéder de quelques observations dont voici le résumé :
+
+L’expression d’Assises de Jérusalem est souvent employée par les jurisconsultes français de l’Orient pour désigner soit les Lettres du Saint-Sépulcre, c’est-à-dire les établissements de Godefroy de Bouillon et de ses successeurs, soit les usages, les coutumes non écrites en vigueur dans les colonies latines.
+Nous ne possédons pas le texte de lois désigné par l’expression de Lettres du Saint-Sépulcre, mais des commentaires sur ces lois et sur les coutumes du royaume.
+On peut désigner ces commentaires par le terme d’Assises de Jérusalem, comme l’habitude s’en est introduite depuis longtemps ; mais la désignation de Lettres du Saint-Sépulcre s’applique uniquement à l’exemplaire des Etablissements, déposé autrefois dans l’église du Saint-Sépulcre, plus tard détruit par les infidèles.
+
+Cette rédaction des usages du royaume nouvellement fondé par la valeur et par la foi des Croisés n’était pas un fait sans précédent, car quelques coutumes avaient été rédigées déjà dans le midi de la France ; celles des Anglo-Saxons et des Danois l’avaient été par Guillaume le Conquérant.
+Si les coutumes anglo- normandes précédèrent les Lettres du Saint-Sépulcre, les jurisconsultes anglo-normands n’eurent pas ce même avantage sur les jurisconsultes français de l’Orient ; car celui de ces derniers qui figure en tête dans l’ordre chronologique, le rédacteur du livre des Assises de la cour des bourgeois, était contemporain du fameux Glanville (fin du xiie siècle).
+Le livre des Assises de la cour des bourgeois, traité qui date du xiie siècle, et un autre, qui date du xive, intitulé : Abrégé du livre des Assises, telles sont les principales sources qui nous ont servi. 
+
+
+== Première partie. Organisation judiciaire. ==
+
+
+=== Du vicomte. ===
+
+Le vicomte ou bailli est le chef de la cour des bourgeois ; il est nommé par le roi à Jérusalem, par le seigneur haut-justicier dans les autres villes.
+Il pouvait primitivement être pris à Jérusalem parmi les bourgeois ; plus tard on réserva cette charge à la noblesse.
+Le vicomte partage avec le roi et le patriarche l’honneur d’apposer son sceau et sa signature sur l’exemplaire des ordonnances royales déposé dans l’église du Saint-Sépulcre.
+Il préside la cour des bourgeois, mais la sentence est rendue par les jurés ; cependant on lui laisse la décision de certaines affaires peu importantes.
+
+Quand les actes de vente sont passés devant la cour, le vicomte donne à l’acheteur l’investiture par la verge (per baculum).
+C’est aussi lui qui représente les intérêts pécuniaires du roi ou du seigneur.
+
+Il est encore chargé de la police, et partage ce soin avec le mathessep ou maître sergent.
+Le roi Henri II lui confia, en l’an 1300, la mission de poursuivre et de faire condamner les malfaiteurs.
+
+Liste des vicomtes de Jérusalem, – des vicomtes d’Acre. – Quelques vicomtes de Nicosie. 
+
+
+=== Des jurés. ===
+
+Les juges de la cour appelés jurés sont-ils élus par les bourgeois, comme l’a dit M. Pardessus, ou nommés par le roi, comme le pense M. Beugnot ?
+Un grand nombre de passages nous ont paru fortifier cette dernière opinion, et nous n’en avons remarqué aucun en faveur de la première.
+
+Les jurés ne sont pas chargés seulement de juger, ils ont aussi la mission : 1° de conseiller les parties, particulièrement les veuves et les orphelins, mais sans prendre la parole ; 2° d’accorder, s’il est possible, les deux adversaires.
+Ceci rappelle notre préliminaire de conciliation.
+
+
+=== Du serment du vicomte et des jurés. ===
+
+Le vicomte et les jurés prêtaient, en entrant en charge, un serment dont la formule fut modifiée en l’an 1300 par le roi Henri II. – Conjecture sur la question de savoir en quoi consista cette modification ; on peut croire que la nouvelle formule reconnaissait au roi des droits plus considérables.
+
+
+=== Des conseils et des avocats. ===
+
+Les liges qui composent la haute cour sont tenus de prêter aux parties, quand elles le demandent, le secours de leur savoir en jurisprudence : c’est ce qu’on nomme servir de conseil. 
+
+A la cour du vicomte, la même obligation est imposée aux jurés à l’égard des veuves et des orphelins.
+On permit promptement au pair de la haute-cour, qui donnait ses conseils à une partie, de parler aussi pour elle ; mais on défendit toujours aux jurés qui conseillaient une veuve ou un orphelin de servir aussi d’avocats.
+Ces jurés étaient au nombre de deux ; on leur adjoignait un troisième jurisconsulte qui prenait la parole.
+Quant aux personnes autres que les jurés qui prêtaient, devant la cour des bourgeois, leur assistance aux plaideurs, elles furent, au bout de peu de temps, confondues avec les avocats.
+
+– Énumération des personnes qui ne peuvent jouer les rôles de conseil ou d’avocat.
+
+
+=== Des personnes attachées à la cour. ===
+
+Le vicomte et les jurés composent la cour ; mais il faut rattacher au tribunal certains services qui en dépendent.
+Le mathessep et ses sergents sont chargés de la police, sous les ordres du vicomte : l’un de ces derniers est presque toujours envoyé pour citer les parties.
+Un scribe est attaché à la cour : ce personnage ne s’occupait primitivement que des actes de juridiction gracieuse passés devant le vicomte et les jurés ; ses attributions furent considérablement augmentées en l’an 1250, car c’est à cette époque que des registres judiciaires constatant les décisions rendues par les jurés furent tenus à la cour du vicomte.
+Toutefois, l’ancien usage du record ou témoignage des jurés ne fut pas tout à fait abandonné ; l’on décida qu’en cas de contradiction le record l’emporterait sur les registres de l’écrivain :
+
+
+=== Témoignages de vive voix dépassent lettres. ===
+
+Nous avons dit ensuite quelques mots sur le crieur et sur les prothomaistres.
+
+
+=== Du ministère public. ===
+
+La législation du royaume de Jérusalem nous montre, même à l’origine, la société intervenant pour la répression de certains crimes, comme le vol ; mais, en règle générale, l’action criminelle n’appartient qu’aux parents de la victime, qui ont le droit de conclure une paix particulière avec l’accusé.
+En étendant l’exercice de cette action jusqu’aux personnes étrangères à la victime, on ne réussit guère mieux qu’auparavant à atteindre les coupables.
+Enfin on en vint à une mesure salutaire qui bouleversait l’ancien ordre de choses : le roi Henri II chargea le vicomte de poursuivre et de faire juger les criminels.
+
+Ce personnage était chargé depuis longtemps de représenter près de la cour bourgeoise les intérêts du fisc.
+Devant la haute cour, cette mission était confiée à une personne qu’on qualifiait ainsi : l’homme à garder la parole du roi. 
+
+
+=== Compétence de la cour des bourgeois. Idée générale des attributions de la cour du vicomte ===
+
+Cette cour, qui est avant tout un corps judiciaire, est, comme son nom l’indique, le tribunal des bourgeois ; mais, dans certains cas, elle peut avoir à juger des nobles ; dans d’autres circonstances, les bourgeois peuvent être obligés de recourir à la haute cour, tribunal ordinaire de la noblesse.
+Enfin certaines affaires vont en cour d’Église, d’autres devant une juridiction commerciale appelée cour de la chaîne.
+Quant aux Syriens, aux Génois, en un mot aux étrangers établis en Asie, ils ont leurs tribunaux particuliers, sauf pour les affaires criminelles dont la connaissance revient de droit à la cour du vicomte.
+Celle-ci se réunit à la cour ecclésiastique pour statuer de concert dans les affaires mixtes.
+
+La cour des bourgeois peut être envisagée comme juridiction contentieuse et comme juridiction gracieuse.
+
+Juridiction contentieuse.
+Les jurisconsultes rappellent cette règle.
+    « La compétence, dans le cas des actions réelles, appartient au tribunal de la situation de l’objet litigieux. »
+
+Juridiction gracieuse.
+Le vicomte et les jurés sont chargés de solenniser certains contrats, tels que les ventes, les donations et les échanges qui sont passés par-devant eux.
+
+Une juridiction particulière, indépendante de la cour des bourgeois, fut établie en Chypre, en l’an 1355, pour la répression du vol du bétail. 
+
+
+== Deuxième partie. Procédure. ==
+
+
+=== Conditions genérales. ===
+
+La procédure est subtile et compliquée ; elle est donc pleine de périls pour les plaideurs.
+Ceux-ci avaient heureusement une ressource qu’ils ne paraissent pas avoir négligée : c’était celle de recourir à des arbitres.
+On a même des exemples de clauses compromissoires.
+
+
+=== Des ajournements. ===
+
+Il y a certaines affaires dans lesquelles aucun délai n’est accordé aux parties ; dans d’autres, au contraire, par exemple dans les procès en revendication, les délais se rencontrent à chaque pas.
+
+La citation est donnée ordinairement par un sergent, quelquefois par le vicomte et deux jurés.
+La partie qui fait défaut au jour indiqué paye à la cour une amende de sept sous et demi ; le plus souvent elle perd son procès.
+
+
+=== Publicité des débats. ===
+
+On peut croire avec M. Beugnot que l’audience est publique, excepté toutefois pour ce qui concerne les affaires criminelles. 
+
+
+=== Des preuves. ===
+
+Les jurisconsultes traitent longuement de la preuve testimoniale, qui est très-fréquente à cette époque.
+Une règle importante en cette matière est que les individus d’une origine ne peuvent témoigner contre les personnes d’une autre origine.
+
+Nous avons rappelé dans quels cas il pouvait y avoir combat judiciaire entre une des parties et un des témoins, et fait observer que cet usage barbare n’est point particulier à nos colonies latines.
+
+Quand on a perdu le droit de déposer en justice, on est dit avoir perdu « respons de cort ». – Liste de personnes qui ont perdu respons de cort.
+
+Enfin nous avons dit un mot des autres genres de preuves, qui sont la preuve par titres, le serment et l’aveu.
+
+
+=== Des jugements et de la contrainte par corps. ===
+
+Les quatre expressions de jugement, connaissance, esgart et conseil, sont à peu près synonymes et désignent la sentence prononcée par les jurés.
+Le vicomte est chargé de la faire exécuter ; mais il y a, comme on sait, des circonstances dans lesquelles l’acquittement direct d’une obligation est impossible.
+Celui qui n’a rien ne payera jamais ses dettes : la loi d’outre-mer veut qu’il s’acquitte par un servage temporaire chez le créancier ; celui-ci est tenu à des traitements humains envers son prisonnier, mais n’est point astreint, comme on l’a dit, à une consignation préalable.
+Au lieu de fournir par avance pour sept jours de nourriture de pain et d’eau, il peut, au contraire, attendre sept jours entiers avant de rien donner au malheureux débiteur.
+
+Par qui peut être prononcée la contrainte par corps.
+
+Personnes qui ne sont pas contraignables par corps.
+
+Examen de ce qui peut se présenter quand le débiteur a plusieurs créanciers.
+
+
+=== Prohibition de l’appel de faux jugement. ===
+
+Il est permis de conjecturer qu’à l’origine la cour du vicomte pouvait être faussée comme tout autre tribunal ; cela résulte d’une phrase de Philippe de Navarre.
+Plus tard on prohiba l’appel de faux jugement sous peine d’amende ; plus tard encore, sous peine de mort.
+Ces défenses paraissent avoir été efficaces et avoir fait disparaître complètement l’usage barbare de provoquer ses juges quand on était mécontent de leur décision.

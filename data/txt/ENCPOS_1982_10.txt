@@ -1,0 +1,158 @@
+identifier: ENCPOS_1982_10
+creator: Nicolas Karapidakis
+date: 1982
+title: Administration et personnels administratifs en Crète vénitienne au xvie siècle
+
+
+
+== Introduction ==
+
+L’étude de l’administration de la Crète au xvie siècle se situe dans une double perspective, institutionnelle et prosopographique.
+L’organisation et le fonctionnement des services montrent comment l’État vénitien gouverne l’un des territoires soumis à sa domination.
+D’après une série d’actes de nomination, le milieu des officiers constitue une société dont les structures sont calquées sur le modèle fourni par la république de l’Adriatique.
+
+
+== Sources ==
+
+Les archives du duché de Candie se trouvent aujourd’hui à l’Archivio di Stato de Venise.
+Nous avons utilisé principalement la busta 55 du fonds de l’Archivio del duca di Candia : elle contient ce qui subsiste des registres de la chancellerie locale relatifs aux nominations d’officiers.
+Dans le même fonds, plusieurs séries concernent le fonctionnement des administrations et l’activité des officiers (Deliberazioni del Maggior Consiglio di Candia, Memoriali e atti, Notai, Registri di leggi statutarie e varie), ainsi que les registres (1490-1583) conservés dans le fonds du Senato Mar.
+
+Le fonds des manuscrits italiens de la Bibliothèque Marciana a fourni plusieurs descriptions et histoires de l’ile dues à des auteurs du xvie siècle (Andrea Cornaro, Benetto Gatto...).
+Dans celui de la Bibliothèque nationale, nous avons dépouillé les transcriptions de documents établies par l’érudit grec C. Sathas. 
+
+
+== Première partie L’administration ==
+
+
+=== Chapitre premier l’encadrement administratif ===
+
+Les représentants traditionnels du gouvernement central, le duc de Crète et ses deux conseillers (Regimen), ainsi que le capitaine général de l’ile, voient, au xvie siècle, diminuer leur pouvoir du fait de la présence quasi permanente d’un proveditor et inquisitor del regno, ainsi que d’un proveditor della cavallaria.
+Ils continuent néanmoins à détenir d’importantes prérogatives judiciaires, administratives et militaires ; chef de l’exécutif, le duc conserve une autorité certaine, qui peut être qualifiée de symbolique.
+Ces hauts magistrats sont assistés dans leurs activités par différents services : chancelleries, corps armés, piffres...
+Il en va de même pour les nouvelles figures du pouvoir, proveditor general et proveditor della cavallaria.
+
+L’ancienne et puissante formation du Conseil des nobles et feudataires existe encore au xvie siècle, mais avec des attributions limitées et une composition réduite.
+Il donne toutefois naissance, de façon lente et incertaine, à un conseil plus limité, mais qui ne sera pas dénué d’un rôle important dans l’avenir, le Conseil des XVIII.
+
+
+=== Chapitre II La politique des offices ===
+
+La réforme de 1490. – Si, avant 1490, l’attribution des offices et l’élection des officiers reposent sur des habitudes et des principes mal définis, sources de mécontentement et de revendication, une décision du Sénat, datant de cette année, redéfinit la politique de l’État en ce domaine.
+Les offices restent répartis entre trois catégories sociales distinctes, les nobles vénitiens, les nobles crétois et les citoyens, mais le mode d’élection est transformé.
+Il est désormais interdit d’élire un officier en dehors de la Crète et de le faire bénéficier des avantages de la fonction, s’il ne remplit pas les conditions sociales et morales requises.
+Tout au long du siècle, une série de textes relatifs à ces problèmes, promulgués par le gouvernement central à la suite des incessantes réclamations des sujets crétois, modifie le statut de la fonction publique. 
+
+Les témoignages contemporains. – Quelques auteurs des xvie et XVIIe siècles (Andrea Cornaro, Francesco Barozzi, Antonio Trivan...) ont observé le fonctionnement de l’administration crétoise.
+Il leur arrive d’évoquer des offices que ne mentionnent pas les documents d’archives.
+
+
+=== Chapitre III Les services du « Regimen » ===
+
+Parmi les services directement attachés au duc et à ses conseillers, la chancellerie constitue l’organisme central de toute l’administration vénitienne en Crète.
+Placée sous l’autorité d’un chancelier envoyé de la métropole, elle comprend douze notaires principaux aux tâches spécifiques, ainsi que six coadjuteurs ordinaires chargés d’assister directement les notaires.
+Elle assure la formation de techniciens aux activités des bureaux : un certain nombre de jeunes gens y entrent pour apprendre la rédaction latine et la tenue des livres, avant d’accéder à des postes de coadjuteurs extraordinaires et de faire carrière.
+
+Des liens de famille unissent fréquemment entre eux les membres du personnel de la chancellerie qui peuvent, d’autre part, être en accointance avec l’ordre des notaires publics.
+
+Les interprètes, de langue turque ou arabe, dépendent du duc et de ses conseillers, ainsi que les consuls vénitiens, envoyés sur les territoires étrangers, Rhodes ou Chios.
+Les piffres, chargés d’accompagner le duc lors des cérémonies, ainsi qu’un personnage chargé de l’entretien de l’horloge du campanile de San Marco de Candie, constituent un personnel auquel les autorités accordent une considération certaine.
+
+Les techniciens et les notaires viennent enfin compléter la série des services directs ; ils sont chargés de l’estimation des biens meubles et immeubles et ils jouent un rôle nécessaire dans le déroulement de certains procès et autres activités judiridiques.
+
+
+=== Chapitre IV La justice ===
+
+La justice « infra muros ». – Les affaires les plus importantes, au civil et au criminel, relèvent du Regimen qui se constitue, lorsque son activité judiciaire est en jeu, en collegio minore.
+Les sentences des cours inférieures viennent en premier appel devant un collegio civile, où siègent le duc et les conseillers, assistés d’un certain nombre de juges issus de ces mêmes cours.
+
+Un collegio criminale est, d’autre part, chargé de recevoir les appels des sentences en matière de droit pénal, provenant d’autres villes de Crète, et même, dans le cas particulier de Sithia, de juger en dernière instance. 
+
+La Crète est dotée, au xvie siècle, d’un Conseil des X, pourvu, à l’instar de l’institution métropolitaine homonyme, d’attributions spéciales.
+
+A côté de ces grandes formations, un certain nombre de cours et de services dits mineurs complètent l’organisation judiciaire : les avogadori, sortes de procureurs généraux et dépositaires des titres de noblesse, jouissent de la plus grande considération ; les seigneurs de nuit sont chargés du maintien de l’ordre public et de la répression des délits quotidiens, tout en expédiant un certain nombre d’affaires civiles (signori di notte, al civil) ; les justiciarii inspectent les marchés ; l’office des « cinq à la paix » n’a de commun que le titre avec la charge vénitienne du même nom, puisqu’en Crète, il relève des trésoriers ; s’y ajoutent les cours compétentes en matière de droit civil et surtout commercial (proprio et prosopio).
+
+L’office des gastaldi du duc, chargés d’exécuter ses sentences, et le service des huissiers ducaux constituent un des aspects les plus intéressants de la vie des administrations en Crète.
+Un grand nombre de scribes sont attachés à ces offices.
+
+La justice « extra muros ». – Les campagnes crétoises sont soumises au pouvoir judiciaire des castellani et des capitanei contra fures, magistrats d’un rang élevé, mais souvent peu efficaces, ce qui entraîne la création de deux corps d’intervention rapide contre les fauteurs de troubles de l’arrière-pays, les services du capitaneo contra li delinquenti et du capitaneo a estirpar li malfatori.
+
+
+=== Chapitre V La défense ===
+
+La défense terrestre. – Les réformes et les efforts de modernisation dans le domaine de la défense terrestre sont dûs, en large partie, à l’énergique proviseur Foscarini : augmentation des effectifs mercenaires sur l’ile, constitution de corps armés composés d’autochtones, garde des côtes, construction de forts et, surtout, réorganisation de la cavalerie.
+Autant de réformes donc que d’administrations nouvelles : la prolifération de ces dernières pose le problème de leur coordination avec les services des finances ; elle détermine aussi la création de caisses spéciales pour leur financement (fabbriche, angarie, guardie marine...).
+
+La défense maritime. – Malgré les véritables besoins que présentait la conjoncture internationale, la défense maritime demeure traditionnelle.
+Les sopracomiti continuent à gouverner et à armer les galères ; malgré l’aide de l’État, ils s’acquittent tant bien que mal de leurs tâches.
+La création de l’office des governatori di galea témoigne cependant, vers le milieu du siècle, d’un effort de réforme. 
+
+Le service de l’arsenal est très développé.
+Il est doté d’administrateurs, de scribes et de techniciens, figures aussi caractéristiques de l’époque que les écrivains de la chancellerie ou des tribunaux.
+
+
+=== Chapitre VI Le trésor et les services extérieurs ===
+
+Le financement des travaux publics, le paiement des officiers et des troupes, ainsi que la perception des droits dus à l’État sur les marchandises ou sur les affaires traitées par les tribunaux, s’effectuent sous la responsabilité et le commandement de trois « fonctionnaires » envoyés de la métropole.
+
+Le noyau principal de cette administration est le trésor (caméra fiscal), pourvu d’un personnel spécialisé (caissiers, comptables, scribes, quadernieri, assistants divers, conseillers en affaires financières, avocato fiscal).
+Dans les livres du trésor, sont consignées toutes les étapes de chaque opération financière menée au nom de l’État.
+Au fur et à mesure de leur train quotidien, les entrées et les dépenses sont relevées dans des jornali ; leur enregistrement donne lieu à des opérations de contrôle et de vérification préliminaires à la constitution des libri exigés par Venise.
+
+Tous les organismes dont l’activité nécessite l’intervention du trésor, sont dûment contrôlés par un deputato, ou représentant du trésor, qui conserve de son côté une double série de livres de comptes : l’une est destinée à l’administration auprès de laquelle il représente le trésor, l’autre à ce dernier.
+Ces grands services extérieurs (angarie, saline, fabbriche) n’en possèdent pas moins leur propre administration.
+
+Divers types d’impôts (datia) constituent une des plus importantes recettes du trésor.
+Ils sont affermés à des particuliers, qui sont considérés néanmoins comme des officiers.
+La ferme des impôts fait habituellement l’objet d’une vente aux enchères ; les modalités du système ont été réformées à plusieurs reprises.
+Un nouvel office sopra li datii, qui existait déjà dans la métropole, apparaît pour la première fois en Crète au XVIe siècle.
+
+
+=== Chapitre VII Services de la santé ===
+
+Les proveditori sopre la sanità, institués en 1553, sont chargés de lutter contre les épidémies.
+La grande peste de 1593 provoque la création d’un office de procuratore del lazaretto.
+
+L’hôpital de Candie est placé sous l’autorité d’un procureur, assisté par un essatore del danaro et par la prieure de l’hôpital. 
+
+
+=== Chapitre VIII L’île de Cerigo ===
+
+Point stratégique d’où l’on peut surveiller le mouvement des flottes, l’ile de Cerigo (Cythère) dépend du Regimen de Candie.
+Le proviseur et châtelain de l’ile exerce un pouvoir de juridiction.
+Il vient directement de la métropole, alors que les officiers subalternes (capitaneo del Borgo, capitaines de districts, fromenti) sont élus à Candie.
+
+
+=== Chapitre IX Questions ecclésiastiques ===
+
+La coexistence des rites grec et latin crée, pour l’État vénitien et ses représentants en Crète, des problèmes d’ordre à la fois politique et administratif.
+
+L’Église grecque. – En l’absence d’un évêque orthodoxe en Crète, les prêtres sont consacrés hors de l’ile ; pour entreprendre ce voyage, ils doivent solliciter l’autorisation des autorités de Candie et se soumettre à une série de formalités.
+Par ailleurs, les protopapas et les protopsaltas tiennent leur charge du pouvoir civil.
+
+Les uniates. – Le Regimen et, parfois, le proviseur général contrôlent l’attribution des pensions et subventions provenant du legs du cardinal Bessarion en faveur des grecs uniates placés sous la protection de Venise.
+
+L’Église latine. – Les chapelains respectifs du duc et des conseillers sont désignés par le Regimen, de même que le chapelain de l’église de la Santa Madona Maria di Miracoli.
+De l’autorité seule du duc dépend la nomination de laïques comme procureurs de la Camera Christi et de l’église de la Madona di Miracoli.
+Un lector publicus est chargé d’instruire les jeunes gens de la chancellerie et certains jeunes nobles.
+
+
+== Deuxième partie Les officiers ==
+
+
+=== Chapitre premier les documents ===
+
+La série Nomine di officiali, provenant des archives du duché de Candie (Venise, Archivio di Stato, Archivio del duca di Candia, buste 55-56), se compose de registres où sont transcrits les actes relatifs à la désignation et à la nomination des officiers.
+Les quatre registres conservés pour le xvie siècle (busta 55, reg. 1 : A, 2 : B, 3 : C, 4 : D) couvrent la période 1537-1597, avec une lacune importante de juin 1541 à février 1573.
+Ils concernent les nominations, régulières ou occasionnelles, faites par le Regimen, à la destination exclusive de ses propres services ou des institutions dépendant directement de lui ; ils contiennent le procès-verbal des séances du Conseil des nobles et feudataires ayant trait aux élections d’officiers.
+
+
+=== Chapitre II Registres de la série « Nomine DI officiali » ===
+
+Les actes contenus dans les quatre registres du xvie siècle de la série Nomine di officiali sont soit analysés, soit édités in extenso.
+Le nombre des actes s’élève à 303 pour le registre A, à 464 pour le registre B, à 510 pour le registre C et à 36 pour le registre D.
+
+
+== Annexes ==
+
+Liste des offices. – Liste des officiers.

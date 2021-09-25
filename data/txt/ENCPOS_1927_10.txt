@@ -1,0 +1,105 @@
+identifier: ENCPOS_1927_10
+creator: Robert Marichal
+date: 1927
+title: Les traductions provençales du Livre de Sidrach, précédées d’un classement des manuscrits français
+
+
+
+== Introduction ==
+
+
+
+
+== Chapitre premier l’auteur ==
+
+« L’espèce de catéchisme de omni re scibili et de quibusdam aliis », comme l’a appelé E. Renan, qui s’intitule :
+    « Livre de Sidrach ou Fontaine de toutes sciences » pose un problème délicat : celui de l’auteur.
+E. Renan et Gaston Paris pensant que la version provençale, conservée par le manuscrit français 1158 de la bibliothèque Nationale était la version originale, avaient supposé que l’ouvrage devait être attribué à un
+    « Jean Pierre de Lyon » dont parle le prologue, qui, attaché au patriarche Aubert d’Antioche et en rapport avec Frédéric II, l’aurait écrit vers 1243, date que donne le prologue.
+
+M. Ch.
+V. Langlois a ruiné cette hypothèse en montrant que la version provençale était de tout point inférieure à la version française et n’en était qu’une traduction.
+La date de 1243 est, en outre, inacceptable puisque l’ouvrage fait mention de la prise de
+    « Rabata  »
+Antioche (1268) et utilise l’Image du Monde composée en 1247.
+
+L’auteur, « un clerc occidental », dut cependant être très au courant des affaires d’Orient comme de celles de Frédéric II, et ne peut être plus précisément connu.
+
+
+== Chapitre II Classement des manuscrits français ==
+
+On a trouvé un précieux moyen de classement dans la disposition des diverses questions qui composent l’ouvrage, et la récente méthode que Dom N. Quentin a appliquée aux manuscrits de la Vulgate, a confirmé sur la plupart des points les indications fournies par les rubriques.
+
+Les quatorze manuscrits que nous avons utilisés se groupent de la façon suivante :
+
+1° Une rédaction β (mss. fr. 1160, 1161, 12444 de la Bibl.
+Nat. – 2202 de la Bibl.
+Ste-Geneviève. – 2320 de la Bibl. de l’Arsenal) qui comprend 613 questions et semble être la rédaction primitive.
+
+20 Une rédaction γ (ms. fr. 1157 de la Bibl.
+Nat. – Nouvelles acquis, fr. 10063 de la Bibl.
+Nat. – 593 de la Bibl. de Rennes) d’environ 1.208 questions, qui est une refonte de la rédaction β avec de nombreuses additions et qui peut être une seconde édition due au même auteur.
+
+3° Deux groupes α (mss. fr. 1156, 19186, 24395 de la Bibl.
+Nat.) et (ms. fr. 1159 de la Bibl.
+Nat. – ms. fr. de la Faculté de médecine de Montpellier) qui dérivent, le premier de γ, le second de β, mais ont emprunté tous deux la fin de l’ouvrage à un même ms. dérivé de γ.
+
+4° Le ms. fr. 762 de la Bibl.
+Nat. est une compilation des deux rédactions β et γ.
+
+
+== Chapitre III Manuscrits mineurs et fragments ==
+
+Nous désignons sous le nom de mss. mineurs le ms. 10231 des Nouvelles acquisitions de la Bibl.
+Nat., qui est une reproduction abrégée de la rédaction β et le ms. fr. 1543 de la Bibl.
+Nat., qui contient de nombreuses questions de Sidrach très résumées.
+
+Le fragment le plus important est constitué par une cinquantaine de feuillets conservés aux Archives Nationales et provenant de la reliure du terrier de Léoncel (Drôme), 1462. 11 est apparenté au ms. fr. 1160 de la Bibl.
+Nat.
+
+
+== Chapitre IV Éditions. – Traductions ==
+
+
+=== § I. — Editions ===
+
+Les huit éditions de Sidrach, publiées de 1486 à 1531, dérivent toutes d’un ms. voisin du ms. fr. 1156 de la Bibl.
+Nat.
+
+
+=== § 2. — Traductions ===
+
+a) La traduction italienne du livre de Sidrach exécutée au milieu du xive siècle est apparentée au ms. 2202 de la Bibl.
+Sainte-Geneviève ;
+
+b) Traductions flamande et allemande. – Ces traductions, dont la flamande est la plus ancienne, constituent un remaniement complet de la rédaction β de Sidrach.
+
+
+== Chapitre V Traductions provençales ==
+
+Deux manuscrits provençaux nous ont conservé le livre de Sidrach.
+Ils représentent deux traductions indépendantes :
+
+
+=== § 1. – Ms. Fr. 1158 de la bibl. Nat. ===
+
+Ce ms. est du xive siècle et la langue de son copiste, très voisine de celle de la Régula Sancti Benedicti copiée à Souillac, permet de le considérer comme écrit dans un territoire voisin du département actuel du Lot.
+
+La traduction qu’il représente fort imparfaitement a eu pour base un ms. de la famille β, mais l’auteur l’a amplifié au moyen de textes pris dans les autres rédactions et des deux premiers chapitres de l’Image du Monde.
+C’est cette traduction que nous publions intégralement.
+
+
+=== § 2. – Ms. De Bertrand Boysset. ===
+
+C’est en 1372 que B. Boysset a copié le début d’une traduction de Sidrach très voisine des mss. de la rédaction β et très fidèle.
+Cette traduction est absolument différente de celle qui est représentée par le ms. 1158, et les variantes en ont été indiquées en notes.
+
+
+== Texte ==
+
+
+
+
+== Glossaire ==
+
+

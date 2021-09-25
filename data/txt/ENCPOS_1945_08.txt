@@ -1,0 +1,105 @@
+identifier: ENCPOS_1945_08
+creator: Denise Cornet
+date: 1945
+title: Les commentaires de l’Anticlaudianus d’Alain de Lille d’après les manuscrits de Paris. Étude suivie de l’édition du Commentaire de Raoul de Longchamp
+
+
+
+== Avant-propos ==
+
+
+
+
+== Bibliographie liste des manuscrits de l’« Anticlaudianus ». ==
+
+
+
+
+== Introduction l’« Anticlaudianus », ses sources et son influence. ==
+
+Sous une forme allégorique, l’Anticlaudianus d’Alain de Lille aborde les sujets les plus divers et touche à toutes les questions, depuis l’enseignement élémentaire jusqu’aux problèmes métaphysiques et moraux.
+Aussi apparaît-il à certains de ses contemporains comme une encyclopédie.
+
+Les sources. – Inspiré surtout par le De nuptiis Mercurii et Philologiae de Martianus Capella, la Consolatio Philosophiae de Boèce et le De mundi universitate de Bernard Silvestre, l’Anticlaudianus se rattache à la philosophie platonicienne pratiquée à l’école de Chartres.
+Le style est parsemé de nombreuses réminiscences classiques.
+
+La diffusion du poème. – Le succès de l’Anticlaudianus est attesté par les nombreuses imitations et traductions dont il fut l’objet et par le grand nombre des manuscrits.
+La plupart de ces manuscrits portent des gloses.
+Intérêt des gloses.
+
+
+== Chapitre premier les gloses. ==
+
+1. – LA GLOSE DU MANUSCRIT BIBL. NAT. LAT. 11337 (xiiie s.). – – a) Le manuscrit. – b) Les sources : l’auteur ne connaît guère Aristote.
+Il utilise Platon, et la Hierarchia du Pseudo-Denys. – c) Interprétation : identification du guide de Prudence avec la Théologie.
+Définition des termes des Sept Arts.
+Interprétation symbolique ramenant tout à l’homme.
+Les trois miroirs de Raison signifient les trois degrés de la spéculation intellectuelle.
+
+2. – LA GLOSE DE GUILLAUME D’AUXERRE. – a) Le manuscrit : Bibl. nat. lat. 8299 (xive s.). – b) L’auteur : la glose est attribuée par notre manuscrit à Guillaume d’Auxerre, mort en mission à Rome, probablement en 1231, alors qu’il s’occupait de régler les affaires de l’Université de Paris.
+Cette attribution est discutée.
+De faibles indices d’une parenté possible de la glose avec la Summa aurea de Guillaume inclinent à penser qu’il est l’auteur de la glose. – c) La date : la glose sur l’Anticlaudianus a été vraisemblablement composée avant la Summa aurea, achevée en 1220. – d) Les sources : Guillaume utilise abondamment Aristote ; il cite en particulier la Physique et connaît deux traductions de la Métaphysique, ainsi que le commentaire d’Averroès sur ce dernier ouvrage.
+Il fait appel au témoignage de nombreux auteurs, les poètes classiques, notamment. – e) Interprétation : nombreuses gloses grammaticales.
+Quelques identifications intéressantes des noms cités par Alain, en particulier celle du poète Ennius avec Joseph d’Exeter.
+Intérêt porté à l’astronomie.
+Explication des météores.
+Les trois miroirs de Raison désignent les trois modes d’opérer de la spéculation rationnelle.
+Le poème est interprété dans le sens chrétien ; le guide de Prudence est le Noys ou la Sagesse divine ; l’homme parfait nouvellement formé devient le Christ.
+
+3. – LES GLOSES DES MANUSCRITS BIBL. NAT. LAT. 18568 ET 3517. – a) Les manuscrits. – b) Le contenu des gloses : les gloses de ces deux manuscrits présentent un grand nombre de caractères communs avec la glose de Guillaume : mêmes citations, même identification du guide de Prudence et du Noys.
+Toutefois, elles comportent certaines différences dans les sources et l’interprétation.
+
+4. – LA GLOSE DE ROBERT DE SORBON. – La glose de Robert de Sorbon est contenue dans trois feuillets seulement du manuscrit latin 8300 (xve s.) de la Bibliothèque nationale.
+
+5. – LA GLOSE DU MANUSCRIT BIBL. NAT. LAT. 8298. – Deux feuillets glosés qui sont de simples explications de vocabulaire.
+
+
+== Chapitre II Le commentaire de Raoul de Longchamp. ==
+
+Les manuscrits. – Le texte du commentaire de Raoul de Longchamp nous a été transmis par sept manuscrits.
+Description des manuscrits : Bibl. nat. lat. 8083 et 8301.
+
+L’auteur. – L’auteur se nomme lui-même à plusieurs reprises.
+C’est un certain Raduljus de Longo Campo, cistercien d’après C. de Visch.
+Né vers 1155-1160, il séjourna à Rouen et Montpellier.
+Il connaissait Alain de Lille.
+Il composa pour ses élèves un certain nombre d’ouvrages dont il donne la liste dans le prologue de son Commentaire et, en particulier, une Cornicula ou Summa de philosophia, inspirée de la Philosophia mundi de Guillaume de Conches.
+
+La date. – Les dates extrêmes entre lesquelles Raoul composa son Commentaire sont données par la lettre de dédi cace à Arnaud Amauri, archevêque de Narbonne de 1212 à 1225.
+
+Les sources. – Raoul participe à des courants divers. 11 subit l’influence de l’école de Chartres, principalement par l’intermédiaire de Guillaume de Conches.
+A Montpellier, sans doute, il se familiarise avec les auteurs médicaux : Galien, Hippocrate, Al Râzi, Isaac Israeli, Urso de Lodi et Maurus.
+Il participe à l’introduction des traités nouvellement traduits d’Aristote et des auteurs arabes.
+Il utilise le De anima, le De Somno et vigilia et les Météores, ainsi que le Commentaire d’Alfred de Sareshel sur ce dernier ouvrage ; il cite également Avicenne, Albumasar.
+Pour l’explication des Sept Arts, il utilise les sources traditionnelles.
+
+Le Commentaire. – a) La méthode employée : Raoul fait un exposé détaillé de chacune des grandes questions qu’aborde l’Anticlaudianus, puis il revient sur le texte et reprend les mots qui ont besoin d’une explication supplémentaire.
+Il se laisse souvent entraîner hors de son sujet et le commentaire devient un exposé de ses propres doctrines. 11 est surtout intéressé par le côté encyclopédique du poème. – b) L’interprétation : à l’explication du personnage de Prudence, Raoul rattache une classification des Sciences ; comme chez les Chartrains, le Trivium ne fait pas partie de la Philosophie.
+Exposé des Sept Arts : chaque art fait l’objet d’un véritable petit traité.
+Système du monde : Raoul complète les théories d’Alain.
+La matière primordiale ; les éléments.
+Description du monde et mouvements des planètes.
+Explication des météores.
+Étude du composé humain et psychologie : le microcosme ; l’union du corps et de l’âme.
+Raoul interprète les trois miroirs de Raison comme représentant la raison, l’intellect et l’intelligence et étudie les cinq facultés de l’âme.
+Théologie : Dieu créateur ; la bonté divine cause finale du monde ; les théophanies. – c) Conclusion : le commentaire de Raoul a un caractère surtout scientifique.
+Il se termine au début du livre IV et laisse de côté une bonne partie de l’interprétation du poème. 
+
+Le remaniement du Commentaire de Raoul. – Le Commentaire fut remanié au xive ou xve siècle par un anonyme.
+C’est le texte que nous offre le manuscrit Bibl. nat. lat. 8301. 11 supprime quelques gloses courtes et ajoute deux ou trois développements dont une théorie de l’arc-en-ciel.
+
+
+== Chapitre III Les préfaces et prologues ajoutés a l’« Anticlaudianus ». ==
+
+
+
+
+== Chapitre IV Influences des Commentaires sur les adaptations et traductions de l’« Anticlaudianus ». ==
+
+Certaines interprétations de l’Anticlaudianus peuvent avoir leurs sources dans les gloses latines : on retrouve, par exemple, l’identification du guide de Prudence avec Noys dans le Ludus super Anticlaudianum d’Adam de la Bassée, écrit avant 1280 et traduit peu après en vers français.
+L’adaptation de l’Anticlaudianus en vers français par Ellebaut, au xiiie siècle, interprète l’homme nouveau comme étant le Christ ; de même, le Gottes Zukunft d’Henri von Neustadt.
+
+
+== Conclusion ==
+
+
