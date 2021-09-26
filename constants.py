@@ -1,7 +1,7 @@
 ALPHA = '\0 abcdefghijklmnopqrstuvwxyzçéèëïöüêîôû-\''
 DATA_FOLDER = "data/"
 WORDS_FILENAME = "liste-nom.csv"
-SURNAME_MODEL_FILENAME = "prenoms.json"
-LASTNAME_MODEL_FILENAME = "noms.json"
-SURNAME_MODEL_CUMUL_FILENAME = "prenoms-cumul.json"
-LASTNAME_MODEL_CUMUL_FILENAME = "noms-cumul.json"
+SURNAME_MODEL2D_FILENAME = "prenoms2d.json"
+LASTNAME_MODEL2D_FILENAME = "noms2d.json"
+SURNAME_MODEL3D_FILENAME = "prenoms3d.json"
+LASTNAME_MODEL3D_FILENAME = "noms3d.json"
