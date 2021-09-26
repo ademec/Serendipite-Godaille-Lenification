@@ -62,8 +62,20 @@
 
       <p>
         Notre méthode génère donc les noms des chartistes lettre à lettre en respectant les probabilités
-        relatives des successions données. 
+        relatives des successions données.
+        Cette carte de chaleur donne la matrice de probabilité de chacune des successions.
+        On peut la lire de cette manière : sachant qu'on a tiré la lettre représentée sur l'ordonnée,
+        quelle est la probabilité pour qu'on tire la lettre représentée sur l'abscisse ?
+        Plus la couleur de la cellule est chaude, plus la probabilité est élevée.
       </p>
+
+      <img width="1000" src="{{ url_for('static', filename='heatMapProb1.png') }}"/>
+
+      <p>
+        Pour comparaison, voici la matrice obtenue à partir des mots du dictionnaire français du projet Gutenberg :
+      </p>
+
+      <img width="500" src="{{ url_for('static', filename='matrix_gutenberg.png') }}"/>
 
       <p>
         A noter que cette représentation ne montre que les fréquences d'occurrence de bigrammes, c'est-à-dire
