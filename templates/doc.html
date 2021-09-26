@@ -91,25 +91,53 @@
       <h2>La génération automatique de visages</h2>
       
       <p>
-        Nous avons souhaité générer automatiquement et aléatoirement des visages supposés de chartistes
+        Nous avons souhaité générer automatiquement et aléatoirement des visages de chartistes
         grâce à une intelligence artificielle de type GAN.
-        Un GAN, <i>generative adversarial networks</i> ou réseaux antagonistes génératifs, fonctionne
-        comme un jeu interne où l'algorithme essaie de créer des images et un autre algorithme devine
+        Un GAN (pour <i>generative adversarial network</i> ou réseau antagoniste génératif), fonctionne
+        comme un jeu interne où l'algorithme essaie de créer des images, et un autre algorithme devine
         si cette image est réelle ou non.
       </p>
       
       <p>
         Pour cela, nous avons initialement récupéré toutes les images issues du corpus iconographique
-        ainsi que les photos de classe. Chaque visage de ces photos a prélevé hors des images afin de
-        limiter le bruit qui aurait contribué à réduire la qualité des images générées.
+        ainsi que les photos de classe. Chaque visage de ces photos a été prélevée dans les photos de classe
+        afin de limiter le bruit qui aurait réduit la qualité des images générées.
         Nous avons utilisé des filtres pseudo-Haar implémentés dans la librairie OpenCV de Python.
+      </p>
+
+      <p>
+        Pour rendre à César ce qui est à César, voici notre inspiration:
+        <a href="https://www.thispersondoesnotexist.com/">thispersondoesnotexist.com</a>.
       </p>
 
       <h2>La génération automatique de positions de thèse</h2>
 
-      <p>Il a fallu intialiement créer un corpus adapté. Nous avons réuni en un seul fichier l'intégralité des positions de thèse auxquelles nous avons retiré l'encodage TEI. L'ensemble a été réuni dans un fichier .txt . Il a fallu nettoyer en profondeur ce corpus : retirer les mots non signifiants et structurants (par exemple : "Chap. 1"), harmoniser et nettoyer le surperflus.</p>
-      <p>L'entraînement a été réalisé avec la librairie PyTorch en utilisant un réseau de type récurrent (RNN : <i>recurrant neural network</i>) avec un LSTM (<i>long short term memory</i>) pour apprendre à refaire les phrases. </p>
-      <p>Le résultat est ici peu concluant car le corpus possède quelques complexités : les phrases sont très longues et le corpus très lourd, ce qui a ralentit l'apprentissage. Le réseau de neurones analyse seulement, dans un objectif de rapidité, les 2 mots avant et les 2 mots après. Or, les phrases faisant bien trop souvent au-delà de 5 mots, l'algorithme a eu bien trop de difficultés à apprendre et nous n'avons entraîné le modèle "que" 4 heures. Un entraînement plus long aurait été nécessaire.</p>
+      <p>
+        Il a fallu intialiement créer un corpus adapté.
+        Pour cela, nous avons réuni en un seul fichier l'intégralité des positions de thèse auxquelles
+        nous avons retiré l'encodage TEI.
+        L'ensemble a été réuni dans un fichier TXT.
+        Il a fallu nettoyer en profondeur ce corpus : retirer les mots non signifiants et structurants
+        (par exemple : "Chap. 1"), harmoniser et nettoyer le surperflu, etc.
+      </p>
+      
+      <p>
+        L'entraînement a été réalisé avec la librairie PyTorch en utilisant un réseau de type récurrent
+        (RNN, ou <i>recurrent neural network</i>) avec LSTM (pour <i>long short term memory</i>)
+        afin d'apprendre à refaire de nouvelles phrases.
+      </p>
+      
+      <p>
+        Le résultat est ici peu concluant car le corpus possède quelques complexités :
+        les phrases sont très longues et le corpus très lourd,
+        ce qui a ralentit l'apprentissage.
+        Dans un souci de rapidité, le réseau de neurones ne retient seulement que les 2 mots précédents
+        et les 2 mots suivants.
+        Or, les phrases faisaient souvent plus de 5 mots, et l'algorithme a eu des difficultés
+        à apprendre. Nous n'avons entraîné le modèle "que" 4 heures.
+        Un entraînement plus long aurait été appréciable.
+      </p>
+      
       <h2>Quelques visualisations sur nos données</h2>
 
       <p>
@@ -122,9 +150,7 @@
 
       <h2>Quelques visualisations sur nos données</h2>
 
-      <h3> Topic modelling</h3>
-
-      <h3> Nuage de mots</h3>
+      <h3>Topic modelling</h3>
 
       <img src="{{ url_for('static', filename='TMViz1.png') }}" width="500" />
       
@@ -135,6 +161,8 @@
         Le topic modelling a été appliqué sur les titres des positions de thèses.
         Il s'agit d'une version bêta, pas nettoyée complètement.
       </p>
+
+      <h3> Nuage de mots</h3>
 
       <iframe style='width: 615px; height: 489px;' src='https://voyant-tools.org/tool/Cirrus/?corpus=36ba3e37361fad79a8bcc280398ad06a'></iframe>
       
