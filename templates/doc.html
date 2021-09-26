@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Générateur de positions de thèses</title>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+		<style>
+			@font-face {
+				font-family: "CartaNovaTexte-Regular";
+				src: url("{{ url_for('static', filename='CartaNovaTexte-Regular.ttf') }}");
+			}
+
+			body {
+				font-family: 'CartaNovaTexte-Regular' !important;
+				font-size: 1.25em;
+			}
+		</style>
+</head>
+
+<body>
+
+  <nav class="navbar navbar-light navbar-expand bg-light py-3 border-bottom">
+		<div class="container">
+			<a class="navbar-brand fs-3" href="/">Chartabia</a>
+			<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+				<span class="navbar-toggler-icon"></span>
+			</button>
+			<div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+				<ul class="navbar-nav">
+					<li class="nav-item">
+						<a class="nav-link fs-5" aria-current="page" href="/doc">
+							Documentation
+						</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</nav>
+
+  <div class="container">
+    <br>
+    <p>
+      Vous trouverez ici des explications sur le fonctionnement
+      du générateur aléatoire de positions de thèse.
+    </p>
+    
+    <h2>Générateur de noms</h2>
+
+    <p>Ce générateur fonctionne sur le principe des chaînes de Markov.</p>
+
+  </div>
+
+</body>
+
+</html>
