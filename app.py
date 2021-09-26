@@ -9,7 +9,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def index():
-	return render_template("index.html", name=gen_surname() + " " + gen_lastname())
+	return render_template("index.html", name=gen_surname() + " " + gen_lastname().upper())
 
 @app.route("/doc")
 def doc():
