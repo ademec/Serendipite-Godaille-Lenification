@@ -12,7 +12,8 @@ def index():
 	return render_template("index.html",
 		name=gen_surname() + " " + gen_lastname().upper(),
 		photo=gen_photo_b64(),
-		abstract=gen_abstract()
+		abstract=gen_abstract(),
+		title=gen_title()
 	)
 
 @app.route("/doc")
