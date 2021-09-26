@@ -1,4 +1,7 @@
-from flask import Flask, render_template, url_for
+from os import listdir
+from random import choice
+
+from flask import Flask, render_template, send_file
 
 from wordgen.word import gen_surname, gen_lastname
 
@@ -16,9 +19,12 @@ def doc():
 def name():
 	return gen_surname() + " " + gen_lastname()
 
-@app.route("/photo")
+@app.route("/photo.jpg")
 def photo():
-	return #url_for('static', )
+	photo_dir = "data/fake_faces/"
+	filename = choice(listdir(photo_dir))
+	print(filename)
+	return send_file(photo_dir + filename, mimetype="image/jpeg")
 
 if __name__ == "__main__":
 	app.run()
