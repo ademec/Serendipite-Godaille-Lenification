@@ -1,0 +1,155 @@
+identifier: ENCPOS_1979_07
+creator: Sylvie Lenormand
+date: 1979
+title: Guillaume de Conches et le commentaire sur le De Consolatione philosophiae de Boèce. Étude et édition critique
+
+
+
+== Première partie Guillaume de Conches : le milieu et l’auteur ==
+
+
+=== Chapitre premier le milieu et l’époque. L’héritage intellectuel ===
+
+La Renaissance du xiie siècle. – L’assimilation de l’héritage classique suscite un renouveau qui donne naissance à une culture nouvelle, et dont l’École de Chartres offre un intéressant exemple.
+Son existence a néanmoins été controversée.
+Mais, au-delà des structures institutionnelles plus ou moins établies, Bernard et Thierry de Chartres, Guillaume de Conches, Bernard Silvestre, Gilbert de la Porrée et Jean de Salisbury sont liés par des lectures et un héritage communs, une méthode et un projet identiques : dépouiller la cosmologie de son caractère miraculeux, dévoiler l’économie de la création et la structure physique de l’univers.
+
+L’héritage platonicien. – L’héritage platonicien repose sur une double tradition : directe et indirecte.
+Le xiie siècle dispose de très peu de textes (le Tintée est transmis dans la traduction de Calcidius).
+Il s’ensuit une forme de platonisme orientée vers l’étude physique de la réalité et que l’on cherche à accorder aux données de la Genèse.
+Dans cette perspective, Platon est lu en faisant usage de la notion d’integumentum, c’est-à-dire en dévoilant le sens moral et orthodoxe caché derrière des fables à l’allure frivole et païenne.
+
+Le rôle de Boèce. – La Consolation de Philosophie connaît une diffusion considérable non seulement dans les milieux universitaires, mais encore chez les laïcs.
+Ce texte transmet des éléments aristotéliciens et surtout néoplatoniciens.
+De plus, Boèce y définit de nouveaux concepts philosophiques (par exemple : perpetuitas/aeternitas) que Guillaume de Conches développe dans son commentaire.
+Le prestige de Boèce, considéré comme chrétien, facilite l’interprétation orthodoxe des doctrines platoniciennes énoncées dans la Consolation de Philosophie.
+
+
+=== Chapitre II Guillaume de Conches ===
+
+La vie. – Aucun élément nouveau n’a été apporté à cette question.
+
+L’œuvre. – On doit à Guillaume de Conches des Gloses sur Macrobe, des Gloses sur la Consolation de Philosophie de Boèce, une Philosophia Mundi avec un remaniement non authentique : le Compendium, les Gloses sur le Timée et le Dragmaticon.
+Le Moralium Dogma Philosophorum lui a également été attribué.
+
+La pensée. – D’abord préoccupé de questions métaphysiques, Guillaume de Conches s’oriente de plus en plus vers des recherches de philosophie naturelle.
+
+1.
+Les facultés cognitives sont les suivantes : sensus, imaginatio, ratio, intelligentia.
+L’intelligentia (faculté d’appréhender les incorporels) naît de l’exercice de la ratio sans qu’il y ait rupture et saut.
+H y a trois facultés secondaires : ingenium, memoria, opinio.
+
+2.
+La métaphysique : Dieu est conçu comme causalité universelle (distinction des trois causes : efficiente, formelle et finale).
+Pour assimiler le Démiurge platonicien et le Créateur biblique, Guillaume de Conches distingue deux moments dans la création : la matière dépourvue d’ornatio et Vexornatio.
+Les idées divines sont expliquées selon la tradition exemplariste issue de saint Augustin.
+La bonté est cause finale.
+
+Le monde a commencé avec le temps et non dans le temps.
+
+L’Âme du Monde est, dans les Gloses sur Boèce, assimilée au Saint-Esprit.
+L’âme individuelle reçoit ses qualités de l’Âme du Monde, dont elle se distingue en ce qu’elle est mélangée. 
+
+3.
+La physique.
+La materia prima (yle) n’est concevable qu’en faisant abstraction de toute détermination.
+
+Guillaume de Conches construit une théorie des éléments qui emprunte quelques détails à Démocrite (atomes), mais qui reste, pour l’essentiel, originale ; l’élément ne peut s’appréhender que de façon intellectuelle : c’est la plus petite partie non divisible d’un corps.
+Ce qui est visible s’appelle elementatum.
+
+L’élément possède deux qualités.
+La liaison des éléments s’opère selon des schémas arithmétiques, issus en partie de Boèce et de Martianus Capella : les syzygies.
+Le mouvement des éléments est double : transmutation et mouvement local.
+
+La nature a une activité créatrice grâce au jeu des mécanismes de la reproduction : ce sont les causes secondes.
+
+
+== Deuxième partie Les gloses sur la Consolation de philosophie ==
+
+
+=== Chapitre premier le texte ===
+
+Les sources. – Les premières sources sont les textes classiques.
+Guillaume de Conches puise dans le Commentaire sur le Songe de Scipion de Macrobe des renseignements sur la théorie des éléments, le mythe et sa signification chez Platon, l’Âme du Monde mouvant les sphères et composée de chiffres.
+Il utilise également Macrobe comme source de renseignements géographiques.
+Mais les données cosmographiques fournies par le commentaire de Macrobe ne sont pas utilisées.
+Ce texte est donc moins fréquemment mis à contribution que dans les Gloses sur le Timée.
+On note aussi l’influence du Commentaire de Calcidius sur le Timée : Guillaume de Conches l’utilise, mais non pas de façon systématique, peut être même de façon indirecte ; il comprend de façon similaire la jonction des éléments, la doctrine des Idées dans l’esprit divin, la théorie des étoiles-chars des âmes.
+A Martianus Capella, Guillaume de Conches emprunte la théorie des syzygies, des renseignements d’ordre astronomique issus du De Nuptiis Mercurii et Philologiae, à Boèce quelques compléments doctrinaux proposés par le De Arithmetica, le De Musica et le Commentaire sur les Catégories d’Aristote.
+Enfin, Guillaume cite fréquemment les auteurs classiques (Caton, Horace, Juvénal, Virgile, Salluste, Cicéron et Fulgence), mais ces citations n’ont qu’un rôle d’ornement. 
+
+Parmi les commentaires antécédents, Guillaume de Conches s’est servi des œuvres de Remi d’Auxerre et d’Adalbold d’Utrecht, mais, d’une part, il est le premier à avoir composé un commentaire suivi, d’autre part, moins désireux de christianiser Platon, il respecte davantage la vérité du texte.
+
+Les parallèles. – Les Gloses sur Boèce présentent des similitudes de contenu avec le De Sex Dierum Operibus de Thierry de Chartres (causes de la création, composition des étoiles), avec la Cosmographia de Bernard Silvestre (la materia prima, l’émergence des créatures).
+D’autre part, l’un et l’autre donnent une analyse semblable du mythe d’Orphée (Commentaire sur l’Enéide de Bernard Silvestre).
+Les rapprochements à faire entre Guillaume et ses contemporains chartrains concernent donc principalement les théories de la Création (causes et économie).
+
+Diffusion et influence. – Le texte a été lu surtout au xiiie siècle (treize manuscrits), époque à laquelle il a définitivement supplanté le commentaire de Remi d’Auxerre.
+On en connaît encore quatre manuscrits au xive siècle, trois au xve et un au xvie siècle.
+Les manuscrits se trouvent, à l’exception des manuscrits du Vatican (mss.
+Vat.
+Ottoboni lat. 1293, 612 et 5202), en Europe du Nord et en France, au nord de la Loire.
+
+Guillaume de Conches est cité par l’anonyme des Tables de Marseille (ms.
+Paris, Bibl. nat., lat. 14704) et utilisé, pour être contredit, par Nicolas Triveth dans son propre commentaire sur la Consolation de Philosophie.
+
+
+=== Chapitre II La méthode ===
+
+La glose expose à la fois les mots et les idées, généralement de façon assez succincte ; le commentaire est purement doctrinal.
+Guillaume de Conches emprunte une voie médiane : il cite toujours le texte de Boèce et lui adjoint des synonymes ou une paraphrase, et, à l’occasion, il introduit également de longs développements doctrinaux : Livre I (développements cosmographiques), Livre III (théories platoniciennes), Livres IV et V (exposition des allégories).
+Le style, très clair, est celui d’un excellent pédagogue.
+
+
+=== Chapitre III Les manuscrits ===
+
+Les manuscrits connus des Gloses sur Boèce sont au nombre de trente-six ; on en compte quatorze qui donnent le texte correct.
+
+Parmi ces quatorze, on distingue :
+
+– quatre manuscrits proches de l’original perdu : T : Troyes, Bibl. mun. 1101 (xiie siècle, Clairvaux) ; H : Heiligenkreuz, Stiftsbibl. 130 (xiie siècle) ; O : Orléans, Bibl. mun. 274 (xiie-xiiie siècle, Fleury) ; D 1 : Leyde, Bibl. univ., B.P.L. 191 A (xiiie siècle, Saint-Jacques de Liège).
+
+De ces manuscrits sont issus :
+
+– deux manuscrits allemands : G : Göttingen, philol. 167 (début du xiiie siècle) ; E : Erlangen 436 (xiiie-xive siècle, Heilsbronn).
+
+– une famille de manuscrits plus proches de O : L : Leipzig, Bibl. univ., cod. lat. 1253 (xiiie siècle) ; P : Prague, Bibl. univ., IV F. 14 (720) (xiiie siècle), et : Z : Troyes, Bibl. mun. 1381 (xiiie siècle, Clairvaux) ; M : Munich, Staatsbibl., lat. 4603 (xiiie siècle).
+
+– deux manuscrits d’une famille italienne : V : Vatican Ottoboni, lat. 5202 (xiiie siècle) ; F : Florence, Laur.
+Plut. 77, IV (début du xive siècle).
+
+– deux manuscrits d’une famille intermédiaire : B : Bruges, Bibl. du Grand Séminaire, 101/135 (xiie siècle) ; X : Vienne, Nationalbibliothek 1082 (xiie-xiiie siècle).
+
+On trouve parmi les manuscrits compilés :
+
+– une compilation avec le texte de Remi d’Auxerre : P1 : Paris, Bibl. nat., lat. 15131 (xiiie siècle) ; P2 : Paris, Bibl. nat., lat. 6411 (xive siècle).
+
+– une compilation que Parent avait considérée comme une seconde rédaction : D1 : Dijon, Bibl. mun. 254 (xiiie siècle) ; P3 : Paris, Bibl. nat., lat. 16094 (xive siècle) ; R : Londres, Br.
+Libr., Royal 15 B III ; P4 : Paris, Bibl. nat., lat. 6406 (xve siècle).
+
+– une compilation faussement attribuée à Robert Grosseteste par P5 : D2 : Dijon, Bibl. mun. 253 (xiiie siècle) ; P5 : Paris, Bibl. nat., lat. 14380 (xive siècle).
+
+Parmi les manuscrits qui donnent un texte fragmentaire, on relève : Y : Paris, Bibl. nat., lat. 6769 (xiiie siècle) qui donne une leçon du chant 9 du Livre III, directement issue de M. A : Paris, Bibl. de l’Arsenal 910 (Saint-Victor, xiie siècle), mêlé au texte du commentaire anonyme des manuscrits Vat.
+Reg. lat. 72 et 244.
+P6 : Paris, Bibl. nat., lat. 13334, qui donne une leçon issue de O et interrompue au Livre I, chant 2, v. 9.
+
+Les dix autres manuscrits donnent une version trop fragmentaire ou trop altérée pour être classés. 
+
+
+== Troisième partie Édition ==
+
+
+=== Chapitre premier analyse du texte ===
+
+Guillaume de Conches suit, pour commenter Boèce, plusieurs méthodes.
+Parfois proche du texte de Boèce au point de le reprendre mot à mot en d’autres termes, il s’en éloigne ailleurs, lorsqu’une allusion lui permet d’insérer tout un développement, généralement à propos d’une question de physique ou de science naturelle.
+
+
+=== Chapitre II Édition ===
+
+Édition critique du chant 9 du Livre III, basée sur le manuscrit T, corrigé par l’ensemble des manuscrits donnant un texte correct et par le fragment du manuscrit Y.
+
+
+== Annexes ==
+
+Index des noms d’auteurs cités dans le texte. – Index des mots remarquables.

@@ -1,0 +1,93 @@
+identifier: ENCPOS_1873_01
+creator: Gabriel Barbaud
+date: 1873
+title: Essai sur la diplomatique de Charles VII, d’après le formulaire des actes de ce roi, conservé à la Bibliothèque nationale, et d’après les documents originaux
+
+
+
+== Division des actes au point de vue diplomatique ==
+
+Les pièces contenues dans le formulaire des lettres de Charles VII peuvent se ramener à deux types : les Lettres patentes, se subdivisant en lettres patentes solennelles ou simples ; – les Mandements, se subdivisant en mandements généraux, spéciaux ou brefs.
+
+
+=== A. Lettres patentes ===
+
+I. LETTRES PATENTES SOLENNELLES, toujours en latin, caractérisées : 1°par la formule de la suscription ad perpetuam rei memoriam ; 2° par le préambule.
+Sceau en cire verte sur lacs de soie.
+
+II. LETTRES PATENTES SIMPLES rédigées en français ou en latin, ne renfermant ni la formule ad perpetuam rei memoriam, ni le préambule, caractérisées par les mots suivants venant immédiatement après la suscription du roi :
+    « Savoir faisons à tous présens et à venir » ou notum facimus presentibus et futuris.
+Même sceau que pour la lettre patente solennelle. 
+
+
+=== B. Mandements ===
+
+I. MANDEMENT GÉNÉRAL, rédigé habituellement en français et caractérisé par la suscription
+    « Charles, etc.
+A tous ceux qui ces présentes lettres verront, salut. »
+Karolus, etc.
+Universis présentes litteras inspecturis salutem.
+Sceau en cire jaune généralement sur double queue.
+
+II. MANDEMENT SPÉCIAL, généralement en français et se reconnaissant comme le précédent à la suscription
+    « Charles, etc., à notre amé et féal tel, – Karolus, etc. – tali. – Sceau généralement en cire jaune et sur simple queue.
+
+III. MANDEMENT BREF commençant par les mots
+    « De par le roy » suivis du titre de la personne à laquelle l’acte est envoyé. – Scellé avec le cachet du roi, sigillum secreti.
+
+
+=== Formules générales relatives à la suscription et à la date. ===
+
+La suscription du roi, sauf pour le mandement bref, est celle-ci :
+    « Charles, par la grâce de Dieu, roy de France », Karolus Dei gratia Francorum rex ; et s’il s’agit d’un acte ayant rapport au Dauphiné :
+    « Charles, par la grâce de Dieu, roy de France et Daulphin de Viennois. »
+
+La date renferme toujours : le lieu, l’an de l’incarnation, le jour du mois ou simplement le mois, l’an du règne :
+    « Donné à Bourges, le vingt-deuxiesme jour de janvier, l’an de grâce mil quatre cent vingt-deux et de nostre règne le premier » ou quelquefois « le premier de nostre règne ». – Datum Lochis die duodecimo mensis Augusti, anno Domini millesimo, quadringentesimo, tricesimo quinto, et regni nostri decimo tertio. – La date est aussi quelquefois précédée ou suivie d’une formule annonçant le sceau : « soubz nostre scel ordonné en l’absence du grand », sub sigillo nostro in absentia magni ordinatum. 
+
+
+== Classification des actes d’après les principes exposés précédemment. ==
+
+
+=== Des actes rédigés sous forme de lettres patentes ===
+
+Lettres patentes solennelles. – 1.
+Légitimations. – 2.
+Annoblissements. – 3.
+Amortissements (en latin),
+
+Lettres patentes simples. – 1.
+Lettres de rémission. – 2.
+Établissements de foires. – 3.
+Amortissements (en français). – 4.
+Affranchissements.
+
+
+=== Des actes rédigés sous forme de mandements. ===
+
+Mandements généraux. – 1.
+Grâces à plaider. – 2.
+Pouvoirs. – 3.
+Alliances.
+
+Mandements spéciaux. – 1.
+Dettes. – 2.
+Répits. – 3.
+Hommages. – 4.
+Ajournements. – 5.
+Collations de bénéfices. – 6.
+Lettres de finances.
+
+
+=== Des actes rédigés sous forme de lettres patentes et de mandements. ===
+
+1.
+Confirmations de privilèges (lettres patentes, mandement général). – 2.
+Congés (lettres patentes simples, mandement général et mandement spécial). – 3 et 4.
+Sauvegardes. – Dons d’offices (mandement général et mandement spécial). – 5.
+Retenues (mandement général, mandement spécial, mandement bref). – 6.
+Saufs-conduits (mandement spécial et mandement bref).
+
+Chaque élève publiera les positions de sa thèse isolément et sous sa responsabilité personnelle.
+
+(Règlement du 10 janvier 1860, art. 7.)

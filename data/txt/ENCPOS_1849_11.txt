@@ -1,0 +1,41 @@
+identifier: ENCPOS_1849_11
+creator: Alfred Schweighæuser
+date: 1849
+title: De la négation dans les langues romanes du midi et du nord de la France
+
+
+
+== Positions. ==
+
+
+=== I. ===
+
+La théorie de la négation, en latin, repose sur ce principe fondamental, que deux négations se détruisent et valent une affirmation.
+L’ignorance et la barbarie du moyen âge ont profondément modifié ce principe dans les langues romanes.
+
+
+=== II. ===
+
+L’accumulation des mots négatifs y est une condition indispensable à l’expression de la négation, sauf le cas où elle est exprimée par non ou par ses dérivés.
+Pris isolément, les autres termes négatifs ont, à peu de chose près, la valeur des termes positifs qui leur étaient corrélatifs en latin.
+
+
+=== III. ===
+
+Certains mots affirmatifs dans l’origine, mais auxquels l’habitude de les construire avec la particule non ou ne a fait attribuer communément une valeur négative en eux-mêmes (aucun,personne, jamais, etc.), n’ont jamais eu cette valeur.
+D’autres, en effet (comme rien), sont devenus quelquefois négatifs dès les premiers temps de la langue.
+
+
+=== IV. ===
+
+L’usage multiplié que les langues romanes ont fait de certains substantifs destinés à renforcer l’expression de la négation, a fini par leur enlever la marque distinctive de leur nature, l’article, et les a réduits à peu près à l’état de simples adverbes.
+
+
+=== V. ===
+
+Mais dans aucun cas ces prétendus adverbes n’ont une valeur négative par eux-mêmes.
+
+
+=== VI. ===
+
+La plupart des règles posées après coup par les grammairiens, sur l’emploi de ceux d’entre eux qui se sont conservés dans la langue moderne, ne sont justifiées ni par leur signification étymologique, ni par l’histoire de la langue.

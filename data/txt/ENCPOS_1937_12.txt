@@ -1,0 +1,110 @@
+identifier: ENCPOS_1937_12
+creator: Marie-Marguerite Lemarignier
+date: 1937
+title: Les cartulaires de Saint-Mesmin de Micy. Étude critique et essai de restitution
+
+
+
+== Bibliographie – Sources imprimées ==
+
+
+
+
+== Avant-propos ==
+
+L’abbaye Saint-Mesmin de Micy, au diocèse d’Orléans, dont l’origine, attribuée à Clovis, est douteuse et l’histoire fort obscure jusqu’au ixe siècle, fut restaurée, peu avant 815, par l’évêque d’Orléans Théodulphe.
+Soumise à la règle de saint Benoît d’Aniane, elle se développa rapidement dans les années suivantes, acquérant (826) le privilège de libre élection de l’abbé et commençant à constituer son temporel.
+L’essor de l’abbaye fut brisé par les invasions normandes ; nous ignorons presque tout de son histoire jusqu’au milieu du xe siècle, n’étant plus renseignés sur elle que par un texte narratif de la fin de ce siècle.
+Les actes diplomatiques, qui font défaut de 840 à 972, réapparaissent à partir de cette date.
+Joints à d’autres sources, ils éclairent la période de la fin du xe et du début du xie siècle, qui est la plus brillante de l’histoire de l’abbaye, et constituent, après 1020 environ, la source exclusive, et très riche, de l’histoire de Micy.
+
+
+== Chapitre premier les cartulaires. ==
+
+Nous connaissons l’existence de trois cartulaires de Saint-Mesmin de Micy : 1° un cartulaire commencé en 1257 ; 2° un autre commencé en 1270 ; 3° un troisième ayant appartenu à Pétau, puis conservé à la Bibliothèque royale de Suède, commencé probablement en 1270 ; peut-être n’est-il qu’une copie du second.
+
+Ces trois cartulaires sont perdus.
+Nous avons tenté de restituer les deux premiers, laissant de côté le troisième, sur lequel nous n’avons que peu de renseignements (mentions à la Bibl. nat., ms. lat. 937, et coll.
+Baluze, vol. 41).
+
+
+=== I. Liste des manuscrits groupés d’après les cartulaires. ===
+
+A) Cartulaire de 1257 : 1) copies du xviie s. par Baluze, vol. 78 ; 2) copies du xviie s., coll.
+Moreau, vol. 792 ; 3) copies dans un factum du xviiie s., Bibl. nat., impr., Morel de Thoisy, vol. 384 ; 4) un cahier de 16 feuillets, Arch. du Loiret, H 89 ; 5) quelques originaux (Arch. du Loiret, série H, fonds de Micy).
+
+B) Cartulaire de 1270 : 1) inventaire de DomVerninac, Bibl. d’Orléans, ms. 488 ; 2) copies du xviiie s. par Gaignières, Bibl. nat., ms. lat. 5420 ; 3) copies par Dom Gérou, Bibl. nat., coll.
+Moreau ; 4) copies par Dom Estiennot, Bibl. nat., ms. lat. 12739 et 12776 ; 5) copies dans un factum imprimé du xviiie s., Bibl. nat., impr., Morel de Thoisy, vol. 284 ; 6) copie du xviiie s. par Dom Jean de Saint-Martin, Bibl. d’Orléans, ms. 729.
+
+
+=== II. Description sommaire des cartulaires. ===
+
+A) Cartulaire de 1257. – Il comprenait 156 ff. et sans doute 265 chartes, dont aucune n’est postérieure à 1300.
+Les chartes, précédées d’un titre et d’un numéro d’ordre, étaient groupées dans l’ordre méthodique (diplômes royaux, actes pontificaux, chartes épiscopales et chartes privées). – Essai de restitution de ce cartulaire.
+
+B) Cartulaire de 1270. – Appelé indistinctement polyptyque ou cartulaire, parfois « grand cartulaire » ou « cartulaire in-folio », il était précédé d’une table et comprenait 95 II. Les chartes, écrites à l’encre noire, mais précédées d’un titre et d’un numéro d’ordre à l’encre rouge, étaient groupées, sauf les diplômes royaux et les privilèges pontificaux, par ordre de prieurés. – Essai de restitution de ce cartulaire.
+
+
+== Chapitre II Étude critique des anciens actes de l’abbaye Saint-Mesmin de Micy. ==
+
+
+=== I. Les faux de Clovis. ===
+
+D’après Bréquigny, l’abbaye aurait eu trois diplômes de Clovis.
+L’un d’eux est un faux fabriqué au xviie siècle par Jérôme Vignier.
+Les deux autres ne sont, en réalité, qu’un seul et même diplôme, fabriqué entre 987 et, probablement, 1022.
+
+
+=== II. Diplômes Carolingiens. ===
+
+1) Diplôme de Louis le Pieux (8 janvier 815).
+Authentique.
+
+2) Diplômes de Louis le Pieux (3 juin 821) et de Pépin Ier d’Aquitaine (24 octobre 834 ou 835).
+Authentiques.
+
+3) Diplôme de Louis le Pieux et Lothaire (16 février 836).
+Faux fabriqué entre 987 et, probablement, 1022.
+
+4) Diplôme de Charles le Chauve (octobre 840).
+Authentique.
+
+5) Diplôme de Charles le Chauve (859).
+Faux fabriqué peu avant 987.
+
+6) Diplôme de Charles le Chauve (875-877).
+Faux fabriqué sans doute au xie siècle.
+
+
+=== III. Diplômes de Robert le pieux. ===
+
+1) Diplôme du 14 avril 1001, authentique.
+
+2) Diplôme de juin 1015, authentique.
+
+3) Diplôme de 1022, donnant la terre d’Ondreville, authentique.
+
+4) Diplôme de 1022 (confirmation générale), suspect.
+
+
+== Appendice étude sur deux chartes de franchise des coutumes épiscopales de synode et de visite. ==
+
+1) Charte de l’évêque d’Orléans Arnoul (973).
+Le Liber Miraculorum, écrit par Létald à la fin du xe siècle, prétend qu’elle a été confirmée par un privilège pontifical, mais c’est une mention inexacte.
+
+2) Charte de l’évêque du Mans Avesgaud (1036), pour l’église Saint-Jean de la Motte.
+
+
+== Conclusion ==
+
+
+
+
+== Méthode adoptée pour l’édition des actes ==
+
+
+
+
+== Édition des actes des cartulaires ==
+
+

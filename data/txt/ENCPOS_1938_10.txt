@@ -1,0 +1,155 @@
+identifier: ENCPOS_1938_10
+creator: Marguerite Oswald
+date: 1938
+title: « Anseïs fils de Girbert. » Étude de la chanson et de ses rapports avec « Yon de Mes », suivie d’une édition partielle
+
+
+
+== Première partie Étude d’Anseïs ==
+
+
+=== Chapitre premier historique du texte. ===
+
+La chanson d’Anseïs fils de Girbert, suite de Girbert de Mes, est presque entièrement inédite, puisque seules les 93 laisses finales, sur un total de 491 laisses, ont été publiées.
+
+
+=== Chapitre II Analyse du poème. ===
+
+
+
+
+=== Chapitre III Description et Classement des manuscrits. ===
+
+1.
+Description des manuscrits. – Le texte de la rédaction en vers d’Anseïs a été conservé par quatre manuscrits complets et trois courts fragments d’un cinquième : L – Paris, Bibl. nat., fr. 24377 (xiiie siècle, picard). – U – Vatican, Urb. lat. 375 (xiiie siècle, francien). – 5 = Paris, Bibl. nat., fr. 4988 (fin xiiie siècle ou début xive, picard). – N = Paris, Arsenal 3143 (xive siècle, francien). – A1, A2, A3 = Arlon (Belgique), dépôt d’État, Archives de Saint-Hubert, L 12.
+Ces derniers fragments, déjà édités, n’ont pas été utilisés.
+
+2.
+Classement des manuscrits. – A première vue, les textes fournis par S et par N diffèrent totalement de celui que donnent LU. Les divergences de S s’expliquent par l’utilisation d’un manuscrit mutilé aux lacunes duquel le copiste a voulu suppléer.
+Quant à N, son rédacteur a fondu en un seul poème le début de la chanson d’Yon de Mes, autre suite de Girbert de Mes, et la fin d’Anseïs.
+La concordance entre tous les manuscrits ne se rétablit qu’au vers 13702.
+
+Les manuscrits se divisent en deux familles ; L et les fragments d’Arlon appartiennent à la première, S et N à la seconde.
+Quant au manuscrit U, il se rattache au groupe LA pour la première partie de la chanson, au groupe SN pour la fin ; N et la fin de U paraissent dériver d’un manuscrit commun, sans doute incomplet.
+
+La leçon de S semble la plus proche de la leçon originale ; c’est cependant celle de L qui a servi de base à notre édition, parce qu’elle ne présente ni interpolations ni lacunes graves. 
+
+
+=== Chapitre IV Versification. ===
+
+Anseïs compte 24 844 décasyllabes, dont la césure est généralement placée après le quatrième pied ; ces vers se répartissent en 491 laisses, construites sur 21 assonances.
+Plusieurs de ces laisses montrent une tendance à la rime exacte.
+
+Tableau des assonances.
+
+
+=== Chapitre V Langue du manuscrit de base. ===
+
+Emploi de la graphie ssc. – Maintien fréquent des mots proparoxytons.
+
+1.
+Phonétique. – Plusieurs exemples de a libre > ei. – iata > ie. – e ouvert entravé se diphtongue ; suivi d’un l > iau. – o ouvert suivi d’une nasale se diphtongue ou non. – o fermé > alternativement o et ou, quelquefois u. – i long post-tonique influe sur le e fermé, mais pas toujours sur le o fermé.
+
+Voyelles protoniques : e ouvert souvent diphtongué.
+
+Consonnes : k devant a se maintient. – g devant a, traitement variable. – k devant e, i > s le plus souvent. – t final précédé d’une voyelle souvent maintenu. – Pas d’épenthèse entre l ou n suivi de r, non plus qu’entre m et une liquide suivante.
+
+2.
+Morphologie. – La déclinaison est très bien observée. – Emploi de l’article masculin pour le féminin, et du démonstratif pour l’article ; – – pronom personnel : cas régime tonique mi, ti, aucun exemple de si ; – possessif : men, sen, aucun exemple de ten ; se féminin ; nos, vos singuliers ; – – formes verbales : quelques 4es personnes en omes ; – deux cas isolés d’imparfait de l’indicatif en eve ; – 6es personnes des parfaits forts en isent.
+
+
+=== Chapitre VI Région d’origine du poème et de son auteur. ===
+
+Seul le mélange, très relatif, des assonances en en et en an semble contredire les faits de tous ordres qui prouvent l’origine picarde d’Anseïs : la langue des manuscrits, les faits d’ordre géographique, l’utilisation des légendes et de l’hagiographie locales.
+L’auteur adopte, en particulier, la fable qui attribue à une bataille sanglante l’origine du nom de Santerre.
+
+Picard d’origine, le poète semble Flamand de cœur.
+II renverse complètement les rôles en faisant des Flamands et des Bordelais les héros de son œuvre et des Lorrains les traîtres ; son hostilité est surtout grande à l’égard du roi de France.
+
+
+=== Chapitre VII Date du poème. ===
+
+Les deux seuls éléments pouvant servir à dater la chanson d’Anseïs sont la date probable du manuscrit L, le plus ancien de ceux qui contiennent Anseïs, qui semble remonter au troisième quart du xiiie siècle, et l’ignorance des suites de Girbert observée dans la chronique rimée de Philippe Mousket, écrite en 1243.
+La composition de notre chanson doit s’encadrer entre ces deux dates, mais aucun autre élément ne permet de préciser davantage, et les hypothèses que l’on peut faire à ce sujet ne sont pas vérifiables.
+
+
+=== Chapitre VIII Emprunts littéraires et éléments historiques. ===
+
+1.
+Emprunts littéraires. – L’auteur utilise les chansons précédentes du cycle : Garin et Girbert ; il ne semble pas avoir connu Hervis.
+En dehors de ces poèmes, la chanson de geste la plus fréquemment citée est Girart de Roussillon.
+Quelques allusions à d’autres chansons se trouvent également, mais toutes sont très rapides, et l’auteur n’a fait aucune tentative pour rattacher son œuvre à des poèmes d’autres cycles.
+
+2.
+Élément historique. – Anseïs n’a aucun fondement historique, mais utilise, par contre, plusieurs légendes.
+En particulier, l’auteur a introduit dans son œuvre le personnage de Bauce de Flandre, cousin germain d’Arnoul de Flandre, confondu par les trouvères flamands avec le meurtrier de Guillaume Longue-Épée ; mais de ce personnage mi-épique, mi-historique il n’a pris que le nom.
+Il a négligé les événements et les légendes qui se rattachaient à lui.
+
+
+=== Chapitre IX Valeur littéraire d’« Anseïs ». ===
+
+L’auteur a su introduire un certain nombre d’épisodes divertissants et peint quelquefois de très belles scènes.
+Il a donné une personnalité à chacun de ses héros, et, malgré sa longueur, Anseïs est d’une lecture agréable.
+
+
+== Deuxième partie Les rapports des diverses suites de Girbert entre elles ==
+
+
+=== Chapitre premier « Yon ». Ses différentes versions. ===
+
+Le texte en vers d’Yon de Mes, autre suite de Girbert, n’est connu que par le manuscrit Ma – Bibl. nat., fr. 1622.
+C’est un poème sans aucun intérêt littéraire ou historique dont seule la fin a quelques traits communs avec Anseïs ; mais, œuvre d’inspiration lorraine, Yon conserve l’esprit traditionnel du cycle.
+
+Plusieurs faits montrent qu’il a dû exister au moins une, plus probablement plusieurs versions de ce poème, antérieures à celle du manuscrit Ma et s’en écartant sur plusieurs points ; l’une de ces versions a été utilisée par le copiste du manuscrit N.
+
+
+=== Chapitre II Rapports d’« Anseïs » et d’« Yon ». ===
+
+Rien dans Anseïs ne peut s’interpréter comme une allusion à l’autre suite de Girbert.
+Par contre, il est possible que le poème contenu dans le manuscrit Ma se soit inspiré à la fois des versions perdues d’Yon et d’Anseïs ; mais la perte de la version primitive d’Yon interdit toute conjecture sur l’antériorité de l’une ou de l’autre chanson et sur les influences possibles de l’une sur l’autre.
+
+
+=== Chapitre III Les versions en prose. ===
+
+11 existe trois versions en prose des suites de Girbert.
+La première est celle de Philippe de Vigneulles, contenue dans le manuscrit 97 de la Bibliothèque municipale de Metz et dans un manuscrit appartenant au comte de Hunolstein ; cette version, rédigée en 1515, suit un texte perdu d’Y on.
+
+La seconde, œuvre anonyme du xve siècle, est contenue dans le manuscrit de l’Arsenal 3346 et suit de très près la leçon du manuscrit 5.
+
+La troisième version en prose se trouve dans le manuscrit 9 de la Bibliothèque de Bruxelles ; elle a été transcrite et peut-être rédigée par David Aubert en 1448, et forme le tome IV de son Histoire de Charles Martel.
+Cette version utilise principalement un manuscrit de la famille de L, mais le corrige d’après un manuscrit contenant les interpolations de S.
+
+
+=== Chapitre IV La version néerlandaise. ===
+
+On a conservé quinze fragments d’une traduction néerlandaise des Lorrains, dont onze appartiennent à une suite de Girbert.
+Le héros y est appelé Yon, mais ce récit ne se rattache pas directement aux suites connues de Girbert : c’est un long poème annexant un grand nombre d’événements et de personnages historiques ou légendaires au cycle lorrain.
+
+
+== Édition ==
+
+1° Manuscrits LUS, vers 1-3341.
+
+2° Manuscrit N, vers 1-2813.
+
+3° Manuscrits LUSN, vers 12972-14021
+
+
+== Appendice ==
+
+Édition de la partie correspondante du manuscrit en prose de l’Arsenal, ms. 3346.
+
+
+== Table des noms propres ==
+
+
+
+
+== Glossaire ==
+
+
+
+
+== Planches ==
+
+

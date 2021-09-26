@@ -1,0 +1,66 @@
+identifier: ENCPOS_1990_09
+creator: Lionel Gallois
+date: 1990
+title: Journalistes et collaborateurs de la presse politique quotidienne à Paris (1815-1848) : contribution à une étude sociale
+
+
+
+== Introduction ==
+
+Arme politique, tribune littéraire, affiche publicitaire ou tout cela à la fois, le journal acquit une importance croissante sous la monarchie censitaire et semblait être, malgré l’anonymat des articles, le porte-voix nécessaire pour se faire connaître et propager ses idées.
+Il attira en conséquence nombre d’hommes de talent, polémistes et écrivains, voulant utiliser à leur profit ce nouveau pouvoir.
+Une première approche de cette « aristocratie » de la presse que constituent les collaborateurs de six des principaux quotidiens parisiens (la Gazette de France, la Quotidienne, le Journal des débats, le Constitutionnel, le Courrier français et le National) est fournie par l’étude de cent vingt-cinq d’entre eux, sur plus de quatre cent cinquante au total, choisis arbitrairement (premières lettres de l’alphabet). 
+
+
+== Sources ==
+
+L’essentiel de la documentation provient du dépouillement des dictionnaires biographiques contemporains, spécialisés (Physiologie de la presse, etc.) et généraux (Biographie nouvelle des contemporains, Biographie universelle, Dictionnaire des contemporains de Vapereau, etc.), complété par les mémoires et correspondances de ces journalistes ou de leur entourage, par les travaux de seconde main qui les concernent, ainsi que par des sondages, aux Archives nationales, dans les séries et sous-séries F18 (Presse), F1 b I (Personnel du ministère de l’Intérieur), 246 AP (Papiers Fortoul), 361 AP (Archives Silvestre de Sacy) et, à la Bibliothèque nationale, dans le dossier nouv. acq. fr. 23687 (Familles Chénier et Bonnet de Malherbe).
+
+
+== Première partie Rédacteurs et collaborateurs ==
+
+
+=== Chapitre premier origines géographiques et sociales ===
+
+La population étudiée, essentiellement masculine (on n’a recensé que six femmes en tout, souvent en parenté avec d’autres journalistes et, pour cinq d’entre elles, appartenant à la rédaction littéraire de la Gazette de France), venait de province pour près de 64 % des lieux de naissance identifiés ; Paris formait certes 28,4 % des rédacteurs, mais son rôle ne fit que diminuer avec la Révolution (passant de 58,3 % pour les personnes nées entre 1771 et 1780 à 11,8 % pour celles nées après 1811), tandis que les préfectures et sous-préfectures dormaient le jour à 71,4 % des journalistes nés après 1790, contre 50 % auparavant.
+
+En ce qui concerne l’origine sociale (82 réponses sur 125), il s’agissait, semble-t-il, de milieux relativement aisés, classes moyennes pour la plupart, avec 6 % de propriétaires fonciers, 12,2 % de négociants, 15,8 % d’avocats et de magistrats, 9,7 % de hauts fonctionnaires et 17 % d’officiers (en majorité révolutionnaires et impériaux) ; 16 % d’entre eux étaient d’origine noble, noblesse récente et de robe en général, parfois plus ancienne et d’épée mais en ce cas de fortune moindre.
+Il faut noter en outre le poids des fils d’employés et de professeurs (17 %) ou de petits commerçants (9,7 %), la présence dans une grande ville et a fortiori à Paris leur étant une condition nécessaire pour pouvoir fréquenter par la suite le lycée ou le collège. 
+
+De fait, presque tous avaient suivi l’enseignement secondaire jusqu’en classe de rhétorique (hormis l’imprimeur Alkan et Brazier, fils d’un maître d’études). 51,6 % ont poursuivi leur scolarité au-delà, 27,5 % à la faculté de droit, 5,5 % à celle de médecine et autant à l’Ecole polytechnique, de façon moins fréquente à l’Ecole normale supérieure (du moins dans cet échantillon) ou à l’Ecole des chartes.
+
+
+=== Chapitre II Activités journalistiques et littéraires ===
+
+A l’issue de leurs études, seuls 19,2 % se sont tournés vers la presse ; les autres ont commencé par exercer l’activité à laquelle ils s’étaient préparés, administration publique pour 22,4 % d’entre eux (employés et cadres supérieurs), armée pour 18,4 % (dont près de 14 % d’officiers), professorat pour 13 % et médecine pour 4,8 %.
+Ils sont entrés à la rédaction d’un journal par relations ou recommandations, plus rarement en y présentant ou en y envoyant un article (comme Louis Blanc au Bon Sens ou Castil-Blaze au Journal des débats}.
+Tandis que 4,8 % ont débuté dans la presse de province, 33,6 % ont inséré leurs premiers articles dans l’un des six journaux pris en compte, 24 % dans un autre quotidien parisien et 33,2 % sont passés auparavant par des revues satiriques ou spécialisées.
+
+Les salaires, peu importants dans ces dernières, permettaient parfois aux rédacteurs réguliers d’atteindre une certaine aisance : la petite presse, comme le Corsaire-Satan, le Vert-Vert ou l’Entr’acte, n’offrait, pour cent lignes maximum, que 6 à 7 centimes par ligne ; les revues telles la Revue des Deux Mondes ou la Revue indépendante, proposaient 150 francs par feuille (seize pages).
+Enfin, les quotidiens payaient leurs auteurs à la ligne (de 10 à 25, voire 50 centimes), à l’article (50 francs à la Quotidienne et à la Gazette de France, le double au Journal des débats} ou encore au mois pour les collaborateurs attitrés, avec des appointements proches de ceux d’un chef de bureau ou d’un chef de division d’un ministère : le sténographe des Chambres, par exemple, recevait 150 francs au Journal des débats (vers 1800), 200 francs à la Gazette de France (1832), 400 francs au National (1835) et au Courrier français (1826), 425 francs au Constitutionnel et 500 francs à la Quotidienne (1837) ; rares cependant étaient ceux qui touchaient 12 000 francs par an comme Jules Janin au Journal des débats à la veille de la Révolution de 1848.
+
+Ces revenus peu considérables incitaient à la multiplication des collaborations dans les périodiques ou dans les almanachs et keepsakes.
+Par ailleurs, les journalistes répertoriés, dans leur immense majorité (89,6 %), publiaient pour 19,2 % d’entre eux des recueils d’articles, mais surtout pour près de 50 % des pamphlets et brochures politiques, pour 37,6 % des livres d’histoire (ainsi dans la collection des
+    « Résumés historiques » des éditeurs libéraux Lecointe et Durey), pour 25,6 % des traductions de l’anglais, de l’allemand, du latin et du grec, pour 24 % des poésies ou des romans et pour 23,2 % des pièces de théâtre. 
+
+
+=== Chapitre III Réussite et notoriété ===
+
+Si les avantages financiers restaient médiocres, la presse paraissait le moyen le plus rapide d’acquérir la notoriété et de devenir « des puissances » en établissant « entre sa pensée et la pensée de tous une communication quotidienne » (L. Reybaud, Jérôme Paturot à la recherche d’une position sociale, 1846, p. 48).
+Cet espoir semble indéniable du moins pour les journaux du corpus étudié.
+De fait, même si la collaboration à un journal n’en est vraisemblablement pas la cause primordiale, il est à remarquer que 6,8 % des journalistes participèrent à la gestion d’entreprises françaises ou étrangères (sociétés de chemins de fer, sociétés civiles immobilières, etc.) : il est possible d’y voir l’influence des doctrines saint-simoniennes et principalement des frères Péreire, qui travaillèrent au National et au Journal des débats.
+De même, 25,6 % ont utilisé leur popularité pour se faire élire à la Chambre de la Monarchie de Juillet et surtout aux assemblées de la Seconde République ; d’autres sont entrés dans l’administration supérieure, au Conseil d’Etat (12,8 %) ou au gouvernement (5,6 %), mais aussi au Collège de France (4 %), à l’institut (14,4 %, soit 18 membres, sur lesquels 11 collaborèrent un temps au Journal des débats) et à l’Académie de médecine (Beauchène de la Quotidienne}.
+
+Certes, nombreux étaient aussi ceux qui devaient trouver des ressources supplémentaires dans un poste de bibliothécaire ou d’archiviste, voire d’employé subalterne.
+Il est cependant caractéristique, comme le faisait remarquer M. Christophe Charle dans le tome III de l’Histoire de l’édition française, que les domiciles des journalistes étudiés soient concentrés dans les zones résidentielles des milieux aisés et riches de la capitale.
+II’ (proches des journaux et théâtres), I" et X’ arrondissements, témoignant ainsi de ce qu’il a pu appeler le « mimétisme bourgeois des écrivains ».
+
+
+== Deuxième partie Dictionnaire des journalistes ==
+
+Notices biographiques de cent vingt-cinq journalistes (lettres A, B et C).
+
+
+== Annexe ==
+
+Liste sommaire des autres collaborateurs des six journaux étudiés.

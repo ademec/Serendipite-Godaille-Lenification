@@ -1,0 +1,162 @@
+identifier: ENCPOS_1939_11
+creator: Pierre Gras
+date: 1939
+title: La vie rurale dans la région de Chalon-sur-Saône du xiiie au xve siècle
+
+
+
+== Avant-propos ==
+
+
+
+
+== Sources – Bibliographie ==
+
+
+
+
+== Première partie Le pays et la population ==
+
+
+=== Chapitre premier le pays. ===
+
+Comprenant à la fois des collines calcaires et des plaines argileuses et s’étendant sur les deux rives de la Saône, le Chalonnais n’a pas d’uniformité physique, mais la diversité même des ressources permettait au pays de se suffire à lui-même et lui donnait son unité. 
+
+
+=== Chapitre II Géographie administrative. ===
+
+Le Chalonnais appartenait, dans son ensemble, au duché de Bourgogne, mais les enclaves royales y étaient nombreuses.
+Le pays à l’est de la Saône était situé dans l’Empire et possédait des institutions particulières.
+Ce morcellement administratif, qui a dispersé les archives, explique certaines lacunes dans la documentation.
+
+
+=== Chapitre III La population. ===
+
+Un registre paroissial de la petite ville de Givry (archives communales de Givry, GG 74) contient les mariages de 1336 à 1357 et les décès de 1335 à 1348 ; il nous renseigne sur les ravages de la Peste noire de 1348.
+A partir de 1360, les cherches de feux permettent de suivre le mouvement de la population.
+Par suite des guerres et des épidémies et malgré l’arrivée de réfugiés, celle-ci a sensiblement diminué, à cause de l’excédent des décès et de l’émigration.
+
+
+== Seconde partie Les ressources du pays == 
+
+
+=== Chapitre premier les mesures. ===
+
+Mesures très nombreuses sur l’équivalence desquelles les contemporains n’étaient pas d’accord.
+Lorsqu’il s’agit des terres, emploi fréquent d’expressions sans valeur déterminée : sillon, andain.
+
+
+=== Chapitre II L’agriculture. ===
+
+La vigne était une des principales ressources du pays et les comptes des châtelains ducaux nous renseignent sur sa culture très minutieuse.
+A côté des céréales, dont les rendements semblent avoir été très faibles, les pois et les fèves tenaient une place considérable.
+Les cultures industrielles étaient représentées par le chanvre.
+Importance du noyer et du saule.
+
+
+=== Chapitre III L’élevage. ===
+
+Elevage du porc, du mouton.
+Race bovine à robe rouge.
+Pratique du troupeau communal.
+Vaine pâture.
+
+
+=== Chapitre IV L’exploitation des forêts. ===
+
+Les forêts étaient considérées autant comme des terrains de pâturages que comme des réserves de bois.
+Droits d’usage. 
+
+
+=== Chapitre V La pêche. ===
+
+Pêche dans les cours d’eau et établissement d’étangs où l’on pratiquait l’élevage.
+
+
+=== Chapitre VI Industrie. ===
+
+Artisans : maréchaux, maçons, tisserands, cordonniers, tonneliers.
+Moulins.
+Carrières, tuileries et briqueteries.
+Fabrication des pots ou « tupins » dans le village de Sevrey.
+Or du Doubs, houille du Creusot.
+
+
+== Troisième partie Le droit rural ==
+
+
+=== Chapitre premier les monnaies. ===
+
+La monnaie tournois fait disparaître les monnaies viennoise, dijonnaise, clunisienne et parisis, utilisées au xiiie siècle.
+Les unités de compte sont le franc, le gros de 20 deniers et le blanc de 5 deniers.
+Exemples assez nombreux de paiements en nature. 
+
+
+=== Chapitre II La propriété du sol. ===
+
+Disparition du manse.
+Morcellement des parcelles.
+Distinction entre la propriété du sol et celle des arbres.
+    « Colloyage » ou possession alternative de certaines pièces de pré.
+Prix des terres.
+
+
+=== Chapitre III L’exploitation directe. ===
+
+Emploi d’ouvriers à la tâche et à la journée.
+Salaires.
+Repos du samedi.
+L’exploitation directe est peu en faveur près des grands propriétaires.
+
+
+=== Chapitre IV Baux temporaires. ===
+
+Très utilisés.
+Redevances fixes payables le plus souvent en nature, ou quote-part des fruits, la part du bailleur étant presque toujours très inférieure à celle du preneur.
+
+
+=== Chapitre V Baux perpétuels. ===
+
+Redevances partiaires : tâche, tierce, quart-setier, cinque.
+Redevances fixes : confusion fréquente entre le cens et la rente.
+Les rentes foncières sont souvent rachetables. 
+
+
+=== Chapitre VI Crédit. ===
+
+Vente à réméré.
+Rente constituée ; taux de l’intérêt.
+Contrat de cheptel ; prix du bétail.
+
+
+=== Chapitre VII Les associations. ===
+
+Associations de plusieurs personnes ou de plusieurs ménages pour cultiver leurs biens et prendre des terres à bail en commun.
+Contrats qui fixent la durée et les modalités de l’association, l’indemnité en cas de rupture.
+
+
+=== Chapitre VIII Le commerce. ===
+
+Foires et marchés, leur établissement.
+Communications ; entretien des routes et des ponts.
+
+
+== Quatrième partie La structure sociale ==
+
+
+=== Chapitre premier le régime seigneurial. ===
+
+La plus grande partie des terres est chargée d’un cens, mais les alleux roturiers ne sont pas rares.
+Le four, le bac, le moulin, le « batteur à chanvre » sont soumis à la banalité, mais le pressoir y échappe.
+La diminution du servage, d’abord très lente, s’accélère dans la seconde moitié du xve siècle.
+
+
+=== Chapitre II La communauté paysanne. ===
+
+Même en l’absence de chartes de franchises, solidarité de la communauté villageoise résultant des pratiques agraires, de la possession des communaux, de la part prise par les habitants dans l’administration de la paroisse.
+Au xve siècle, rapports directs entre le pouvoir ducal et les communautés pour la perception des fouages et les levées d’hommes.
+
+
+== Conclusion ==
+
+

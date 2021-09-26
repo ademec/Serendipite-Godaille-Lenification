@@ -1,0 +1,147 @@
+identifier: ENCPOS_1909_10
+creator: Lucien Lécureux
+date: 1909
+title: Étude sur la Bouquechardière de Jean de Courcy
+
+
+
+== Introduction et notice bibliographique ==
+
+Jean de Courcy, « chevalier normand », seigneur de Bourg-Achard, est l’auteur de deux ouvrages, la Bouquechardière, compilation d’histoire ancienne, et le Chemin de Vaillance, poème allégorique.
+On se propose, dans cette thèse, d’étudier la Bouquechardière et d’apporter ainsi une contribution à l’étude des compilations françaises d’histoire ancienne.
+
+Liste raisonnée des manuscrits et livres dont on s’est servi pour étudier la Bouquechardière et la biographie de son auteur. 
+
+
+== Chapitre I L’auteur de la Bouquechardière, Jean de Courcy, sa famille, sa vie, son caractère ==
+
+Jean de Courcy, né en 1360, mort à Caudebec le 30 octobre 1431, est très probablement le frère cadet de Guillaume de Courcy, sire et baron de Courcy, tué en 1415 à la bataille d’Azincourt, et l’oncle de Jean de Courcy, sire et baron de Courcy, chef de la noblesse du bailliage de Falaise dans l’expédition féodale normande organisée en 1429 par les Anglais, pour secourir leur armée de siège devant Orléans, mort avant 1431, probablement au cours ou à la suite de l’expédition.
+Il est important de ne pas confondre notre Jean de Courcy avec ce Jean, sire et baron de Courcy, ni avec un autre Jean de Courcy dit
+    « Jean de Courcy de Claville ».
+
+Guillaume de Courcy paraît être le même que le sire de Courcy qui prend part, en 1390, à l’expédition du bon duc Louis de Bourbon en Afrique et que le dominus de Courcyaco, parisiensis capitaneus, qui fut accusé en 1400 de haute trahison et se justifia devant le Parlement.
+
+Jean de Courcy, sire et baron de Courcy est le même qui défendit en 1417 la place d’Exmes contre les Anglais et se vil contraint de capituler.
+
+Jean de Courcy, seigneur de Bourg-Achard, a dans sa vie deux périodes bien distinctes, la première belliqueuse, la seconde consacrée à l’étude par suite d’un repos forcé.
+Il revint en effet infirme en 1416 d’une expédition en Grèce, et « pour eschiver à vie oiseuse » il s’occupe à composer :
+
+1° La Bouquechardière, rédigée de 1416 à 1422.
+
+2° Le chemin de Vaillance, composé de 1424 à 1426.
+
+Entre temps Jean de Courcy, pendant l’expédition de Henri V en Normandie est, au mois de mai 1418, dépouillé de sa seigneurie de Bourg-Achard, qui est donnée à Jean de Bienfaite, chevalier.
+Ses biens lui sont rendus par acte du 10 mars 1419 et du 19 août 1421.
+
+
+== Chapitre II Distribution et Physionomie générale de l’oeuvre ==
+
+La Bouquechardière est une compilation composée avec régularité.
+L’auteur renvoie assez souvent à tel ou tel passage de son livre dont il cite exactement le chapitre.
+L’œuvre se répartit en six livres, chaque livre étant divisé en chapitres répartis en un certain nombre d’histoires. – Chaque chapitre est terminé par le récit « en brieve substance » d’un fait analogue à celui qui vient d’être raconté et une moralisation, le plus souvent appuyée de l’autorité d’un philosophe ou d’une citation de l’Écriture ou des Pères.
+
+Histoire et morale sont donc intimement unies dans la Bouquechardière.
+
+
+== Chapitre III Les sources principales de la Bouquechardière ==
+
+Jean de Courcy a combiné ensemble des compilations antérieures.
+
+Il a connu et utilisé :
+
+1° L’Histoire ancienne jusqu’à César ;
+
+2° Le Trésor de Sapience ;
+
+3° Le Manuel d’histoire de Philippe VI de Valois.
+
+L’Histoire ancienne jusqu’à César a été étudiée dans le t.
+XIV de la Romania par M. Paul Meyer. 
+
+Le Trésor de Sapience est la première partie des compilations qui portent le nom de Baudouin d’Avesnes.
+
+On peut considérer cette œuvre comme un abrégé de l’Histoire ancienne augmenté d’un assez grand nombre de citations d’auteurs anciens ou du moyen âge.
+
+La concision de cette chronique universelle, qui va de la Création à Tibère, en a fait un canevas excellent pour les auteurs de compilations postérieures, par exemple pour l’auteur de la compilation contenue dans le ms. fr. 15455 de la Bibliothèque nationale.
+
+Jean de Courcy emprunte lui aussi au Trésor de Sapience le canevas de son œuvre et y ajoute des éléments pris à ses autres sources, par exemple à l’Histoire ancienne ou au Manuel d’histoire de Philippe Vide Valois.
+
+Cette dernière compilation, qui a fait l’objet d’un travail de M. Couderc, est un vrai fouillis d’anecdotes.
+Jean de Courcy s’en est servi pour ses traits finaux mais aussi pour son principal texte, car il est très diligent à recueillir tous les détails qui peuvent enrichir tant soit peu son texte.
+
+On remarquera que Jean de Courcy a connu des manuscrits très complets des œuvres dont il se sert, et représente le texte intégral, là où certains de nos manuscrits ont des lacunes.
+
+
+== Chapitre IV Les sources du livre I ==
+
+Le livre I, le plus développé, traite Du fait des Gregeois et de plusieurs histoires de poeterie.
+Les éléments très nombreux qui composent ce livre peuvent se répartir en trois groupes principaux :
+
+1° Jean de Courcy compile des historiettes historico-mythologiques que lui fournissent le Trésor de Sapience, le Manuel d’histoire de Philippe VI de Valois et sans doute encore une autre compilation.
+On trouve en outre dans le récit de la création du inonde et de l’homme des données astrologiques dont l’origine serait à déterminer.
+
+2° Le second élément de ce premier livre est constitué par des histoires qui proviennent d’un Ovide moralisé.
+
+3° On trouve enfin une histoire de Thèbes différente de celle que renferment le Trésor de Sapience et l’Histoire ancienne jusqu’à César.
+Mais Jean de Courcy connaît la version du Trésor de Sapience et de Y Histoire ancienne et y fait allusion à deux reprises.
+
+
+== Chapitre V Les sources des livres II et III ==
+
+Le livre II raconte : 1° l’histoire de la guerre de Troie d’après la première rédaction de l’Histoire ancienne ; 2° les aventures des Grecs au retour de Troie d’après la seconde rédaction ou d’après le texte qui en est la source en cet endroit.
+
+Le livre III (l’histoire d’Éneas et des Troyens) provient de l’Histoire ancienne dont les deux rédactions coïncident en cette partie.
+
+
+== Chapitre VI Les sources des livres IV, V et VI ==
+
+Jean de Courcy raconte dans le ve livre l’histoire des Assyriens d’après l’Histoire ancienne, le Trésor de Sapience et le Manuel d’histoire de Philippe VI.
+
+Les sources du ve livre, relatif à l’histoire d’Alexandre, ont été indiquées par M. Paul Meyer.
+Nous y ajouterons le Trésor de Sapience.
+Le vie livre raconte l’histoire des Macchabées d’après la Bible et les Histoires scholastiques.
+
+
+== Chapitre VII Les sources des traits finaux et des réflexions morales ==
+
+Beaucoup des traits finaux sont empruntés au Manuel d’histoire de Philippe VI. On y trouve aussi des anecdotes qui figurent dans ce recueil, mais sans les noms d’auteur dont les accompagne Jean de Courcy.
+Ce sont, d’une façon générale, les anecdotes qui circulent dans toutes les compilations du moyen âge et que Jean de Courcy a pu quelquefois trouver simultanément dans plusieurs textes.
+
+Les citations des philosophes sont prises dans des recueils tels que les Dits des philosophes de Guillaume de Tignonville.
+
+Les citations des Pères sont également de seconde main.
+
+
+== Chapitre VIII Les idées et le style de Jean de Courcy ==
+
+Les idées de Jean de Courcy comme moraliste ou comme historien n’ont rien d’original.
+On ne trouve jamais chez lui aucune allusion à son temps.
+C’est d’une façon absolument générale qu’il blâme tous les vices et recommande toutes les vertus.
+Il emprunte d’ailleurs des passages entiers à des œuvres moralisatrices. 
+
+Gomme historien il n’a pas de vues personnelles.
+Tous ses textes lui inspirent une égale confiance, et il tâche autant que possible de les accorder entre eux.
+
+Si quelque chose le préoccupe, ce sont les faits merveilleux.
+Il les expliquera par l’art de nigromance, ou bien, s’il s’agit de fables, il en cherchera, selon la méthode du moyen âge, l’explication historiale ou allégorique, telle qu elle est pratiquée dans l’Ovide moralisé.
+Il se contente d’ailleurs souvent de reproduire les explications qu’il trouve dans ses sources, tout en en développant le plus souvent l’expression.
+Son style est en effet très redondant.
+L’usage qu’il fait du Trésor de Sapience est à cet égard instructif.
+
+Si Jean de Courcy a quelque qualité dans le récit, c’est une certaine recherche de la vraisemblance.
+Très persuadé que les faits qu’il raconte sont réels, il essaie de les présenter tels qu’ils se sont passés, avec tous leurs détails.
+
+Sa phrase a une tendance curieuse à prendre le rythme du vers de dix et de douze pieds, ce qui peut s’expliquer par des lectures, un passage nous fournissant la preuve que Jean de Courcy connaissait des œuvres en vers.
+
+
+== Chapitre IX Résumé et conclusion de ce travail ==
+
+Le présent travail a déterminé de quelle nature étaient les sources de Jean de Courcy.
+La Bouquechardière nous apparaît comme un compendium de la culture historique et morale des laïques éclairés du moyen âge.
+
+Cette culture est peu variée et tourne toujours dans le même cercle.
+Le nombre des éléments dont se com posent les compilations historiques de cette époque est assez restreint.
+La Fleur des histoires de Jean Mansel, de Hesdin, une des dernières grandes compilations françaises d’histoire ancienne du moyen âge, utilise en partie les mêmes sources que la Bouquechardière.
+
+Ce bagage d’érudition un peu puérile sera transformé et en partie rejeté par la Renaissance.
+Ce qui restera, c’est le goût des classes cultivées de France pour l’histoire et pour la morale, goût entièrement conforme au tempérament national et qui, après les aventures de la Pléiade, s’affirmera de nouveau, avec une originalité inconnue jusqu’alors, chez un Montaigne.

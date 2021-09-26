@@ -1,0 +1,106 @@
+identifier: ENCPOS_1930_13
+creator: Pierre Morel
+date: 1930
+title: Étude critique de la Vie de Saint Eloi
+
+
+
+== Introduction ==
+
+
+
+
+== Chapitre premier l’auteur. ==
+
+Aucun passage de la Vita Eligii ne permet d’attribuer formellement l’œuvre à saint Ouen.
+Cependant cette attribution est ancienne ; on peut en suivre l’évolution d’après les præscriptiones des manuscrits : la moitié seulement donnent le nom d’Ouen ; les autres gardent l’anonymat.
+Les textes du moyen âge qui parlent de la Vita Eligii se partagent d’une manière semblable.
+
+La critique, depuis le xviie siècle, ignore cette incertitude et considère que l’auteur a voulu, à tort ou à raison, mettre son ouvrage sous le nom de saint Ouen.
+D’où deux courants d’opinion : les uns considèrent la Vita Eligii comme l’œuvre authentique de saint Ouen, les autres, devant les contradictions du texte, voient en lui, soit une vie écrite par saint Ouen et plus ou moins interpolée, soit un remaniement complet du travail primitif, remaniement que l’auteur a fait passer sous le nom d’Ouen.
+
+En réalité, l’auteur ne cherche nulle part à se faire passer pour saint Ouen : seules les præscriptiones des manuscrits, dues aux copistes, contiennent le nom d’Ouen.
+L’auteur dit au contraire qu’il s’est servi de la vie écrite par saint Ouen (1.
+I, c. 12) [1].
+Dans la préface, il rappelle les termes d’un passage d’une lettre authentique de saint Ouen à l’évêque Robert ; « illi curis obligati sæcularibus, ut et ipsi profitentur » (Vita, 1.
+I, préface).
+
+Donc l’auteur n’est pas un faussaire : les passages à la première personne que contient la Vita sont généralement les propres paroles de l’auteur ; quand ils se rapportent à saint Ouen, ils sont des fragments de la Vie primitive, conservés intacts par une erreur de l’auteur (1.
+I, c. 6, 11 et 22 ; 1.
+II, c. 2).
+
+La personne de l’Auteur.
+M. Krusch en fait un clerc régulier de Saint-Eloi de Noyon, peut-être même un gardien du tombeau de saint Eloi.
+En réalité, c’est probablement un moine (1.
+II, c. 67), d’une abbaye autre que celle de Saint-Eloi, puisqu’il distingue sa propre abbaye de celle-ci (1.
+II, c. 66 et 69).
+
+M. Krusch le croit de race franque.
+Ses sentiments sont, au contraire hostiles aux barbares et sont plutôt ceux d’un Romain (1.
+II, c. 9, 13, 32) ; les usages francs lui semblent étrangers (1.
+II, c. 57).
+
+
+== Chapitre II Les sources. ==
+
+Aux sources signalées par M. Krusch, il faut ajouter, l’Inventio sancti Quintini (1.
+II, c. 6), les actes du concile de Latran de 649 (1.
+I, c. 33).
+Il faut par contre, en retrancher l’Historia Ecclesiastica, de Bède (Vita Eligii 1.
+I, c. 17 ; voir aussi 1.
+I, c. 15) ; c’est ce dernier ouvrage qui s’inspire de la Vita Eligii ou, plus probablement les deux ouvrages ont une source commune, probablement la Vie primitive écrite par saint Ouen.
+Cette constatation importe pour fixer la date de la Vita Eligii, qui peut être antérieure à l’œuvre de Bède.
+
+
+== Chapitre III Utilisation de l’« Inventio Quintini » par la « Vita Eligii » ==
+
+Cet emprunt a été signalé par M. Van der Essen.
+L’étude des emprunts que lui fait la Vita Eligii nous permet de dégager les tendances de l’auteur : il copie scs sources de très près ; il fait néanmoins quelques omissions, des substitutions, et de nombreuses additions.
+Ces modifications sont dues au souci qu’il a de forcer l’apologie de son héros, et à une recherche constante d’élégance et de précision.
+Quelques différences entre la Vita, et l’Inventio font croire que celle-ci fut l’objet d’interpolations faites postérieurement à la date où la Vita l’a connue.
+
+
+== Chapitre IV La vie primitive de saint Eloi par saint Ouen. ==
+
+Preuves que cette vie aujourd’hui perdue a existé.
+
+Preuves de son utilisation par la Vita Eligii.
+
+Ses traces dans la Vita Eligii : on les relève dans le livre I et les deux premiers chapitres du livre II. On trouve quatre passages à la première personne qui s’appliquent à saint Ouen et qui sont des emprunts textuels à la vie primitive. (1.
+I, c. 6, c. 11, c. 22 ; 1.
+II, c. 2).
+Des analogies entre divers passages de la Vita prouvent l’existence d’une source commune, qui ne peut être que la vie primitive.
+
+
+== Chapitre V Œuvre propre a l’auteur de la « Vita Eligii » ==
+
+Recherche de ce qui, dans la Vita Eligii, n’a pas été emprunté à une source antérieure.
+Il faut pour cela distinguer les passages à la première personne qui désignent l’auteur, de ceux qui, désignant saint Ouen, ont été pris à la vie primitive, et ont été reproduits textuellement par erreur.
+La langue de l’auteur et les sources qu’il utilise, permettent aussi de faire cette discrimination.
+On peut ainsi considérer comme son œuvre exclusive, notamment les passages suivants :
+
+L. I, Préface c. 16, c. 33 à 35, c. 40.
+
+L. II, Préface, c. 4, 8 à 10, 13, 16, 25, 32, 37, 79, 80.
+
+
+== Chapitre VI Valeur de la « Vita Eligii » ==
+
+Très grande.
+Ses sources connues sont bonnes ; l’auteur les déforme légèrement dans un sens favorable à saint Eloi, mais il les fait entrer presque entièrement dans la Vita Eligii.
+
+Les passages où l’auteur ne fait appel à aucune source, n’offrent en général aucun intérêt historique.
+Ce sont de simples développements littéraires sur des lieux communs.
+Les chapitres historiques qui se rap portent à l’époque de saint Eloi (1.
+I, c. 32-33) sont sans valeur ; ceux qui traitent de l’époque de l’auteur sont une source intéressante de l’histoire du VIIIe siècle : la comparaison entre le chapitre 15 et le chapitre 16 du livre I montre l’évolution religieuse de la Gaule du viie au viiie siècle.
+
+
+== Appendice la basilique de Saint-Denis à l’époque mérovingienne. ==
+
+Les archéologues ont étudié la basilique mérovingienne de Saint-Denis d’après le chapitre 32 du livre I ; ils n’ont pas connu le chapitre 23 du même livre, qui donne quelques renseignements : la basilique était pourvue d’un atrium et n’avait pas d’autel ant sepulcrum.
+    
+    =========
+    
+
+[1] Les chapitres sont indiqués par les numéros qui les désignent dans l’édition Ghesquière, Acta sanctorum Belgii selecta, t.
+III, Bruxelles, 1785.

@@ -1,0 +1,116 @@
+identifier: ENCPOS_1875_06
+creator: Gaston-Charles Raynaud
+date: 1875
+title: Étude sur le dialecte picard dans le Ponthieu, d’après les chartes des xiiie et xive siècles
+
+
+
+== Introduction ==
+
+But de cette étude. – Ses divisions. – Bibliographie. – Liste des chartes citées.
+
+
+== Première partie Phonétique ==
+
+VOYELLES SIMPLES. – a traité de même dans les dialectes de l’Ile de France et du Ponthieu. – am, en venant de om latin.
+
+e – mêmes origines qu’en français. – La diphthongaison de le bref n’a pas lieu dans le groupe eria. – e muet dans les monosyllabes le, me, se. – en produit par un latin.
+
+i – écrasement des diphthongues ei et oi. – i devant les diphthongues au et eu.
+
+o – comme en français. – o à la place de oi. u, ü – comme en français. – iu ne se prononce pas iou, mais iü.
+
+y – valeur calligraphique ; 
+
+DIPHTHONGUES. – ai comme dans le dialecte de l’Ile de France. – ain est la seule représentation de e bref et de i long latins accentués, suivis d’une n. – Laforme age et non aige appartient au Ponthieu. – ai produit par a devant l’s dure.
+
+au – a plus l vocalisée devant une consonne. – Groupe aille venant de abilis. – Les suffixes latins ell et ill devant s deviennent aus, iaus. – ol latin donne toujours au.
+
+ei – n’existe pas dans le dialecte du Ponthieu.
+
+eu – variétés de notation orthographique, quand cette diphthongue provient de o bref ; – produit par o long. – Groupe eur préféré au groupe our. – eu venant de u. – Changement de alis en eus.
+
+ie – même formation qu’en français. – Verbes en ier. – C’est la gutturale, quelle qu’elle soit, qui développe l’i de la terminaison ier.
+
+Le changement de e latin, en position et accentué, en iè n’est pas caractéristique du dialecte du Ponthieu.
+
+oi – diphthongue spéciale au français et au picard ; – devient parfois i ou o.
+
+ui – comme en français.
+
+VOYELLES NASALES. – Tendance à faire passer le groupe an au groupe en (prononcé in).
+
+DENTALES. – Les participes passés de la 1re conjugaison ne gardent pas le t final.
+
+GUTTURALES. – g, dur devant a.
+
+c velaire (devant a, o, u) reste toujours dur, même quand l’a s’affaiblit en e ; dans ce cas, la prononciation du groupe ce est ke.
+
+c palatal (devant e, i) est chuintant.
+
+/i, gu – comme le c dur.
+
+LABIALES. – b après l’accent ne peut pas se trouver devant une liquide.
+
+w persiste toujours dans les mots d’origine germanique.
+
+LIQUIDES. – l se vocalise devant s et dans les monosyllabes ; – se mouille facilement. 
+
+r – sa métathèse ; – tombe devant les dentales ; – s’ajoute après.
+
+NASALES. – n se. mouille dans des cas inconnus au français.
+
+s. – variétés d’orthographe des sons dur et doux.
+
+
+== Deuxième partie Flexion ==
+
+DÉCLINAISON. – Substantif. – L’assimilation, au point de vue de l’s de flexion, des substantifs de la 3° déclinaison latine à ceux de la 2° est complète à la fin du xiiie siècle.
+
+Neutre. – Noms de nombre.
+
+Adjectif. – La forme féminine des adjectifs en (dis apparaît dans le dernier quart du xiiie siècle.
+
+Forme unique aux deux genres pour les participes présents.
+
+Pronom. – Formes spéciales au picard – Emploi différent de no et de nostre.
+
+Article. – Le féminin seul diffère. – Dans le Ponthieu, dès la moitié du xiiie siècle, le cas sujet de l’article féminin n’est déjà plus li. – as au datif pluriel pour les deux genres.
+
+CONJUGAISON. – Indicatif présent. – 1res personnes du sing. terminées par une gutturale.
+
+1res personnes du plur. en ons. – 3es personnes du plur. en ont.
+
+Imparfait. – 1res personnes du plur. en iemes.
+
+Parfait. – Chûte du t à la 3° personne du sing. – Forme en isent pour irent.
+
+Futur. – e intercalé entre le radical et la terminaison dans les verbes des 2° et 3e déclinaisons latines.
+
+Conditionnel. – 1res personnes du plur. en iemes.
+
+Subjonctif présent. – Formes où se montre une gutturale.
+
+Imparfait du subjonctif. – Terminaison aisse. – 1res personnes du plur. en iemes.
+
+Participe passé. – Participes féminins en ie – La dentale tombe généralement dans les formes en utus. 
+
+Accord des participes ; liberté de la syntaxe à cet égard.
+
+Le dialecte du Ponthieu comparé dans ses caractères distinctifs avec le dialecte de l’Ile de France.
+
+
+== Troisième partie Index et vocabulaire ==
+
+I. – Noms d’hommes tirés des chartes de Ponthieu. – Noms de femmes (xiiie et xive siècles).
+
+II. – Vocabulaire.
+
+
+== Quatrième partie Pièces justificatives ==
+
+Chartes provenant des archives hospitalières d’Abbeville, des Archives Nationales et de la Bibliothèque Nationale.
+
+Chaque élève publiera les positions de sa thèse isolément et sous sa responsabilité personnelle.
+
+(Règlement du 10 janvier 1860. art. 7).

@@ -1,0 +1,124 @@
+identifier: ENCPOS_1912_06
+creator: Jean Jablonski
+date: 1912
+title: Le Comte d’Anjou, roman d’aventures du xive siècle
+
+
+
+== Introduction ==
+
+Anciens projets d’édition du Comte d’Anjou : le marquis de Queux de Saint-Hilaire, M. Groeber.
+
+Travaux à consulter.
+
+
+== Première partie Étude du poème ==
+
+
+=== Chapitre premier les manuscrits ===
+
+Les deux mss. de la Bibliothèque Nationale, nouv. acq. fr. 4531 (A), fr. 765 (B).
+Description de A : il provient de la collection Burton-Constable.
+Description de B : il appartient an fonds Colbert ; il avait été donné à Colbert, en 1679, par la duchesse de Vivonne.
+
+A, base de l’édition.
+Négligence du copiste de B : lacunes, fautes.
+Quelques traits de la graphie de B ; rajeunissement du texte.
+Le ms.
+A : lacunes causées par des mutilations du ms ; le texte présente aussi de nombreuses fautes.
+Parenté des deux mss.
+
+
+=== Chapitre II Le titre du poème. L’auteur et la date ===
+
+Le titre du Comte d’Anjou.
+Jean Maillart termine son poème en 1316.
+Le protecteur du poète, Pierre de Chambli, seigneur de Viarmes.
+L’essai d’identification, par M. Ch.-V. Langlois, de Jean Maillart le poète avec Jean Maillart, notaire de l’hôtel du roi.
+
+
+=== Chapitre III Graphie du ms. A. Les Abréviations. Les rubriques ===
+
+Le c picard.
+Différents signes de flexion : équivalence de l’s et du z ; le signe abréviatif x (= us) et la lettre x.
+Eu, ou, o (mont).
+La nasale finale ou précédant l’s finale ; l’n mouillé.
+Introduction dans les mots de consonnes adventices.
+Lettres doubles.
+Graphie et (= tt).
+Redoublement de la consonne initiale après un enclitique à terminaison vocalique.
+
+Les rubriques.
+
+
+=== Chapitre IV Morphologie ===
+
+Déclinaison. – Décadence de l’ancienne déclinaison à deux cas attestée par la versification.
+Traitement des adjectifs uniformes.
+Les pronoms : personnels, démonstratifs, relatifs, possessifs.
+Relevé de quelques formes qui appartiennent aux dialectes du Nord-Est.
+
+Conjugaison. – 1re pers. sing. de l’indicatif présent : l’e analogique de la 1re conjugaison ; l’s analogique des autres conjugaisons.
+
+Quelques formes de la 3e pers. sing. du même temps dépourvues de la terminaison t.
+
+Terminaisons de la 1re pers. plur. à l’indicatif présent, au futur et à l’impératif : -ons et -on.
+
+Le subjonctif présent : l’e analogique à la 3e pers. sing. dans la 1re conjugaison ; les terminaisons -ge, – gne (prenge, prengne, etc.).
+
+La terminaison -ens à la 1re pers. plur. (subjonctif, imparfait de l’indicatif, conditionnel).
+
+La 1re pers. sing. à l’imparfait et au conditionnel : terminaison -e.
+
+Quelques formes de futur.
+
+Parfait.
+L’s final analogique de la 1re pers. sing. ; le t final analogique de la 3e pers. sing. manquent encore.
+Conservation d’anciennes formes (tindrent, distrent, etc.)
+
+Relevé des quelques traits dialectaux.
+
+
+=== Chapitre V Versification et traits de phonétique dialectale attestés par la rime. La langue du poème ===
+
+Les vers terminés par un mot atone rimant avec un mot à terminaison féminine.
+Elision.
+Enclise.
+L’e intérieur formant diérèse avec la voyelle ou la diphtongue qui suit.
+Différentes formes des mots meïsmes et boiste.
+
+Les rimes.
+Rimes léonimes.
+Rimes imparfaites.
+Rimes dialectales.
+
+Coup d’œil d’ensemble sur la langue du poème : c’est la ϰοινή, avec quelques traces de dialecte picard.
+Rien ne porte à croire qu’elle différât sensiblement de celle que nous livre le copiste d’A.
+
+
+=== Chapitre VI Analyse du poème ===
+
+
+
+
+=== Chapitre VII Le sujet du poème. La légende. Rapports avec la « Manekine » de beaumanoir ===
+
+Le sujet, malgré l’affirmation de l’auteur, n’a rien d’historique.
+Travaux de M. Hermann Suchier sur la légende qui en forme le fond.
+Rapprochement de quelques passages de la Manekine avec des passages correspondants du Comte d’Anjou.
+Il est vraisemblable que Jean Maillart avait lu la Manekine.
+
+
+=== Chapitre VIII Appréciation du poème ===
+
+Le poète a-t-il écrit, comme il le voulait, une œuvre moralisatrice ?
+La forme : composition, style.
+Intérêt de l’ouvrage.
+
+
+== Deuxième partie Texte critique du poème ==
+
+
+=== Glossaire. Table des noms propres et des principaux personnages ===
+
+

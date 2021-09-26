@@ -1,0 +1,99 @@
+identifier: ENCPOS_1947_11
+creator: Marion Lièvre
+date: 1947
+title: Le songe du vergier. Étude et édition
+
+
+
+== Introduction ==
+
+Le Songe du vergier est un long débat sur les rapports des pouvoirs ecclésiastique et séculier, traité sous forme de dialogue entre un clerc et un chevalier.
+Il comporte deux livres encadrés d’un prologue et d’un épilogue.
+C’est sur l’ordre de Charles V qu’en fut composée, en 1376, une première rédaction latine (Somnium viridarii), bientôt traduite en français.
+Les deux versions n’ont cessé de jouir d’une faveur assez exceptionnelle jusqu’à nos jours.
+
+
+== Bibliographie ==
+
+
+
+
+== Première partie Étude ==
+
+
+
+
+== Chapitre premier manuscrits et éditions. ==
+
+Le manuscrit original français. – C’est le manuscrit Royal 19 C. IV du British Museum.
+Il a appartenu à Charles V et se trouve mentionné dans les inventaires de 1380, 1411, 1424 ; il a été emporté en Angleterre probablement vers 1425, par le duc de Bedford, qui l’a donné au duc de Gloucester.
+
+Les autres manuscrits. – Nous connaissons actuellement sept manuscrits latins, mais l’original est perdu.
+Les manuscrits français sont très nombreux et généralement assez fidèles.
+
+Les éditions. – Le texte français a été édité en 1491, 1500 et 1731 ; le texte latin en 1516, 1548 et 1611.
+
+
+== Chapitre II Le texte latin. ==
+
+Sources. – Le Somnium viridarii n’est qu’une vaste compilation qui emprunte la plupart de ses chapitres aux principaux ouvrages relatifs à la querelle des deux pouvoirs, née du différend entre Boniface VIII et Philippe le Bel.
+Quelques ouvrages étrangers à cette querelle lui fournissent des digressions.
+
+Utilisation des sources. – Pour la forme, l’auteur n’a fait preuve d’aucune originalité et a reproduit, souvent mot à mot, ses sources.
+Pour le fond, il a parfois modifié très légèrement les ouvrages de doctrine qu’il utilisait, dans l’intention marquée de renforcer la position du roi de France.
+
+Passage du latin au français. – Le texte latin a été entièrement remanié quant à la forme.
+Le fond n’a reçu que quelques retouches et additions.
+
+
+== Chapitre III Le texte français. ==
+
+Date de la traduction. – La traduction a suivi de très près l’achèvement du texte latin ; on sait que le roi l’avait entre les mains en 1378. 
+
+Sources du texte français. – Les sources ne diffèrent pas de celles du texte latin ; les sources des passages que la traduction ajoute n’ont pas encore été identifiées avec certitude.
+Le texte français a ajouté deux chapitres dans le livre I, une série de chapitres à la fin du livre II, un certain nombre de détails d’histoire contemporaine.
+
+Forme et langue. – La traduction est d’un style vraiment littéraire et original qui n’est pas celui du texte latin.
+La langue n’a pas de caractéristiques propres : c’est le moyen français de la fin du xive siècle, en cours d’évolution.
+Essai de glossaire.
+
+
+== Chapitre IV Principales questions traitées. ==
+
+Outre le problème des rapports des deux pouvoirs, le Songe du vergier aborde tous les sujets auxquels Charles V s’intéressait manifestement.
+Dans les questions de politique extérieure, l’attitude prise vis-à-vis de l’Angleterre, de la Bretagne, du Saint-Siège est caractéristique de la façon de penser du roi.
+
+
+== Chapitre V L’auteur. ==
+
+Composé sur l’ordre de Charles V et dans son entourage, certainement inspiré par lui quant à l’idée directrice et même quant aux digressions (traitant toutes de questions qui l’occupaient ou l’avaient occupé), un ouvrage aussi peu original pour le fond et pour la forme latine ne saurait, semble-t-il, avoir pour auteur un personnage bien considérable.
+Par ailleurs, les attaques dirigées contre le clergé paraissent exclure l’hypothèse d’un auteur ecclésiastique.
+Ces deux points permettent de réfuter la plupart des attributions proposées depuis le xvie siècle, et de discuter celles pour lesquelles il subsiste un doute. 
+
+
+== Chapitre VI Succès et rayonnement ==
+
+Non seulement l’attribution du texte, mais le texte lui-même a donné lieu, depuis sa composition jusqu’à nos jours, à de très nombreux travaux ; c’est que, jusqu’à la fin du xviiie siècle, il fut une arme excellente pour les Gallicans, et que, dans la suite, son succès antérieur lui valut d’être étudié avec intérêt.
+
+
+== Conclusion ==
+
+Son aspect de témoin d’une époque donne aujourd’hui au Songe du vergier toute son importance et sa valeur.
+
+
+== Table des Citations du livre I ==
+
+
+
+
+== Index des noms propres table des matières ==
+
+
+
+
+== Deuxième partie Édition ==
+
+L’édition a été établie pour le texte français d’après les photographies du ms.
+Royal 19 C. IV ; pour le texte latin, d’après les mss. latins 3459 A de la Bibl. nat., 3522 de la Bibl.
+Mazarine, et accessoirement d’après le ms. lat. 3180 C de la Bibl. nat., et d’après l’édition de 1611.
+On trouvera dans notre transcription, outre le Prologue et l’Épilogue, un certain nombre de chapitres des deux textes qui permettront d’avoir une vue d’ensemble des principales questions traitées.

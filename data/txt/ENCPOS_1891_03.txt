@@ -1,0 +1,58 @@
+identifier: ENCPOS_1891_03
+creator: Henri Duchemin
+date: 1891
+title: Les sources du Livre des fais et bonnes meurs du sage roi Charles V de Christine de Pisan
+
+
+
+== Introduction ==
+
+La biographie de Christine de Pisan a été plusieurs fois écrite ; les documents nous font défaut pour la compléter, mais il importe d’en rappeler les points principaux pour pouvoir établir dans quelles circonstances et au milieu de quel entourage ce livre a été composé.
+
+Faute d’avoir examiné ces circonstances et cet entourage, on s’est jusqu’ici mépris sur la portée du Livre des Fais et bonnes Meurs.
+Les sources de cet ouvrage sont de deux sortes : historiques, c’est-à-dire ayant trait aux chroniques contemporaines ; littéraires, c’est-à-dire se rapportant à diverses compilations morales et philosophiques. 
+
+
+== Livre premier sources historiques ==
+
+
+=== I. – Sources historiques écrites. ===
+
+1.
+Chroniques de Saint-Denis. – Elles sont partiellement reproduites, pour ce qui concerne les guerres de Charles V, dans la seconde partie de l’œuvre de Christine de Pisan, et très fidèlement copiées sur le texte du ms.
+Bibl. nat. fr. 4957, pour ce qui traite du séjour de l’empereur Charles IV en France, dans la troisième.
+Il paraît établi, d’après nos comparaisons, que le ms. fr. 4957 est bien celui-là même sur lequel a travaillé Christine.
+
+2.
+Une Chronique anonyme contenue dans le ms. fr. 4957. – Un certain nombre d’extraits de cette chronique entrent dans la composition de la seconde partie, comme le fait voir un tableau comparatif que nous en avons dressé.
+
+3.
+Relation latine de la mort de Charles V. – Christine l’a traduite dans le dernier chapitre de la troisième partie, en en retranchant seulement ce qui était de nature à froisser certaines personnalités, comme l’a démontré déjà M. Hauréau.
+
+
+=== II. – Sources historiques orales ===
+
+1.
+Ce sont des relations et communications qui furent faites à Christine par d’anciens serviteurs du roi ; Thomas de Pisan son père est le seul qu’elle nomme, mais il faut compter vraisemblablement parmi eux Gilles Malet, Jean de Montaigu et des membres de la famille de La Rivière.
+
+2.
+La vérité des faits provenant de ces récits est établie par d’autres témoignages, par exemple celui de l’auteur du Songe du Vergier. 
+
+
+== Livre deuxième sources littéraires ==
+
+1.
+De Regimine principum de Gilles de Rome. – La traduction française de cet ouvrage par Henri de Gauchi fournit tout ce qui est dit de l’art militaire dans les derniers chapitres de la seconde partie, – de la politique, dans les premiers chapitres de la troisième.
+
+2.
+Spéculum historiale de Vincent de Beauvais. – Christine l’a connu par la traduction anonyme abrégée que donne le ms. fr. 4957 et dont des extraits sont épars dans toutes les parties de son livre.
+
+3.
+Commentaire sur la Métaphysique d’Aristote. – Ce commentaire, qu’il nous a été impossible de retrouver, est reproduit par fragments dans les premiers et les derniers chapitres de la troisième partie.
+
+
+== Conclusion ==
+
+Les pages originales sont donc rares dans le Livre des Fais et bonnes Meurs ; mais qui voudra se faire une juste idée du portrait moral de Charles V devra toujours y recourir parce qu’elles sont fondées sur les souvenirs de Christine ou de témoins qu’elle a connus.
+
+Comme œuvre littéraire le livre de Christine ne mérite guère d’être cité sinon comme un monument intéressant pour l’histoire de l’érudition au Moyen-Age, ou plutôt comme un exemple frappant de la liberté avec laquelle les auteurs en usaient alors avec les œuvres des écrivains antérieurs.

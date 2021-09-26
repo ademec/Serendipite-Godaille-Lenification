@@ -1,0 +1,146 @@
+identifier: ENCPOS_1938_05
+creator: Jacques Guignard
+date: 1938
+title: Recherches sur l’histoire du livre à Tours de la fin du xve à la fin du xve siècle (1485-1588)
+
+
+
+== Avant-propos ==
+
+A la fin du xve siècle seulement, les actes notariés offrent une source d’information continue sur l’histoire des artisans du livre à Tours.
+C’est une des raisons qui ont fait choisir le point de départ de cette étude : elle s’étend de la mort de Fouquet (vers 1481) et de la date du premier incunable tourangeau (1485) jusqu’à l’établissement d’imprimeurs parisiens fixés dans la ville pendant la Ligue.
+
+Méthode employée.
+
+
+== Sources – Bibliographie ==
+
+
+
+
+== Introduction ==
+
+A la fin du xve siècle, Tours, enrichi par le commerce et l’industrie, voit naître dans l’entourage de la cour une classe nouvelle de fonctionnaires et de financiers, plus amis des arts que lettrés.
+Le clergé, très nombreux, représente l’élément cultivé.
+
+
+== Première partie Le manuscrit ==
+
+
+=== Chapitre premier écrivains. ===
+
+On ne trouve naturellement plus trace de scriptorium ecclésiastique.
+L’art même de la calligraphie, très répandu jusque-là, tend à se perdre dans les bureaux.
+On ne connaît guère des écrivains professionnels que leur nom : Jean Guimbelet, Robert Guéru, Martin Impejour, Jean Riveron, Gatien Poyet, Jean Fretisson, Pierre Symonnet.
+Ils se sont chargés des travaux les plus divers et l’on peut, dans certains cas, soupçonner çà et là l’existence d’ateliers.
+
+
+=== Chapitre II Enlumineurs. ===
+
+A côté de Bourdichon, qui n’exécute pas seulement des manuscrits ou des travaux de décoration, mais fournit à l’occasion le « portrait » d’un vitrail pour l’église de Vouvray, on trouve de nombreux enlumineurs.
+L’un d’eux, Éloi Tassart, fait même figure de patron.
+Plus d’un peintre ou verrier est sans doute capable d’illustrer un manuscrit, comme ce Jean Viau, qui emploie à ses côtés sa fille Élisabeth.
+
+
+=== Chapitre III Œuvres. ===
+
+Si l’on, excepte les œuvres mises sous le nom de Bourdichon et les livres liturgiques, il est en réalité peu de manuscrits que l’on puisse attribuer avec certitude à la Touraine.
+Robert du Herlin n’est pas un scribe professionnel, mais un auteur qui calligraphie ses propres écrits.
+L’examen des textes et des peintures ne permet pas davantage de reconnaître en Guillaume Piqueau l’auteur des grandes miniatures du De Vita Christi, vendu à Charlotte de Savoie par Th.
+Bredin (Bibl. nat., ms. fr. 407-408).
+
+Un des rares manuscrits dont on puisse affirmer l’origine tourangelle, les Heures de saint Florentin d’Amboise (Bibl. de Tours, ms. 219), œuvre de Jean et d’Elisabeth Viau, exécuté dans le deuxième quart du xvie siècle, offre des caractères assez différents de ceux que l’on attribue d’ordinaire à l’école de Tours ; c’est une preuve de l’originalité des artistes, capables de s’évader des formules des maîtres. 
+
+
+== Deuxième partie L’imprimerie ==
+
+
+=== Chapitre premier les origines de l’imprimerie a tours. ===
+
+L’imprimerie s’établit assez tard à Tours.
+
+On a reconnu depuis longtemps que le De Amore Camilli et Aemilie Aretinorum n’y avait pas été imprimé en 1467 ; mais ce que l’on sait de l’auteur, Francesco Florio – clerc italien, humaniste et scribe de profession, protégé des ecclésiastiques – permet de penser qu’il a écrit son œuvre dans la demeure de l’archevêque Géraud de Crussols.
+
+On ne voit pas pourquoi Jean Dupré, qui a imprimé l’Ordre gardé aux États de Tours (1484), aurait transporté son matériel dans la ville à cette occasion.
+Le plus ancien livre imprimé à Tours est le Missale Turonense de 1485, qui n’est probablement pas sorti des presses de Dupré.
+
+
+=== Chapitre II La période des incunables. ===
+
+Le premier imprimeur mentionné à Tours est un certain Jean Thomas (1490).
+Avant l’impression du Breoiarium Sancti Martini Turonensis par Simon Pourcelet (1494), on y trouve aussi Mathieu Latheron, qui semble avoir employé son compatriote Jean Lebrethon et qui manifeste une certaine activité jusqu’en 1520.
+
+Le Tourangeau Mathieu Chercelé travaille jusque vers 1555.
+Il est peut-être le patron de Jean Hurisson, originaire d’Orléans, et imprime, lui aussi, de nombreux livres liturgiques.
+Sa production est pourtant plus variée, comme celle de Jean Rousset.
+Ce dernier se réfugie à Genève, ainsi que plusieurs autres libraires de Tours.
+
+Par la suite, G. Bourgeat et O. Taffoureau, Pierre Regnart et René Liffleau publient surtout des pièces politiques.
+
+
+=== Chapitre III La technique. ===
+
+Si la production reste peu abondante, elle montre, du moins, que les imprimeurs se tiennent au courant des derniers perfectionnements de la technique.
+Ils demeurent fidèles aux traditions, par exemple, dans le choix des types employés.
+Le matériel se renouvelle assez peu et n’a jamais compris de caractères grecs.
+Un orfèvre de Tours, Charles Chiffin, s’est pourtant fait remarquer à Paris par son habileté à graver des poinçons.
+
+L’illustration témoigne d’échanges artistiques avec la capitale.
+Plusieurs des planches de la Vie et Miracles de Monseigneur saint Martin (Latheron, 1496) repassent dans l’édition de Trepperel, et celles du Missale ad usum Majoris Monasterii (Latheron, 1509) proviennent de livres parisiens ou sont des imitations directes des gravures de Le Rouge ; une suite qui reste jusqu’au milieu du xvie siècle la propriété des imprimeurs tourangeaux paraît même de l’artiste qui a illustré les Horae Beatae Mariae Virginis, de Barbier-Le Rouge.
+L’illustration, souvent lourde et maladroite, témoigne, d’ailleurs, des qualités les plus diverses et demeure parfois spirituelle jusque dans les livres liturgiques.
+
+On attribue à la Touraine un groupe de xylographies du début du xvie siècle ; deux, au moins, le Saint François recevant les stigmates et l’Homme de douleurs en pied, de la Bibliothèque nationale, paraissent provenir d’un atelier auquel nous attribuons le Saint Jérôme du Museum für Kunst und Gewerbe de Hambourg, mais qui semblent parisiennes.
+Une Crucifixion du British Museum témoignerait même d’une influence directe des gravures de Le Rouge sur plusieurs de leurs détails.
+
+
+== Troisième partie Les libraires le commerce des livres et la reliure ==
+
+I. Les libraires, Tugal Gaultier, Thibaut Bredin, Robert Charlot, Jean Lefort, vivent groupés rue de la Scellerie, près des enlumineurs et des imprimeurs.
+Leurs familles s’allient souvent entre elles, mais on n’a pas la preuve qu’ils aient formé une corporation.
+Les contrats d’apprentissage semblent conclus pour une durée de cinq ans ; les apprentis n’habitent pas toujours chez leur patron.
+
+II. Ils baillent des fonds aux imprimeurs parisiens autant qu’à ceux de Tours et entretiennent des relations d’affaires avec H. Bézine (de Lyon), L. Royer (de Paris) et Antoine Vérard.
+Celui-ci a la haute main sur le marché ; mais on ne saurait tirer argument de ce fait pour lui attribuer une origine tourangelle.
+Par contre, le libraire Jean du Liège ne semble pas devoir être confondu avec un membre de la famille des Marnef.
+
+III. Plusieurs de ces libraires sont aussi des relieurs.
+On connaît le nom de ceux qui ont travaillé pour Charles VIII ; le Parisien René Bonnemère a confié à Olivier Naturel la reliure de livres liturgiques.
+Sauf de rares exceptions, il est assez difficile d’apprécier leurs œuvres.
+On peut même assurer que la plaque de l’ Annonciation au chiffre G.P. n’est pas tourangelle.
+Seule la mode des reliures d’étoffe semble particulièrement durable.
+
+
+== Quatrième partie Les bibliophiles ==
+
+Ce sont des ecclésiastiques ou des fils de marchands appartenant au mouvement de la Pré-Réforme, comme Antoine et Nicole Papillon (ce dernier chanoine de Tours), originaires des environs d’Amboise et fieffés à Nazelles, comme le poète Marc de Papillon.
+
+L’un d’eux, René Fame, a mis son ex-libris : Benati Fame et amicorum, et sa devise : Vires acquirit eundo, sur quatre reliures ayant appartenu à Grolier.
+Fame, notaire et secrétaire du roi, était un lettré qui a dédié à François Ier ses traductions des Divines Institutions de Lactance et de la Paraphrase d’Érasme sur l’Evangile de saint Mathieu.
+Comme il est mort en 1540, il est ainsi prouvé que Grolier avait dispersé de son vivant une partie de ses collections.
+
+Une nièce de René Fame avait épousé un voisin de campagne de celui-ci, le poète V. Brodeau, lui aussi bibliophile, et dont un frère, l’érudit chanoine Jean Brodeau, a eu entre les mains cinq des reliures de Grolier.
+
+
+== Conclusion ==
+
+L’influence des milieux ecclésiastiques sur la production, l’absence d’université dans une ville où ne manquent pas les amateurs riches, les relations de toutes sortes avec Paris expliquent la survivance de l’art du manuscrit qui brille du plus vif éclat à l’époque même où la gravure subit des influences parisiennes.
+
+
+== Appendice ==
+
+Nicolas Jenson n’a pas été maître de la Monnaie de Tours.
+
+
+== Pièces justificatives ==
+
+
+
+
+== Livres imprimés a tours de 1485 à 1588 ==
+
+
+
+
+== Album de planches ==
+
+

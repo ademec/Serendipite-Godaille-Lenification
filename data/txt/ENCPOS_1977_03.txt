@@ -1,0 +1,210 @@
+identifier: ENCPOS_1977_03
+creator: Jacques Berlioz
+date: 1977
+title: Le Tractatus de diversis materiis predicabilibus d’Étienne de Bourbon. Troisième partie : De dono scientie. Étude et édition
+
+
+
+== Introduction ==
+
+Dans la présentation du troisième livre du Tractatus de diversis materiis predicabilibus du dominicain Étienne de Bourbon, après avoir réuni les éléments biographiques concernant l’auteur, nous nous sommes attaché à dégager l’organisation des tituli et la rhétorique qui y a cours, à analyser leur contenu en le situant dans le contexte de la théologie morale du xiiie siècle et enfin à éclairer les rapports entre les exempla et leur entourage formé de citations d’autorités (auctoritates) et de raisonnements (rationes).
+
+Nous avons d’autre part étudié la tradition manuscrite du traité afin de procéder à son édition.
+En outre nous avons donné un résumé ainsi qu’une analyse détaillée ou une traduction pour chaque exemplum et pour certaines similitudines en les accompagnant de leur source ou de textes parallèles et en les faisant généralement suivre d’un commentaire. 
+
+
+== Première partie Présentation ==
+
+
+=== Chapitre premier Étienne de Bourbon ===
+
+Étienne de Bourbon naquit vraiment à l’histoire en 1877 avec l’édition partielle du Tractatus par A. Lecoy de la Marche.
+Les comptes rendus critiques furent alors unanimes à remarquer que l’éditeur avait bien fait de ne pas tout publier, qu’Étienne de Bourbon fournissait des renseignements intéressants pour la vie du xiiie siècle et qu’enfin le dominicain était un piètre écrivain et de peu d’esprit.
+
+Sources et chronologie. – La source essentielle de la vie d’Étienne de Bourbon reste son ouvrage.
+Nous n’avons trouvé aucun élément nouveau susceptible de renouveler sa biographie.
+Né autour des années 1185-1190 à Belleville-sur-Saône, il poursuivit ses études à Mâcon et à Paris avant d’entrer dans l’ordre des Frères Prêcheurs.
+S’ouvrit alors pour lui une intense période d’activité missionnaire et inquisitoriale qui se termina vers 1250.
+Fort de cette expérience, il consacra la fin de son existence, jusqu’à sa mort en 1261, à rédiger au couvent des dominicains de Lyon le Tractatus de diversis materiis predicabilibus qu’il laissa inachevé.
+
+Zones d’action d’Étienne de Bourbon. – Les axes de ses missions s’articulent autour de Lyon et de la région lyonnaise (la Dombes, le Beaujolais) et se portent vers le Forez et le Massif central, la Bourgogne et la Champagne, la Savoie et le Piémont ainsi que vers le Valentinois et le Roussillon.
+De par ses fonctions et ses pérégrinations, Étienne de Bourbon rencontra un grand nombre de personnes qu’il cite ou mentionne pour conférer à certains de ses exempla l’authenticité nécessaire.
+Si les dominicains forment un réseau privilégié de relations, ces dernières s’étendent aux Frères Mineurs, au clergé séculier et au monde laïque.
+
+Étienne de Bourbon, praticien de la nouvelle prédication tournée vers les foules laïques, apporte dans cette partie de son traité des matériaux destinés à encourager tout particulièrement la pratique de la confession, rendue obligatoire une fois l’an au moins par le ive Concile du Latran (1215). 
+
+
+=== Chapitre II Les dons du Saint-Esprit ===
+
+Quand Étienne de Bourbon organise son traité selon les sept dons du Saint-Esprit, il se montre l’héritier d’une tradition qu’il transforme et adapte à ses besoins.
+
+La force de l’héritage. – S’il ne participe pas aux débats théologiques de son temps sur les dons et notamment à la querelle sur les rapports entre les dons et les vertus, Étienne de Bourbon est d’une part l’héritier de la tradition qui, venue pour l’essentiel de saint Augustin commentant Isaïe 11, 2-3, faisait des dons du Saint-Esprit les acteurs privilégiés d’une gradation spirituelle et se prolongeait dans le courant cistercien, développant l’idée du combat des dons contre les vices (saint Bernard) et de leur utilisation au service de la direction de conscience (Adam de Perseigne).
+Il est d’autre part le continuateur de Jacques de Vitry (mort en 1240) qui organisa une partie de sa Vie de sainte Marie d’Oignies selon les dons du Saint-Esprit.
+
+Mémoire et dons du Saint-Esprit. – L’emploi de ce septenaire est lié à des préoccupations d’ordre pédagogique, à un désir d’organisation, à un souci de favoriser la mémorisation du traité.
+Efforts qui apparaissent dans tout le Tractatus soit de façon externe par le raffinement des divisions intérieures, par les titres marginaux, l’emploi de la couleur et des rubriques, soit de manière interne par l’utilisation de vers mnémoniques (versus colorati) ou par une véritable rhétorique du nombre.
+Les dons du Saint-Esprit se révèlent être une topique fournissant une grille commode de classement.
+
+Le don de science et la pénitence. – Si Étienne de Bourbon suit la tradition qui associait le don de science à la pénitence à cause de son lien avec la troisième Béatitude, il donne à ce don, à la suite de saint Bernard et de Jacques de Vitry, un rôle moteur important dans la pratique de la pénitence.
+Il ne cantonne pas le don de science dans des buts trop précis, mais lui fait au contraire embrasser la vie pénitentielle toute entière.
+
+
+=== Chapitre III La fonction du « Tractatus » : l’exemple du premier « titulus », « de penitentia » ===
+
+Le Tractatus de diversis materiis predicabilibus était destiné aux prédicateurs qui préparaient leur sermon et désiraient non seulement des exempla mais aussi des citations d’autorités et des raisonnements.
+C’est pourquoi nous avons cherché à mettre en valeur et à expliquer le fonctionnement général du titulus – méthode reprise pour tous les tituli étudiés et édités – par l’examen minutieux de son organisation, tant externe qu’interne, ce qui a permis d’un côté de mettre en lumière la rigueur dans la structure du texte et l’élimination de toute notion de hasard qui aurait présidé à la rédaction du traité, et de l’autre de dresser une liste provisoire des figures constantes et invariables de la rhétorique d’Étienne de Bourbon.
+
+Les exempla tirés des Vite Patrum représentant plus de 30 % des exempla du premier titulus, nous nous sommes attaché à montrer l’écart qui existe entre le texte de base et celui que propose Étienne de Bourbon, en remarquant comment, de leur fonction de compte rendu d’un dialogue, les Vite Patrum étaient devenues simple illustration d’une leçon dont les tenants et les aboutissants n’avaient plus de rapport avec le contenu spirituel primitif.
+Le succès des Vite Patrum peut s’expliquer par la présence charismatique de l’abba qui donne autorité à l’exemplum et qui est porteur d’une parole, et par les prouesses ascétiques des ermites.
+
+
+=== Chapitre IV De la connaissance de l’état de pécheur à la confession ===
+
+L’analyse détaillée des trois tituli traitant respectivement de la considération et de la connaissance par l’homme de son état de pécheur, de la contrition et enfin de la confession, a permis de comprendre le paradoxe qui existait à première vue entre l’exposé d’un contritionnisme larmoyant correspondant à une rémission des péchés fondée sur une conversion bouleversante, et l’exaltation d’une confession régulière doublée d’un programme complet d’examen de conscience.
+Tout se passe comme si le contritionnisme était devenu un discours privé de sa signification originelle et mis au service d’un système pénitentiel où l’aveu se montrait l’élément essentiel et prépondérant.
+
+En outre, l’étude de la répartition des exempla dans ces trois tituli nous a permis de montrer que si l’exposé des normes de la contrition et de la confession ainsi que de leurs effets apportait un nombre important d’exempla, le court titulus consacré à la connaissance de l’état de pécheur et la fin du quatrième titulus où est fournie une grille d’examen de conscience (circonstances du péché et ses instruments ; liste de fautes suivant les sept péchés capitaux) n’en comportaient pas.
+De plus, les exempla sont plus nombreux quand c’est la lutte entre Dieu et le Diable par l’homme interposé qui est décrite.
+L’exemplum dans lequel toute finesse psychologique semble exclue ne peut donc pas illustrer l’examen de conscience.
+
+Nous avons constaté par le biais de l’étude des thèmes du texte que si les arguments présentés par Étienne de Bourbon semblaient bien souvent redondants, ils se différenciaient d’un titulus à l’autre par la thématique différente qu’ils supportaient.
+
+
+=== Chapitre V Le jeûne ===
+
+Après avoir longuement traité de la confession, Étienne de Bourbon en vient à son complément qui, s’il est en forte perte de vitesse au xiiie siècle, reste toutefois indispensable : la satisfaction.
+L’auteur commence son examen par le jeûne.
+Celui-ci conserve encore son caractère de réparation, mais il est surtout décrit comme une pratique ascétique, un moyen privilégié de se préserver des péchés, surtout d’ordre sexuel.
+
+Le discernement (discretio) en matière de jeûne est une qualité qu’illustrent de nombreux exempla.
+
+
+=== Chapitre VI Pèlerinage et croisade ===
+
+Les motifs de prendre la route présentés par Étienne de Bourbon font apparaître le pèlerinage comme une réparation des péchés au même titre que le jeûne ou la prière, sans pour autant être le pèlerinage pénitentiel stricto sensu (la pénitence publique non solennelle), et comme un pèlerinage de dévotion que sa dureté transforme, par l’effet de mortification qu’elle engendre, en œuvre de pénitence.
+
+Les raisons de partir en croisade qu’avance Étienne de Bourbon se situent dans le prolongement de la prédication de la cinquième croisade.
+Les emprunts faits notamment à Jacques de Vitry sont développés et exposés systématiquement.
+L’analyse de ces motifs a permis de dégager leurs traits principaux : généralité, caractère fortement scripturaire et scolastique, absence de toute référence à des événements contemporains, illustration des arguments par des exempta tirés de l’histoire légendaire de la première croisade.
+
+Nous avons pris le parti d’étudier un exemplum tiré de l’Historia Francorum qui ceperunt Jérusalem de Raymond d’Aguilers pour appréhender d’une part les transformations subies par le texte de base (résumé, perte partielle des données historiques) et d’une autre le changement de fonctions de la relation d’un événement, en l’occurence de l’invention de la sainte Lance.
+
+
+=== Chapitre VII Les sources d’Étienne de Bourbon ===
+
+Tradition et autorités. – L’armature spirituelle et morale du De dono scientie n’a pas été empruntée à une seule source mais résiderait plutôt dans la combinaison de la spiritualité cistercienne et de la théologie morale de la fin du xiie siècle représentée essentiellement par Pierre le Chantre (mort en 1197) et par Alain de Lille (mort en 1203).
+Il faut souligner aussi l’influence importante de Jacques de Vitry et, à un degré moindre, de Guillaume Peyraut.
+L’apport personnel d’Étienne de Bourbon nous a paru résider surtout dans l’effort d’agencement systématique de données souvent éparses et disséminées.
+La Bible avec près de mille citations ou allusions est omniprésente.
+L’Ancien Testament prédomine avec 73,9 % des citations bibliques.
+Les livres historiques (28 %), sapientiaux (33 %) et prophétiques (26 %) ont la prépondérance au détriment du Pentateuque (13 %).
+Les évangiles selon saint Matthieu et saint Luc viennent en tête des citations du Nouveau Testament.
+La Bible est citée généralement d’après la Vulgate.
+Étienne de Bourbon utilisait certainement des concordances bibliques.
+Les Pères de l’Église fournissent à eux seuls soixante-dix-sept citations sur cent cinquante au total, avec en tête saint Grégoire le Grand (Moralia in Job, Homeliae in Evangelia) puis saint Augustin (Enarrationes in Psalmos, sermons) et le Pseudo-Augustin du De vera et falsa poenitentia, saint Jérôme, enfin saint Ambroise, saint Isidore de Séville et saint Jean Chrysostome.
+La grande autorité médiévale est saint Bernard de Clairvaux (Sermones in Cantica surtout), escorté des Pseudo-Bernard, soit trente-six citations.
+Les commentaires bibliques introduits par le mot Glossa appartiennent en général à la Glossa ordinaria.
+Sénèque le Philosophe s’impose parmi les auteurs païens et est suivi par Dyonisius Caton, Horace et Ovide, Juvénal et Térence, ces deux derniers étant introduits par la mention Philosophus.
+
+Les sources des « exempla ». – Étienne de Bourbon, afin de donner aux exempla l’authenticité indispensable, indique généralement ses sources.
+Nous avons établi une classification provisoire des exempla en distinguant trois grands types : l’exemplum d’origine savante écrite ; l’exemplum personnel consistant en une tradition orale recueillie par Étienne de Bourbon lui-même ou par un clerc digne de foi qui la lui a rapportée ; l’exemplum mixte, emprunté à une source savante sans indication de son caractère d’écrit, ou rapporté à Étienne de Bourbon par un clerc digne de foi qui mentionne ou non le caractère d’écrit de son récit ou déclare l’avoir entendu d’un autre clerc, en général au cours d’un sermon.
+Les exempla de source savante écrite représentent près des trois quarts des exempla et voient la prépondérance des Vite Patrum et des récits hagiographiques.
+L’étude des exempla personnels nous a permis de poser la question du rapport entre la culture savante et la culture populaire.
+
+
+== Deuxième partie La tradition du Tractatus de diversis materiis predicabilibus ==
+
+
+=== Chapitre premier évolution générale ===
+
+Le Tractatus de diversis materiis predicabilibus a peu vécu sous sa forme initiale.
+Dès le xiiie siècle le texte en a été transmis partie par partie, ou sous des formes abrégées.
+Mais surtout, il a été immédiatement démembré et réutilisé par d’autres auteurs de recueils : l’usage croissant de l’exemplum avait modifié la conception du recueil d’exempla, et d’autres ouvrages sont venus en quelque sorte remplacer le traité touffu qui leur avait fourni la matière. 
+
+Nous avons tenté un classement des manuscrits recensés dont une première liste fut dressée par J.-Th.
+Welter en 1927 (dans L’Exemplum dans la littérature religieuse et didactique du Moyen Age, Paris-Toulouse, 1927, p. 221-223, note 12).
+Elle a été enrichie grâce aux inventaires de bibliothèques et aux fichiers de l’Institut de recherche et d’histoire des textes.
+Nous avons donné une notice sommaire de chacun de ces manuscrits et une notice en forme et détaillée d’un représentant de chacun de ces types.
+
+L’original, autrefois conservé au couvent des dominicains de Lyon, a disparu.
+Il ne nous reste que trois recueils complets, l’un du xiiie et les deux autres du xive siècle.
+Un autre groupe rassemble les manuscrits qui suivent le texte du premier groupe d’assez près mais ne présentent que deux ou trois parties.
+Les manuscrits du troisième groupe, sous le nom de Panthéon, sont des abrégés.
+Enfin, l’œuvre d’Étienne de Bourbon ayant inspiré à Humbert de Romans un De dono timoris ou Tractatus de habundantia exemplorum, très proche du premier livre du Tractatus, un certain nombre de manuscrits réunissent sous le nom du Tractatus de habundantia exemplorum le prologue et l’œuvre d’Humbert de Romans et un ou plusieurs autres livres du Tractatus d’Étienne de Bourbon.
+
+
+=== Chapitre II Les copies complètes du « Tractatus » ===
+
+Le ms.
+Paris, Bibl. nat., lat. 15970 (xiiie siècle) est considéré comme une copie directe de l’original.
+Les deux copies du fonds de Saint-Victor (Paris, Bibl. nat. lat. 14598-14600) et de la Bibliothèque de Heidelberg (Bibl. univ., Salem X, 2/1-2) présentent des versions très proches et une décoration semblable qui semble leur assigner une origine commune.
+Ajoutons que le ms.
+Erlangen, Bibl. univ. 341/1-3, bien qu’incomplet, appartient à cette famille.
+Nous donnons la notice détaillée de ces quatre manuscrits.
+
+
+=== Chapitre III Les « Tractatus » incomplets ===
+
+Le deuxième groupe de manuscrits est beaucoup moins homogène ; certains ne contiennent que deux parties, comme la série des manuscrits d’Allemagne méridionale, d’Autriche et de Tchécoslovaquie (Heiligenkreuz, Stiftsbibl., 313 ; Hohenfürt, Stiftsbibl., 89 ; Reun, Stiftsbibl., 10 ; Vienne, Schottenkloster, Stiftsbibl., 96 ; idem, 154).
+Certains, comme les deux manuscrits de Troyes, Bibl. mun., 529 bis et 1891, comportent quatre des cinq parties du Tractatus.
+Le ms.
+Florence, Bibl.
+Laurenz.
+Plut.
+VIII, sin. cod. 2, présente comme désolidarisées en deux traités différents la cinquième puis les deux premières parties du traité.
+Ces copies sont dans l’ensemble d’une qualité irrégulière ; elles se révèlent souvent lacunaires.
+C’est le cas du ms.
+Troyes, Bibl. mun., 1891, dont nous donnons une notice détaillée. 
+
+
+=== Chapitre IV Abrégés et « excerpta » ===
+
+Les copies portant le titre de Pantheon, sont résolument abrégées comme le signale l’incipit différent de celui du Tractatus.
+Évolution que traduit la taille réduite des volumes contenant ces versions (jamais plus de cent cinquante folios).
+Nous donnons la notice détaillée du ms.
+Arras, Bibl. mun., 1019.
+
+
+=== Chapitre V Plagiats et démarquages ===
+
+Le Tractatus de diversis materiis predicabilibus a été immédiatement pillé.
+Le démarquage le plus patent est celui qui a été effectué par le Pseudo-Vincent de Beauvais dans le Spéculum morale où le contenu du Tractatus est presque entièrement passé.
+Le De dono timoris d’Humbert de Romans, o. p. (mort en 1277), inspiré du Tractatus, a remplacé parfois la première partie du traité, réagissant ainsi curieusement sur la tradition manuscrite de ce dernier.
+Le traité n’a d’autre part jamais fait l’objet d’édition imprimée complète.
+
+
+=== Chapitre VI Principes suivis pour l’édition ===
+
+Nous avons établi notre édition d’après les deux manuscrits complets conservés à la Bibliothèque nationale de Paris : le ms. lat. 15970 qui appartint à Pierre de Limoges (mort en 1306), lequel en fit donc à la bibliothèque de la Sorbonne où il fut longtemps utilisé comme « usuel », corrigé par le ms. lat. 14599 (fonds de Saint-Victor).
+
+L’orthographe médiévale a été respectée.
+Nous avons cependant rétabli pour des commodités de lecture les u et v, les i et j modernes.
+Les divisions internes ont été conservées jusqu’au chapitre.
+Nous avons à partir de là supprimé – tout en l’indiquant en note – le système de division fondé sur les sept premières lettres de l’alphabet latin, système qui était trop souvent incohérent, pour le remplacer par la division des chapitres en petites unités numérotées.
+
+Nous avons édité les six premiers tituli du troisième livre, De dono scientie, qui en compte huit, délaissant donc les tituli consacrés à la prière et à la persévérance.
+Notre édition représente environ 63 % du troisième livre.
+Nous avons donné en tête de chaque titulus une analyse sommaire de son contenu, tant au niveau du discours scolastique que des exempla. 
+
+
+== Troisième partie Édition ==
+
+
+
+
+== Quatrième partie Sources et parallèles des exempla ==
+
+Un résumé puis une analyse détaillée ou plus généralement une traduction ont été fournis pour chaque exemplum et pour certaines des similitudines.
+Nous avons essayé d’identifier la source première et les possibles intermédiaires qui se seraient glissés entre elle et l’exemplum, identifications suivies dans la mesure du possible d’éclaircissements.
+
+Nous avons plus particulièrement étudié l’exemplum de Robert le Diable (éd.
+A. Lecoy de la Marche, Paris, 1877, p. 145-148) en montrant ses parentés avec certaines des Vies de « saints fous » byzantines et en essayant de décrire sa structure et sa tradition ; l’exemplum du
+    « Fou » (Lecoy de la Marche, éd. citée, p. 151-153) en mettant en refief sa parenté avec la Vie d’Andreas Salos et des textes d’origine cistercienne.
+Nous avons également retenu les exempla ayant trait au bûcher du Mont-Aimé (13 mai 1239), à la fontaine miraculeuse d’Épire, à la version présentée par Étienne de Bourbon du
+    « Chevalier au barisel », à la
+    « Messe de saint Gilles », ainsi que tous les exempla extraits de l’Historia anthiochena et de l’Historia tripartita dont nous avons pu apprécier le caractère composite.
+
+
+== Annexes ==
+
+Identification des citations. – Notes additionnelles au texte de l’édition (problèmes concernant les sources bibliques). – Tables des versus, des incipit des exempla. – Index des citations bibliques et des citations d’autorités. – Édition d’un miracle de saint Basile extrait du Liber de Natalitiis (Paris, Bibl. nat., lat. 16736, fol. 6). – Dossier photographique et documentaire sur le bûcher du Mont-Aimé.

@@ -1,0 +1,71 @@
+identifier: ENCPOS_1999_45
+creator: Géraldine Veysseyre
+date: 1999
+title: Le Roman de Brut de Jean de Wauquelin, traduction de l’Historia regum Britannie
+
+
+
+== Introduction ==
+
+Le succès de la littérature arthurienne ne s’est pas démenti depuis le xiie siècle, époque de Geoffroy de Monmouth et de Wace, jusqu’à la fin du Moyen Age, en passant par les grands romans de Chrétien de Troyes et les cycles en prose du xiiie siècle.
+Les nobles de la cour de Bourgogne au xve siècle sont particulièrement friands de cette littérature mettant en scène des hommes de guerre, et ils en commandent un certain nombre de versions mises au goût du jour, dérimées, traduites ou compilées.
+
+Le Roman de Brut est une traduction de l’Historia regum Britannie de Geoffroy de Monmouth écrite dans le milieu de la cour de Bourgogne en 1445, par Jean Wauquelin, à la demande d’Antoine de Croÿ (mort en 1475 ou 1477).
+Noble de premier plan, ce dernier fut un des principaux chefs militaires de Philippe le Bon et, en récompense de ses services, il fut fait chevalier de la Toison d’or.
+Il se rapprocha ensuite de Louis XI, qui le chargea d’importantes missions diplomatiques.
+Il servit en particulier de médiateur entre la couronne de France et le duché de Bourgogne.
+
+Jean Wauquelin (mort en 1452), après avoir dirigé au début de sa carrière un atelier de copistes à Mons, composa ensuite la totalité de ses œuvres (compilations, traductions, mises en prose, etc.) à l’instigation de Philippe le Bon ou de son entourage proche.
+
+Le Roman de Brut est conservé dans un manuscrit unique : le ms.
+British Library, Lansdowne 214 (xve siècle).
+Il est d’aspect tout à fait modeste, tant par sa décoration que par sa reliure. 
+
+
+== Première partie Commentaire ==
+
+
+=== Chapitre premier la langue du manuscrit ===
+
+La graphie est fortement marquée par des caractéristiques picardes, comme en témoignent par exemple les mots leu (loup), chiel ou caude.
+La morphologie relève également de la scripta picarde : l’article défini féminin singulier le et le pronom de la première personne du singulier jou en sont des exemples.
+La syntaxe est caractéristique du moyen français.
+Quant au style, il s’apparente au texte latin quant aux figures de rhétorique (les images employées s’inspirent en grande majorité de celles de Geoffroy de Monmouth) ; il est très proche de la prose spontanée du xve siècle pour le rythme des phrases, qui sont généralement riches en subordonnées et très amples.
+
+
+=== Chapitre II Jean Wauquelin, traducteur de l’Historia regum Britannie ===
+
+Le texte source. – Le texte de Geoffroy de Monmouth est aujourd’hui conservé dans plus de deux cents manuscrits.
+Sa tradition est donc complexe : l’exemplaire latin utilisé par Jean Wauquelin appartient à la « version commune » (par opposition à la « première variante » et à la « seconde variante »).
+La qualité en est assez bonne, exception faite des prophéties de Merlin, qui sont très corrompues et ont donc beaucoup gêné le traducteur.
+Il faut cependant signaler que la tradition manuscrite de ces Prophetie Merlini est dans l’ensemble des exemplaires latins particulièrement fluctuante.
+
+La traduction des noms propres. – La traduction des noms propres permet difficilement d’évaluer les connaissances géographiques de Wauquelin, d’autant que ces noms sont particulièrement abondants et soumis aux aléas de la tradition manuscrite.
+Il semble donc qu’ils aient souvent été fautifs dans le manuscrit latin consulté par le traducteur.
+Les erreurs manifestes de transposition sont rares : Wauquelin utilise souvent les calques pour camoufler pudiquement ses ignorances.
+
+La traduction des structures grammaticales. – Wauquelin rachète ses faiblesses (son manque de rigueur pour traduire les superlatifs ou les comparatifs, ses inexactitudes face à l’emploi des différents modes en latin, ses confusions entre le participe futur et l’adjectif verbal...) par d’heureuses trouvailles : ainsi, les groupes nominaux, qu’il emploie volontiers pour transposer les participiales latines et les ablatifs absolus, lui fournissent des traductions à la fois élégantes et fidèles.
+
+Le vocabulaire. – Le Roman de Brut compte un certain nombre de cognates et de calques, et parfois même des néologismes.
+La paraphrase et la glose sont aussi employées pour éclairer le sens de mots savants empruntés au latin.
+Enfin, le vocabulaire employé par Wauquelin est souvent beaucoup plus vague, plus général et plus abstrait que celui de l’Historia regum Britannie.
+Par exemple, les verbes estre, faire et avoir sont largement sur-représentés. 
+
+L’itération lexicale. – L’itération lexicale a deux fonctions sous la plume de Jean Wauquelin : une fonction explicative, qui rejoint l’emploi de la paraphrase, et une fonction stylistique.
+Les binômes, voire les polynômes, synonymiques permettent à Wauquelin d’amplifier son texte et d’obtenir assez facilement une cadence majeure, visant à la dramatisation du récit et à la suggestion d’une certaine solennité.
+
+
+== Seconde partie Édition ==
+
+L’édition porte sur l’intégralité du Roman de Brut, traduction de l’ensemble de l’Historia regum Britannie.
+
+Les méthodes habituelles d’édition ont été employées, sauf en ce qui concerne les graphies oe : lorsqu’il s’agit de deux syllabes différentes (comme dans loënge), le e porte un tréma ; la diphtongue (comme dans voelle) est rendue par la graphie oe ; le son eu (comme dans bœf ou pœt) est représenté par ce.
+
+Les corrections apportées au texte sont toujours signalées en note et s’appuient la plupart du temps sur le texte latin de l’Historia regum Britannie.
+
+
+== Annexes ==
+
+Annexes du commentaire. – Liste des manuscrits latins de l’Historia regum Britannie. – Liste des fautes du traducteur attribuables aux déficiences de la tradition manuscrite. – Schéma récapitulatif des manuscrits de l’Historia regum Britannie qui auraient pu servir de modèle à Jean Wauquelin.
+
+Annexes de l’édition. – Notes critiques, établissant notamment des rapprochements avec le texte de l’Historia regum Britannie. – Arbre généalogique des rois de Bretagne cités dans le Roman de Brut. – Edition synoptique des Prophetie Merlini et de leur traduction par Jean Wauquelin. – Glossaire. – Index des personnages. – Index des noms de lieu.

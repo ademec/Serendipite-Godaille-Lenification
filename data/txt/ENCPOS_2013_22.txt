@@ -1,0 +1,83 @@
+identifier: ENCPOS_2013_22
+creator: Baptiste Susini
+date: 2013
+title: Le scotisme de Himbert de Garda O.F.M. (xive siècle) : édition commentée de son premier livre du Commentaire du Livre des Sentences
+
+
+
+== Introduction ==
+
+Himbert de Garda est un théologien franciscain qui a étudié à Paris vers le milieu du xive siècle.
+Les détails de sa vie ne nous sont connus que par quelques passages des manuscrits de son Commentaire du Livre des sentences, unique œuvre que nous ayons de lui.
+Aussi reste-t-il un auteur méconnu : Glorieux signale même dans son Répertoire des maîtres en théologie de Paris un de ses manuscrits comme l’œuvre d’un autre docteur, Humbert de Preuilly.
+Ce n’est que très récemment qu’il a attiré l’attention de C. Schabel et W. Duba, qui furent les premiers, en 2011, à publier un article ne portant que sur Himbert de Garda.
+Oublié, ce théologien fut cependant dépeint dans une fresque du couvent franciscain de Bolzano, avec le sobriquet de Doctor dulcis, non loin de ses maîtres Duns Scot († 1308) et François de Meyronnes (mort entre 1325 et 1330).
+En revanche, Himbert de Garda se montre toujours dans son Commentaire le critique acerbe des dominicains, et de Thomas d’Aquin en particulier, qu’il réfute à la moindre occasion.
+
+Si Himbert de Garda se revendique ouvertement scotiste, ce projet d’édition a cependant pour but de voir dans quelle mesure sa philosophie se rattache réellement aux idées de Scot.
+Elle ouvre ainsi une fenêtre sur les débats les plus importants qui avaient lieu alors dans les studia franciscains, depuis le problème de la simplicité divine jusqu’à la doctrine des idées.
+
+
+== Sources ==
+
+Les manuscrits du Commentaire sont au nombre de cinq.
+Ils sont tous du xve siècle.
+Le principal est le manuscrit Vat.
+Lat. 1091, de la bibliothèque Apostolique Vaticane : il comporte intégralement le Commentaire de Himbert, c’est-à-dire son Prologue, et les trois livres du Commentaire.
+Viennent ensuite les manuscrits latins 1584 de la biblioteka Jagiellonska de Cracovie et 23 de la bibliothèque municipale de Chambéry.
+Ces deux témoins présentent un Prologue plus court avec le premier livre du Commentaire.
+Enfin le manuscrit Lat. 659 de la biblioteca del Sacro Convento di S. Francesco et le manuscrit Lat. 1010 ne contiennent que la première question du Prologue.
+
+
+== Première partie Analyse codicologique ==
+
+…
+
+
+== Deuxième partie Étude philosophique du Commentaire du Livre des Sentences ==
+
+
+=== Chapitre premier La théorie des distinctions ===
+
+La théorie des distinctions est l’épine dorsale de la philosophie scotiste, car c’est elle qui permet de distinguer les personnes divines, sans rompre avec le dogme de la simplicité de l’essence de Dieu.
+Himbert est un héritier de la distinction modale ou ex natura rei de Duns Scot, et n’y apporte que peu d’éléments nouveaux, si ce n’est l’étude des formalités, qu’il reprend peu ou prou de François de Meyronnes.
+
+
+=== Chapitre II La métaphysique trinitaire ===
+
+Himbert va à contre-courant de la quête de la simplicité, qui était aux yeux de Russell Friedmann le trait dominant de la théologie du xive siècle : les maîtres franciscains auraient eu tendance à privilégier la simplicité divine aux explications trinitaires.
+Tout au contraire, si Himbert reprend bien à son compte les explications psychologiques ou émanationnelles, il n’hésite pas à multiplier les distinctions en Dieu.
+
+
+=== Chapitre III L’équivocité de l’étant ===
+
+C’est la partie la plus surprenante de la doctrine de Himbert.
+Tout en se revendiquant fidèle scotiste, il renonce à la pièce essentielle de la philosophie de Duns Scot – l’univocité de l’étant –, au point de se rapprocher de la doctrine de l’analogie thomasienne.
+
+
+=== Chapitre IV La connaissance de Dieu ===
+
+C’est donc naturellement que Himbert abandonne la démonstration a posteriori métaphysique de Duns Scot, puisque celle-ci dépendait de l’univocité.
+Il penche davantage en faveur d’une démonstration quia, proche de celle de Thomas, ou d’une démonstration logique de type anselmien.
+
+
+=== Chapitre V Le néoplatonisme de Himbert de Garda ===
+
+Dans son examen des esse essentie, Himbert se montre l’épigone de François de Meyronnes, qu’il n’hésite pas à plagier parfois.
+Himbert accepte la doctrine platonicienne des Idées, telle qu’elle fut au moins décrite par Augustin ou le pseudo-Denys, car il ne cite pas directement Platon.
+
+
+== Troisième partie Synopsis du Prologue et du Premier Livre ==
+
+…
+
+
+== Quatrième partie Prologue et livre premier du Commentaire du Livre des Sentences de Himbert de Garda ==
+
+…
+
+
+== Conclusion ==
+
+Si la doctrine de Scot subsiste dans les détails et dans la plupart des opinions de Himbert, il n’en reste pas moins qu’elle a été modifiée dans ses caractères les plus essentiels : l’univocité et la démonstration de Dieu en sont des exemples frappants, ce qui montre à quel point le terme de scotiste saisit mal la réalité de la doctrine de Himbert.
+Cependant ces transformations semblent loin de lui être profitables, puisqu’il renonce aux avantages de la doctrine de Scot, sans gagner nettement au change, et sa façon de multiplier les distinctions en Dieu lui fait prendre le contre-pied de son époque, ce qui n’est peut-être pas étranger au peu de succès qu’il a rencontré.

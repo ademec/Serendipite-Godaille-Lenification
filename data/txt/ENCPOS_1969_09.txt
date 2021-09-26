@@ -1,0 +1,147 @@
+identifier: ENCPOS_1969_09
+creator: Marie-Pierre Laffitte-Pochat
+date: 1969
+title: La bibliothèque et le scriptorium de Saint-Thierry de Reims
+
+
+
+== Sources ==
+
+Les manuscrits de Saint-Thierry sont aujourd’hui conservés à la Bibliothèque municipale de Reims, mais quelques-uns d’entre eux se trouvent dans d’autres fonds français (Bibliothèque municipale de Laon, Bibliothèque de la Faculté de médecine de Montpellier, Bibliothèque nationale de Paris) ou étranger (Vatican).
+
+Les actes, dont trente environ sont antérieurs à 1200, mais dont huit seulement, parmi les plus récents, ont retenu notre attention, forment un fond de plus de quatre-vingt-dix liasses, aux Archives départementales de la Marne (sous-série 13 H).
+
+
+== Introduction historique ==
+
+Fondée vers 510 par Thierry, disciple de saint Remi, occupée par des chanoines dès le viiie siècle, l’abbaye de Saint-Thierry joua longtemps un rôle secondaire ; détruite à plusieurs reprises, elle était dans un état déplorable lorsqu’elle fut rendue à la règle monastique par l’archevêque de Reims Adalbéron, en 970-971.
+Elle connut alors un certain essor, puis le manque d’envergure de ses abbés provoqua, dès le milieu du xie siècle, une nette régression.
+Mais Geoffroy Col de Cerf (1108-1120) contribua à son relèvement matériel, et son successeur, Guillaume (1120-1134), ami de saint Bernard et théologien augustinien, eut une influence décisive sur la vie spirituelle de l’abbaye : il y mit à l’honneur la doctrine cistercienne, tout en gardant ses distances à l’égard du nouvel ordre.
+Cette situation dura tant bien que mal jusqu’à la fin du xiie siècle.
+Les ruines de la guerre de Cent ans, puis les abus des abbés commendataires affaiblirent considérablement l’abbaye, qui dut s’affilier à l’ordre de Saint-Maur, en 1628.
+Elle retrouva un certain éclat, rapidement amoindri par les difficultés matérielles sans nombre auxquelles les moines se heurtèrent après la réunion de la mense abbatiale à l’archevêché de Reims, en 1696.
+Saint-Thierry fut maintenu de justesse après la Commission des réguliers, et, en 1775, la mense conventuelle fut réunie à celle de Saint-Remi, que les moines regagnèrent ; les bâtiments conventuels, rasés, firent place à un château de campagne destiné à l’archevêque de Reims.
+
+
+== Première partie La bibliothèque de Saint-Thierry ==
+
+
+=== Chapitre premier histoire de la bibliothèque ===
+
+En 970, la bibliothèque de Saint-Thierry contenait quelques ouvrages, donnés à l’abbaye ou acquis par elle, et provenant de scriptoria des environs.
+Mais, à partir de cette date, et jusqu’à la fin du xiiie siècle, tous les manuscrits qui entraient dans la bibliothèque avaient été copiés dans le scriptorium de l’abbaye.
+Puis aux xive et xve siècles, après la disparition de cet atelier, les manuscrits, donnés par des clercs, portent de nouveau la marque d’origines diverses.
+
+Il n’existe pas de catalogue ancien de ces manuscrits, qui ne sont regroupés que dans la Bibliotheca bibliothecarum manuscriptorum nova, publiée par Montfaucon en 1739.
+Mais les ex-libris de Saint-Thierry, nombreux surtout au xiie siècle, et le plus souvent contemporains des textes qu’ils accompagnent, peuvent remplir cette lacune, de même que les marques d’appartenance plus récentes, comme le paraphe de l’abbé Arnoult d’Anglade (1477-1489), ou les cotes du xviiie siècle ; ces éléments ont permis de retrouver quelques manuscrits sortis de l’abbaye avant sa suppression, et conservés dans d’autres fonds écclésiastiques.
+
+La bibliothèque de Saint-Thierry fut restaurée et enrichie au XVIIIe siècle, sous l’influence de l’ordre de Saint-Maur. 
+
+
+=== Chapitre II Organisation et emplacement ===
+
+Dès le xiie siècle, l’armarius de Saint-Thierry cumulait les fonctions de chantre et de maître des cérémonies.
+Pour cette raison, il est possible que la bibliothèque ait été placée à côté de l’église.
+
+La bibliothèque fut entièrement réorganisée entre 1674 et 1700 : les ouvrages furent vérifiés, datés, réparés, puis cotés et installés dans un lieu plus vaste que les locaux précédents, et situé au dessus du cloître, à l’endroit où celui-ci s’appuyait à la nef de l’église.
+
+
+=== Chapitre III Contenu de la bibliothèque ===
+
+La bibliothèque de Saint-Thierry n’est guère différente de l’ensemble des bibliothèques bénédictines, et le nombre des manuscrits liturgiques ou des auteurs chrétiens des premiers siècles y est normal.
+Mais les Pères, et surtout saint Augustin, et les théologiens français de la première moitié du xiie siècle y tiennent une place importante.
+Il faut y reconnaître l’influence de Guillaume de Saint-Thierry, qui n’y admit pas ses ennemis, comme Abélard ou les représentants de l’école aristotélicienne de Chartres, alors que les théologiens traditionnels parisiens y sont à l’honneur.
+Les auteurs postérieurs n’y figurent pas, car les moines cessèrent de s’intéresser aux tendances nouvelles après le départ de cet abbé.
+Mais les auteurs classiques latins, pourtant conservés grâce aux bibliothèques monastiques, et les textes profanes du moyen âge sont aussi absents de Saint-Thierry ; on y rencontre cependant quelques textes juridiques.
+
+
+=== Chapitre IV Les archives de Saint-Thierry ===
+
+Probablement conservés dans un lieu voisin de la bibliothèque, les archives médiévales portent des cotes anciennes, de la fin du xiie ou du début du xiiie siècle ; elles ont fait l’objet d’inventaires détaillés, au cours du XVIIIe siècle.
+Les actes, recopiés dans plusieurs cartulaires successifs, dont seul le plus récent est conservé, concernent presque uniquement les biens temporels de l’abbaye.
+Mais ils ne présentent pour nous qu’un intérêt relatif, car ils émanent le plus souvent de cours épiscopales, et ont été copiés dans lesscriptoria dépendant de ces juridictions.
+Cependant, quelques accords passés avec d’autres abbayes apportent des éléments à l’étude paléographique.
+
+
+== Deuxième partie Le scriptorium de Saint-Thierry (970-1225) ==
+
+Au xie siècle, la copie était une activité secondaire pour les moines qui ne consacraient que deux ou trois heures par jour à la rédaction d’une page.
+Mais, au xiie siècle, elle devint leur tâche principale, et ils copièrent des passages de plus en plus longs.
+Ils étaient installés pour ce travail dans les bâtiments du cloître, où un espace était peut-être aménagé pour le scriptorium à côté du chauffoir.
+
+
+=== Chapitre premier aspect matériel des manuscrits ===
+
+Format des manuscrits. – Les livres sont en général de petites dimensions, mais leur taille varie selon leur nature : les ouvrages de chœur, les manuscrits glosés sont de format très réduit, et les textes patristiques sont de plus grande taille ; seule la Bible de Saint-Thierry est beaucoup plus grande que la moyenne des manuscrits de l’abbaye.
+
+Matière subjective. – Le parchemin utilisé à Saint-Thierry est de qualité médiocre, et la composition des cahiers est fantaisiste, bien que l’emploi du quaternion soit le plus fréquent.
+
+Signatures et réclames. – Les signatures, composées de lettres ou de chiffres romains précédés parfois des abréviations Q, QR, QT ou QTR (pour quaternio), accompagnés dans certains cas de l’ex-libris, apparaissent régulièrement à toutes les époques.
+Les réclames ne sont employées que dans un manuscrit du xiiie siècle.
+Quelques ouvrages portent des traces de foliotation ancienne, placée au milieu ou dans le coin droit de la marge supérieure.
+
+Mise en page. – Le système de réglure employé jusqu’à la fin du XIe siècle est le suivant : > < > < || > < > <.
+Dès le début du xiie siècle, il fut remplacé par la réglure à l’encre ou à la mine de plomb.
+Les piqûres étaient faites à l’aide d’un canif ou d’une pointe.
+Deux schémas furent utilisés pour la préparation des pages : le premier, pour les manuscrits à longues lignes, consiste en deux groupes de deux traits verticaux, reliés par des lignes horizontales très serrées, servant de support à l’écriture, et le second, pour les manuscrits à colonnes, plus tardifs, présente pour délimiter les colonnes quatre traits verticaux, entre lesquelles sont tracées les lignes horizontales, toujours aussi serrées.
+
+Ces règles, suivies empiriquement au xie siècle, devinrent de plus en plus strictes au cours du xiie siècle, ce qui eut pour résultat d’uniformiser la présentation des manuscrits.
+
+Reliure. – Quelques reliures anciennes prouvent que l’atelier où elles étaient réalisées dépendait étroitement du scriptorium, car les titres peints que portent les reliures sont très proches du style de l’écriture de Saint-Thierry entre 1150 et 1200.
+
+
+=== Chapitre II Morphologie des lettres ===
+
+La minuscule Caroline employée au xe et au début du xie siècle est régulière et élégante, de petit module et d’aspect rond ; les hastes et les hampes sont courtes et droites, et la forme des lettres principales, comme le a ou le g, est restée très pure.
+Quelques traits archaïques subsistent, comme la ligature ns ou rt.
+
+Au cours du xie siècle, apparaissent des phénomènes annonçant la gothique : les écritures, très irrégulières, se brisent, mais le ductus du g se simplifie.
+Les hastes et les hampes restent courtes, mais se cambrent et s’effilent, puis se terminent en traits de fuite, le r rond sans abréviation et le d oncial se multiplient, et le signe tironien 7 apparaît parfois.
+Dans les premières années du xiie siècle, le contraste entre pleins et déliés s’accentue ; la ligature de courbes et le signe tironien 7 sont fréquents, et l’écriture se stabilise.
+Des empâtements légers se dessinent au talon des lettres, et s’épaississent à partir de 1150, date à laquelle se généralisent les lettres capitales à traits redoublés.
+Le s capital en fin de mot est de rigueur, et le signe tironien ? est parfois utilisé.
+Anguleuse et peu élégante, l’écriture devient plus régulière et aérée à la fin du xiie siècle, et le signe tironien 7 remplace complètement la ligature &.
+Au début du xiiie siècle, l’écriture, stéréotypée et de plus en plus brisée, a tous les caractères de la gothique.
+
+
+=== Chapitre III Signes auxiliaires de l’écriture ===
+
+La ponctuation n’a aucune originalité.
+L’accentuation des voyelles en position forte est ancienne et fréquente, mais les i accentués n’apparaissent que vers 1050.
+La cédille, utilisée dès la fin du xe siècle, et uniquement pour la diphtongue ae, la remplace au cours du xie siècle.
+Elle est souvent placée sous la ligature & et, à partir du xiie siècle, sous la lettre q ; les p et c cédillés sont rares.
+Les signes de renvoi et d’oubli ne suivent aucune règle établie et ne dépendent que de l’imagination des scribes, comme les signes d’introduction des gloses.
+
+La notation musicale est marquée par une tendance au détachement des éléments neumatiques, qui sont très souvent modifiés par le retard rythmique.
+Il s’agit du système messin.
+Les manuscrits entièrement notés sont rares à Saint-Thierry.
+
+
+=== Chapitre IV Abréviations et graphies ===
+
+Les abréviations, peu nombreuses et classiques, ne présentent une certaine originalité que dans les manuscrits glosés, où elles sont très fortes.
+
+La langue est pure, mais quelques manuscrits du début du xie siècle comportent des graphies incorrectes, dues plutôt à une mauvaise connaissance de la grammaire latine qu’à l’influence de la langue vulgaire.
+
+
+=== Chapitre V Décoration des manuscrits ===
+
+Les « pages-tapis » des manuscrits de la fin du xe siècle reflètent une influence insulaire certaine.
+Mais du début du xie siècle à 1150 environ, la décoration consiste seulement en titres rubriqués à lettres enclavées et accolées et en lettrines au dessin maladroit.
+De 1150 à 1200, de nombreuses lettres peintes, ornées de rinceaux et d’entrelacs, habitées d’animaux fantastiques et de petits personnages, rappellent l’art cistercien.
+Elles sont contemporaines de quelques enluminures historiées, d’une excellente facture et très vivantes, qui présentent un grand intérêt pour l’histoire du costume.
+Quelques dessins au crayon ornent aussi les manuscrits.
+A la fin du xiie siècle, apparait un nouveau style de lettrines, rouges et bleues, décorées de fioritures d’une grande finesse. 
+
+
+== Conclusion ==
+
+Le scriptorium de Saint-Thierry, qui apparaît vers 970-971, subit alors l’influence irlandaise, et peut-être aussi ottonienne.
+Mais, dès le xie siècle, il acquiert une certaine originalité, illustrée par le premier scribe que nous connaissons, Dudon, dont l’écriture dénote déjà des phénomènes gothiques.
+Les années 1100-1150 marquent le début d’un essor prodigieux pour cette petite abbaye, dû en grande partie à l’abbé Guillaume, dont l’influence se fit sentir jusqu’à la fin du xiie siècle : les scribes Milon vers 1150, et Arnoul dans les années 1150-1180 sont les meilleurs témoins du style du scriptorium, très proche des écritures monastiques de l’est et du nord-est de la France, et en particulier de l’écriture cistercienne, alors que l’écriture des actes emprunte ses éléments d’ornementation à l’écriture diplomatique mosane.
+Vers 1180, un nouveau courant apparaît, très voisin de celui que connaissent les autres scriptoria rémois, et, dès cette époque, le scriptorium commence de décliner, jusqu’à sa disparition à la fin du xiiie siècle.
+
+
+== Appendices ==
+
+Liste des abbés de Saint-Thierry. – Catalogue des manuscrits de la bibliothèque de Saint-Thierry, établi d’après les cotes du xviiie siècle et d’après la liste publiée par Montfaucon, avec le relevé des différents ex-libris portés par ces manuscrits.

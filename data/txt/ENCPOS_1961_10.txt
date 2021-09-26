@@ -1,0 +1,154 @@
+identifier: ENCPOS_1961_10
+creator: Marie-Edmée Michel-Mulliez
+date: 1961
+title: Le commerce du vin à Paris au xvie siècle (1515-1577)
+
+
+
+== Sources-bibliographie ==
+
+Les registres d’audience du Bureau de la Ville conservés aux Archives nationales dans la sous-série Z1H constituent la source essentielle de cette étude.
+
+
+== Introduction ==
+
+L’ancienneté et la persistance du trafic des vins du bassin parisien attestent son importance dans la vie économique de cette région ; la capitale, grand centre de consommation et de réexportation, est au cœur de cette activité.
+Certains traits marquants de l’histoire du xvie siècle, tels que l’affirmation d’une politique économique, l’appesantissement de la fiscalité royale et la hausse des prix, apparus sous François Ier, firent peu à peu sentir la nécessité d’adapter l’ancienne réglementation du commerce vinicole parisien.
+Le règne d’Henri III et particulièrement l’année 1577 durant laquelle fut rendu l’arrêt du Parlement du 14 août, peuvent être considérés comme le terme de l’activité législative engendrée par les besoins d’une situation nouvelle.
+
+
+== Première partie Provenance des vins et leur transport jusqu’à Paris ==
+
+
+=== Chapitre premier les lieux d’origine ===
+
+La vigne ne forme plus, depuis le xixe siècle, un trait dominant de la physionomie agricole du bassin parisien ; cependant, au xvie siècle, les coteaux bien exposés de ses moindres vallées portent beaucoup de vignobles : cette région n’est pas foncièrement inapte à la viticulture ; de plus son remarquable réseau hydrographique et la demande régulière des pays nordiques dépourvus de vignes lui donnaient une situation privilégiée.
+Les principaux centres d’approvisionnement du marché parisien sont la vallée de l’Yonne, la région de Lagny et l’Orléanais.
+Les environs de Paris, le Hurepoix, le Gâtinais et la Basse-Brie constituent des ensembles d’importance secondaire.
+Les apports des vignobles aujourd’hui renommés sont moins considérables : Beaune, Arbois, Saint-Pourçain, Anjou, Touraine, Bordeaux.
+Enfin, Paris recevait d’Espagne, du Portugal et de Grèce des vins liquoreux.
+
+L’aire d’approvisionnement s’est peu modifiée depuis le moyen âge ; elle ne se modifiera vraiment qu’au xviie siècle lorsque commenceront à arriver à Paris les vins de la vallée du Rhône et du Languedoc, grâce à la construction de canaux.
+
+
+=== Chapitre II Les conditions du transport ===
+
+Le transport du vin s’effectue principalement par la voie de la Seine et de ses affluents ; des efforts furent faits dans la première moitié du xvie siècle pour accroître l’étendue du réseau navigable.
+
+Les bateaux étaient de tonnages divers variant de 15 à 400 muids de vin ; les plus grands, appelés « vrangues » ou « foncets », étaient surtout utilisés entre Paris et Rouen.
+Si les marchands ne possédaient pas leurs propres bateaux, ils s’adressaient à des voituriers par eau, soit pour leur louer des embarcations, soit pour leur faire transporter les vins.
+Dans le « marché de voiture » passé le plus souvent sous seing privé, étaient précisés les lieux d’embarquement et de débarquement, le prix du transport à l’unité de mesure et parfois les délais de livraison ou de déchargement.
+Les coûts de transport, assez stables jusque vers 1550, augmentèrent par la suite dans une proportion considérable : en 1575, ils avaient quadruplé par rapport à ceux du début du règne de François Ier.
+Auxerre et Rouen furent des centres de batellerie très importants.
+
+Le vin était transporté en tonneaux fournis par les vignerons ; leurs factures, différentes suivant les régions, permettaient de distinguer les crus.
+La mesure la plus employée dans le commerce vinicole parisien était le muid qui équivalait au tiers du tonneau bordelais et contenait 268,2 litres à la jauge de Paris.
+L’édit d’août 1527 prescrivit une unification partielle des mesures en imposant la jauge de Paris, dite jauge « française », aux vins dits « auxerrois ».
+
+
+== Deuxième partie L’organisation du commerce du vin à Paris et les marchands ==
+
+
+=== Chapitre premier la vente en gros ===
+
+La vente du vin en gros à Paris avait lieu au port de Grève pour les vins amenés par eau, à l’Étape pour les vins amenés par charroi ; cependant, la municipalité pouvait accorder exceptionnellement la permission de vendre à l’Étape des vins venus par bateaux.
+Ce dernier marché avait une importance moindre, car il était fréquenté presque exclusivement par les petits vignerons de la région parisienne.
+Des règles strictes destinées à assurer le bon approvisionnement de la ville régissaient les transactions commerciales : les vins devaient être de bonne qualité et non mélangés ; il était défendu de commencer à vendre avant d’avoir exposé les vins au public, de les enlever avant qu’ils soient tous vendus, ou même d’enlever les vins non vendus avant un certain laps de temps ; enfin, il était interdit de surenchérir sur le premier prix fixé.
+Les bourgeois de Paris avaient la possibilité de vendre dans leurs caves et celliers, car eux seuls, depuis 1190, avaient le privilège de décharger à terre les vins amenés à Paris : ils préféraient vendre chez eux, où ils échappaient plus facilement au contrôle.
+
+Quiconque, à l’exception des officiers de la ville chargés de la surveillance du commerce vinicole, pouvait faire trafic de vin ; les personnes qui en vendaient étaient soit des vignerons ou des marchands des régions productrices, soit des marchands parisiens.
+La proportion de ceux-ci augmenta considérablement dans la seconde moitié du siècle : d’un tiers environ, elle passa à plus de deux tiers en raison de l’accroissement de la population parisienne et de l’attrait des gains faciles durant la crise des prix, aiguë à partir de 1559.
+
+Les officiers de la ville avaient un double rôle : aider le marchand et le surveiller.
+Les trente-quatre jurés-vendeurs assistaient les personnes qui voulaient vendre du vin, le faisaient goûter aux acheteurs éventuels ; surtout, ils avançaient de l’argent aux marchands vendeurs qui le désiraient pour payer les voituriers ou les fermiers des aides, et ils se portaient garants de l’entier payement des vins vendus.
+Les trente-quatre jurés-courtiers aidaient les acheteurs ; eux aussi faisaient goûter le vin et étaient responsables envers les marchands de la solvabilité des acheteurs.
+Il existait donc une certaine rivalité entre ces deux sortes d’officiers ; en fait, le juré-courtier était le plus utile aux marchands, car c’était lui qui connaissait le mieux la clientèle.
+Les douze jurés-jaugeurs étaient chargés d’estimer la contenance des fûts afin que le prix puisse être fixé en conséquence ; l’édit d’août 1527 leur permit de s’imposer dans toutes les ventes ayant lieu sur les marchés publics parisiens.
+Enfin, les jurés-déchargeurs dont le nombre était à la discrétion du prévôt des marchands et qui étaient recrutés principalement parmi les tonneliers, devaient marquer les tonneaux au nom de l’acheteur et les décharger.
+
+Le prévôt des marchands instituait ces divers officiers, mais l’usage de la résignation et la vénalité lui firent perdre l’initiative du recrutement.
+Le XVIe siècle vit l’établissement des communautés de profits dans plusieurs catégories d’offices municipaux : ce système était destiné à supprimer les rivalités internes et à assurer le meilleur service des marchands.
+Chaque groupe d’officiers avait sa confrérie.
+En règle générale les marchands étaient libres de se passer des divers agents municipaux, sauf du jaugeur, pourvu qu’ils agissent en personne ou par l’intermédiaire d’un de leurs serviteurs domestiques.
+
+Les taverniers et les artisans constituaient à eux seuls les sept dixièmes environ de la clientèle parisienne, le reste comprenant des personnes de professions libérales, des marchands, des communautés laïques ou religieuses, des seigneurs.
+Les modes de payement étaient traditionnels, car les instruments de crédit étaient peu utilisés.
+Ces payements se faisaient souvent à terme et les jurés-vendeurs et marchands de vin parisiens possédaient le privilège de pouvoir faire contraindre leurs débiteurs par la saisie de biens ou par l’emprisonnement.
+
+
+=== Chapitre II La vente au détail ===
+
+Le Bureau de la Ville au xvie siècle exerçait sa juridiction sur la vente du vin au détail, mais la police des débits appartenait au prévôt de Paris.
+Le petit peuple de Paris avait une forte accoutumance au vin ; il se le procurait au jour le jour chez les taverniers, les cabaretiers, les hôteliers et accessoirement chez les bourgeois qui vendaient aux portes de leur maison le surplus de leur récolte.
+Dans les trois quartiers des Halles, du port de Grève et de la Sorbonne, ainsi que dans les faubourgs, ces débitants de vin professionnels étaient particulièrement nombreux.
+Ceux-ci s’approvisionnaient surtout sur les marchés parisiens, moins souvent dans les vignobles des environs de Paris, et rarement dans le vignobles plus éloignés.
+Ils devaient venir se déclarer au Bureau, lorsqu’ils avaient l’intention de vendre des vins liquoreux, afin qu’il leur soit fixé un prix de vente.
+Ils étaient toujours tenus de faire appel, mais non plus chaque jour, aux vingt-quatre jurés-crieurs de corps et de vins, lorsqu’ils voulaient faire annoncer leur prix de vente.
+Enfin tous les débitants de vin, professionnels ou bourgeois, devaient se servir des mesures étalonnées à l’étalon royal déposé à l’Hôtel de Ville.
+Ces mesures étaient le demi-setier, la pinte et la chopine, contenant respectivement près d’un quart, d’un demi et d’un litre.
+Le contrôle des mesures, effectué par six sergents de la Ville, devint de plus en plus effectif au xvie siècle, car la municipalité, soutenue par le roi, fit reconnaître sa compétence en cette matière par tous, y compris par les nombreuses justices ecclésiastiques de Paris.
+
+
+=== Chapitre III Le commerce de réexportation et de transit ===
+
+Les forains étaient toujours soumis au régime de la « compagnie française ».
+Celle-ci avait été transformée au xve siècle en un droit fixe payé par les forains à chaque voyage, mais demeuraient encore les obligations de se faire connaître au Bureau avant et après les achats de vins, et celle d’accepter la surveillance d’un « valet français ».
+Les bourgeois de Paris étaient attachés à ce système qui leur permettait de limiter la concurrence étrangère, mais le Bureau de la Ville ne les suivit pas toujours dans leur intransigeance.
+
+C’est essentiellement vers les Pays-Bas méridionaux, la Normandie et la Picardie qu’étaient dirigés les vins du bassin parisien.
+Durant les guerres contre Charles Quint, l’établissement de tarifs douaniers perturba le commerce avec les Pays-Bas, mais Rouen et les villes frontières de Picardie connurent alors un surcroît d’activité.
+Les guerres de religion causèrent ensuite un ralentissement général des échanges.
+Paris était aussi le lieu de passage des vins destinés aux armées royales, à la cour et à divers grands seigneurs ; ce trafic, en marge du commerce vinicole parisien, ne profitait guère à ce dernier, car il était fait au nom de personnes privilégiées, exemptes de toutes impositions.
+
+La réglementation établie sur le commerce de vin à Paris traduit le désir d’assurer à la ville un bon approvisionnement ; elle ne peut pas cependant être entièrement assimilée à l’exercice d’un « droit d’étape », car le recours aux agents municipaux n’était pas imposé aux marchands et tous les vins dirigés sur la capitale ne devaient pas nécessairement y être mis en vente.
+Si les marchands parisiens avaient entre leurs mains la majeure partie de ce commerce, c’était plutôt à cause de certains privilèges qui leur avaient été reconnus anciennement.
+
+
+== Troisième partie Les caractères originaux du commerce du vin à Paris au xvie siècle ==
+
+
+=== Chapitre premier l’appesantissement de la fiscalité royale ===
+
+L’accroissement des besoins d’argent de la royauté entraîna la multiplication des aides ; le vin fut, au xvie siècle, la marchandise la plus imposée à Paris.
+Le moyen âge avait déjà légué un système d’impositions indirectes pesant sur la vente du vin en gros ou au détail.
+Certaines parmi celles-ci avaient été anciennement concédées à l’échevinage parisien ; les autres furent peu à peu aliénées par le roi au profit de la municipalité à partir de 1522.
+Mais le roi établit de nouvelles aides grevant la circulation des vins ; elles auraient dû être temporaires.
+La municipalité avait l’entière connaissance de toutes ces impositions : elle jugeait, en première instance, les procès surgis à ce sujet et elle concluait les baux avec des fermiers ; cependant le roi exerça toujours un droit de contrôle sur la gestion de cette importante source de revenus.
+
+En général, les personnes qui vendaient du vin en gros étaient le plus fortement taxées et les forains étaient défavorisés par rapport aux bourgeois parisiens.
+C’est surtout sous le règne d’Henri II que les aides grevèrent le commerce vinicole, du fait de la création de nombreuses impositions : le prix du vin, encore assez bas, ne compensait pas l’appesantissement de la fiscalité royale.
+Les baux des aides conservés permettent d’évaluer, de façon approximative, le volume des exportations parisiennes : il aurait été de l’ordre de 80.000 hectolitres, vers le milieu du siècle.
+
+
+=== Chapitre II La lutte contre la hausse des prix ===
+
+La hausse des prix devint pleinement évidente en France à partir de 1559.
+Ses causes profondes furent décelées par quelques esprits éclairés, mais les rois, suivant en cela l’opinion courante, l’attribuaient essentiellement aux abus et fraudes des marchands.
+
+La taxation fut le grand moyen employé pour réduire la hausse des prix de détail, mais elle fut peu efficace à cause de la négligence des juges parisiens et de la mauvaise volonté des hôteliers, taverniers et cabaretiers.
+On chercha aussi à limiter l’exercice de ces métiers, pensant que c’était le « nombre effréné » des marchands qui empêchait de veiller au respect des taxations ; l’édit de mars 1577, qui rendit nécessaire l’obtention de lettres royales pour pouvoir exercer ces professions, et l’ordonnance du 21 novembre 1577, qui régla définitivement le système des taxations, marquent le terme des efforts faits au xvie siècle pour restreindre la hausse des prix de détail qui devait pourtant s’amplifier encore au moment de la Ligue.
+
+On entendit réduire la montée des prix de gros du vin en luttant contre les pratiques monopolisatrices des marchands de vin, notamment des marchands parisiens.
+Les lettres patentes du 8 mars 1557 prescrivent le contrôle, par l’entremise des jurés-vendeurs, de toutes les arrivées et des ventes du vin à Paris ; mais l’opposition des gros marchands parisiens fut particulièrement violente.
+Pour les empêcher de réaliser des bénéfices excessifs en enlevant leurs vins des marchés publics lorsqu’ils ne trouvaient pas à les vendre à leur prix, il leur fut défendu, en 1566, de décharger des vins amenés au port « de la vente », en Grève : tous les déchargements devaient se faire au port Saint-Paul.
+On imagina aussi d’imposer un maximum au prix du muid de vin et de limiter le volume des opérations commerciales des marchands de vin parisiens en leur interdisant d’acheter du vin au moment des vendanges et en restreignant leur aire d’approvisionnement.
+La plupart de ces mesures furent reprises par l’important arrêt du Parlement du 14 août 1577 et demeurèrent en vigueur dans les siècles suivants.
+Enfin, l’on chercha, en 1581, à restreindre l’exercice du métier de marchand de vin.
+
+Toutes ces mesures ne pouvaient arrêter la hausse du prix du vin, car elles en visaient non les causes, mais les effets.
+Néanmoins elles aboutirent à ajuster l’ancienne réglementation du commerce vinicole parisien aux besoins d’une situation nouvelle.
+
+
+== Conclusion ==
+
+Par bien des aspects le commerce du vin à Paris est encore au xvie siècle de caractère médiéval ; mais l’apparition d’un nouveau type de marchand au volume d’affaires considérable et désireux de s’émanciper des cadres traditionnels fit sentir le besoin de modifier l’ancienne réglementation.
+Cependant ces gros marchands eux-mêmes étaient toujours tributaires des vieilles techniques. 
+
+
+== Annexes ==
+
+Cartes des vignobles approvisionnant le marché parisien, des lieux d’origine des voituriers par eau, des marchands forains achetant ou faisant passer du vin par Paris (d’après les registres des compagnies françaises) ; localisation des débitants de vin de Paris.
+
+Graphiques : proportions des divers marchands faisant trafic de vin en gros à Paris ; courbe du prix de transport du vin ; courbe du prix de gros du muid du vin (1519-1576).
+
+Tableaux : nombre des divers débitants de vin parisiens ; pourcentage du coût des aides par rapport au prix de gros du muid de vin.

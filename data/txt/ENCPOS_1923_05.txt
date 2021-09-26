@@ -1,0 +1,191 @@
+identifier: ENCPOS_1923_05
+creator: Madeleine Dillay
+date: 1923
+title: La propriété foncière en Anjou du ixe siècle à la fin du xiiie siècle. Étude sur la condition des personnes et des terres
+
+
+
+== Sources et bibliographie ==
+
+
+
+
+== Introduction ==
+
+
+
+
+== Chapitre premier les origines ==
+
+L’existence de noms de lieu dérivant de gentilices romains semble indiquer qu’il y a eu en Anjou à l’époque gallo-romaine des propriétés foncières organisées sur le plan de la villa romaine : réserve du maître, tenures non contractuelles des esclaves et des colons, tenures contractuelles.
+
+Aux époques mérovingienne et carolingienne, on retrouve ces grandes divisions dans l’organisation de la propriété foncière. 
+
+
+== Chapitre II La propriété foncière à l’époque féodale ==
+
+On distingue d’une part le domaine, lui-même composé de deux parties : la réserve du maître et un certain nombre de tenures héréditaires non contractuelles, continuation d’un état de choses antérieur ; d’autre part, les tenures féodales, qui constituent ce qu’on appellera la mouvance.
+
+
+== Première partie La condition des personnes ==
+
+
+=== Chapitre premier les classes serviles ===
+
+Serfs et colliberts, dont la condition diffère peu, sont soumis aux mêmes charges et aux mêmes incapacités : chevage, formariage, mainmorte.
+Il n’y a aucune trace de taille servile.
+On trouve des cas assez nombreux de simple servitude réelle, dont la source est la possession d’une tenure servile, et qui cesse avec l’abandon de la tenure.
+Le servage, dont les conditions sont, dans l’ensemble, peu rigoureuses, disparaît vers la fin du xiiie siècle.
+
+
+=== Chapitre II Les colons ===
+
+Les colons paraissent être des demi-libres, qui cultivent une tenure héréditaire.
+Ils finissent par se confondre avec les cultivateurs libres.
+
+
+=== Chapitre III Les libres ===
+
+I. Les non-nobles. – – Ce sont les coutumiers ou vilains.
+Les. hôtes, étrangers au domaine qui sont venus s’y fixer, sont de la même condition.
+Leur venue a fortement contribué à la formation des bourgs.
+Les bourgeois sont des vilains, habitants d’un bourg.
+Il n’existe pas de chartes de franchises accordées aux bourgeois d’un domaine par le seigneur dont ils dépendent, mais seulement quelques exemptions de droits consenties par des seigneurs laïques aux bourgeois d’une terre ecclésiastique.
+
+II. Les nobles. – On peut assimiler aux nobles les propriétaires de grands domaines ecclésiastiques.
+
+
+== Deuxième partie La condition des terres ==
+
+
+=== Chapitre premier la propriété pleine et entière ===
+
+I. L’alleu. – – L’alleu, héritage reçu des parents, s’oppose, au début de l’époque féodale, aux biens provenant d’une concession, moyennant une redevance ou un service ; il devient ainsi synonyme de propriété libre de toute charge.
+Il reste en dehors de la hiérarchie féodale, mais peut avoir une mouvance.
+On trouve, mais rarement, l’alleu aux mains de roturiers ; la plupart des propriétaires d’alleux sont nobles.
+L’alleu suit toutefois les règles de partage successoral des biens roturiers, en portions égales.
+L’alleu, fréquemment transformé en fief par son possesseur, qui se recommande à un seigneur plus puissant, tend à disparaître.
+Dans le droit postérieur, il ne subsistera qu’un faux alleu, qui paie les ventes, en cas de mutation, au seigneur justicier.
+
+II. L’aumône. – L’aumône est l’alleu ecclésiastique.
+Les donations en franche-aumône, fréquentes au début de la période féodale, se raréfient ensuite : nombre de donations dites in elemosinam sont des concessions féodales sur lesquelles le donateur retient au moins une recognitio annuelle de quelques deniers. 
+
+
+=== Chapitre II Les tenures non contractuelles ===
+
+Les facti ou manses de l’époque carolingienne, les métairies, masures et bordes de l’époque féodale, petites exploitations qui font partie du domaine, sont occupés par des tenanciers héréditaires, de condition libre ou servile, dont les droits et les obligations résultent, non d’un contrat, mais d’une coutume longtemps établie sur le domaine.
+
+
+=== Chapitre III Les tenures contractuelles constituant des démembrements de la propriété ===
+
+
+==== Section I. – Le fief. ====
+
+I. Origines et évolution.
+Bénéfice et fief. – Le terme bénéficiant qui désigne souvent les precariae verbo regis au ixe et au xe siècle s’applique également à la fin du xe aux concessions faites, peut-être à leur imitation, par des seigneurs laïques, de terres de leurs propres domaines à leurs fidèles qui les ont servis par les armes.
+L’idée d’obligations militaires contractées envers le concédant s’attache désormais à beneficium puis aux termes qui le remplacent : fevus, feodus.
+Le fief devient un élément du patrimoine, bientôt héréditaire en fait, pour le devenir finalement en principe.
+
+II. La succession au fief. – Le fils aîné reçoit les deux tiers ; les puînés, un tiers.
+Les puînés tiennent en parage de l’aîné, qui les garantit sous son hommage vis-à-vis du seigneur.
+
+III. Les services du fief. – Le vassal, à l’entrée en foi, doit l’hommage, suivi de la monstrée de fief et parfois de l’aveu, et le roncin de service.
+En temps ordinaire il doit le service militaire, avec la garde ou l’estage, le service de cour et l’aide féodale.
+Le service militaire n’est guère dû en fait qu’au comte ou au roi ; dans les autres cas, on le remplace par une prestation dite servitium militiae ou simplement servitium, qui consiste au début dans l’envoi annuel d’un cheval, que le seigneur garde un ou deux mois ; on finit par y substituer une prestation en deniers, appelée service, dont l’origine militaire est souvent oubliée, au point qu’on la confond parfois avec le cens.
+Ce service n’est pas une particularité de l’Ouest ; on le retrouve dans la région parisienne et ailleurs.
+L’aide féodale est fixée en principe à cinq cas et la taxe est établie d’après le doublage des devoirs, ou d’après un tarif, sauf les cas d’abonnement.
+
+
+==== Section II. – La censive. ====
+
+I. Tenures à cens antérieures. – Les formules angevines nous montrent l’existence de la précaire viagère, et de baux perpétuels.
+Aux ixe et xe siècles, la mainferme, concession temporaire, mais pour deux ou trois générations, représente un état d’évolution avancé de la précaire mérovingienne contaminée par les baux perpétuels.
+
+II. La censive.
+Son évolution. – Les premières concessions à cens qui suivent les derniers baux de mainferme sont viagères, sauf celles qui sont faites à des établissements ecclésiastiques, à titre généralement perpétuel.
+Les premières concessions héréditaires sont du milieu du xiie siècle ; elles prennent une grande extension au xiiie siècle.
+
+III. Le cens. – Le cens est une redevance récognitive de seigneurie, bien qu’au début il représente également la rente de la terre.
+Il est calculé d’après l’étendue de la terre.
+C’est une redevance essentiellement réelle, due par quiconque possède le fonds.
+Les surcens ont les mêmes caractères ; la règle cens sur cens ne vaut n’existe pas.
+
+IV. Les accensements perpétuels. – Les baux du xiiie siècle, moyennant un cens relativement élevé, confèrent aux preneurs un droit perpétuel sur le fonds.
+Les accensements et sous-accensements de cette époque sont des baux à cens, la théorie du bail à rente ne s’étant pas dégagée. 
+
+
+=== Chapitre IV Les tenures contractuelles ne constituant pas des démembrements de la propriété ===
+
+I. Le bail à ferme. – Le bail à ferme, à court terme ou viager, n’apparaît qu’à la fin du xiie siècle et est peu répandu.
+
+II. Le métayage. – Le métayage est un mode d’exploitation en faveur et donne lieu à des conventions de caractère parfois complexe.
+
+III. Le comptant. – Le contrat de complant s’applique à la culture de la vigne.
+Le bailleur donne au preneur un fonds à exploiter jusqu’à un terme fixé.
+A ce moment, le fonds est partagé également entre le preneur et le bailleur.
+
+
+== Troisième partie Les droits seigneuriaux ==
+
+
+=== Chapitre premier les redevances ===
+
+I. Redevances essentielles de la tenure : cens et coutumes, terrage. – Le cens se paie en argent ou en nature.
+Les coutumes ou cens en nature comprennent les annonages et le vinage, et une grande variété d’autres redevances.
+
+Les terrages, perçus sur le lieu même de la récolte, consistent en une quote-part du produit.
+
+II. Droits de mutation. – Les ventes, égales au douzième du prix, sont payées par l’acquéreur d’un fonds accensé.
+On les devra également plus tard pour les fiefs.
+
+Le rachat n’est dû que pour les terres nobles en cas de donation, succession par représentation, bail, mariage de la vassale.
+
+Les exactions. – La taille, charge celle dès l’origine, ne pè^e toutefois que sur les coutumiers, le propriétaire noble la recouvrant sur eux quand il la fait au suzerain.
+Son caractère arbitraire tend à disparaître, grâce à la fixation de cas déterminés ou à l’abonnement.
+Le droit de gîte, très vexatoire, est également une charge réelle.
+
+IV. Redevances ecclésiastiques. – La dîme, portant sur tous les produits du sol et sur les animaux, est détournée de sa fonction au point d’être considérée comme une redevance domaniale.
+Le desservant, à qui elle doit revenir, n’en perçoit souvent qu’une part, ou en est entièrement privé, ne recevant que la modiatio que lui doit le décimateur.
+Il en est souvent de même des prémices, qui diffèrent de la dîme par leur taux moins élevé.
+
+
+=== Chapitre II Les services et les corvées ===
+
+I. Les corvées. – Les corvées comprennent les services de transport et les travaux agricoles faits par les tenanciers sur la réserve.
+On ne trouve guère mention, dans cette dernière catégorie, que de la corvée à faner.
+Les corvées, qui sont une des charges de la tenure, ne semblent pas peser lourdement sur les tenanciers.
+
+II. Les obligations militaires des coutumiers. – Les coutumiers d’une terre laïque ou ecclésiastique doivent, sur transmission de la semonce du seigneur justicier, se rendre à l’ost du roi ou à la chevauchée du seigneur.
+Le rachat n’est pas admis.
+Ils doivent également faire le guet au château du seigneur quand il part lui-même en expédition.
+Annuellement, pendant huit ou quinze jours, ils sont tenus au service des fortifications, pour assurer la défense du château seigneurial.
+
+
+=== Chapitre III L’administration des agents domaniaux ===
+
+Les maires, prévôts et vicarii représentent le seigneur et surveillent l’organisation du domaine.
+Ils dirigent les travaux de culture, perçoivent les redevances, donnent les terres à bail et exercent en même temps les attributions judiciaires.
+Les habitants du domaine leur doivent le gîte.
+Ils commettent fréquemment des abus que le seigneur doit réprimer.
+
+
+=== Chapitre IV Les droits d’usage ===
+
+Le seigneur a la propriété des forêts, landes et cours d’eau de son domaine.
+Il s’y réserve comme monopole le droit de chasse et souvent le droit de pêche, mais concède aux habitants du domaine des droits d’usage dans les forêts : affouage, pâturage et pasnage, en retour desquels les usagers paient des redevances qui sont considérées comme des charges de leur tenure.
+
+
+=== Chapitre V Les banalités ===
+
+Tout seigneur bas-justicier a le droit d’avoir un moulin banal et, s’il a un bourg, un four banal, auxquels les coutumiers sont obligés d’avoir recours pour moudre leur blé et cuire leur pain.
+Le meunier et le fournier sont fréquemment des fermiers, parfois héréditaires.
+La banalité du pressoir n’a pas le caractère strict des deux autres ; dans certaines localités, les coutumiers ont le droit d’avoir leur propre pressoir.
+Ces monopoles sont des sources de revenus pour le seigneur qui perçoit sur les clients des droits en nature, mouture et farinagium, pour le blé qu’ils apportent au moulin et, pour le four et le pressoir, les droits de fournage et pressorage.
+
+
+=== Quatrième partie L’église rurale ===
+
+Les grands domaines ont généralement leur propre église qui est la propriété du seigneur.
+Celui-ci a la nomination et à l’occasion la révocation du desservant ; il perçoit généralement lui-même les revenus paroissiaux, se contentant d’assurer au desservant un traitement fixe, généralement une modiatio prise sur la dîme.
+Parfois cependant le desservant a lui-même l’église et le fief presbytéral, comprenant des terres et des revenus, pour lesquels il paie un cens au seigneur.
+Le seigneur a le droit de contraindre les habitants de la paroisse à venir à son église, qui est pour lui une source de profits, et à laquelle il donne, comme s’il s’agissait d’une banalité, un caractère de monopole.

@@ -1,0 +1,82 @@
+identifier: ENCPOS_2015_07
+creator: Fanny Faltot
+date: 2015
+title: Les Mémoires de Philippe de Vigneulles (1471-1522). Édition critique du manuscrit BNF, nouv. acq. fr. 6720
+
+
+
+== Introduction ==
+
+Le manuscrit de la Bibliothèque nationale de France portant le numéro 6720 dans la série des nouvelles acquisitions françaises, connu sous le titre de Journal de Philippe de Vigneulles et considéré comme autographe, a été, jusqu’ici, relativement peu pris en compte dans les études portant sur l’œuvre de ce personnage, marchand et bourgeois messin, dont on retient surtout la Chronique universelle, le recueil des Cent nouvelles nouvelles ou même la mise en prose de la Geste des Loherains.
+Certes, Heinrich Michelant en a établi une première édition publiée à Stuttgart en 1852, sous le titre de Gedenkbuch des Metzer Bürgers Philippe de Vigneulles aus den Jahren 1471 bis 1522, nach der Handschrift des Verfassers.
+Mais cette édition souffre de nombreux défauts rendant la lecture et l’étude du texte peu fructueuses : normalisation incohérente de la graphie de Philippe, texte trop compact, absence totale de notes et de prise en compte du travail de l’auteur, pourtant bien visible sur le manuscrit qui abonde en ratures et annotations.
+
+L’idée de rééditer les Mémoires se justifie également par l’intérêt que présente, pour le philologue comme pour l’historien, la perception du monde et l’usage de la langue d’un laïc messin à la charnière du Moyen Âge et de la Renaissance, intérêt relevé par le caractère unique et autographe du manuscrit.
+En outre, les chercheurs qui se sont penchés sur la Chronique ont tous remarqué que cette dernière semblait entretenir un lien étroit avec les Mémoires, qui apparaissent comme une sorte de brouillon, de premier jet.
+Disposer d’une édition claire et précise du texte est par conséquent le préalable nécessaire d’études plus approfondies à ce sujet, dont la présente thèse ne fait qu’esquisser les prémices.
+
+
+== Sources manuscrites et imprimées ==
+
+Cette édition a été effectuée à partir du microfilm du manuscrit nouv. acq. fr. 6720 produit par la Bibliothèque nationale de France.
+Le travail de Heinrich Michelant a permis de lever certaines incertitudes lors de la transcription du texte, tout en corrigeant les erreurs commises à l’occasion par Michelant.
+De même, l’index réalisé par celui-ci a été un point de départ d’une utilité non négligeable ; toutefois, là encore, des erreurs avaient été commises, sans compter l’évolution du découpage administratif français qui rendait obsolète la localisation précise des communes.
+La consultation du manuscrit original a été une étape indispensable pour compléter certaines parties du texte qui, arrivant en début ou en fin de ligne, n’étaient pas visibles sur la reproduction microfilmée ; le déchiffrement des mots raturés par Philippe a également été rendu plus facile par cette consultation.
+
+Le peu de littérature existant au sujet des Mémoires eux-mêmes explique que les principaux outils de travail à disposition de qui aborde ce texte tendent à concerner davantage la Chronique, voire les Cent nouvelles nouvelles ou la Geste des Loherains.
+De fait, quatre auteurs méritent tout particulièrement d’être cités.
+L’édition de la Chronique par Charles Bruneau, certes datée (1927-1933), est essentielle non seulement pour son introduction, mais aussi en raison des liens étroits existant entre le contenu de cette immense œuvre historique et celui des Mémoires.
+Bruneau n’ayant pas eu le temps d’adjoindre un index à son travail, celui composé par Monique Paulmier-Foucart et conservé, sous forme dactylographiée, parmi les usuels de la Bibliothèque lorraine de la Bibliothèque Verlaine de Metz, est indispensable au chercheur.
+Quant à l’absence de glossaire, elle est en partie compensée par la thèse de doctorat de Maryse Hasselmann sur Le Vocabulaire des réalités messines dans la Chronique de Philippe de Vigneulles (1982), même si cette étude ne concerne que les domaines de la société laïque et du gouvernement, du droit et de la vie quotidienne.
+Enfin, les divers articles de Pierre Demarolle et son ouvrage intitulé La Chronique de Philippe de Vigneulles et la mémoire de Metz (1993) sont de précieuses sources de réflexion sur l’œuvre du marchand messin.
+
+
+== Première partie Présentation et étude du texte ==
+
+
+=== Chapitre premier « Je, l’acripvain... » : Philippe de Vigneulles, bourgeois messin ===
+
+Philippe de Vigneulles, né en juin 1471 à Vigneulles, dans le pays messin, est issu d’une famille paysanne relativement prospère et dont le statut social s’est amélioré au fil des héritages et des alliances.
+En une époque troublée par les assauts incessants du duc de Lorraine sur la République messine, ville libre d’Empire, le jeune homme reçoit une formation scolaire plutôt chaotique, changeant d’école et de maître au gré des aléas du temps.
+Ces épreuves contribuent sans doute à lui forger un caractère solide et aventureux, au point qu’il fugue de chez lui pour aller parcourir les routes de Suisse et d’Italie avec son ami Collin.
+
+De retour chez lui, il est capturé avec son père par des brigands au service des Lorrains et passe quatorze mois en prison à Chauvency-le-Château, épisode qui occupe une part importante des Mémoires et lui donne l’occasion de composer quelques poèmes.
+Une fois libéré, Philippe parvient à s’établir à Metz comme marchand drapier-chaussetier et sa richesse ne cesse de s’accroître ; il fréquente les membres des paraiges – familles qui se partagent la mainmise sur les hautes charges de la République –, voyage de foire en foire, prête une oreille attentive aux faits divers et aux grands changements politiques, tout en menant une vie familiale apparemment épanouie aux côtés de sa seconde épouse, Sabellin.
+Il meurt à la fin de l’année 1527 ou au début de l’année 1528, soit cinq ou six ans après les derniers événements décrits dans ses Mémoires.
+
+Des œuvres qu’il nous a laissées, la Chronique est la plus imposante, et c’est généralement comme chroniqueur que Philippe de Vigneulles est connu.
+Depuis l’édition de celle-ci par Charles Bruneau, les rapports entre cette œuvre et les Mémoires restent peu clairs, bien qu’il soit admis que les Mémoires représenteraient un premier jet de la Chronique pour la période 1471-1522.
+La comparaison des passages de ces deux œuvres relatant un même épisode montre que cette hypothèse est la plus plausible, dans la mesure où le style de la Chronique est davantage travaillé et précis que celui des Mémoires.
+
+
+=== Chapitre II Présentation du manuscrit et de la scripta de l’auteur ===
+
+Si le manuscrit BNF, nouv. acq. fr. 6720 présente en lui-même peu d’intérêt, il n’en va pas de même de sa composition et de la langue employée par Philippe de Vigneulles.
+D’une part, le manuscrit donne littéralement à voir le travail de composition de l’œuvre au travers des nombreuses annotations, corrections et autres ratures.
+Il importe de noter que cet aspect constitue l’un des principaux arguments faisant des Mémoires un brouillon préparatoire à la composition de la Chronique.
+D’autre part, le caractère autographe du manuscrit est d’un grand intérêt pour le philologue, puisqu’il invite à lire la scripta messine de la fin du Moyen Âge telle qu’un bourgeois lettré, mais non savant, pouvait l’écrire et la parler.
+L’étude de cette scripta illustre à la fois les particularités du dialecte messin et celles propres au style de Philippe de Vigneulles, qui se distingue par l’absence totale de rigueur graphique et syntaxique.
+
+
+=== Chapitre III Principes d’édition ===
+
+S’inspirant du travail d’Anne Schoysman dans son édition de la Chronique de 1507 de Jean Lemaire de Belges (2001), le choix a été fait d’une édition semi-diplomatique qui conserve dans le corps du texte les ajouts interlinéaires et marginaux et les mots raturés, afin d’alléger l’apparat critique et de permettre au lecteur d’assister à la genèse des Mémoires.
+Il s’agit également de fournir une base solide pour une étude future de la composition des différents manuscrits de Philippe de Vigneulles qui sont considérés comme autographes.
+
+
+== Deuxième partie Édition du manuscrit BNF, nouv. acq. fr. 6720 ==
+
+
+
+
+== Conclusion ==
+
+Témoin privilégié non seulement de l’histoire de Metz et de la Lorraine, mais surtout de la langue et de la vie quotidienne dans la cité à la fin du Moyen Âge et au commencement de la Renaissance, le texte des Mémoires de Philippe de Vigneulles méritait de recevoir une édition de type semi-diplomatique qui le mît davantage en lumière.
+
+Ce travail pourrait être poursuivi par l’enrichissement des notes concernant l’histoire locale aussi bien que par une confrontation exhaustive avec les tomes III et IV de la Chronique éditée par Charles Bruneau, qui correspondent à la période couverte dans les Mémoires.
+En outre, il y aurait lieu d’étendre l’étude de la scripta de Philippe de Vigneulles et de ses techniques de composition à l’ensemble de ses manuscrits autographes.
+
+
+== Annexe ==
+
+Transcription des pages 335-338 (supprimées par Philippe de Vigneulles dans le manuscrit). — Glossaire. — Index des noms propres.

@@ -1,0 +1,171 @@
+identifier: ENCPOS_2003_12
+creator: Pierre Gandil
+date: 2003
+title: Les études grecques à l’abbaye de Saint-Denis au xiie siècle
+
+
+
+== Introduction ==
+
+Dans ses travaux sur le grec en Occident, Charles-Homer Haskins a indiqué la présence d’hellénistes à l’abbaye de Saint Denis au xiie  siècle.
+Plus tard, dans une étude consacrée à la langue grecque à Saint-Denis, Roberto Weiss a défini trois domaines dans lesquels l’abbaye se distinguait particulièrement : la collecte de manuscrits grecs en Orient, les traductions en latin et la liturgie grecque.
+Ce travail vise à vérifier la réalité de ces pratiques intellectuelles au xiie  siècle, tout en approfondissant la connaissance des hellénistes de l’époque, au travers de l’édition critique de trois œuvres san-dionysiennes et de l’étude de leur tradition manuscrite.
+
+
+== Sources ==
+
+Le corpus retenu comprend les manuscrits provenant de la bibliothèque de Saint-Denis.
+Dispersés au xvie  siècle, ils sont aujourd’hui conservés en grand nombre à la Bibliothèque nationale de France.
+
+
+== Première partie Hagiographie et tradition dionysienne ==
+
+
+=== Chapitre premier Hagiographie dionysienne ===
+
+Saint Denis, premier évêque de Paris, fut martyrisé au milieu du iiie siècle.
+Dès le viiie  siècle, il y eut des tentatives d’identification avec saint Denys l’Aréopagite, converti par saint Paul et premier évêque d’Athènes.
+Elles furent concrétisées par Hilduin, auteur vers 830 de la Passion Post beatam et salutiferam, qui assimila par ailleurs l’évêque de Paris au
+    « Pseudo-Denys », auteur d’un corpus de textes mystiques.
+Une controverse s’ensuivit au cours du ixe  siècle, qui réapparut au xiie  siècle, à l’instigation d’Abélard.
+
+
+=== Chapitre II Tradition dionysienne ===
+
+Le corpus dionysien est un ensemble de textes écrits vers 500 par un auteur, sans doute syrien, qui se donne pour Denys l’Aréopagite.
+Ce corpus arriva à Rome au viie siècle où il faisait autorité.
+Hilduin en obtint en 827 un exemplaire, le manuscrit Paris, BnF, gr. 437, cadeau de l’empereur d’Orient à Louis le Pieux.
+Il réalisa alors la première traduction latine du corpus.
+La deuxième traduction, œuvre de Jean Scot Erigène, lui succéda bientôt.
+Elle fut révisée par Anastase le Bibliothécaire, qui y ajouta une traduction des scholies de Maxime le Confesseur.
+Ces traductions eurent d’abord une faible tradition manuscrite.
+Mais au xiie  siècle le renouveau des études dionysiennes fit naître le besoin d’une nouvelle traduction.
+
+
+== Deuxième partie Le grec à Saint-Denis ==
+
+
+=== Chapitre premier Les traducteurs grecs à Saint-Denis au xiie siècle ===
+
+Guillaume le Mire.  — Guillaume le Mire arriva à l’abbaye à la fin de l’abbatiat de Suger, peut-être après un premier voyage en Orient.
+En 1167, il ramena de Constantinople plusieurs manuscrits grecs.
+Il fut aussi l’auteur de deux traductions, les Hypotheses ad epistolas Pauli et la Vita Secundi.
+Il mit sans doute la main à la nouvelle liturgie grecque de l’abbaye.
+En 1173, il devint abbé de Saint-Denis, mais fut démis par Philippe Auguste en 1186.
+
+Guillaume de Londres.  — On peut identifier le moine Guillaume, traducteur de l’Encomium sancti Dionysii de Michel le Syncelle, avec maître Guillaume de Londres.
+Sans doute peut-on lui attribuer les traductions de la Vie de saint Denis de Syméon le Métaphraste et des Laudes sancti Dionysii.
+Il fut aussi en relation avec Jean Sarrazin et Jean de Salisbury pour la révision de la traduction du corpus dionysien.
+
+T. de Saint-Denis.  — Une lettre d’un chanoine de Saint-Victor nous révèle l’existence de ce moine, envoyé à Jérusalem et à Constantinople, qui ne fait peut-être qu’un avec Guillaume le Mire.
+
+
+=== Chapitre II Les manuscrits grecs ===
+
+L’essentiel des manuscrits grecs de Saint-Denis provient des voyages de Guillaume le Mire.
+Un manuscrit du corpus dionysien et des libelli hagiographiques ont été réunis pour constituer Paris, BnF, gr. 933 ; un Praxapostolos a été copié par Georges Hermonyme de Sparte, maître de grec de la fin du xve  siècle, dans le manuscrit Paris, BnF, gr. 59.
+Les lectionnaires Paris, BnF, gr. 375 et gr. 319 présentent des additions occidentales intéressantes pour la paléographie et la liturgie grecques san-dionysiennes.
+
+
+=== Chapitre III La liturgie grecque ===
+
+L’abbaye disposait, dès la moitié du xiie  siècle, d’une liturgie grecque propre pour l’octave de la Saint Denis, connue seulement par des manuscrits du xiiie  siècle.
+Par ailleurs, au xive  siècle furent instituées des lectures bilingues pour les grandes fêtes.
+Ces deux pratiques subsistèrent jusqu’à la Révolution.
+Nous trouvons dans le lectionnaire Paris, BnF, gr. 375 des traces de l’élaboration au xiie  siècle de cette liturgie.
+Ces indices suggèrent qu’il existait alors une liturgie grecque plus riche que ce qui en subsistait au xiiie  siècle.
+
+
+== Troisième partie Les recueils hagiographiques de Saint-Denis du ixe  au xve  siècle ==
+
+
+=== Chapitre premier Les Areopagitica d’Hilduin et leurs continuations ===
+
+Pour étayer sa nouvelle version de la vie de saint Denis, Hilduin, à la demande de Louis le Pieux, composa un recueil hagiographique sur le saint, les Areopagitica.
+Ce recueil s’enrichit dès le ixe  siècle des textes écrits à l’appui des dires d’Hilduin.
+Une de ces versions augmentées est le recueil Vita et actus sancti Dionysii 1(VA1), présent dans le manuscrit Paris, BnF, lat. 2445A.
+
+
+=== Chapitre II Le recueil Vita et actus 2 du xiiie  siècle (VA2) ===
+
+Dans les années 1230 fut écrit un nouveau recueil entièrement repensé.
+Il figure dans deux manuscrits du xiiie  siècle (Paris, BnF, lat. 2447 et n. acq. lat. 1509) et deux du xve  siècle (Paris, BnF, lat. 2873B et Paris, Arsenal, ms. 1030).
+Le manuscrit lat. 2447 semble être le manuscrit original du compilateur.
+La partie hagiographique du recueil rassemble un recueil d’épîtres sur l’identité entre saint Denis et l’Aréopagite, une nouvelle vie de saint Denis, la Vita d’Hilduin-Guillaume et des traductions du grec.
+Suivent une partie consacrée aux fêtes de l’abbaye et au salut de l’âme des rois par saint Denis et une partie sur les miracles et les reliques de l’abbaye.
+La nouvelle vie de saint Denis est une version interpolée de la vie selon Hilduin, qui emprunte notamment aux textes traduits du grec par Guillaume de Londres, les vies de saint Denis selon Michel le Syncelle et Syméon le Métaphraste.
+
+
+=== Chapitre III Le recueil du moine Yves et le recueil Vita et actus 3 de 1455 ===
+
+Le recueil VA2, de composition assez lâche, a servi de source à d’autres ouvrages.
+En 1317, le moine Yves acheva un recueil mêlant étroitement l’hagiographie de saint Denis, l’histoire de l’abbaye et l’histoire de France.
+Il utilisa manifestement VA2, mais alla beaucoup plus loin.
+On trouve notamment dans son recueil des extraits de la traduction de la Vie de saint Denis de Syméon le Métaphraste absents du recueil VA2.
+Seuls deux manuscrits conservent la partie hagiographique du recueil : Paris, BnF, fr. 2090-2092, première partie du manuscrit original offert à Philippe le Long, et Paris, BnF, lat. 5286.
+En 1455, un compilateur anonyme donna une version abrégée et réordonnée du recueil VA2, le recueil Vita et actus 3, dont subsistent deux copies du xve  siècle : Paris, BnF, lat. 17631 et Berlin, SB, theol. lat. quat. 117.
+
+
+== Quatrième partie Édition ==
+
+
+=== Chapitre premier Édition et commentaire du Preconium sancti Dionysii Areopagitæ ===
+
+Le Preconium sancti Dionysii Areopagitæ est la traduction de l’Encomium sancti Dionysiiécrit au ixe  siècle par Michel le Syncelle.
+Guillaume de Londres a pris pour modèle le manuscrit Paris, BnF, gr. 933.
+Le texte du Preconium figure dans son intégralité dans les manuscrits du recueil VA2.
+Des fragments sont également insérés dans la Vita d’Hilduin-Guillaume, présente dans ce recueil et dans les manuscrits du recueil VA3.
+Le texte du Preconium, comme celui des extraits, doit être fidèle à l’original de Guillaume de Londres.
+Il n’en va pas de même des extraits présents dans le recueil du moine Yves, que cette édition ne reprend pas.
+
+Le Preconium est édité d’après le texte intégral du manuscrit Paris, BnF, lat. 2447, avec indication de toutes les variantes de Paris, BnF, n. acq. lat. 1509 et des extraits présents dans la Vita d’Hilduin-Guillaume de ces deux manuscrits ; seules les variantes pertinentes sont mentionnées pour les autres manuscrits.
+Le texte grec donné en regard est une collation de l’édition de l’Encomium de la Patrologia græca sur le manuscrit Paris, BnF, gr. 933 ; les graphies sont donc celles de l’édition.
+Des signes diacritiques indiquent les endroits où la traduction s’écarte de l’original par omission, addition ou modification et les notes s’efforcent notamment d’expliquer certaines erreurs de traduction.
+
+Le Preconium montre que Guillaume de Londres comprenait bien les enjeux hagiographiques de sa traduction et les débats théologiques : il n’hésita pas à falsifier le texte pour respecter l’orthodoxie et la légende officielle dionysienne.
+Cela ne l’empêcha pas d’introduire quelques thèmes hagiographiques nouveaux en Occident.
+Ses traductions des extraits du corpus dionysien présents dans l’ Encomium prouvent qu’il connaissait la traduction de Jean Scot sans la suivre servilement.
+L’ensemble de la traduction est enfin marqué par un souci de latinité : si, dans des passages importants, Guillaume se contenta des retouches indispensables à l’intelligibilité, ailleurs il chercha l’élégance au détriment de la précision.
+
+
+=== Chapitre II Edition des Laudes sancti Dionysii Areopagitæ ===
+
+Les Laudes sont une traduction de tropaires des offices de saint Denis, de saint Hiérothée, de saint Jacques et des saints martyrs Probos, Tarachos et Andronikos, tous fêtés en octobre.
+La composition de ce texte n’est sans doute pas d’origine : elle semble dépendre de la place dont disposait le compilateur dans le manuscrit Paris, BnF, lat. 2447.
+Le modèle grec, un manuscrit de Ménées d’octobre ramené par Guillaume le Mire, a dû disparaître.
+Les Laudes sont présentes dans le recueil VA2.
+Elles sont reprises intégralement dans le recueil du moine Yves.
+Le recueil VA3 ne donne qu’une version très abrégée des Laudes.
+
+Le texte est édité d’après le manuscrit Paris, BnF, lat. 2447, avec indication des variantes des autres manuscrits cités des recueils VA2 et VA3 et du recueil du moine Yves.
+Le texte grec est une reproduction de l’édition romaine des Ménées grecques.
+Les mêmes normes que dans l’édition du Preconium ont été suivies pour signaler les divergences entre le modèle et sa traduction.
+
+
+=== Chapitre III Édition des Hypotheses ad epistolas Pauli ===
+
+Les Hypotheses ad epistolas Pauli sont une traduction par Guillaume le Mire de sept préfaces d’Euthalius aux épîtres pauliniennes et d’un texte inconnu sur la chronologie de la prédication de saint Paul.
+Le modèle de Guillaume est un manuscrit grec dont il subsiste une copie du xve  siècle, Paris, BnF, gr. 59.
+La traduction figure dans le manuscrit Cambridge, Trinity College, ms. 152, en tête du commentaire des épîtres pauliniennes d’Herbert de Bosham.
+Guillaume le Mire avait aussi traduit les préfaces aux épître apostoliques, mais elles ne furent pas reprises dans ce manuscrit.
+
+L’édition du texte latin s’appuie sur l’unique manuscrit où il figure ; le texte grec est copié sur le manuscrit Paris, BnF, gr. 59, que nous corrigeons à l’occasion en recourant à l’édition de Hermann Freiherr von Soden et au texte latin.
+Les divergences, rares, entre le texte et la traduction sont signalées selon les normes utilisées pour les textes précédents.
+
+
+== Conclusion ==
+
+Le renouveau des études grecques à Saint-Denis s’inscrit dans la continuité de l’œuvre de Suger.
+Il se caractérise par la recherche de manuscrits en Orient, un enseignement du grec à l’abbaye, des traductions, l’institution d’une liturgie grecque.
+L’abbaye renoua ainsi avec un premier intérêt pour le grec à l’époque carolingienne.
+Toutefois Saint-Denis ne fut guère qu’un pôle secondaire d’hellénisme en Occident au xiie siècle, dont l’aire d’influence couvrait le nord de la France et l’espace anglo-normand.
+
+
+== Annexes ==
+
+Lexiques grec-latin et latin-grec du Preconium sancti Dionysii.
+Les louanges en moyen français de saint Denis, traduites du latin, dans le manuscrit Paris, BnF, fr. 2092 (f. 102v-107v).
+
+ICONOGRAPHIE
+
+Vingt-deux reproductions, principalement des manuscrits Paris, BnF, gr. 319, gr. 375 et gr. 933.

@@ -1,0 +1,153 @@
+identifier: ENCPOS_1938_06
+creator: Geneviève d’Haucourt
+date: 1938
+title: Étude sur le droit des assemblées françaises au début du xive siècle
+
+
+
+== Introduction les assemblées au début du xive siècle. ==
+
+Les assemblées locales, régionales, nationales, ecclésiastiques et laïques sont un rouage essentiel de la vie publique au xive siècle.
+Elles ne sont connues que par de rares épaves et deux séries de procurations relatives aux États de 1303 et 1308, conservées par hasard.
+Nous pouvons cependant deviner leur fréquence et leur importance.
+
+Leur origine est fort ancienne.
+Les assemblées ecclésiastiques, nées à l’époque romaine, modifiées à l’époque du haut moyen-âge, ont bénéficié de la renaissance du droit romain et de l’impulsion donnée par les mouvements réformistes.
+Particulièrement nombreuses aux âges de ferveur – parfois utilisées à des fins juridiques d’ordre privé et à des fins politiques –, elles fournissent aux assemblées laïques un personnel de secrétaires et de participants pourvus de traditions et de théories.
+
+Les assemblées religieuses et, sur leur modèle, les assemblées laïques se répartissent en deux groupes : ad consilium et ad consensum.
+Les premières groupent habituellement des personnes ayant juridiction et procèdent par voie d’enquête sur des matières ardua, dubia et d’intérêt public, sous la présidence d’un personnage ayant le plus souvent juridiction éminente et qui, en ce cas, tranche souverainement.
+Les secondes réunissent le « commun » d’une abbaye, d’une ville, etc., et requièrent son assentiment effectif et général, sans délibération.
+Leur compétence est variée.
+
+
+== Première partie La citation ==
+
+
+=== I. – Convocation et comparution. ===
+
+Les convocations aux assemblées ont une double origine : la semonce féodale et la citation judiciaire venue du droit romain.
+Cette dernière correspond à un état de droit plus avancé ; pratiquée et vulgarisée par l’Église, elle s’impose.
+
+Elle est envoyée par celui qui possède juridiction à son sujet ou à son vassal.
+Elle ne peut être signifiée aux sujets du vassal que par celui-ci.
+Quelques empiétements sont commis sous Philippe le Bel.
+
+Les exempts, dispensés par le droit canonique de l’assistance aux synodes et conciles régionaux, sont convoqués par Philippe le Bel, et, malgré leurs résistances, à des assemblées même purement ecclésiastiques.
+Par suite de l’impulsion donnée, des archevêques invitent également des exempts à leurs conciles et dégagent la notion de leurs intérêts communs.
+
+
+=== II. – Forme et preuve. ===
+
+La forme orale disparaît au xive siècle devant la forme écrite, sous l’influence de l’évolution de la preuve.
+
+La convocation personnelle se fait par lettres ; transmises éventuellement par des officiers qui joignent au vidimus la copie de l’ordre qu’ils exécutent.
+Elles sont remises « à la personne ou à son hôtel ».
+Si le destinataire est de médiocre rang, elles lui sont seulement communiquées, auquel cas il en prend ou fait établir une transcription.
+
+La preuve de la convocation est fournie par l’apposition du sceau du destinataire sur la lettre de citation, renvoyée au mandant, et par le compte-rendu de l’exécution des ordres, fait par l’officier chargé de la signification.
+
+La convocation générale, au chapitre ou à l’assemblée, se fait par la cloche ou le ban.
+La preuve en est consignée dans le procès-verbal de l’assemblée.
+
+
+=== III. – Teneur. ===
+
+La semonce peut être réduite à un simple ajournement, mais elle n’a de force exécutoire immédiate que motivée. 
+
+La citation est toujours motivée.
+La citation péremptoire doit être immédiatement obéie.
+Le pape et le roi peuvent s’en servir et réduire au minimum les délais de comparution sans tenir compte des règles usuelles de procédure, mais seulement de l’urgence du cas et des conditions de voyage.
+
+Les citations sont rédigées habituellement suivant des formules d’élaboration séculaire, très juridiques dans leurs clauses, très techniques dans leurs termes.
+La clausule ardua negotia introduite souvent dans l’exposé est l’expression consacrée du cas d’urgence, riche en conséquences de droit.
+L’objet de la citation est spécifié en termes techniques : ad consilium (tractaturum, deliberaturum...), ad consensum (assensum prebere).
+
+
+=== IV. – Effets. Essoine. ===
+
+La citation crée pour le destinataire un devoir de comparution, mais ce devoir est mitigé en matière judiciaire par la théorie très minutieuse des contremands et essoines ; d’où une lenteur et une mauvaise volonté peu favorables à l’assiduité aux assemblées et à la comparution personnelle, qui n’est pas, d’ailleurs, toujours exigée.
+
+Les sanctions de la non-comparution diffèrent suivant l’autorité qui cite et l’objet de la citation.
+Les petites assemblées locales emploient l’amende comme moyen coercitif.
+
+L’essoine est admise en cas de « nécessité » d’ordre physique ou moral.
+Elle peut être présentée par messager, par lettre ou procureur.
+La preuve en est faite sous serment.
+En des cas moins graves, le convoqué peut solliciter une dispense, malaisément accordée. 
+
+La citation a pour effet de rendre celui qui la reçoit partie à ce qui aura été décidé dans l’assemblée, dont les ordonnances lui deviennent opposables.
+
+
+== Seconde partie La représentation ==
+
+
+=== I. – Procureurs et syndics. ===
+
+La représentation se fait par procureur.
+Le syndic et, plus encore, l’économe sont des vestiges d’institutions en désuétude.
+L’institution de procureur, au moyen-âge forme typique du mandat, absorbe toutes les autres.
+Elle est régie par la lettre du droit de Justinien.
+
+
+=== II. – Le mandant. ===
+
+En pays de droit écrit, la capacité d’instituer procureur est la règle, l’incapacité l’exception.
+Le mineur peut constituer procureur pour une assemblée, avec l’auctoritas tutoris donnée sous forme de participation à l’acte.
+
+En pays de coutume, la capacité est l’exception.
+Quand le cité est une universitas, la détermination de la volonté collective suit des règles élaborées par le droit canonique.
+Les droits réciproques de l’évêque et du chapitre, de l’abbé et du monastère ont donné lieu à une grande activité doctrinale.
+La pratique se trouve fortement influencée par le fonctionnement des chapitres généraux.
+
+Les universitates laïques suivent des règles ana logues.
+Quand il s’agit de villes sans autonomie, le seigneur doit donner son consensus à la procuration.
+Ici encore, les officiers du roi empiètent sur les pouvoirs d’autrui en s’offrant à les suppléer.
+
+
+=== III. – Qualités requises du procureur. ===
+
+Le procureur élu doit être personnellement capable d’ester en justice, et connaître la matière dont il sera traité.
+Les aptitudes des laïcs et des clercs donnent lieu à une réglementation doctrinale très nuancée.
+
+Le cumul des mandats est rare.
+
+
+=== IV. – La constitution de procureur. ===
+
+La constitution de procureur se fait par le contrat de mandat, non solennel.
+Elle peut avoir lieu en l’absence du procureur.
+Elle donne habituellement lieu à la rédaction d’un instrument destiné à servir de preuve : lettre sous le sceau du mandant, s’il a capacité de sceller, procès-verbal notarié ou par devant un magistrat exerçant une fonction de juridiction gracieuse.
+
+La constitution du procureur d’une universitas se fait en assemblée régulièrement convoquée, réunissant un quorum des deux tiers, et à la majorité des voix.
+Un procès-verbal est presque toujours dressé, sauf, parfois, en pays coutumier. – – Au début du xive siècle, il peut être procédé à cette constitution par les magistrats locaux, sans assemblée ; elle est constatée par lettre de ces magistrats.
+
+
+=== V. – Effets de la constitution de procureur. ===
+
+La constitution fixe les pouvoirs du procureur et limite sa capacité.
+Elle est source d’obligations réciproques entre lui et le maître, et leur crée des responsabilités à l’égard des tiers.
+
+L’excès de pouvoir entraîne nullité ou annulabilité et recours du maître contre le procureur.
+Celui-ci doit être indemnisé de ses frais et reçoit habituellement un salaire.
+
+
+=== VI. – Valeur juridique et diplomatique de la procuration. ===
+
+Le procureur doit prouver ses pouvoirs.
+Il remet la procuration au greffier de l’assemblée.
+
+La teneur s’inspire de formulaires et, pour l’exposé, des termes de la citation.
+Le procureur à l’assemblée reçoit parfois un pouvoir dont le libellé est de type judiciaire (ad causas), parfois ad impetrandum, mais plus souvent ad négocia, ou d’un type mixte.
+
+
+== Appendices ==
+
+1) Note sur les dépenses engagées par les villes à l’occasion de l’envoi de procureurs.
+
+2) Liste des conciles tenus en France de 1280 à 1315 (sans les assemblées mixtes).
+
+
+== Pièces justificatives ==
+
+

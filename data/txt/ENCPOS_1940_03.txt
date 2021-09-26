@@ -1,0 +1,183 @@
+identifier: ENCPOS_1940_03
+creator: Édith Brayer
+date: 1940
+title: La Somme le roi de Frère Laurent
+
+
+
+== Table des matières ==
+
+
+
+
+== Introduction ==
+
+L’étude et l’édition du texte de la Somme le Roi présentent un intérêt au point de vue de l’histoire des idées, car l’ouvrage a connu un grand succès au Moyen Age, en France et à l’étranger.
+Elles permettent également d’établir les rapports qui existent entre divers traités médiévaux sur les vices et les vertus.
+
+
+== Sources ==
+
+
+
+
+== Bibliographie ==
+
+ 
+
+
+== Chapitre premier Laurent d’Orléans, auteur de la « somme le roi ». ==
+
+L’explicit des manuscrits de la Somme le Roi indique que
+    « Cest livre compila et parfist uns freres de l’ordre des Preescheurs, a la requeste dou roi de France Phelippe, en l’an de l’incarnacion Nostre Seigneur Jhesu Crist M. CC. LXXIX ».
+
+Selon quelques manuscrits, l’ouvrage aurait été terminé au mois de mars 1280.
+
+Depuis la notice des PP. Quétif et Échard, on savait que l’auteur de la Somme le Roi était frère Laurent, confesseur de Philippe III le Hardi (Sainte-Geneviève, ms. 2897 ; Testament de Pierre d’Alençon).
+Le P. Mandonnet a découvert l’épitaphe de Laurent et nous avons pu ajouter quelques renseignements tirés des manuscrits et des comptes de l’hôtel royal.
+
+Frère Laurent était originaire d’Orléans.
+Il fut prieur du couvent Saint-Jacques à Paris, puis devint confesseur du roi Philippe III et de ses enfants.
+En 1279-1280, il composa la Somme le Roi.
+En 1282, il est nommé parmi les exécuteurs testamentaires de Pierre d’Alençon.
+Il fit partie, en 1285, de l’expédition d’Aragon et, à la mort de Philippe III, il semble être intervenu pour que le cœur du roi reçût la sépulture au couvent des Frères Prêcheurs.
+Après 1285, Laurent devint lecteur et inquisiteur à Tours.
+Il mourut au couvent Saint-Jacques, entre 1296 et 1300, pendant le séjour à Paris du dominicain Remigio Girolami, qui composa son épitaphe. 
+
+Outre la Somme, Laurent avait .composé des sermons.
+
+L’intervention du roi dans la composition de l’ouvrage est tout à fait accessoire, mais elle a contribué au renom de la Somme le Roi.
+
+
+== Chapitre II Analyse et composition de la « somme le roi ». ==
+
+Le traité de Laurent ne porte pas de titre général dans les plus anciens manuscrits.
+Postérieurement, on le désigna de plusieurs façons, dont les deux plus fréquentes sont : la Somme le Roi, qui rappelle le parrainage de Philippe III, ou le Livre des vices et des vertus, qui indique mieux le contenu de l’œuvre.
+
+La Somme le Roi n’est pas un ouvrage parénétique à l’usage du roi, ni un traité philosophique.
+C’est un simple manuel de morale pratique, écrit pour les laïcs.
+Il se compose de deux parties principales : traité des vices et traité des vertus, précédées de deux traités préliminaires très courts.
+On peut y faire les divisions suivantes : I. Traité sur les dix commandements de Dieu. – ■ II. Traité sur les articles du Credo. – III. Traité des vices : les sept péchés mortels, auxquels sont ajoutés les péchés de langue. – – IV. Traité sur la vertu en général et les moyens de parvenir à la bonne vie. – V. Traité des sept vertus : l’auteur établit une concordance entre les pétitions de la Patenôtre, les dons du Saint-Esprit, les vertus et les béatitudes.
+Ce dernier traité, qui présente une grande unité, est beaucoup plus développé que les quatre précédents ; le style en est assez différent.
+
+L’ouvrage apparaît bien comme une compilation ; Paul Meyer l’avait indiqué.
+Mais le caractère qu’il lui reconnaissait et les divisions qu’il proposait ne correspondent pas tout à fait à la réalité.
+La Somme le Roi n’est pas une juxtaposition d’écrits hétérogènes : c’est un livre qui a été complètement remanié et recomposé.
+
+
+== Chapitre III Les traditions du texte. « somme le roi » et « Miroir du monde ». ==
+
+Il existe un texte très proche de la Somme le Roi, intitulé le Miroir du Monde, publié, en 1845, par F. Chavannes, dont l’étude ne peut pas être séparée de celle de la Somme.
+
+Sur les rapports entre ces deux textes, Paul Meyer a signalé, en 1892, un Ancien Miroir (Bibl. nat., fr. 1109), où les traités IV (vertu en général) et III (vices) sont plus développés que dans la Somme et qui serait la source de celle-ci.
+Le texte publié par Chavannes, ou Nouveau Miroir, serait un remaniement de la Somme et de l’Ancien Miroir.
+
+En 1894, renversant complètement sa thèse, Paul Meyer cita un manuscrit (fr. 13304) antérieur à la Somme, contenant les traités I, II et III abrégé : ce texte aurait été adopté sans modification par Laurent et avec des additions par l’auteur du Miroir.
+
+Les travaux postérieurs se réfèrent à ces deux thèses, adoptant tantôt la première (C. Boser, G. Bertoni, R.E. Foweler, Ch.-V. Langlois), tantôt la seconde (G. Groeber), tantôt cherchant à les concilier (D.C. Tinbergen).
+
+Le principal défaut de ces travaux est qu’ils s’ap puient sur un trop petit nombre de manuscrits et sur le texte médiocre édité par Chavannes.
+
+De la consultation des manuscrits, on peut tirer les conclusions suivantes :
+
+1) Le manuscrit 13304 n’est pas antérieur à la Somme : il n’en est qu’un extrait ; il en est de même pour tous les textes fragmentaires que l’on peut trouver.
+
+2) Il existe un Miroir du Monde contenant : 1.
+Traité de la vertu en général. – 2.
+Traité des vices. ■ – 3.
+Préceptes de Sapience. – 4.
+Traité sur la confession. – 5.
+Prières.
+C’est une compilation écrite dans le nord-est de la France dans un style pittoresque (neuf manuscrits complets ou fragmentaires).
+
+3) On constate des rapports certains entre les chapitres III et IV de la Somme et les chapitres 2 et 1 du Miroir.
+De nombreux passages sont identiques dans les deux textes.
+Mais le Miroir est plus développé ; il offre souvent un texte meilleur.
+Laurent a donc pillé le Miroir, en y ajoutant certains passages tirés d’autres sources.
+
+4) La Somme le Roi, copiée de multiples fois (il reste près de cent manuscrits), a subi bien des altérations et des remaniements.
+On peut distinguer plusieurs rédactions :
+
+A : Texte de base.
+
+B : Quelques additions.
+
+C : Nombreux bourdons.
+
+D : Abréviation de la « gloutonie » et des péchés de langue.
+
+E : Transformation du iie traité (Credo). 
+
+F : Additions dans les dons du Saint-Esprit et les vertus cardinales.
+
+G : Addition des remèdes contre chaque vice.
+
+5) En même temps, le Miroir du Monde poursuivait sa carrière et les rapports entre les deux textes étaient si étroits qu’on les a confondus ; on a fait des emprunts à l’un pour compléter l’autre.
+Nous appelons Amalgames ces compilations.
+On trouve diverses rédactions, dont les principales caractéristiques sont les suivantes :
+
+V : Conforme à la Somme, sauf le chapitre IV emprunté au Miroir.
+
+W : Conforme à la Somme, sauf les chapitres III et IV empruntés au Miroir.
+Dans le chapitre V, quelques emprunts à la rédaction F.
+
+X : Conforme à la Somme, sauf le chapitre III formé du Miroir et des Remèdes (G) (édition Chavannes).
+
+Y : Dans le chapitre III, mélange de la Somme, des Remèdes et du Miroir.
+
+L’importance du Miroir du Monde dans l’étude de la Somme le Roi est telle que nous nous proposons de donner une édition comparée des deux textes.
+
+
+== Chapitre IV Les sources de la « somme le roi ». ==
+
+Les commandements de Dieu. – Le premier traité de la Somme est un commentaire assez rapide du Décalogue, suivant la division de saint Augustin.
+
+Les Articles de la foi. – Chaque article, simplement énoncé, est attribué à l’un des douze apôtres, selon une tradition qui remonte à saint Bonaventure.
+Ces deux premiers traités sont d’une rédaction originale.
+
+Le traité des vices. – Laurent a beaucoup emprunté, à travers le Miroir, à la Summa vitiorum de Guillaume Péraut, qui est également la source d’une partie du Miroir de L’Omme de Gower et du Parson s Tale de Chaucer.
+Les compilateurs français ont utilisé, de Péraut, les définitions des vices et des vertus, leur division en branches et en rameaux et un grand nombre de citations de l’Écriture sainte, des Pères de l’Église et des philosophes antiques.
+Il faut leur savoir gré d’avoir abrégé et simplifié les développements interminables de Péraut.
+Les parties de la Somme qui ne sont pas dans le Miroir sont également tirées de Péraut.
+
+Le traité des vertus. – Dans la dernière partie de la Somme, Laurent a fait usage de la Summa virtutum de Guillaume Péraut, mais sans en adopter le plan.
+Son septenaire (concordance des sept dons, des sept vertus...) dérive du De quinque septenis d’Hugues de Saint-Victor.
+On trouve encore, dans le Traité des vertus, des citations d’œuvres françaises en vers (Hélinant) et des proverbes.
+
+
+== Chapitre V Description et classement des manuscrits. Établissement du texte. ==
+
+Méthode employée. – Il a été procédé à des collations partielles sur les manuscrits, qui ont permis de trouver des groupes de variantes semblables et de classer les manuscrits par familles. 
+
+Catalogue des manuscrits. – On peut en extraire une liste des manuscrits datés, des tables, des copistes et des possesseurs des manuscrits.
+
+Incunables.
+
+Établissement du texte. – L’édition est faite d’après le manuscrit 870 de la bibliothèque Mazarine, écrit en 1295 à Pontoise.
+
+Le premier chapitre du Miroir du Monde est copié sur le manuscrit Bibl. nat., fr. 1109.
+
+
+== Chapitre VI Étude linguistique. ==
+
+Le texte original de la Somme le Roi est en français de la fin du xiiie siècle ; la langue ne présente aucune difficulté.
+
+L’évolution du vocabulaire dans les divers manuscrits jusqu’à la fin du xve siècle permet de constater la disparition de formes archaïques remplacées par des formes modernes.
+Il est malheureusement difficile de trouver des exemples à date certaine.
+
+La Somme le Roi a fait l’objet de transcriptions dialectales (en lorrain, wallon, picard, anglo-normand), dont quelques-unes sont de peu postérieures à la composition et prouvent sa rapide diffusion.
+
+Il y a également eu un remaniement en provençal et en catalan et des traductions italiennes, anglaises et hollandaises.
+
+
+== Chapitre VII L’illustration de la « somme le roi ». ==
+
+Plusieurs manuscrits de la Somme le Roi sont illus très d’une série de quinze miniatures, dont le style évolue suivant l’époque où elles ont été exécutées, mais qui représentent toujours les mêmes sujets.
+Elles sont parfois accompagnées, dans le texte, de descriptions détaillées, à l’usage de l’enlumineur.
+
+Les sujets représentés sont : 1) Moïse recevant les tables de la Loi ; 2) les apôtres composant le Credo ; 3) la bête de l’Apocalypse, dont les sept têtes représentent les sept péchés capitaux ; 4) le jugement dernier ; 5) le jardin des vertus ; 6) le sermon sur la montagne ; .7) la descente du Saint-Esprit sur les apôtres ; 8) les quatre vertus cardinales ; 9) l’humilité et l’orgueil ; 10) l’amitié et la haine ; 11) l’équité et la félonie ; 12) la prouesse et la paresse ; 13) la miséricorde et l’avarice ; 14) la chasteté et la luxure ; 15) la sobriété et la gourmandise.
+
+
+== Texte de la « somme le roi » et du chapitre premier du « Miroir du monde » ==
+
+

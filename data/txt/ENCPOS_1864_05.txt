@@ -1,0 +1,5 @@
+identifier: ENCPOS_1864_05
+creator: Arthur Demarsy
+date: 1864
+title: Du vol et de sa répression d’après les lois germaines
+

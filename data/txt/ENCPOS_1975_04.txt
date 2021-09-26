@@ -1,0 +1,307 @@
+identifier: ENCPOS_1975_04
+creator: Florence-Ella Cassaigne
+date: 1975
+title: Le Conseil général des hospices civils de Paris et les secours publics (1801-1830)
+
+
+
+== Sources ==
+
+La Bibliothèque et les Archives de l’Assistance publique conservent les documents qui ont constitué la base de notre travail : il s’agit du fonds classé par Fosseyeux, principalement des minutes des séances de délibération du Conseil général des hospices.
+
+Aux Archives nationales, la série F a été la plus utilisée : les sous-séries F1b, F6 (F5 II Seine), F6 (F6 II Seine) et essentiellement la sous-série F15 qui renferme les papiers provenant du ministère de l’Intérieur.
+Nous avons également eu recours aux sous-séries AFIV (Secrétairerie d’État impériale), BB10 (dossiers de nomination de notaires) et à la sous-série ADXIV (archives imprimées).
+
+Les Archives de Paris n’offrent pas toute la documentation souhaitable en raison de leur destruction par le feu en 1871.
+La section municipale (sous-séries V. D6 provenant des mairies d’arrondissement, V. Q, Assistance publique) et l’état civil reconstitué nous ont fourni des renseignements appréciables.
+
+Des sources imprimées ont également été utilisées : la série des Comptes généraux des hospices (an XI-1830), des Comptes moraux (1815-1823), les Budgets de la Ville de Paris (1818-1830) et les Recherches statistiques sur la Ville de Paris et le département de la Seine (1821-1829).
+
+Nous devons mentionner aussi les travaux de membres de notre institution, les rapports de Camus (1803), de Pastoret (1816) et enfin le Code administratif des hôpitaux et hospices civils de Paris (publié en 1824-1826).
+
+Enfin, à la Fondation nationale des Sciences politiques, où est conservé le « fonds Pastoret », nous avons consulté dans cette collection les ouvrages qui concernent les hôpitaux et les questions d’assistance. 
+
+
+== Introduction ==
+
+La Révolution détruit les institutions anciennes d’assistance en leur enlevant leurs moyens financiers (suppression de l’octroi le 2 mars 1791) et en mettant les secours publics à la charge de la nation (1793).
+La loi du 23 messidor an II, qui réunit au domaine national les biens hospitaliers, laisse les hôpitaux dans la détresse.
+Le Directoire marque un retour aux anciennes pratiques ; la loi du 16 vendémiaire an V rétablit « l’octroi de bienfaisance ».
+A Paris, l’échec de la commission administrative des hospices, créée le 16 vendémiaire an V et composée de cinq membres, nécessite une réorganisation.
+En l’an IX, le Conseil général des hospices est créé.
+
+Nous nous sommes proposé d’étudier l’installation du Conseil, son organisation, son fonctionnement au cours de la période allant de 1801 à 1830.
+
+
+=== Titre premier constitution, organisation et moyens d’action du conseil général des hospices ===
+
+
+
+
+=== Première partie L’institution ===
+
+
+==== Chapitre premier à l’origine du conseil général des hospices ====
+
+Le projet du préfet de la Seine Frochot, qui sépare les organes délibérants des agents exécutifs, est adopté. 
+
+
+==== Chapitre II Le conseil général des hospices, organe de décision ====
+
+L’arrêté du 27 nivôse an IX institue un Conseil général des hospices composé de onze membres nommés par le ministre de l’Intérieur, chargés d’administrer, à titre gratuit, les établissements hospitaliers parisiens.
+Peu après, les deux préfets du département et de police sont nommés membres de droit de la nouvelle institution (15 pluviôse an IX).
+Les attributions du Conseil général des hospices s’étendent aux secours à domicile (29 germinal an IX), réalisant l’unité dans les méthodes d’assistance.
+
+La Restauration porte le nombre des membres à quinze (ordonnance du 18 février 1818).
+
+
+==== Chapitre III Les organes d’exécution ====
+
+Les organes exécutifs qui secondent le Conseil sont :
+
+– la Commission administrative, composée de cinq membres nommés par le ministre, auxquels se joignent les trois membres de l’Agence des secours à domicile, à partir du 29 germinal an IX. L’inconvénient d’une administration par trop collégiale se fit apparemment sentir, car, à partir de 1827, la Commission administrative se réduit volontairement à cinq membres ;
+
+– le secrétaire général ;
+
+– le comité consultatif, pour les consultations juridiques ;
+
+– le Bureau central d’admission, créé le 6 frimaire an X, composé de quatre membres à l’origine (deux médecins et deux chirurgiens) ; il en comprend douze à partir du 11 février 1818 (six médecins et six chirurgiens).
+
+
+=== Deuxième partie Les hommes et leurs idées ===
+
+
+==== Chapitre premier les nominations au conseil général des hospices (1801-1830) ====
+
+Pour composer le Conseil général des hospices, on fait appel à des hommes choisis dans les classes aisées de la société.
+Ils appartiennent aux milieux judi ciaires (magistrats, avocats, notaires), scientifiques, médicaux, financiers et industriels.
+Ils sont également recrutés parmi les personnalités locales (maires, conseillers généraux).
+
+Sous la Restauration, les choix se portent aussi sur des hommes considérés (pairs de France) qui, pour la plupart, animent des institutions charitables privées.
+
+La nouvelle institution est remarquablement stable : de 1801 à 1830, on compte trente-six membres (à l’exclusion des membres de droit).
+
+
+==== Chapitre II Les principes de la charité publique ====
+
+Héritiers du mouvement de pensée du xviiie siècle qui aboutit aux théories du Comité de mendicité de l’Assemblée constituante, les membres du Conseil discernent plusieurs catégories parmi les indigents.
+A chaque âge et à chaque circonstance de la vie correspond un type de secours : aux enfants, les écoles de charité, l’apprentissage et les hospices ; aux vieillards, les hospices ou les secours à domicile ; aux malades, les hôpitaux, qui à partir de cette époque sont exclusivement destinés à l’assistance médicale.
+
+On procure du travail aux indigents valides.
+Sous la Restauration, une coordination s’effectue entre charité publique et charité privée.
+
+
+=== Troisième partie Les finances du conseil général des hospices ===
+
+
+==== Chapitre premier les revenus ====
+
+Pour financer son action, le Conseil dispose de revenus patrimoniaux, d’une partie des produits de l’octroi, de crédits sur le fonds du département, de recettes extraordinaires et des revenus de fondations.
+Près de la moitié des revenus proviennent de l’octroi. 
+
+
+==== Chapitre II Les dépenses ====
+
+Les dépenses, selon leur nature, sont ainsi réparties pendant toute la période : hôpitaux (20 à 25 %), hospices (25 %), enfants trouvés (10 %), secours à domicile (20 %), dépenses d’ordre ou avances (20 à 25 %).
+
+
+==== Chapitre III La politique financière ====
+
+Les dépenses sont calculées en fonction des recettes prévues.
+Au cours de la période, leur progression est lente.
+Seuls les crédits affectés au service des enfants abandonnés augmentent sensiblement.
+
+Dans les recettes, la part de l’octroi attribuée aux hospices est limitée par Napoléon aux environs de cinq millions.
+Sous la Restauration, la Ville, endettée par les conséquences des Cent-Jours, n’accorde pas une subvention plus importante.
+
+Les règles de la comptabilité sont progressivement mises en place sous l’Empire.
+Les économies réalisées permettent de liquider le passif provenant des administrations révolutionnaires.
+Mais la dépense des enfants trouvés, à la charge du département, n’est jamais remboursée au Conseil général des hospices.
+
+
+==== Chapitre IV Le domaine ====
+
+De 1801 à 1807, le patrimoine hospitalier (constitué de propriétés urbaines et de biens ruraux) est progressivement, mais très partiellement, reconstitué.
+En exécution des décrets du 24 février 1811 et du 22 mars 1813, les propriétés urbaines sont aliénées en masse pour permettre à la Caisse municipale de financer la politique d’embellissements de Paris.
+Sous la Restauration, les ventes sont limitées aux biens improductifs.
+Mais la superficie du domaine rural ne varie pas.
+Les aliénations de l’Empire ont été imposées au Conseil qui, lui, s’est efforcé de conserver le patrimoine hospitalier. 
+
+
+== Titre II Les activités du conseil général des hospices et ses réalisations ==
+
+
+=== Première partie Les hôpitaux ===
+
+
+==== Chapitre premier rôle, nature, destination ====
+
+Le 10 octobre 1801, le Conseil général des hospices opère une classification des établissements qu’il administre : il distingue les hôpitaux, exclusivement réservés aux malades, et les hospices.
+
+
+==== Chapitre II L’architecture hospitalière ====
+
+Le nombre des hôpitaux passe de 9 à 13 en 1816.
+Il ne s’agit pas de constructions mais de nouvelles destinations données aux établissements dont dispose l’Administration.
+
+Les travaux exécutés pour chaque hôpital sont effectués d’après les indications des cinq Mémoires de Tenon (1788) : désencombrement des cours, aération des salles, promenoirs pour les malades.
+Des architectes sont attachés aux hospices (Clavareau et Viel, puis Rohault, Huvé, Yver, Gauthier). 
+
+
+==== Chapitre III Le personnel ====
+
+Après l’abandon du système de l’entreprise (1er germinal an X puis 1er vendémiaire an XII), le Conseil place à la tête de chaque établissement un agent de surveillance secondé d’un économe.
+
+Le personnel soignant se compose de religieuses (Sœurs de la Charité, Sœurs grises, Sœurs des congrégations de Sainte-Marthe, de Saint-Thomas de Villeneuve, et Filles de la sagesse) dont les statuts ont été agréés sous l’Empire.
+
+Le personnel secondaire (infirmiers) s’acquitte mal de son travail et contribue à la mauvaise réputation de l’hôpital.
+
+
+==== Chapitre IV Le service de santé enseignement et pratique médicale ====
+
+Le service de santé est organisé par le règlement du 4 ventôse an X.
+
+Chaque hôpital a un nombre déterminé de praticiens qui lui sont attachés.
+A partir de 1818, il faut avoir exercé de deux à quatre ans au Bureau central d’admission pour être nommé dans un hôpital.
+
+L’institution de l’externat et de l’internat offre aux élèves la possibilité de se former dans les hôpitaux dès le premier jour de leurs études.
+Les cliniques de l’École de médecine permettent le développement de la recherche médicale.
+L’École d’accouchement, créée le 4 ventôse an X, est destinée à former les sages-femmes des départements.
+
+A cette époque, l’École de Paris a une renommée européenne.
+
+
+==== Chapitre V Le malade à l’hôpital ====
+
+La vie quotidienne du malade est améliorée : les salles sont rendues plus salubres, la literie plus confortable.
+En dépit des efforts du Conseil, l’admission à l’hôpital est toujours redoutée des indigents. 
+
+
+==== Chapitre VI Le traitement des militaires pendant les années 1814 à 1816 ====
+
+Les arrivées massives de militaires malades et blessés, dès la fin de 1813 et au début de 1814, obligent les membres du Conseil à installer des hôpitaux temporaires dans les abattoirs inachevés et dans les casernes.
+L’épidémie de typhus qui se déclare en 1814 augmente les difficultés.
+Dans ces graves circonstances, l’action du Conseil a été efficace.
+
+
+==== Chapitre VII Les établissements de service général ====
+
+Le Conseil général des hospices administre des établissements de service général, dont la Pharmacie centrale et la Boulangerie générale.
+
+
+=== Deuxième partie Les hospices ===
+
+
+==== Chapitre premier nature, destination ====
+
+Les hospices destinés aux adultes sont au nombre de six ; l’hospice Sainte-Périne, fondé en 1801 pour les personnes qui avaient occupé de hautes positions sociales, entre dans les attributions du Conseil en 1807. 
+
+
+==== Chapitre II Les bâtiments ====
+
+La politique est analogue à celle suivie pour les hôpitaux : création de grands dortoirs, promenoirs plantés d’arbres.
+
+
+==== Chapitre III Le personnel d’encadrement ====
+
+La direction est confiée à un agent de surveillance, assisté d’un économe.
+Des médecins sont attachés aux établissements.
+Le personnel soignant est moins nombreux que dans les hôpitaux.
+
+
+==== Chapitre IV Les indigents traités ====
+
+Les indigents sont placés par les fondateurs de lits d’une part, le ministre de l’Intérieur, le préfet de police, le préfet de la Seine, le Conseil général des hospices, les membres de la Commission administrative et des bureaux de charité d’autre part.
+Les admissions dans les hospices payants sont agréées par le Conseil général des hospices.
+
+Pour remédier à la surpopulation dans les hospices, le Conseil laisse aux indigents le choix entre l’admission ou une « pension représentative d’admission ».
+
+
+==== Chapitre V La vie quotidienne dans les hospices ====
+
+Le « régime paternel » remplace le régime des entreprises, ce qui permet d’améliorer la vie des administrés.
+Le régime intérieur divise les locaux en dortoirs pour la nuit, en chauffoirs pour la journée, en ateliers-ouvroirs et réfectoires. 
+
+
+==== Chapitre VI Les aliénés ====
+
+Les malades présumés curables sont traités à titre payant dans l’établissement de Charenton.
+Les hospices de Bicêtre et de la Salpêtrière ont des quartiers réservés aux aliénés, spécialement aménagés.
+La transformation du traitement des malades, commencée par Philippe Pinel en 1799, est poursuivie par ses disciples Esquirol et Hébréard.
+
+
+=== Troisième partie L’assistance aux enfants ===
+
+
+==== Chapitre premier l’abandon ====
+
+Le service des enfants abandonnés devenu service départemental par la loi du 25 vendémiaire an X préoccupe le Conseil général des hospices en raison de l’accroissement du nombre des enfants.
+Cette situation ne résulte pas d’une augmentation très importante des abandons (autour de 4 200 par an jusqu’en 1811, ils ne dépassent pas 5 200 en 1830), mais de la meilleure « conservation des enfants » qui sont placés à la campagne et qui bénéficient de la propagation de la vaccine.
+
+
+==== Chapitre II Les mesures législatives et administratives ====
+
+Le décret du 19 janvier 1811 fixe la condition des enfants assistés et inaugure une politique de diminution des dépenses de ce service.
+Les circulaires ministérielles sont multipliées en vue de restreindre le nombre d’admissions. 
+
+
+==== Chapitre III L’hospice de la maternité ====
+
+La proximité de l’hospice des Enfants-Trouvés et de la Maison d’accouchement permet aux femmes admises d’être nourrices des enfants abandonnés.
+L’École d’accouchement est organisée dans ces locaux.
+
+
+==== Chapitre IV La première éducation ====
+
+On reprend tout d’abord les règles d’Ancien Régime relatives à l’éducation des nourrissons abandonnés (meneurs, nourrices de campagne).
+Mais les abus constatés dans ce service exigent une réforme qui a lieu en 1818.
+
+
+==== Chapitre V L’assistance aux grands enfants ====
+
+Les enfants trouvés et les orphelins sont admis dans des hospices à Paris.
+Leur mode d’éducation est identique ; les enfants sont placés chez les artisans, chez les manufacturiers ou chez des particuliers à la campagne.
+
+
+=== Quatrième partie Les secours à domicile ===
+
+
+==== Chapitre premier l’organisation des secours à domicile ====
+
+Au début de l’an IX, l’organisation des secours à domicile comprend 48 bureaux de bienfaisance établis dans chacun des quartiers de Paris, 12 comités centraux (un par arrondissement) et l’Agence des secours à domicile.
+L’ordonnance royale du 12 juillet 1816, promulguée sur l’initiative de Chabrol, crée douze comités de bienfaisance et centralise les secours. 
+
+
+==== Chapitre II Recensement de la population indigente, phase préliminaire à la distribution des secours ====
+
+Pour assurer une meilleure répartition des secours, l’Administration décide un recensement de la population indigente.
+Ordonnés le 19 juillet 1816, les états nominatifs sont établis en 1821 : la population indigente ayant droit aux secours publics se compose de 13 481 ménages (secours annuels) et de 12 746 pauvres (secours temporaires).
+
+
+==== Chapitre III Les secours ====
+
+Les secours ordinaires sont distribués en nature ou en argent.
+Les secours extraordinaires sont accordés par le gouvernement en période de crise frumentaire.
+D’autres ressources proviennent de dons, legs et fondations ; la plus importante est celle du baron de Montyon (1820).
+
+
+==== Chapitre IV Les secours dans les établissements charitables ====
+
+L’Administration dispose d’écoles de charité, d’un atelier de filature, d’une maison d’éducation, passage Saint-Pierre, et de maisons de secours (30 en 1830).
+
+
+== Conclusion ==
+
+Malgré la situation défavorable au moment de son installation, le Conseil put faire œuvre de redressement.
+La stabilité de ses membres permit la continuité dans ses vues et dans son activité.
+Manquant de moyens financiers (aliénations de biens imposées, créances non recouvrées ou irrécouvrables et crises économiques), ses réalisations ne purent être que limitées.
+
+
+== Pièces justificatives ==
+
+
+
+
+== Annexes ==
+
+

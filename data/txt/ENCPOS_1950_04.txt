@@ -1,0 +1,83 @@
+identifier: ENCPOS_1950_04
+creator: Marianne Bouchon
+date: 1950
+title: Étude sur deux traités latins d’art culinaire
+
+
+
+== Bibliographie ==
+
+
+
+
+== Sources ==
+
+
+
+
+== Introduction ==
+
+Deux traités culinaires inédits, le Tractatus de modo preparandi et condiendi omnia cibaria et le Liber de coquina, sont conservés à la Bibliothèque nationale (mss. lat. 7131 et 9328).
+Ils sont anonymes, mais semblent originaires de l’Italie, notamment le second.
+Les manuscrits sont du xive siècle.
+
+Composition des traités. – Le Tractatus comporte cinq parties précédées d’une préface.
+L’auteur y étudie successivement : boissons, viandes, poissons, mets délicats, légumes, etc...
+Le Liber comporte également cinq parties, sans rapport avec celles du Tractatus : légumes, viandes, pâtes et œufs, poissons, recettes complexes.
+
+Caractères des traités. – Le Tractatus est une œuvre littéraire, présentant encore bien des analogies, tant pour le style que pour l’esprit qui l’anime, avec les traités de diététique du Moyen Age.
+Le Liber est un répertoire d’utilité pratique ; on y sent le technicien soucieux de satisfaire une société exigeante.
+Mais l’un et l’autre sont guidés par les mêmes méthodes.
+La technique culinaire médiévale y est ici représentée dans l’une de ses plus anciennes manifestations, non sans offrir quelque ressemblance avec l’art culinaire antique (Apicius), peut-être due à une tradition indirecte et à l’identité des ressources, mais transformée par les apports de la civilisation arabe et orientée vers des tendances nouvelles par les exigences du christianisme : recherche de variantes remplaçant la diversité des mets pour les « jours maigres ».
+
+Sources et influences. – Au xive siècle existe en Italie un Libro di cucina dont le texte, italien, correspond presque entièrement à celui du Liber latin.
+Il s’agit vraisemblablement d’un traité composé au xiiie siècle.
+Comparé à ce texte, le Liber latin apparaît organisé plus logiquement, donc postérieur, et pourvu de références à des mots ou usages français.
+Or, en Italie se rencontrent les traditions autochtones, les traditions arabes, les traditions françaises dues notamment à l’installation des Angevins à la fin du xiiie siècle.
+Le traité italien est marqué des deux premières.
+Dans le traité latin qui semble en dériver, le Liber, et dans le Tractatus, on sent plus nettement l’influence française, ce qui amène à penser qu’ils furent recopiés pour les Français d’Italie.
+Du moins ont-ils inspirés, dans une certaine mesure, les premiers traités culinaires français, à la fin du xive siècle.
+Ceux-ci furent élaborés à Paris : c’est à Paris qu’il faut chercher si l’économie de la capitale, aux xiiie et xive siècles, pouvait permettre à des nouveautés théoriques de passer dans l’alimentation courante.
+
+Une étude de détail montre que, pour la plupart, les aliments cités dans le Liber et le Tractatus existaient à Paris, offrant donc aux recettes étrangères décrites dans les traités français de nouvelles possibilités d’application.
+
+
+== Glossaire des termes culinaires ==
+
+Roissons et liquides.
+Pain.
+Céréales.
+Laitages.
+Légumes.
+Fruits.
+Épices et aromates.
+Viandes.
+Poissons.
+Nomenclature spéciale à l’art culinaire.
+Mots techniques (instruments, poids...) propres au latin médiéval.
+
+
+== Textes ==
+
+Description des manuscrits, – L’un et l’autre sont des recueils.
+On ne sait presque rien sur le lat. 7131 ; le lat. 9328 est d’origine italienne et appartint au duc Jean de Berry.
+Le lat. 7131 est choisi pour l’édition.
+
+Tractatus de modo preparandi et condiendi omnia cibaria.
+
+Liber de coquina.
+
+
+== Appendices ==
+
+
+
+
+== Index alphabétique des termes du glossaire ==
+
+
+
+
+== Table des recettes ==
+
+

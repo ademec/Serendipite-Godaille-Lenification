@@ -1,0 +1,36 @@
+identifier: ENCPOS_1850_06
+creator: Léon-Jules-Amédée Tardif
+date: 1850
+title: Des notes tironiennes
+
+
+
+== I. ==
+
+Les Notes Tironiennes inventées, dit-on, par Ennius, complétées par T. Tiron, L.A. Sénèque, et plus tard par S. Cyprien, servirent dans l’antiquité à recueillir les débats politiques et judiciaires, les actes des martyrs, et les délibérations des conciles : au moyen âge, à transcrire des psautiers, des protocoles ou formulaires, à dresser des projets d’actes et protéger les diplômes et les chartes contre l’habileté des faussaires. – Elles cessèrent d’être employées au commencement du onzième siècle.
+
+
+== II. ==
+
+Le seul document à l’aide duquel on puisse restituer l’Alphabet Tironien et retrouver les procédés particuliers à cette écriture est la collection connue sous le nom de Notæ Tironis ac Senecœ, espèce de manuel pratique des Notes Tironiennes au moyen âge.
+
+
+== III. ==
+
+Le système des Notes Tironiennes consiste :
+
+10 A substituer aux lettres de l’écriture usuelle des caractères plus simples et d’un tracé plus rapide : ces caractères conservent toujours leur forme primitive lorsqu’ils sont isolés ; mais en se joignant les uns aux autres, ils subissent de nombreuses modifications, et leurs combinaisons binaires produisent une série de nouveaux signes qu’on ne peut lire avec l’alphabet connu jusqu’à ce jour ; – l’ensemble de ces signes constitue le véritable Alphabet Tironien ;
+
+2° A séparer la terminaison du radical et à la représenter par des signes particuliers. – La position de la terminaison relativement au radical est toujours constante pour toutes les flexions d’un même mot, pour tous les mots d’une même famille ;
+
+3° A supprimer dans l’intérieur des mots les lettres les moins caractéristiques et toutes celles que l’on peut facilement restituer : les voyelles médiales, les lettres redoublées et même certaines consonnes.
+
+
+== IV. ==
+
+Ces suppressions s’opèrent, en général, de la même manière dans les Notes et dans les abréviations ordinaires, et cette analogie facilite beaucoup la lecture des Notes.
+
+
+== V. ==
+
+La collection de Tiron et Sénèque pourrait encore servir à composer un dictionnaire de Notes que l’on classerait d’après les diverses formes des signes, et non, comme on l’a fait jusqu’à présent, suivant l’ordre alphabétique de leur signification, disposition qui rend toute recherche impossible.

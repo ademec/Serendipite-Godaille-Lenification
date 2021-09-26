@@ -1,0 +1,118 @@
+identifier: ENCPOS_1997_17
+creator: Frédéric Duval
+date: 1997
+title: Édition critique du Romuleon de Benvenuto da Imola dans la traduction de Sébastien Mamerot
+
+
+
+== Introduction ==
+
+Le Romuleon est une vaste compilation d’histoire romaine composée à Bologne entre 1361 et 1364 par Benvenuto da Imola, célèbre exégète de la Divine comédie.
+Divisé en dix livres d’inégale longueur, il rapporte « les événements dignes de mémoire » qui ont marqué Rome depuis l’arrivée d’Énée en Italie jusqu’à 1 avènement de Constantin.
+Contemporaine de Pétrarque, cette œuvre connut un réel succès, attesté par trente-quatre manuscrits latins recensés et par quatre traductions du xve siècle en langues vernaculaires, deux en français et deux en italien.
+Imprégné d’humanisme, le Romuleon revêt un intérêt particulier dans ses différentes traductions puisqu’il se situe alors à la croisée des anciennes compilations en langue vulgaire, comme l’Histoire ancienne jusqu’à César et les Faits des Romains, et des nouvelles traductions d’auteurs antiques.
+La version française qu’en donne Mamerot en 1466 sur l’ordre de Louis de Laval est un des signes de la vivacité de la culture antique dans quelques cercles aristocratiques à la fin du Moyen Age. 
+
+
+== Première partie Étude ==
+
+
+=== Chapitre premier le Romuleon de Benvenuto da Imola ===
+
+Benvenuto da Imola, auteur du
+    « Romuleon ». – Trop souvent attribuée à Roberto della Porta, la paternité du Romuleon revient incontestablement à Benvenuto da Imola.
+Le gouverneur de Bologne, Gomez Albornoz, lui commanda cette compilation en raison de la renommée de brillant connaisseur des auctoritates dont il jouissait malgré un âge encore peu avancé.
+Le Romuleon est, en effet, son premier ouvrage.
+Admirateur de Pétrarque, disciple de Boccace, ami de Salutati, Benvenuto rédigea par la suite de nombreux commentaires (Valère Maxime.
+Lucain, Pétrarque, Stace, Virgile), mais son chef-d’œuvre reste le Comentum super Dantem, exégèse dantesque la plus achevée du xive siècle et travail de toute une vie.
+
+Présentation du
+    « Romuleon ». – Le Romuleon s’inscrit dans le mouvement de renouveau historiographique amorcé par Pétrarque dans les années 1340.
+D’ailleurs, le titre de la compilation, original et antiquisant, la situe en rupture avec l’histoire traditionnelle, bien que le prologue, cédant aux règles de la captatio benevolentie, soit plus trompeur et semble annoncer un bref recueil de faits exemplaires destinés à exalter les valeurs chrétiennes.
+
+Les sources. – Benvenuto puise directement aux sources qu’il mentionne et se garde de toute intervention personnelle.
+Sont en particulier mis en œuvre, dans les trois derniers livres : saint Augustin, César, Cicéron, Eutrope, Florus, Frontin, l’Histoire auguste, Isidore de Séville, Jean de Salisbury, Justin.
+Juvénal.
+Lucain, Orose, Salluste, les deux Sénèque, Solin, Suétone, Tacite, Tite-Live, Valère Maxime, Végèce, Virgile.
+
+La composition et la langue. – Benvenuto a choisi de s’éloigner de l’anecdote pour envisager le passé d’un point de vue plus large.
+Le souci d’une perspective historique est constant de même qu’un jugement critique sur les sources, mais le Romuleon, rédigé dans une période de transition, n’en offre pas moins bien des traits typiquement médiévaux.
+Se détournant du stylisme, véritable déviation de l’écriture historique dont Pétrarque et Salutati sont les porte-enseigne, Benvenuto professe sa foi dans le sermo humilis.
+
+
+=== Chapitre II Sébastien Mamerot ===
+
+Originaire de Soissons, Sébastien Mamerot, assez jeune, à la mort de son père, embrasse la carrière ecclésiastique et entre au service de Louis de Laval avant 1458.
+Il devient son chapelain en 1460.
+Chanoine et chantre de juillet 1472 à août 1478 à la collégiale Saint-Étienne de Troyes, Mamerot n’en reste pas moins attaché à Louis.
+La Compendieuse description de la Terre de promision, récit de voyage à Jérusalem que Mamerot aurait prétendument composé à son retour en 1488 doit être retranchée des œuvres du
+    « Soissonnois ». 
+
+
+=== Chapitre III Louis de Laval ===
+
+Fils de Jean V, comte de Montfort, et d’Anne de Montmorency-Laval, Louis de Laval (1411-1489), couramment appelé « seigneur de Châtillon », servit le duc de Bretagne puis le dauphin Louis avant d’être nommé successivement gouverneur du Dauphiné, gouverneur de Gênes, gouverneur de Champagne et grand maître enquêteur et général réformateur des eaux et forêts de France.
+Cette brillante carrière politique ne l’empêcha pas de se distinguer par la passion qu’il voua à l’histoire et aux manuscrits de luxe.
+Mamerot mis à part, il loua les services de Robert Bryart, un scribe à la plume élégante, et soutint activement de ses commandes l’atelier berruyer de Jean Colombe.
+
+
+=== Chapitre IV Diffusion de la culture antique, diffusion du Romuleon ===
+
+A la fin du Moyen Age, la connaissance de la Rome antique en français repose souvent sur des textes fort anciens.
+Pourtant, la traduction du Romuleon est significative d’une emprise croissante des lettres italiennes sur l’écriture de l’histoire antique ainsi que de l’engouement d’une frange de l’aristocratie pour cette période.
+En 1460, Jean Miélot traduit le Romuleon à la demande de Philippe le Bon.
+Jean de Wavrin, Antoine de Bourgogne, Louis de Bruges et Édouard IV d’Angleterre sont les possesseurs connus de cette version.
+Ces grands bibliophiles sont unis par des liens de clientélisme ou d’amitié mais aussi par leur commune passion pour les livres enluminés.
+La traduction de Mamerot n’a pas bénéficié du rayonnement d’une cour aussi prestigieuse et brillante que celle du duc de Bourgogne.
+Les possesseurs avérés en sont, outre Louis de Laval, Louis Malet de Graville, André III de Chauvigny, Philippe du Moulin et plus tard Diane de Poitiers.
+
+
+=== Chapitre V Les manuscrits ===
+
+Sont décrits les manuscrits suivants : Paris, Bibl. nat. de France, fr. 364 (A) ; Paris, Bibl. nat. de France, fr. 365-367 (B) ; Berlin, Kupferstichkabinett, 78 D 10 (C).
+
+Tradition manuscrite et choix du manuscrit de base. – A et C remontent à un manuscrit commun, copié sur l’original.
+B appartient à une autre branche de la tradition.
+A est supérieur à C et présente un texte peu fautif, équivalent en qualité à celui de B.A comporte une table des rubriques et une illustration sans doute copiée d’après le manuscrit original de Louis de Laval, ce qui lui a valu d’être choisi comme manuscrit de base. 
+
+
+=== Chapitre VI La traduction ===
+
+A travers l’analyse des prologues du Romuleon et des Croniques martiniennes, on peut tenter de percevoir la conception que Mamerot avait de la traduction.
+L’étude de la traduction proprement dite se heurte à la méconnaissance du manuscrit latin utilisé par le
+    « Soissonnois », manuscrit qui devait présenter des erreurs abondantes.
+
+La traduction des noms propres permet difficilement d’apprécier les compétences géographiques et historiques de Mamerot : les calques lui suffisent souvent à voiler son ignorance sans pour autant commettre de faute.
+Face aux difficultés soulevées par le vocabulaire, le traducteur multiplie les procédés : transposition, néologisme, néologisme de sens, emprunt au latin, binôme ou trinôme synonymique, paraphrase et glose.
+
+Sur le plan syntaxique, Mamerot se dégage souvent de son modèle latin par un souci louable de fidélité à la langue d’arrivée.
+Sont étudiées plus spécialement les traductions de l’ablatif absolu, de cum + subjonctif, de la modalité, du participe futur, de l’interrogation, du passif, de la coordination et de la subordination.
+
+La traduction renforce la cohérence textuelle assez faible dans le Romuleon latin.
+Trouvant le texte souvent par trop elliptique, Mamerot y a apporté quelques développements afin de chasser toute ambiguïté.
+La portée morale des événements relatés a également été accentuée.
+Enfin, Mamerot adopte une position critique et n’hésite pas à contredire l’auteur sur un point historique ou à s’engager dans la polémique qui exacerbe les rivalités entre intellectuels italiens et français depuis Pétrarque.
+
+
+=== Chapitre VII Étude linguistique ===
+
+L’étude de la langue analyse d’abord la graphie des deux copistes du manuscrit A (nombreux traits picards), avant de se consacrer à la morphologie et enfin à la syntaxe.
+
+
+=== Chapitre VIII Présentation de l’édition ===
+
+Les graphies de A ont été respectées.
+En cas de leçons concurrentes de A et de B, le texte latin du Romuleon (Paris, bibl.
+Sainte-Geneviève, ms 775) a permis de trancher.
+Les leçons rejetées de A figurent en bas de page, de même que les variantes de B. 
+
+
+== Deuxième partie Édition critique ==
+
+L’édition porte sur les trois derniers livres du Romuleon, soit de l’adolescence de Jules César à l’avènement de Constantin.
+Cette partie de la compilation a été choisie pour la diversité des sources utilisées mais aussi pour la facilité des comparaisons qu’elle autorisait avec d’autres histoires romaines contemporaines.
+
+
+== Annexes ==
+
+Le Romuleon de Benvenuto da Imola : préface de l’auteur : table des chapitres ; édition synoptique du texte et de ses sources ; liste des manuscrits latins. – Sébastien Mamerot, chantre de Saint-Étienne de Troyes ; prologues de ses œuvres. – Louis de Laval : documents biographiques. – Le Romuleon de Jean Miélot. – (doses de Mamerot. – Édition synoptique partielle du Romuleon et de ses traductions. – Notes critiques et sources. – Glossaires général, thématique (vocabulaire militaire et realia Romana), latin. – Index. – Planches.

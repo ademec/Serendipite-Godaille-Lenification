@@ -1,0 +1,80 @@
+identifier: ENCPOS_1897_02
+creator: Henri Delatour
+date: 1897
+title: Pierre le Chantre
+
+
+
+== Introduction ==
+
+Malgré le rôle important joué par Pierre le Chantre dans l’histoire théologique du xiie siècle, il n’a été fait sur sa vie et sur ses œuvres aucune étude spéciale : on ne trouve guère de renseignements sur lui que dans une notice de l’Histoire littéraire de la France, et dans une page de l’Histoire de la Philosophie scolatique de M. Hauréau.
+
+Néanmoins, si profond que soit l’oubli dans lequel il est tombé, cet auteur mérite d’être étudié.
+Ses contemporains en font le plus grand éloge ; témoin Adam de Perseigne, dans une lettre adressée à Eudes de Sully, Etienne de Tournai, dans une lettre adressée à Guillaume de Champagne, Jacques de Vitry dans son Historia Occidentalis, Césaire de Heisterbach, dans son Dialogus miraculorum, Albéric de Trois-Fontaines et Robert d’Auxerre, dans leurs chroniques, Henri de Gand, dans son de Scriptoribus ecclesiasticis.
+
+On trouve également mention de lui dans les auteurs des siècles suivants : dans Jean de Trittheim, dans Casimir Oudin, dans l’Historia metropolis Remensis de Marlot, dans l’histoire de l’abbaye de Longpont de dom Muldrac, dans l’histoire de l’Université de Paris de Du Boulay, et jusque dans l’Histoire ecclésiastique de l’abbé Fleury. 
+
+
+== Chapitre premier vie de Pierre le Chantre ==
+
+Cette vie est entourée d’obscurités assez malaisées à dissiper : les dates surtout en sont incertaines.
+
+On ne peut guère déterminer avec certitude que celle de sa mort, fixée par tous les chroniqueurs à l’année 1197.
+Quant aux autres, on ne peut guère les donner que par approximation.
+
+Le lieu de sa naissance donne également sujet à discussion : dom Brial le fait naître dans le Beauvaisis, Casimir Oudin et Du Boulay en font un Parisien, d’autres, le confondant avec un de ses homonymes, le font naître à Poitiers.
+Contrairement à ces trois opinions, Pierre le Chantre est né à Reims, comme le prouvent et la mention de Remensis qui se trouve sur plusieurs des manuscrits de ses ouvrages, et le nom de Petrus Remensis que lui donne l’historien anglais Raoul de Coggeshall, et surtout la lettre que lui adresse Guillaume, archevêque de Reims, lors de sa nomination au décanat de Reims.
+
+Ignorance dans laquelle nous nous trouvons au sujet de son enfance, de sa première jeunesse et du moment où il vint à Paris.
+
+Henri de Gand lui donne le titre de
+    « Theologicæ scholæ rector » qu’il donne aussi à Abélard : importance de cette fonction.
+
+L’enseignement de Pierre peut être reconstitué au moyen de ses écrits, notamment des gloses sur les livres de l’Ancien et du Nouveau Testament, ainsi que du Verbum abreviatum.
+
+Pierre est dans les meilleurs termes avec Philippe-Auguste, mais il s’attire l’inimitié de Guillaume, archevêque de Reims, et régent du royaume en l’absence du roi : causes assez obscures de cette inimitié.
+Deux fois il est nommé évêque : les deux fois, l’archevêque Guillaume refuse de ratifier son élection. – Il est promu au décanat de Reims.
+Malade, il n’a pas la force d’aller prendre possession de son siège, et s’arrête en chemin à l’abbaye de Longpont, près Soissons, où il prend l’habit de moine cistercien, et meurt l’année même de son noviciat, en 1197.
+
+
+== Chapitre II Ses œuvres ==
+
+Discussions relatives au nombre et à l’authenticité des écrits de Pierre le Chantre.
+D. Brial n’en admet que quatre comme étant de lui : 1° le Verbum abreviatum ; 2° le de tropis theologicis ; 3° le traité des sacrements ; 4° la Summa quae dicitur Abel.
+Il se refuse à lui attribuer les commentaires sur l’Ecriture, comme étant en contradiction avec les principes exposés par lui même dans le Verbum abreviatum,
+
+Erreur de D. Brial : ces commentaires sont bien de Pierre le Chantre, mais sont l’œuvre de sa jeunesse, antérieurs par conséquent au Verbum abreviatum .
+
+Noms impropres donnés à certains de ses traités : le de tropis theologicis serait mieux dénommé de contrarietatum Scripturæ solutionibus.
+Le titre de « traité des Sacrements », surtout, est impropre ; celui de Questiones scholares, qui se trouve dans un des manuscrits, serait préférable.
+La Summa quœ dicitur Abel, ainsi appelée parce qu’elle débute par ce mot, devrait s’appeler : Dictionnarium theologicum.
+Certains traités sont à tort considérés parfois comme l’œuvre de Pierre : tels sont une Summa de conciliis et rebus ecclesiasticis, et un petit traité de quibusdam miraculis.
+Un seul de ses écrits, le Verbum abreviatum, a été imprimé : une édition en a été donnée à Mons, en 1639, par les soins du bénédictin dom Galopin. 
+
+
+== Chapitre III Ses doctrines ==
+
+Ses commentaires sur les Psaumes et sur d’autres livres de l’Ecriture : leur insuffisance.
+L’auteur ne se rend aucun compte du caractère des œuvres qu’il interprète, ni du temps où elles ont été composées.
+Valeur exégétique de ces commentaires absolument nulle. – Son traité de Scripturœ contrarietatum solutionibus.
+But de ce traité : il s’efforce de proposer aux divergences et aux contradictions des différents livres de l’Ecriture une solution satisfaisante pour la conscience du chrétien.
+Son œuvre capitale est le Verbum abreviatum : ce traité, composé très probablement en plusieurs fois, est une protestation véhémente contre les arguties et les subtilités de la scolastique.
+Aversion de Pierre pour les casuistes ; il les flétrit dans un chapitre du Verbum abreviatum. – Il a une connaissance approfondie de l’antiquité profane et sacrée ; abondance des citations : Cicéron et Sénèque lui fournissent autant d’arguments que la Bible et saint Paul.
+
+Bien que M. Hauréau incline à voir en Pierre un mystique, il présente de notables différences avec les sectateurs du mysticisme.
+Aucun trait de ressemblance entre lui et Joachim de Flore, ou sainte Thérèse d’Avila : il ne fait pas, comme les mystiques, fi du savoir profane.
+De plus, il est toujours parfaitement orthodoxe : les mystiques, au contraire, sont tombés assez souvent dans l’hérésie.
+
+Modération de l’auteur dans ses discussions : il ne s’en départ que lorsqu’il s’élève contre la simonie et les vices du clergé.
+L’épithète de « mellifluens » lui conviendrait mieux qu’à saint Bernard.
+
+Pierre le Chantre, bien qu’ayant combattu les casuistes, s’exerce néanmoins à la casuistique dans ses Questiones scholares : manque de méthode de ce traité. 
+
+Importance, au point de vue de l’histoire des mœurs, de quelques passages de ce traité.
+Bizarrerie de certaines questions traitées.
+
+Confirmation apportée par un historien anglais à une des Questiones scholares.
+
+Le Dictionnarium theologicum est conçu dans le même esprit que les commentaires sur les Psaumes : on y retrouve la même exégèse subtile et arbitraire.
+
+Appréciation générale sur l’ensemble des idées et des doctrines de Pierre le Chantre.

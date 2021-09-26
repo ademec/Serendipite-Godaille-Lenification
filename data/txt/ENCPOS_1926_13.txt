@@ -1,0 +1,101 @@
+identifier: ENCPOS_1926_13
+creator: Marthe Marot
+date: 1926
+title: La chronique dite du doyen de Saint-Thiébaut de Metz ou Histoire de Metz véritable (1231-1445). Édition précédée d’une introduction critique
+
+
+
+== Préface ==
+
+La chronique dite du doyen de Saint-Thiébaut de Metz (1231-1445) a été éditée en 1728 par dom Calmet Histoire de Lorraine, 1re édition, t.
+II, preuves, col.
+CLXIX-CCLIX ; 2e éd., 1745, t.
+V, pr., col.
+VI-CXVII).
+
+Cette édition, faite d’après un seul manuscrit (G), n’est pas satisfaisante.
+Une réédition a semblé opportune étant donné l’importance de la chronique pour l’histoire messine et lorraine de la première moitié du xve siècle.
+
+
+== Introduction ==
+
+
+
+
+== Chapitre premier les manuscrits de la chronique ==
+
+Il existe huit manuscrits de la chronique.
+Aucun d’eux n’est le manuscrit original. 
+
+Ils se divisent en deux familles : la première comprend le ms. 6699 des nouv. acq. franç. de la Bibl. nat. (coll.
+Prost) (xve s.) A et le ms. 3378 de la Bibl. de Vienne (Autriche) (fin du xve s.) B. – La deuxième comprend le ms. franç. 5736 de la Bibl. nat. (Cangé) (xvie s.) C, le ms. 875 (39) de la Bibl. mun. de Nancy (fin xvie et xviie s.) F, le ms. 874 (96) de la même Bibl. (xviie s.) G, le ms. 1510 des nouv. acq. franç. de la Bibl. nat. (xviiie s.) H.
+
+Il faut signaler le ms. franç. 8689 de la Bibl. nat. et le ms. 1008 (258) de la Bibl. mun. de Metz (xixe s.), qui sont respectivement les copies des mss.
+H et B. La présente édition est faite d’après le ms.
+A, qui semble le plus se rapprocher du ms. original ; comme ce ms. est tronqué, il a été nécessaire de le compléter à partir de 1438 par le ms.
+B. Les variantes intéressantes des mss.
+CFG ont été indiquées.
+
+
+== Chapitre II L’auteur ==
+
+Il n’est pas connu.
+Différentes identifications proposées.
+
+a) Dont Calmet a cru pouvoir l’identifier avec un doyen de la collégiale de Saint-Thiébaut de Metz, official, curé de Saint-Simplice, qui se dit auteur d’une courte histoire de Charles VII qui précède la chronique dans les mss.
+CFG H.
+
+b) Prost et Wolfram n’admettent pas que cette histoire et la chronique soient d’un même auteur.
+L’auteur de la chronique se dit en 1443 curé de Saint-Eucaire ; d’après la chronique, le curé de Saint-Eucaire était en 1441 Pierre de Saint-Dizier.
+Prost et Wolfram identifient l’auteur de la chronique avec ce Pierre de Saint-Dizier.
+
+Conclusions : 1°) Il est certain que l’auteur de l’histoire abrégée de Charles VII est un doyen de Saint-Thié haut, curé de Saint-Simplice, dont le nom était Nicole Jean de Neufchâteau en Lorraine ;
+
+2°) mais il ne paraît pas prouvé que l’histoire et la chronique soient du même auteur : si quelques présomptions peuvent le faire supposer, d’autres indices semblent exclure celte hypothèse ;
+
+3°) on ne peut donc retenir qu’un fait certain : l’auteur de la chronique a été curé de Saint-Eucaire en 1443.
+
+
+== Chapitre III Les sources : comparaison de la chronique avec celles d’Husson et des maîtres-échevins. ==
+
+Pour rechercher les sources de la chronique, il importe de la comparer avec deux chroniques messines du xve siècle qui lui sont apparentées : savoir, la chronique de Jacomin Husson (1113-1518), éditée par Michelant, et la chronique des Maîtres-Échevins (1170-1475) continuée jusqu’en 1506 (ms. 829 79 de la Bibl. mun. de Metz).
+Les trois chroniques ont de grandes ressemblances.
+Elles rapportent les événements par échevinat ; elles contiennent un grand nombre de faits identiques concernant l’histoire régionale et générale présentée dans des termes souvent identiques.
+
+La comparaison de ces trois chroniques prouve qu’elles ne dérivent pas les unes des autres, mais qu’elles ont puisé vraisemblablement dans une source commune.
+
+
+== Chapitre IV Les sources (suite) : la source commune aux chroniques dite du doyen de Saint-Thiébaut, d’Husson et des maîtres-échevins ==
+
+De la comparaison des chroniques d’Husson et des Maîtres-Échevins après 1445, date à laquelle se termine la chronique dite du doyen de Saint-Thiébaut, l’on peut supposer que la source x se poursuit jusqu’aux environs de 1473.
+
+Cette source était vraisemblablement une compilation ayant pour base une liste de maîtres-échevins, qui a eu peut-être un caractère officiel et à laquelle on ajouta des faits d’histoire régionale et générale.
+
+Pour les faits d’histoire générale, l’auteur de cette compilation a puisé dans un texte très voisin des Chroniques de France.
+
+
+== Chapitre V Les chronogrammes ==
+
+La chronique dite du doyen de Saint-Thiébaut, comme les chroniques d’Husson et des Maîtres-Échevins, est caractérisée par l’emploi de chronogrammes relatifs à des événements d’histoire générale et d’histoire locale.
+
+Elle contient sept chronogrammes dont trois sont cités dans la chronique d’Husson et dont un parmi ces trois derniers se retrouve dans la chronique des Maîtres-Échevins.
+
+Plusieurs de ces chronogrammes se retrouvent dans des textes contemporains : ils ne peuvent servir cependant à déterminer les sources de la chronique.
+
+
+== Chapitre VI L’Originalité de la chronique ==
+
+Le « curé de Saint-Eucaire » a ajouté à sa source une foule de détails : ses parties originales sont dues à ses souvenirs pour la période comprise entre 1420 et 1445 ; en outre, l’auteur a consulté des documents d’archives. 
+
+
+== Chapitre VII La chronique et l’esprit Messin ==
+
+L’intérêt de la chronique dite du doyen de Saint-Thiébaut est dans ce fait qu’elle révèle l’état d’esprit d’un Messin du xve siècle.
+Non seulement l’auteur apparaît comme un homme de son temps, à la fois curieux et naïf, ami des aventures et du faste, mais aussi comme un . « citain » épris d’indépendance, admirateur de sa ville, aimant à railler les ennemis de Metz, en particulier le duc de Lorraine, Charles II.
+
+L’auteur s’intéresse spécialement aux affaires de France ; il est du parti de Charles VII et hostile au duc de Bourgogne.
+
+
+== Édition de la chronique ==
+
+

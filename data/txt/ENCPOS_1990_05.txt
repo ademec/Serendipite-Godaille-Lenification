@@ -1,0 +1,68 @@
+identifier: ENCPOS_1990_05
+creator: Hélène Chaudoreille
+date: 1990
+title: Contribution à l’élaboration d’un répertoire indexé des chansonniers catalans, suivie de l’édition des textes inédits du chansonnier N
+
+
+
+== Introduction ==
+
+L’édition des textes inédits du chansonnier catalan de l’Ateneu Barcelonés, repéré par le signe N dans la classification de Massó Torrents, confirme la nécessité de l’élaboration d’un répertoire des chansonniers catalans. 
+
+
+== Première partie Présentation ==
+
+
+=== Chapitre premier état de la question ===
+
+Parmi les nombreux travaux relatifs à la lyrique catalane, et plus particulièrement aux chansonniers, la Bibliografía dels antics poetes catalans de Massó Torrents (1913) répertorie les chansonniers catalans, en leur attribuant les sigles qui sont devenus traditionnels, et en donnant la liste des incipit des chansons contenues dans chacun d’entre eux.
+C’est à ce travail fondamental, à qui on a souvent reproché le manque de critique et les nombreuses erreurs qui en rendent l’utilisation hasardeuse, que se rattache directement notre répertoire, qui doit également beaucoup, pour la méthode, au Catálogo-ĺndice de la poesía cancioneril del siglo XV publié en 1982 par B. Dutton.
+
+D’autre part, l’édition des textes inédits de N s’inscrit dans une tradition catalane d’éditions diplomatiques de chansonniers, que R. Aramon i Serra a d’ailleurs tenté de systématiser, en lançant un projet de publication de tous les chansonniers de la Biblioteca de Catalunya.
+Il inaugura ce projet en 1938 par la publication du Cançoner dels Masdovelles (M), qui ne fut suivie d’aucune autre.
+L’édition des chansonniers N et J annoncée par le même auteur depuis de nombreuses années n’a jamais vu le jour.
+
+
+=== Chapitre II Répertoire des sources ===
+
+Les manuscrits utilisés pour la constitution du répertoire indexé sont les chansonniers catalans du XV’ siècle H⁎ et Hb, connus sous le nom de chansonnier Vega-Aguiló (Barcelone, Biblioteca de Catalunya, mss n° 7 et n° 8), J, qui porte le titre de Cançoner d’amor (Paris, Bibliothèque nationale, esp. 225), K (Barcelone, Biblioteca de Catalunya, ms n° 10), L (Barcelone, Biblioteca de Catalunya, ms n° 9), M, chansonnier autographe de Joan Berenguer de Masdovelles (Barcelone, Biblioteca de Catalunya, ms n° 11), N (Barcelone, Biblioteca de l’Ateneu barcelonés, ms n° 1), Q (Paris, Bibliothèque nationale, esp. 229), R (Paris, Bibliothèque nationale, esp. 226), et X’, appelé aussi Jardinet d’orats (Barcelone, Biblioteca universitaria, ms n° 151).
+
+Une notice descriptive et une liste des incipit des pièces sont données pour chacun de ces manuscrits. 
+
+
+=== Chapitre III La tradition manuscrite de la lyrique catalane au XV’ siècle ===
+
+Les chansonniers catalans du XV’ siècle reflètent les goûts littéraires d’une époque soumise à des influences diverses et contradictoires.
+Le trait essentiel de la lyrique catalane à cette époque reste, comme au siècle précédent, la fidélité aux formes de la lyrique des troubadours, entretenue par les joutes du Consistoire de la Gaya Sciència de Toulouse, auxquelles participèrent des catalans, puis par la création du Consistoire de la Gaya Sciència de Barcelone en 1393.
+L’archaïsme des œuvres académiques ainsi produites n’est que peu masqué par l’émancipation de la langue catalane par rapport au provençal, à partir d’Ausiàs March.
+Par ailleurs, l’influence française (Machaut, Oton de Granson, Alain Chartier surtout) ne s’exerce que pendant très peu de temps, et sur très peu d’auteurs, et l’influence italienne reste très faible.
+En revanche, au cours du dernier quart du XV’ siècle, on constate le prestige croissant de la lyrique espagnole, qui se manifeste par une castillanisation progressive de la langue et de la littérature catalanes (plusieurs auteurs versifient dans les deux langues).
+On notera que des auteurs se rattachant à ces différentes traditions se côtoient souvent dans un même recueil (les pièces écrites en provençal étant parfois très catalanisées).
+
+
+== Deuxième partie Indices ==
+
+Le travail comporte plusieurs indices, élaborés à partir des chansonniers dépouillés.
+
+L’index maître comprend les champs suivants : numéro d’identité ; auteur ; genre ; incipit ; titre ; senyal ; date ; langue ; notes bibliographiques.
+
+Les autres indices établis sont les suivants : index des incipit ; index des auteurs ; index des destinataires ; index des genres poétiques ; index des senyals. 
+
+
+== Troisième partie Le chansonnier n ==
+
+
+=== Chapitre premier description du manuscrit ===
+
+Le manuscrit N a été copié à Barcelone dans le dernier tiers du XV’ siècle.
+Il est de facture assez négligée.
+
+
+=== Chapitre II Description des schémas métriques et des particularités graphiques ===
+
+Les particularités graphiques correspondent à la date tardive du manuscrit.
+
+
+=== Chapitre III Édition diplomatique des textes inédits ===
+
+

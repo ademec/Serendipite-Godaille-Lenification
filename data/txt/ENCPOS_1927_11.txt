@@ -1,0 +1,95 @@
+identifier: ENCPOS_1927_11
+creator: Félix Olivier Martin
+date: 1927
+title: Les Institutes de Justinien en français. Texte critique publié avec une introduction
+
+
+
+== Avant-propos – Bibliographie ==
+
+
+
+
+== Introduction ==
+
+
+
+
+== Première partie Les traductions d’ouvrages juridiques au xiiie siècle (moins celles des Institutes) ==
+
+La littérature de traductions avant le milieu du xiiie siècle . – Ses caractères généraux et son évolution. – Son importance.
+
+
+=== Chapitre I Les traductions du Corpus juris civilis et du Corpus juris canonici ===
+
+1. – Le Digeste est traduit en entier au xiiie siè cle, mais la traduction du Digeste neuf est perdue. – Traduction de l’Infortiat. – Le Digeste vieux est traduit, dans le second quart du xiiie siècle, par un auteur resté inconnu.
+Cette traduction est utilisée constamment par l’auteur du livre la Reine et par Pierre de Fontaines ; elle est remaniée vers 1280. – Les manuscrits.
+
+2. – 11 existe trois versions indépendantes des neuf premiers livres du Code, faites vers 1220-1230 (?), 1240 et 1275.
+Ces traductions ne datent donc pas du début du xiie siècle, comme on l’a cru longtemps.
+Pierre de Fontaines a copié abondamment la seconde de ces versions. – Les manuscrits.
+
+3. – Les trois derniers livres du Code (Tres libri) et les Novelles traduits vers 1275. – Les manuscrits.
+
+4. – En 1292, un certain Maître Michel traduit les Libri Feudorum.
+Cette traduction, signalée par Ménage, est aujourd’hui perdue. – Traductions fragmentaires de la Grande Glose.
+
+Toutes ces traductions ont une origine parisienne.
+
+5. – – Le Décret de Gratien, traduit à une date indéterminée, sans doute dans la seconde moitié du XIIIe siècle. – Les manuscrits.
+
+6. – Les Décrétales de Grégoire IX sont traduites, sans doute à l’Université de Paris, avant 1245. – Traduction dans les mêmes conditions des Décrétales d’Innocent TV. – Les Décrétales de Grégoire IX traduites dans le nord de la France vers 1280. – Les manuscrits.
+
+
+=== Chapitre II Traductions d’ouvrages de doctrine ===
+
+I. – La Somme Acé, déjà signalée par E. Langlois, est en réalité la traduction faite vers 1260 de deux sommes dues à Azon et d’une troisième dont l’auteur est Hugolinus.
+Ces traductions sont plutôt des adaptations dont l’auteur a fait preuve d’une remarquable intelligence. – Les manuscrits.
+
+2. – Il n’existe qu’une seule traduction française du Codi – et non deux, comme l’ont cru Fitting et Suchier – faite en Bourgogne sur la version latine de Richard de Pise, et non sur le provençal, comme le pensait Gaston Paris.
+Elle ne paraît avoir eu qu’une importance locale. – Les manuscrits.
+
+3. – L’Ordinaire de Tancrède, traduit en 1242.
+Cette traduction est remaniée pour un roi de France nommé Philippe (Philippe le Bel ou Philippe VI).
+Son influence sur le Coutumier d’Artois, sur Beaumanoir (?). – Les manuscrits.
+
+
+== Deuxième partie La traduction des Institutes ==
+
+
+=== Chapitre I Étude littéraire, juridique et linguistique ===
+
+Il existe une traduction en vers et une traduction en prose.
+
+La première a été faite en 1280 par un normand, Richard d’Annebaut, que l’on a pris longtemps pour l’auteur de la Coutume de Normandie en vers.
+Il s’est servi de la traduction en prose, mais il l’a confrontée avec le texte latin.
+Il destinait aux écoles son ouvrage, qui a été imprimé en 1490 environ, peut-être à Lyon. – Manuscrit et incunable. 
+
+L’auteur et là date de la version en prose n’ont pu être déterminés jusqu’ici.
+Examen des hypothèses qui ont été faites.
+Le Président Bouhier, suivi par Montesquieu et un grand nombre d’auteurs, attribue à un ordre de Saint Louis les traductions du Corpus juris civilis ; il est impossible de le prouver.
+On a proposé le nom de Maître Michel, mais, en réalité il n’a traduit que les Libri Feudorum.
+Gilles de Lengres, dont il est question dans un explicit assez ambigu, n’est qu’un copiste.
+
+Il faut se résigner à ignorer le nom de l’auteur.
+Son œuvre se place entre 1220 et 1280 et paraît bien être d’origine parisienne.
+
+La traduction des Institutes a pu, dans une certaine mesure, être connue de quelques officiers de justice.
+Mais, comme les autres traductions juridiques, c’est surtout un ouvrage de bibliothèque qui n’est que peu sorti des librairies des grands personnages du moyen âge.
+L’existence de ces traductions juridiques révèle une phase inconnue de la renaissance des idées antiques et de l’histoire de l’humanisme.
+
+Examen des procédés de traduction. – L’auteur suit fidèlement son texte et préfère les périphrases aux néologismes.
+Il a une connaissance approfondie du latin et du droit romain et paraît avoir conscience de la différence qui sépare l’Antiquité de son temps.
+
+Examen linguistique. – Intérêt du texte au point de vue de la syntaxe.
+
+Influence de la traduction des Institutes. – Le Livre la Reine, dont on a à tort nié l’existence et dont on peut retrouver une grande partie dans divers manuscrits de la Bibliothèque Nationale, est une compilation dont là traduction des Institutes forme le fond.
+Un grand nombre d’ouvrages juridiques du moyen âge : Les Poines de la duchée d’Orliens, Justice et plet, la Somme rural, les Etablissements de saint Louis, les Ordonnances de plaidoyer des frères Maucreux, le Grand Coutumier de France de Jacques d’Ableiges, etc., ont subi l’influence de cette traduction.
+Il est même probable que Beaumanoir l’a connue.
+
+
+=== Chapitre II Manuscrits et édition ===
+
+Il nous reste treize manuscrits de la traduction des Institutes. – Description. – Manuscrits perdus.
+
+Classement. – Plan de l’édition.

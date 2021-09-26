@@ -1,0 +1,116 @@
+identifier: ENCPOS_1931_11
+creator: Madeleine Guillon
+date: 1931
+title: Recherches sur la condition des églises dans le diocèse de Cambrai du xie au xiiie siècle
+
+
+
+== Bibliographie ==
+
+
+
+
+== Sources manuscrites ==
+
+
+
+
+== Preface ==
+
+
+
+
+== Introduction l’appropriation des églises à l’époque franque. ==
+
+I. – L’évangélisation des campagnes dans le nord de la Gaule ne fut achevée qu’au viiie siècle.
+A cette époque, les églises qui étaient fondées sur les domaines des particuliers tombaient au pouvoir de ceux-ci et étaient considérées comme leur appartenant.
+L’origine de cet état de choses a été discutée, principalement depuis les travaux de M. Stutz.
+
+A l’époque carolingienne, les droits de propriété sur les églises firent l’objet d’une législation complète.
+Ils avaient été reconnus par le concile de Francfort de 794 et, en 826, par la papauté.
+
+II. – Les plus anciens exemples d’appropriation d’églises sont, pour notre région, des premières années du viiie siècle.
+Dès lors, les églises privées devinrent très nombreuses.
+Les droits des propriétaires sur leurs églises s’acquéraient par la fondation de celles-ci sur un domaine leur appartenant ; mais il dut aussi y avoir des usurpations.
+Ces droits se transmettaient par les modes de transmission de la propriété usités pour les autres biens : succession, donation, vente ou échange.
+Lorsque plusieurs héritiers étaient en présence, il pouvait se faire que l’église fût partagée entre eux.
+
+Les propriétaires tirèrent des revenus importants de leurs églises.
+Pour garantir la subsistance des desservants, on dut imposer la constitution auprès des églises d’un manse libre de toute charge.
+
+
+== Chapitre premier la distinction entre l’« ecclesia » et l’« altare ». ==
+
+Dès le ixe siècle, une réaction s’était produite contre l’appropriation des églises, mais elle n’avait pu pénétrer dans la pratique.
+Au xie siècle, il y eut une tentative intéressante pour rétablir l’autorité des évêques sur les églises de leur diocèse.
+Il s’agit de la distinction entre l’ecclesia et l’altare.
+L’église était laissée au propriétaire, tandis que l’autel ne devait relever que de l’évêque.
+Toutefois cette règle ne fut pas maintenue, les évêques cédant fréquemment les autels aux instituts ecclésiastiques propriétaires de l’église, et les laïques ayant de leur côté mis la main sur certains autels.
+Le mot altare perdit peu à peu sa signification juridique. 
+
+
+== Chapitre II Les droits de propriété sur les églises aux xie et xiie siècle. ==
+
+En dépit de la distinction entre l’altare et l’ecclesia et des efforts des réformateurs, des droits de propriété privée continuèrent à être exercés sur les églises pendant une partie du Moyen-Age.
+Ils s’acquéraient encore aux xie et xiie siècles, par la fondation ; mais la plupart des églises étaient possédées jure hereditario, par droit héréditaire.
+Les églises étaient données, échangées, cédées en fief.
+Elles furent fréquemment données à des monastères ou à des chapitres et ces donations furent peut-être considérées comme des restitutions, l’Eglise interdisant en principe aux laïques d’exercer un droit de propriété sur les églises.
+
+Les propriétaires disposaient dans une certaine mesure des biens immobiliers qui constituaient la dotation des églises et ne laissaient aux desservants qu’une part des revenus.
+
+
+== Chapitre III Le « jus patronatus ». ==
+
+Le droit de patronage ne se substitua que lentement à la propriété.
+Cette substitution fut préparée par une série de prescriptions qui limitaient l’exercice des droits des propriétaires, notamment pour ce qui est de la nomination du desservant.
+Cette question tint une grande place dans le nouveau droit de patronage qui ne reconnaissait aux patrons qu’un droit de présentation. 
+
+Le jus patronatus apparaît dans les textes de notre-région à la fin du xn° siècle, mais il différait sensiblement de ce qu’il fut plus tard.
+Le patron pouvait jouir du droit de collation.
+Il réglait, d’accord avec l’évêque, le régime de l’église.
+Il jouissait d’une part des revenus de celle-ci.
+
+La papauté ne put imposer le respect des règles qu’elle avait édictées pour les transactions portant sur un droit de patronage.
+
+
+== Chapitre IV Les dîmes et leur appropriation par les laïques. ==
+
+I. – La dîme fut rendue obligatoire au viiie siècle, mais ce n’est guère avant le xie siècle que les chartes font connaître ses applications dans la pratique.
+Elle était perçue principalement sur les produits du sol.
+Dîmes prédiales et personnelles.
+Menues dîmes et grosses dîmes.
+Taux.
+Perception.
+Des accords spéciaux intervenaient entre les décimateurs.
+Il y eut fréquemment refus d’acquitter la dîme de la part des religieux.
+
+II. – Dès l’époque carolingienne, les particuliers’emparèrent des dîmes.
+Leur appropriation fut sans doute en rapport avec la propriété des églises.
+Condamnation portée contre les laïques qui tenaient des dîmes.
+Ceux-ci les donnèrent assez volontiers aux établissements ecclésiastiques.
+Intervention de l’évêque et du décimateur.
+Les dîmes laïques n’en demeurèrent pas moins très nombreuses.
+
+
+== Chapitre V Les églises incorporées et le personat. ==
+
+Jusqu’au xie siècle, les droits des établissements ecclésiastiques sur leurs églises ne différaient pas de ceux des laïques.
+A partir de ce siècle seulement, on peut parler d’incorporation et elle fut en rapport dans la province de Reims, avec l’institution du Personal qui doit être rapprochée de la distinction entre l’altare et l’ecclesia.
+Le persona est attaché à l’autel.
+Il a la cure d’âmes et paraît être le desservant.
+Au xiiie siècle, on distingue le persona du prêtre paroissial.
+Origine de cette distinction.
+Eglises tenues sub personatu.
+Les établissements ecclésiastiques tenaient leurs églises sub personatu ou sine persona.
+Les intercesseurs ecclésiastiques.
+
+
+== Chapitre VI La nomination du desservant. ==
+
+Intervention de l’évêque.
+Incorporation sine persona.
+L’évêque conférait la cura animarum au candidat idoine présenté par le patron ecclésiastique.
+Le desservant était encore révocable au xiie siècle, mais de plus en plus il semble irrévocable.
+Les établissements ecclésiastiques obtinrent de placer des membres de la communauté à la tête de certaines de leurs églises.
+Ce n’est pas encore cependant l’incorporation pleno jure qui est très rare au xiiie siècle.
+Institutio du desservant.

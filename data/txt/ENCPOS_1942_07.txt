@@ -1,0 +1,142 @@
+identifier: ENCPOS_1942_07
+creator: Alfred Cordoliani
+date: 1942
+title: Les traités de comput ecclésiastique de 525 à 990
+
+
+
+== Avant-propos ==
+
+
+
+
+== Sources – Bibliographie ==
+
+
+
+
+== Introduction ==
+
+Le terme de comput ne désigne pas seulement, au Moyen Age, l’ensemble des procédés permettant de fixer à l’avance la date de Pâques ; il englobe un certain nombre de connaissances qui relèvent aujourd’hui de la science astronomique.
+Computus équivalait à l’expression ratio temporum.
+
+C’est la coutume qui, durant les premiers siècles de la Chrétienté, a fixé les règles auxquelles doit satisfaire la fête de Pâques ; en 525, Denys le Petit les a codifiées et appliquées à la composition de la table pascale qui devait bientôt remplacer les divers cycles précédemment en usage.
+
+
+== Chapitre premier le comput ecclésiastique aux vie et viie siècles. ==
+
+I. Controverses en Gaule et en
+    « Bretagne ». – L’observance irlandaise : survivances de la doctrine de Victorius jusqu’au début du viiie siècle.
+Conflit entre Columban et les évêques de Gaule.
+Le manuscrit 334 de la bibliothèque de Tours permet l’identification d’un opuscule de Columban, le De sollempnitatibus.
+En
+    « Bretagne », des lettres en faveur de l’observance romaine représentent seules la littérature née de la lutte avec la doctrine irlandaise.
+
+Faux écrits irlandais répandus au vie siècle : Actes du concile de Césarée, Tractatus sancti Athanasii, Epistola Cyrilli, Liber Anatoli.
+
+II. Traités de comput composée en Italie, en Espagne et en Gaule. – a) En Italie.
+Computus pascalis de Cassiodore. – b) En Espagne.
+Fragments des Etymologiae d’Isidore de Séville.
+Lettre du moine Léon à l’archidiacre Sesuldus.
+Le manuscrit de Paris, nouv. acq. lat. 2169, contient un troisième traité espagnol du viie siècle, le Computus Cottonianus. – c) En Gaule.
+Comput mérovingien de 727.
+Comput dionysien de 737.
+
+
+== Chapitre II Le « de temporum ratione » de Bède. ==
+
+I. Traités de comput de Bède. – Deux traités : le De temporibus liber (703) et le De temporum ratione (725), auxquels il faut joindre deux lettres, l’une sur le bissexte, l’autre sur l’équinoxe et adressée au prêtre Wichreda.
+Le De temporum ratione base de la connaissance du comput ecclésiastique au Moyen Age.
+
+II. Doctrine de Bède. – Explication et vulgarisation de la doctrine dionysienne, avec adjonction de quelques procédés pratiques comme la pagina regularis ou les litterae punctatae.
+Pressentant les erreurs du cycle de dix-neuf ans, Bède n’a pas voulu admettre que les Pères du concile de Nicée se soient trompés.
+
+III. Sources du
+    « De temporum ratione ». – Comme dans tous les ouvrages contemporains, larges emprunts – dont tableau – à l’Écriture et aux Pères de l’Église.
+Connaissance des écrivains de l’Antiquité latine et surtout de Pline l’Ancien.
+Sans contester l’authenticité des faux écrits irlandais du vie siècle, Bède suppose une altération des versions alors répandues et explique ainsi les divergences du comprit irlandais avec la doctrine de Denys le Petit.
+Fréquente identité de textes entre les argumenta formulés par Bède et les Argumenta paschalia de Denys le Petit.
+
+IV. Traités faussement attribués à Bède. – Le De ratione computi, traité de forme catéchétique daté de 771 et contenu dans le manuscrit de Paris, latin 4860. – Libellus de anno. – Extraits des Sententiae in laude compati.
+
+V. Commentaires sur le
+    « De temporum ratione ». – Commentaire du xie siècle faussement attribué à Byrhtferth de Ramsey. – Version en vers rythmiques dans le manuscrit du Vatican, Palat. lat. 1448. – Commentaires perdus de Ramnulf d’Avignon.
+
+
+== Chapitre III Les traités de la Renaissance carolingienne. ==
+
+I. Prescriptions du pouvoir central. – Les capitulaires.
+Le Pro ratione lunae pascalis d’Adalart de Corbie n’est que le compte-rendu des débats de l’assemblée de 809.
+
+II. Les œuvres d’Alcuin et de Raban Maur. – Doctrine opposée, sur la question du saltus lunae, aux pratiques des Alexandrins suivies par Bède.
+La forme catéchétique l’emporte avec Raban Maur.
+Apparition de deux éléments nouveaux : regulares majores et regulares minores, termes des cinq fêtes mobiles.
+
+III. Le comput d’Helpéric. – Tradition manuscrite : problème de l’annus presens.
+Quoique disciple de Bède, Helpéric est le premier à constater les erreurs du cycle de dix-neuf ans aux années 8, 11 et 19. 
+
+IV. Les petits traités. – École du Palais : Dicuil, – École de Saint-Gall : le Comput de Wichram et le De quattuor questionibus compoti de Notker III. – Les traités en vers : Walafrid Strabon, Wandalbert de Prüm, Agius de Corvey. – Traités perdus.
+
+V. Vue d’ensemble sur la littérature du comput ecclésiastique. – La période carolingienne est marquée par un double courant : diffusion et prépondérance de la doctrine de Bède ; modification de la forme des traités dans un sens plus pratique, les développements théoriques faisant place aux argumenta.
+
+
+== Chapitre IV Les encyclopédies carolingiennes de comput. ==
+
+I. Compilation d’astronomie et de comput de 819. – Encyclopédie en sept livres qui se présente sous deux versions différentes dans les manuscrits nouv. acq. lat. 456 de Paris et latin 210 de Munich.
+Extraits dans de nombreux manuscrits du ixe siècle.
+Les livres 1-4, consacrés au comput, sont constitués par une série d’argumenta avec quelques extraits du De temporum ratione.
+Datation à peu près certaine, malgré les variantes des manuscrits.
+
+II.
+    « Sententiae in laude compoti. » – Encyclopédie du début du ixe siècle, dont les manuscrits 334 de la bibliothèque de Tours et 102 de la bibliothèque de Chartres présentent deux versions différentes, mais incomplètes ; le manuscrit 448 de la bibliothèque de Dijon semble contenir un texte intégral.
+Caractère théorique assez marqué ; très nombreux emprunts à Isidore de Séville.
+
+III.
+    « Computus Grecorum sive Latinorum. » – Il n’existe pas, à proprement parler, d’encyclopédie portant ce titre sous lequel on réunit un certain nombre de recueils d’argumenta, qui commencent tous par la Computatio Grecorum sive Latinorum, petit texte du viiie siècle.
+Le plus ancien de ces recueils est dans le manuscrit de Paris, latin 7569.
+Groupement en deux familles A et B, selon la nature des argumenta particuliers à chacun de ces recueils.
+Tableau des argumenta les plus fréquents.
+Etude du manuscrit 70 de l’Ambrosienne de Milan qui renferme un recueil très complet du type B.
+
+
+== Chapitre V Les premières corrections des tables de Denys le petit. ==
+
+Entre 990 et 1020, le point de départ de l’ère chrétienne est mis en question et les calculs de Denys le Petit discutés.
+Deux systèmes de correction : en France celui d’Abbon de Fleury, en Allemagne celui d’Hériger de Lobbes ; l’ère chrétienne doit être avancée de vingt et une années, selon le premier, retardée de sept années, selon le second.
+
+
+== Chapitre VI Le comput manuel. ==
+
+Procédé de numération sur les doigts qui fut très utilisé en arithmétique : témoignages des auteurs latins.
+Au Moyen Age, on compta les nombres sur les articulations des phalanges : étude du chapitre I du De temporum ratione.
+
+Bède a le premier appliqué au calcul des temps le comput manuel qui, du viie au xe siècle, a servi pour déterminer l’année du cycle lunaire, celle du cycle solaire et le terme de Pâques.
+Aux xie et xiie siècles, le procédé deviendra partie intégrante du comput ecclésiastique et prendra même, dans les traités, la place des argumenta de l’époque carolingienne.
+
+
+== Conclusion ==
+
+ 
+
+
+== Appendice I ==
+
+
+=== Catalogue des manuscrits du fonds latin de la bibliothèque nationale de Paris contenant des traités de comput antérieurs a 1100. ===
+
+Notices de cinquante-six manuscrits, donnant pour chacun d’eux la description extérieure, l’incipit et l’explicit des traités de comprit, l’indication des éditions, la mention des notes et tableaux de comput.
+
+
+== Appendice II ==
+
+a) Liste alphabétique des traités de comput composés entre 525 et 990, avec bibliographie.
+
+b) Index des incipits.
+
+c) Liste alphabétique des notes, pièces de vers et argumenta.
+L’ordre alphabétique est celui des incipits et non celui des titres.
+
+
+== Table des noms propres recueil de planches ==
+
+

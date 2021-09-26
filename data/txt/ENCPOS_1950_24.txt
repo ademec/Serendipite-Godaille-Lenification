@@ -1,0 +1,110 @@
+identifier: ENCPOS_1950_24
+creator: Pierre Rollet
+date: 1950
+title: L’Embrunais du xie au xiiie siècle
+
+
+
+== Introduction et Bibliographie ==
+
+
+
+
+== Chapitre premier histoire de l’Embrunais. ==
+
+Aperçu chronologique de l’histoire embrunaise depuis les origines jusqu’au xe siècle.
+Pour la période qui s’étend du xie au xiiie siècle, analyse plus développée des événements politiques.
+Les caractéristiques de cette époque sont : la disparition progressive de la féodalité, l’ascension des classes bourgeoises, l’équilibre, puis la lutte entre la puissance delphinale et la puissance archiépiscopale (xiiie siècle), enfin la décadence des libertés locales et le triomphe de la noblesse (deuxième moitié du xiiie siècle).
+
+
+== Chapitre II Géographie historique. ==
+
+Discussion sur les limites du comté ; thèse opposée à celle de Manteyer par interprétation différente du testament d’Abbon et de la Vie de sainte Thècle.
+Les limites nord-est du comté rapportées, conformément à la plus ancienne tradition, au Pertuis-Rostaing.
+Délimitation géographique de tout le comté au début du xiiie siècle.
+
+
+== Première partie Les institutions ==
+
+
+=== Chapitre premier les institutions féodales. ===
+
+Les origines de la première féodalité embrunaise (immunité, bénéfices, usurpations) qui disparaît avec les invasions sarrasines.
+Une nouvelle féodalité s’élabore à la fin du xe siècle, caractérisée par la dispersion des fiefs.
+Elle est à son origine bien plus une subordination des personnes que des terres ; la forme classique de la féodalité n’apparaît qu’à la fin du xiie siècle, et cet état de choses favorise le maintien des alleux.
+Au xiiie siècle, l’emprise seigneuriale des dauphins normalise le régime féodal ; la subordination des terres est alors de règle.
+Les principaux éléments du contrat féodal.
+
+
+=== Chapitre II L’administration seigneuriale. ===
+
+Il n’y a pas d’administration réglée avant la fin du xiie siècle.
+A cette époque apparaît un organe central réunissant tous les pouvoirs.
+Avec le xiiie siècle, une différenciation intervient entre pouvoir administratif et pouvoir judiciaire ; en même temps se créent les administrations locales.
+A la fin du siècle, les divers organismes administratifs et judiciaires reçoivent leur plein développement.
+Les seigneurs locaux ont également leur administration personnelle ; le plus souvent, ils exercent leur pouvoir par voie d’agents communs.
+Les règles qui présidaient au choix des agents seigneuriaux.
+
+
+=== Chapitre III Les institutions judiciaires. ===
+
+Les origines des institutions judiciaires.
+Leur évolution depuis les plaids comtaux du xie siècle jusqu’aux cours permanentes du xiiie siècle.
+Avec le développement des institutions s’établit une hiérarchie entre les diverses justices : à la base, le tribunal local ; au sommet, le tribunal du seigneur.
+
+Les caractéristiques des institutions judiciaires embrunaises sont : la non-participation des vassaux à la distribution de la justice, la présence précoce de juges spécialisés, l’intervention comme assesseurs des représentants urbains.
+Parallèlement à l’organisation des tribunaux, le droit et la procédure ont évolué, perdant peu à peu leur caractère barbare.
+Dès le milieu du xie siècle, la procédure écrite l’emporte sur les ordalies ; au xiie siècle, l’appel fait son apparition.
+Si le droit romain est de plus en plus, au xiiie siècle, le droit commun, il y a cependant quelques survivances barbares et surtout des interprétations erronées du droit de Justinien.
+
+
+=== Chapitre IV Les institutions financières. ===
+
+Les ressources seigneuriales sont d’origine régalienne, féodale et domaniale.
+Les revenus régaliens sont essentiellement les auberges, les lesdes, les banalités, les bans, les péages, les droits de justice.
+Les revenus féodaux se divisent en : tasches, aides, lods et ventes, dîmes laïques, corvées.
+Les revenus domaniaux sont nombreux parce que les seigneurs ont retenu les forêts et les pâturages.
+La nature, le mode de perception et l’évolution de chacun de ces droits.
+
+
+=== Chapitre V Les institutions municipales. ===
+
+L’association entre habitants d’une même cité ayant certains objectifs bien déterminés est à l’origine du mouvement municipal.
+Évolution des consulats depuis leur constitution à la fin du xiie siècle jusqu’au début du xive siècle.
+Il faut distinguer trois sortes de consulats selon le degré de liberté politique dont ils jouissent.
+Caractères communs à tous les consulats : les consuls, les conseillers (choix, nombre, rôle) et les Assemblées générales qui sont d’une grande importance dans l’Embrunais.
+Décadence de l’institution dans la seconde moitié du xiiie siècle.
+
+
+=== Conclusion ===
+
+
+
+
+== Deuxième partie Études particulières ==
+
+
+=== Chapitre premier histoire d’Embrun (xie-xiiie siècle). ===
+
+L’origine des mandements et des consulats.
+Explication des troubles politiques et sociaux qui jalonnent la vie de la cité au xiiie siècle.
+
+
+=== Chapitre II Tableau féodal de l’Embrunais. ===
+
+Tableau dressé par mandements des destinées politiques de chaque localité ; étude des institutions politiques de chacune d’elles.
+
+
+=== Chapitre III Exemple d’institutions sur les terres archiépiscopales. ===
+
+Étude de la localité de Châteauroux, montrant l’importance du pouvoir archiépiscopal dans tous les domaines et l’absence des libertés municipales. 
+
+
+=== Chapitre IV Possessions domaniales des seigneurs et des communautés. ===
+
+Complément à l’étude des institutions financières, montrant l’importance des propriétés seigneuriales et des biens communaux.
+
+
+== Preuves, cartes ==
+
+

@@ -1,0 +1,193 @@
+identifier: ENCPOS_1935_09
+creator: George B. Flahiff
+date: 1935
+title: Le bref royal de prohibition aux cours d’église en Angleterre (1187-1286)
+
+
+
+== Introduction ==
+
+
+
+
+== Sources manuscrites ==
+
+
+
+
+== Bibliographie ==
+
+
+
+
+== Première partie Généralités sur le bref de prohibition ==
+
+
+=== Chapitre préliminaire l’organisation judiciaire de l’Angleterre a la fin du xiie et au xiiie siècle. ===
+
+1° Les cours royales. – La curia regis est l’héritière à la fois du Witenagemot anglo-saxon et de la curia normande.
+Elle se développe particulièrement sous Henri II Plantegenet, commençant même à ce scinder en « banc » de Westminster et en cour suivant le roi.
+Des juges de l’une ou l’autre cour font des tournées judiciaires dans les comtés.
+Dès le règne d’Edouard Ier, la division entre les deux branches de la curia regis est nette : le « banc » de Westminster devenant cour de
+    « Plaids communs », et la cour suivant le roi étant désormais appelée le « banc du roi ».
+En principe, ce dernier seul a le droit de délivrer les brefs de prohibition ; mais, pour la commodité des justiciables, les
+    « Plaids communs » en délivrent également.
+
+2° Les cours ecclésiastiques.
+
+a) La province. – L’archevêque juge les appels des décisions rendues par les évêques de la province.
+Au moins dès la fin du xiiie siècle, le métropolitain de Cantorbéry connaît également des causes en première instance et en appel, comme legatus natus du Saint-Siège en Angleterre.
+Telle est l’origine de la « cour des audiences », présidée bientôt par l’official de l’archevêque (à Sainte-Marie-des-Arches à Londres) et la « cour de la chancellerie » d’York.
+Le synode provincial jouit également d’une compétence judiciaire, surtout pour les causae minores.
+
+b) Le diocèse. – La cour de l’évêque connue sous le nom de « cour du consistoire » est présidée par l’official, qui n’apparaît nettement et partout qu’à partir du milieu du xiiie siècle.
+Au cours des visites épiscopales, la justice est rendue également.
+Dans chaque diocèse, il existe de nombreuses personnes exemptes de la juridiction de l’ordinaire : tels sont les établissements monastiques, chapitres exempts, hospitaliers, croisés, universités, chapelles royales, etc... 
+
+c) Les juridictions inférieures : archidiacre et doyen. – Au xiiie siècle encore, le pouvoir de l’archidiacre reste considérable, tandis que celui du doyen est bien diminué.
+
+d) Les juges délégués. – Les juges délégués par le Saint-Siège non seulement examinent les procès en dernier ressort, mais encore en premier ressort.
+Leur activité est grande à partir de la fin du xiie siècle.
+D’après Guillaume de Drogheda, en 1239, le recours à Rome en première instance est devenu la règle normale ; mais la pratique révèle que ces cas ne sont pas constants, sauf en ce qui concerne les réguliers.
+
+
+=== Chapitre premier le bref de prohibition. Définition et classification. ===
+
+1 " Définition du bref de prohibition. – La prohibition est un bref interdisant à un tribunal de procéder dans une action intentée devant lui, sous prétexte que cette action relève de la justice royale.
+Quand on ne défère pas à la prohibition, une poursuite judiciaire en résulte.
+Le bref de prohibition s’entend normalement du bref qui vise les cours spirituelles.
+
+2° Classification. – Brefs de cursu (dont la forme est rédigée à l’avance et qu’on n’a qu’à demander) et brefs de precepto (bref d’espèce nécessitant une intervention spéciale auprès de la cour du roi).
+Tantôt le roi revendique la connaissance de l’affaire prohibée parce que lui seul est compétent, tantôt il empêche une affaire vraiment spirituelle qui, le cas échéant, pourrait nuire à sa « couronne et dignité ».
+Suivant la matière, le bref porte le titre de laico feodo, de advocatione (patronage), de catallis et debitis que non surit de testamento vel matrimonio.
+Ces trois sortes appartiennent à la catégorie des brefs de cursu.
+Les brefs de precepto ne se prêtent pas à une classification distincte par matière.
+
+
+=== Chapitre II Attitude du roi et de l’église a l’égard du bref de prohibition. ===
+
+
+==== 1° attitude générale du roi et de l’Eglise. ====
+
+Le roi revendique le droit d’interdire toute action en cour d’Eglise paraissant relever de sa juridiction et le droit de déterminer la juridiction compétente.
+Si on n’obtempère pas à la prohibition, le roi poursuit le récalcitrant.
+
+L’Eglise reconnaît le droit pour le roi de prohiber toute action lorsque celle-ci est abusive.
+Elle n’admet pas l’intervention du roi quand la cause lui paraît relever de sa juridiction spirituelle ou quand le bref, régulier en la forme, est abusif au fond, parce que le demandeur du bref a présenté le procès ecclésiastique sous un faux jour.
+Elle se défend au moyen des peines spirituelles (excommunication et interdit) dont elle dispose.
+Grosseteste paraît même contester le droit de prohibition par le roi.
+
+
+==== 2° les conflits d’opinion entre le roi et l’Eglise. ====
+
+Dans le traité De legibus et consuetudinibus Anglie de Glanville (1187), apparaît la première mention du terme « bref de prohibition ».
+Mais l’origine de ce bref est un peu antérieure et remonte probablement aux années 1164-1170.
+Il faut attendre l’épiscopat de Grosseteste, en 1235, pour voir précisée d’une manière officielle l’opposition de l’Eglise.
+La crise de 1246-1247, provoquée par l’empereur Frédéric II et manifestée en France par la lutte des seigneurs de l’Ouest (notamment Pierre Mauclerc) contre les empiètements ecclésiastiques, aurait incité, selon Mathieu de Paris, le roi Henri III d’Angleterre à élargir le domaine du bref de prohibition.
+Au cours de la période de la « réforme des barons » (1257-1261), l’Eglise formule, aux conciles de Londres (1257), de Merton (1258) et de Lambeth (1261), de nombreux griefs dont la plupart concernent le bref de prohibition.
+L’avènement de Peckham à l’archiépiscopat de Cantorbéry (1279) marque le début d’une série de plaintes.
+Une tension entre le pouvoir royal et le pouvoir ecclésiastique en résulte et devient tout à fait aiguë en 1285.
+Le bref Circumspecte agatis, définissant les limites des deux juridictions, apporte un apaisement.
+
+
+=== Chapitre III Limites de la juridiction ecclésiastique et de la juridiction royale. ===
+
+
+==== 1° compétence ratione personae. ====
+
+a) Les clercs. – La question de cette compétence ne se pose guère en ce qui concerne les clercs vis-à-vis du bref de prohibition.
+
+Au criminel, le clerc relève de la juridiction ecclésiastique.
+Toutefois, vers le milieu du xiiie siècle, la justice séculière revendique le droit de statuer au préalable sur la culpabilité du clerc et elle ne laisse la cour d’Eglise poursuivre le clerc que si elle a reconnu sa culpabilité.
+Mais l’Eglise ne reconnaît pas ce droit et permet la poursuite contre l’officier qui ose procéder à l’arrestation du clerc, ce qui donne fréquemment lieu à un bref royal de prohibition.
+
+Au civil, le clerc n’est pas justiciable de la juridiction ecclésiastique en matière immobilière, selon la nature des affaires ; les procès au sujet de contrats ou de dettes entre clercs, qui relèvent, au début du XIIIe siècle, du for spirituel, sont visés par le bref de prohibition vers le milieu du siècle.
+
+b) Les autres personnes. – On ne voit guère, dans les textes relatifs au bref de prohibition, apparaître les autres personnes qui, en France, jouissent à la même époque du privilegium fori.
+Quelques textes cependant montrent que les croisés jouissent de ce privilège, même pour les contrats civils.
+
+
+==== 2° compétence ratione materiae. ====
+
+Le roi ne se sert nullement du bref de prohibition au sujet de l’administration intérieure de l’Eglise (offices religieux, ordinations, institution canonique, etc.), sauf en ce qui concerne le droit de présentation à un bénéfice (advocatio), au moins à partir de Henri II. L’Eglise anglaise, à la différence du reste de la chrétienté, admet la compétence de facto du roi.
+
+La propriété ecclésiastique relève du for spirituel, mais au xiiie siècle la qualité de franche-aumône exempte est resteinte aux seuls lieux consacrés.
+
+Le roi ne conteste pas la juridiction exclusive de l’Eglise en matière de dîmes, d’oblations, etc., exception faite lorsque les procès à leur sujet risquent de porter préjudice à la consistance du droit de patronage.
+
+Selon une règle constante, les causes matrimoniales et testamentaires ressortissent à la juridiction ecclésiastique, à moins qu’il ne s’agisse d’immeubles.
+L’Eglise réclame la juridiction quand on a confirmé un engagement par un serment.
+Ceci permettrait une extension considérable de la compétence ecclésiastique en matière de dettes et de contrats, mais le roi s’y oppose au moyen du bref de prohibition en n’admettant pas que le serment change quoi que ce soit à la compétence royale en matière de catallis et debitis que non sunt de testamento vel matrimonio.
+
+L’Eglise seule connaît de la correction des péchés (diffamation, parjure, etc.), mais ne doit pas infliger de peine pécuniaire, bien que le bref Circumspecte agatis paraisse accorder même ce dernier droit.
+
+
+== Deuxième partie Fonctionnement du bref de prohibition ==
+
+
+=== Chapitre premier avant la poursuite en cour du roi. ===
+
+La fin du xiie et le xiiie siècle représentent une période très importante dans le développement de la procédure anglaise, qui est étroitement mêlée à la question du fonctionnement du bref de prohibition.
+
+1° La demande et l’expédition du bref. – – Le défendeur en cour d’Eglise voulant faire interdire le procès intenté contre lui sollicite personnellement des justiciers royaux un bref de prohibition.
+Celui-ci est délivré au nom du roi sans examen préalable.
+Le bénéficiaire du bref remet lui-même la prohibition au demandeur et aux juges ecclésiastiques.
+La cour d’Eglise est tenue de surseoir immédiatement à la continuation de l’instance. 
+
+2° La réception du bref en cour d’Eglise. – La cour ecclésiastique peut adopter trois attitudes différentes : ou bien abandonner complètement l’affaire ; ou bien en référer aux justiciers royaux pour savoir si la cause relève ou non de sa juridiction (consultatio) ; ou bien ne pas obtempérer à la prohibition.
+Dans cette dernière éventualité, les juges seront cités devant la cour du roi, en vue de donner les raisons pour lesquelles ils ont passé outre à l’injonction royale.
+Tel est le cas normal.
+
+3° L’action en cour d’Eglise en cas de fin de non-recevoir à la prohibition. – Le procès ecclésiastique se poursuit.
+Si le défendeur ne comparaît pas, il est l’objet d’une triple monitio canonique, suivie, le cas échéant, de l’excommunication.
+La cour d’Eglise a souvent recours au stratagème qui consiste à excommunier le défendeur uniquement pour l’empêcher de poursuivre en cour du roi le demandeur ou les juges, car l’excommunié ne peut pas ester en justice, même temporelle.
+Le roi déjoue cette manœuvre en considérant l’excommunication comme frauduleuse et, partant, nulle.
+
+
+=== Chapitre II La poursuite en cour du roi. ===
+
+1° Le « process », qui est destiné à faire comparaître le ou les récalcitrants, comporte une série interminable de citations et de contraintes : summonitio, attachiamentum per vadium et plegios, per meliores plegios, habeas corpus, districtio per terras, bona et catalla, saisie réelle plus sévère, autre saisie encore plus sévère et finalement utlagatio (forbanissement). 
+
+2° La plaidorie (pleading) peut se composer de la narratio, de la responsio et de plusieurs répliques.
+La narratio est l’exposé de l’affaire par le demandeur en cour du roi (ancien défendeur en cour d’Eglise).
+Il doit offrir de prouver la véracité de son récit par secta.
+Il existe quatre sortes de responsiones par le défendeur en cour du roi, dont la plus fréquente est l’affirmation du caractère spirituel de la cause primitive.
+Le demandeur et le défendeur peuvent s’opposer des circonstances particulières, ce qui constitue, dans la procédure anglaise, des « exceptions ».
+
+3° Les preuves. – En règle générale, le fardeau de la preuve définitive incombe au défendeur, car le demandeur a déjà rapporté sa preuve au moyen de la secta.
+Les modes de preuves principaux sont : la vadiatio legis (serment avec des compurgatores, ordinairement au nombre de douze) et le jury de douze personnes du voisinage, dont l’usage devient de plus en plus fréquent.
+
+4° La sentence. – Le gagnant du procès est renvoyé sine die.
+Le perdant est mis soit in misericordia (paiement d’une sorte d’amende, au début à discrétion, puis, en fait, tarifée), soit in gaola (emprisonnement rachetable par une fine).
+Il a, en outre, à payer les dommages causés à son adversaire.
+Souvent les juges encouragent un accord privé entre les parties et, en ce cas, il n’y a pas de sentence.
+
+
+=== Chapitre III Les adversaires dans un procès relatif au bref de prohibition. ===
+
+1° Le demandeur. – Tous ceux qui sont cités en cour d’Eglise peuvent être demandeurs en cour du roi au sujet du bref de prohibition. 
+
+a) Les clercs demandeurs. – On est surpris de voir des clercs demandeurs, parce que leur démarche affaiblit la juridiction ecclésiastique.
+Aussi conciles et prélats prennent-ils des mesures contre cette pratique.
+
+b) Le roi demandeur. – Le roi poursuit tantôt dans son propre intérêt, quand un procès a été intenté à propos d’un droit le concernant directement, tantôt dans l’intérêt de l’ancien défendeur en cour d’Eglise.
+
+2° Le défendeur. – Il est la plupart du temps un ecclésiastique mais peut être aussi un laïc.
+
+3° Les « attorneys ». – Contrairement à ce qui se passe dans la procédure ordinaire, l’attorney, en se présentant à sa place dans tous les actes de la procédure, paraît ne pouvoir représenter que le demandeur du bref de prohibition.
+L’usage des attorneys est tout à fait courant au xiiie siècle.
+
+
+== Conclusion ==
+
+
+
+
+== Pièces justificatives ==
+
+
+
+
+== Appendice ==
+
+

@@ -1,0 +1,356 @@
+identifier: ENCPOS_1858_03
+creator: Alexandre Desplanque
+date: 1858
+title: Essai sur l’origine et l’organisation des états provinciaux dans la Flandre wallonne
+
+
+
+== Préambule. ==
+
+Qu’était-ce que nos états ?
+
+Comment fonctionnaient-ils ?
+
+A quelle date précise peut-on rapporter leur origine ?
+
+Quelles modifications subirent-ils dans leur tenue et leurs attributions sur une durée d’environ quatre siècles ?
+
+Autant de points qui correspondent aux divisions de cet Essai.
+
+
+=== I. Auteurs qui ont parlé des états de la Flandre walonne : ===
+
+Ce qu’en ont dit M.V. Derode (Histoire de Lille et de la Flandre walonne) ;
+
+Merlin (article Flandre, dans le Répertoire de Guyot, et alibi) ; 
+
+D’Expilly Dictionnaire des Gaules, article Flandre) ;
+
+J. Legroux la Flandre gallicane, ms. de la bibliothèque de Lille ; catalogue de M. le Dr Le Glay, n° 278 et suiv.) ;
+
+Depping Correspondance administrative de Louis XIF ; dans une note du t. 1) ;
+
+A. Taillandier Notice sur les pays d’états, dans l’Annuaire de la Société de l’Hist. de France, 1852) ;
+
+Van Hende Numismatique lilloise, 1858).
+
+Tous ces écrivains, à l’exception du dernier, ont suivi le Mémoire sur l’intendance de Flandre, dressé en 1693, par ordre du sr Du Gué de Bagnols, communément attribué à Denis Godefroy, B.I. (Fonds Mortemart, n° 103).
+
+Parti à tirer des nombreux factums et mémoires relatifs au procès des trois ordres dans le courant du xviiie siècle.
+
+
+=== II. Sources inédites de ce travail : ===
+
+1° A la Bibliothèque impériale (B.I.) :
+
+Les 180 Enans et les 182 Colbert.
+
+2° Aux Archives du Nord, à Lille (A.N.) :
+
+Dans le dépôt de la Chambre des comptes :
+
+La série des comptes et la collection des registres des chartes, commençant en 1358 .
+
+Dans le dépôt des intendances :
+
+Les 158 liasses de la Flandre walonne ;
+
+Les 92 registres de la même province.
+
+3° Aux Archives municipales, à Lille (A.L.) :
+
+Les 103 registres aux résolutions du magistrat, depuis 1442 jusqu’en 1795 ; 
+
+Les 9 registres aux résolutions des états, depuis 1566 jusqu’en 1754 ;
+
+Les 8 registres aux lettres reçues des députés des États, depuis 1739 jusqu’en 1768.
+
+Les 8 registres aux lettres écrites aux députés des états, durant la même période ;
+
+Les 8 registres aux actes d’accords d’aides et subsides par les états de Lille, Douai et Orchies, depuis 1622 jusqu’en 1789 ;
+
+4° Aux Archives de l’Empire (A.I.) :
+
+Les 37 liasses comprenant les papiers d’état du contrôleur général des finances (H 673 à 710).
+
+Le carton K 1165, contenant des documents relatifs à l’Histoire provinciale de la Flandre française.
+
+
+=== III. Actes émanés des souverains : ===
+
+La collection des édits et placards de Flandre : (Ordonnantien statuten edicten ende Placcasten Van Vlaederen Gend, 10 vol. in-fol.) La collection d’édits et arrêts du conseil de Vernymen et celle de Plouvain.
+Et la précieuse série des registres aux édits et arrêts de la bibliothèque des archives du Nord, à Lille, de 1640 à 1789.
+
+
+== Chapitre premier. Nature et composition des états. ==
+
+
+=== § I. Assemblée générale annuelle. ===
+
+L’Assemblée générale annuelle des états siégeant au conclave échevinal de Lille se divise en quatre membres ou administrations.
+
+Le premier membre comprend lui-même quatre officiers ou grands baillis, qui figurent au nom de quatre seigneurs haut-justiciers de la province.
+
+Le second membre comprend le corps presque entier du magistrat de Lille (rewart, mayeur, eschevins, conseil, huit hommes et conseillers-pensionnaires avec les greffiers.)
+
+Le troisième membre comprend deux députés du magistrat de Douai (ordinairement le chef et l’un des conseillers-pensonnaires) ;
+
+Le quatrième membre comprend deux députés du magistrat d’Orchies (ordinairement le mayeur et l’un des échevins).
+
+Les grands baillis sont à la nomination de leurs maîtres respectifs, sauf à la cour de viser leur mandat ; ils exercent leurs charges à titre d’offices, dont trois viagers et un seul héréditaire.
+Les trois magistrats se recrutent par le s voies d’une élection compliquée sous la surveillance de l’intendant, qui peut annuler le résultat et casser les électeurs.
+
+Conclusions fournies par ces données : – 10 Les quatre membres se constituent annuellement en corps d’état à l’exclusion formelle des deux ordres privilégiés. – 2° Dans nos états ainsi constitués nul ne siége à titre personnel ; tous y entrent à titre d’office – 3° La disposition de ces offices appartient en dernier résultat au roi, ce qui détruit les conditions d’une représentation réelle, effective. 
+
+Outre cela, les quatre S.H.J. qui ont le privilège de déléguer aux états appartiennent à la cour par leur naissance ou par leurs charges.
+
+Le premier se trouve être le roi en personne.
+
+Le second le duc d’Orléans.
+
+Le troisième le prince de Soubise.
+
+Le quatrième le comte d’Egmont-Pignatelli.
+
+
+=== § II. Assemblée particulière. ===
+
+L’Assemblée particulière des états, qui en est le bureau permanent, se tient trois jours de chaque semaine, dans une chambre séparée du conclave, sise également au palais de Rihour (ancien hôtel-de-ville).
+
+Cette assemblée particulière se compose des députés ordinaires, qui sont : 10 les quatre baillis des 4 S.H.J. – 2° quatre membres du magistrat de la ville de Lille.
+
+Les grands baillis ont, en outre, leurs assemblées privées dans une autre chambre du même local ; ils s’y enferment avec leurs deux conseillers-pensionnaires, leurs deux receveurs et leur greffier.
+Ce dernier a le privilège de tenir la plume aux assemblées générales annuelles, à l’exclusion de tous autres.
+
+
+== Chapitre II. Fonctionnement des états. ==
+
+
+=== § I. Leur ressort territorial. ===
+
+La Flandre walonne, circonscrite entre les provinces autrichiennes, l’Artois, l’Ostrevant, le Rainant et la Flandre maritime, n’a de limite naturelle qu’au N.-O., du côté de la Lys ; elle est arrosée à l’intérieur par la Scarpe, la Haute et Basse-Deûle, et par la Marque ; elle comprend trois villes principales et deux châtellenies.
+
+La châtellenie de Lille se divise, d’après l’habitude populaire, en cinq quartiers (Mélantois, Carembout, Weppes, Ferrain et Perèle), qui sont déterminés par le cours des rivières.
+
+La châtellenie de Douai forme une gouvernance distincte de celle de Lille.
+
+Administrativement les deux châtellenies se confondent en une seule, et se ramènent à quatre quartiers (Mélantois, Carembout, Weppes et Ferrain), dans chacun desquels est situé le fief principal de l’un des quatre S.H.J.
+
+Cet exposé géographique nous donne le secret de la composition des états : les trois derniers membres correspondent visiblement aux trois villes principales suivant leur ordre d’importance ; le premier membre correspond lui-méme à la châtellenie, et, comme il y a quatre quartiers dans celle-ci, il y a de même aux états quatre grands baillis qui les représentent.
+
+En dehors des quatre quartiers sont des terres et pays appartenant à la Flandre walonne qui échappent à la juridiction des états, à savoir : le pays de l’Allau et le bourg de la Goigne, les terres dites d’Empire et les terres franches, sans compter les nombreux enclaves des provinces voisines.
+
+La Flandre walonne se divise judiciairement en deux gouvernances ou souverains-bailliages et en trois subdélé gâtions.
+Au spirituel, elle est distribuée entre les deux diocèses d’Arras et de Tournay.
+Elle fait partie intégrante de l’intendance de Flandres et Artois et du gouvernement général de Flandres, dont Lille est le siége.
+
+Etendue territoriale et productions du pays, système de canalisation conçu et exécuté en partie sous le règne de Louis XIV.
+
+
+=== § II. Prérogatives des états. ===
+
+Les prérogatives des états sont communes aux quatre membres, ou particulières à chacun d’eux.
+
+La première de toutes, qui s’exerce collectivement par l’assemblée générale annuelle, touche à l’ordre politique, et consiste dans l’accord de l’aide.
+Les autres charges générales ou particulières sont consenties dans l’assemblée ordinaire, où se font aussi les abonnements.
+
+Une prérogative qui résulte du droit de voter l’impôt est celle de l’asseoir.
+Les rôles de l’assiette sont dressés par les états sous la surveillance de l’intendant.
+
+3e Prérogative des états : Le droit d’opérer la perception.
+Les quatre membres exercent cette prérogative individuellement, ainsi que la précédente, bien qu’elle leur soit commune.
+
+La recette est en ferme ou elle est en régie ; d’une manière comme d’une autre, les fonds reviennent au trésorier des états.
+
+4e Prérogative, qui est aussi un devoir, celle de rendre les comptes par-devant l’intendant assisté de deux membres du bureau des finances.
+La reddition se fait dans la salle commune par les députés ordinaires, qui, ayant seuls la gestion quotidienne des affaires, sont les seuls responsables.
+
+5e Prérogative : Les états administrent la province, ils décrètent les charges locales, ils y subviennent au moyen d’impositions, manient les finances, promulguent dos ordonnances et règlements exécutoires dans toute l’étendue de leur juridiction.
+
+Ici commencent les attributions judiciaires des quatre membres, qui connaissent de toutes les causes relatives à l’assiette et à la perception de l’impôt, étant réservés certains droits des gouvernances et du bureau des finances.
+
+
+=== § III. Charges des états. ===
+
+Les charges des états sont de deux sortes, générales ou particulières : générales en tant qu’elles concourent directement ou indirectement à subvenir aux besoins du trésor ; particulières en tant qu’elles ont pour but de satisfaire à des nécessités locales.
+
+CHARGES GÉNÉRALES. Les charges générales qui concourent directement à subvenir aux besoins du trésor sont : l’aide ordinaire, l’aide extraordinaire avec le supplément. – La capitation double, triple, avec les 4 sous pour livre. – Les 3 XXes royaux, avec les 2 s. p. l. – L’abonnement du contrôle desactes, avec les 10 s. p. 1. – L’abonnement des courtiers-jaugeurs, des inspecteurs aux boucheries et boissons, avec les 10 s. p.l. – Les droits d’usage et nouvel acquêt, avec les 10 s. p. 1. – Les sous p. l. des octrois. – L’abonnement du denier César.
+
+Les charges qui concourent indirectement à subvenir aux besoins généraux du trésor sont : les étrennes et gratifications dues au gouverneur-général, à l’état-major, etc. – Les gages de la maréchaussée, des maîtres de poste. – L’entretien et l’habillement des milices. – Les travaux de fortifications. – La construction et ameublement des casernes, quartiers et pavillons. – La fourniture de fourrage à la cavalerie, de chariots, de chevaux de trait et de selle aux convois militaires.
+
+CHARGES PARTICULIÈRES. Percement et entretien des routes et canaux. – Conservation et ameublement du local des séances. – Honoraires et vacations des membres. – Gages du personnel des états. – Expédition des mandements et ordonnances. – Frais de formation et audition des comptes. – Frais de procédure. – Frais de la chambre de commerce. – Frais d’achat, de nourriture et entretien des étalons de la province. – École vétérinaire. – – Gages des médecins, sages-femmes et maîtres d’école. – Enfants trouvés. – Hôpitaux et maisons des pauvres. – Achat de blé et de riz dans les temps de famine.
+
+
+=== § IV. Ressources des états. ===
+
+Le chapitre des ressources correspond exactement à celui des charges.
+Les deux aides, ainsi que le supplément. s’acquittent au moyen de XXes qu’on assied sur les biens fonds.
+Les ecclésiastiques et les nobles sont admis à consentir cet impôt sur les seuls biens qu’ils occupent par eux-mêmes  : le reste de leurs propriétés demeure soumis aux charges communes des états.
+Il s’en faut, d’ailleurs, que les XXes soient réels, le transport ou cahier de 1601 ayant beaucoup vieilli.
+
+Les abonnements se perçoivent au bénéfice du roi, par les collecteurs des états, sur les objets qu’assignent les édits.
+
+Pour faire face au paiement des rentes, aux prestations et aux charges locales, les quatre membres recourent à des octrois qui se lèvent sur le vin, les bières, l’eau-de-vie et le tabac.
+
+Les baillis ont, en outre, des droits sur les briques, parpaings et moellons, sur les chaussées et pavés domaniaux.
+
+Les magistrats frappent d’impositions une quantité d’objets : bêtes à pieds fourchus, grains et farines, charbon de bois et de houille, poisson frais et salé, cuirs, etc.
+Ils perçoivent, en outre, des droits de vente, de péage, de petit scel.
+
+Indépendamment des octrois que les grands baillis lèvent sur la campagne, plusieurs communautés ont le privilége de s’imposer additionnellement.
+
+
+=== § V. Tenue des états. ===
+
+L’Assemblée générale des états se tient d’ordinaire en novembre ou décembre ; elle est remise quelquefois aux premiers mois de l’année qui fait suite.
+
+La session est de trois jours. 
+
+Le premier jour, les commissaires du roi (ordinairement le gouverneur et l’intendant) se transportent au conclave échevinal pour formuler la demande d’après les intentions de S.M. Le premier conseiller-pensionnaire répond qu’on résoudra promptement ; les commissaires se retirent.
+
+Le lendemain, les députés des quatre membres procèdent à l’accord des deux aides ; on rédige ensuite le mémoire inductif pour engager messieurs du clergé et de la noblesse à consentir le nombre voulu de XXes sur leurs biens privilégiés.
+
+Le troisième jour, les députés ordinaires se rendent, au nom de tout le corps, chez MM. les commissaires pour leur communiquer officiellement le résultat de la délibération de la veille, et déposer entre leurs mains le mémoire inductif, avec prière de le transmettre aux deux ordres.
+Le gouverneur et l’intendant reviennent à l’hôtel-de-ville, où sont convoqués, ce jour-là, les députés de la noblesse et du clergé.
+
+Ceux-ci prennent connaissance du mémoire inductif qui leur est présenté, et ils délibèrent aussitôt sur le consentement des XXes ; deux députés des ecclésiastiques et nobles sont ensuite introduits par le rewart dans l’assemblée des quatre membres : ils y apportent leurs offres, qui sont acceptées habituellement par les états.
+
+Le tout se termine par des remercîments aux commissaires du roi et par une gratification qui leur est allouée.
+
+Les séances ordinaires ont moins de solennité, mais elles fonctionnent activement, tandis que la réunion générale offre le spectacle d’un vain cérémonial.
+Les pré séances sont minutieusement déterminées dans l’une et l’autre assemblée.
+
+Il en est de même pour l’audition et perception des comptes.
+
+
+=== § VI. Relations administratives des états. ===
+
+Les états correspondent du côté de la cour avec le ministre secrétaire d’État de la province et le contrôleur général des finances, avec ou sans l’entremise des commissaires du roi.
+
+L’intervention du gouverneur général est limitée aux seuls objets concernant la milice et la défense.
+L’intendant, ayant la triple direction de la police, justice et finances, se mêle journellement au fonctionnement de nos états : pas une affaire d’administration qui ne lui soit renvoyée par la cour et sur laquelle il ne prononce en dernier ressort, toujours sous le couvert du roi
+
+Les états sont en relation du côté de la province avec les principaux corps constitués.
+Ils font cause commune avec le parlement de Douai pour le rachat des édits que celui-ci a le privilège d’enregistrer ; ils ressortissent en outre de cette cour souveraine pour le contentieux administratif, lorsque les causes toutefois ne sont pas évoquées au conseil d’Etat.
+
+De nombreux conflits de juridiction mettent continuellement aux prises les quatre membres avee les gouvernances. – Relations des baillis avec le bureau des finances et les gens de loi des paroisses. 
+
+
+== Chapitre III. Origine des états. ==
+
+Nos états procèdent immédiatement des deux principes adverses qui partout se sont combattus, et puis, en Flandre, sont arrivés de bonne heure à se concilier : les communes et la féodalité.
+Nulle part les communes n’ont commencé plutôt, nulle part la féodalité n’a duré plus longtemps que chez nous.
+
+Comment nos communes vinrent-elles les première s de toutes à la liberté ?
+
+Le système romain et le système germanique sont également insoutenables.
+Le système de la concession bénévole des chartes communales par la famille d’Alsace préjuge d’un fait qui n’est pas démontré et qu’en toute hypothèse on place beaucoup trop bas dans l’histoire.
+
+Il faut admettre des concessions antérieures au douzième siècle, ou supposer des insurrections partielles dont nous avons perdu la trace et qui nous reporteraient bien au delà de cette date.
+
+Deux choses demeurent certaines : 1° la perpétuité du tiers en Flandre est une fable, l’ordre des bourgeois a pris naissance en même temps que les communes ; 2° les communes elles-mêmes ne sont entrées que fort tard aux assemblées générales de la nation.
+Excellentes idées émises à ce sujet dans la brochure de M. Ivon-Praet {De l’origine des communes flamandes et de l’époque de leur établissement, Gand, 1829), reproduite par M. Warkœnig (Histoire politique et législative de la Flandre au moyen âge, trad.
+Gheldall). 
+
+Pour venir aux trois villes de notre ressort, nous n’en trouvons qu’une seule, – la moins importante, – qui existe en vertu d’une concession authentique de Philippe d’Alsace.
+Les deux autres s’administrent elles-mêmes depuis un temps immémorial.
+La comtesse Jeanne en rédigeant la loi de Lille (1235) n’a fait que sanctionner un ordre de choses établi, universellement reconnu.
+
+Fonds commun de nos institutions municipales, d’après M. Tailliar (De l’affranchissement des communes dans le nord de la France).
+
+Les magistrats lèvent et ils répartissent la taille sur les bourgeois et habitants (année 1297-1381-1387), sans qu’il y ait trace dans les villes d’exemption en faveur des ordres.
+
+Ils ont le privilége de recevoir le serment des souverains (1286-1291-1304).
+
+Il ne leur manque pour faire états que de s’associer à la féodalité.
+
+L’association n’eut certainement pas lieu avant les premières années du xiie siècle.
+Discussion détaillée des événements de 1070, 1072, 1073, 1077, où l’on a cru remarquer l’intervention du tiers.
+Passé ce temps, on peut tout accorder, particulièrement au sujet du dramatique épisode de 1111-1112.
+
+Mais il y a loin de ces convocations extraordinaires des trois ordres à l’assemblée des quatre membres, telle que nous la connaissons.
+
+Jusqu’à présent sept villes, parmi lesquelles (Lille, Douai et Béthune), représentent le tiers-état du comté.
+La Flandre Walonne n’arrivera à posséder une organisation distincte que le jour où elle subsistera isolément.
+
+Il ne parait pas que Philippe le Bel, en l’unissant à la France, l’ait pourvue d’institutions libérales.
+Les aides, sous lui et ses successeurs, se lèvent d’office (Exemple 1360).
+
+Philippe le Hardi fit rentrer Lille et Douai sous l’autorité constale : il substitua Orchies à Béthune pour rétablir l’ancienne triade ; du reste il continua à « cueillir des aides » sur les châtellenies sans requérir le consentement de personne (1393, 1398).
+
+Les S.H.J. se montrent seulement au commencement du xive siècle (sous le duc Jean), comme les protecteurs et défenseurs du plat pays.
+Ils apparaissent en 1405, 1407, 1410 et 1413 ; leur droit est enfin reconnu par lettres de Jean-sans-Peur du 1eroct. 1414, qui forment le plus ancien titre desdits seigneurs.
+
+Comment arrivèrent-ils à cet insigne privilège ? comme seuls S.H.J.? comme chefs militaires du ban et de l’arrière ban, ou enfin comme principaux officiers de la couronne ?
+La dernière hypothèse semble la plus acceptable, étant basée sur des faits.
+
+
+== Chapitre IV. Variations dans la tenue et les attributions des états. ==
+
+
+=== § I. Variations dans la tenue. ===
+
+xve siècle.
+Accords de 1416, 1417, 1419, 1420, 1421, 1425, 1429, 1434, 1436, 1438, 1440, 1444, 1447, 1450, 1451, 1468, 1460, 1467, 1409, 1471, 1475, 1485, 1490, 1491, 1497.
+
+Il résulte du préambule et de la dépense de ces comptes, ainsi que des lettres de non-procédure y relatives, trois faits incontestables : 1° Depuis les fameuses lettres de 1414 jusqu’à la date extrême de 1497, le droit de consentir l’impôt appartient exclusivement aux quatre membres.
+Les quatre S.H J. eurent la faculté, dès cette époque reculée, de déléguer leurs baillis en leur lieu et place pour l’accord du subside demandé.
+
+2° Les états n’ayant encore pour objet que de consentir à l’impôt de sa nature extraordinaire, apparaissent et disparaissent d’une manière imprévue.
+
+Les baillis n’ont même pas de local affecté à leurs séances ; on les mande à la chambre des comptes, avec ou sans les magistrats des villes, toutes les fois qu’on a besoin d’un subside nouveau.
+
+3° Nulle proportion dans la quotité des secours : il en est qui rappellent la taille aux quatre cas et l’origine toute féodale de l’aide.
+
+A côté de l’assemblée des quatre membres, on découvre, durant le xve siècle, la trace de convocations exceptionnelles des trois ordres.
+Ceux-ci figurent dans les circonstances qui marquent la vie d’un peuple libre ; signature et ratification des traités de paix (1482-1488), inauguration des souverains (1483), etc.
+
+Jamais ils n’interviennent dans les accords d’aides, et c’est par là qu’ils se différencient profondément des vrais états de la province.
+
+xvie siècle.
+Le xvie siècle n’a rien changé à la com position des états, seulement il mit la règle et l’ordre où régnaient l’accidentel et l’imprévu.
+
+L’aliénation progressive du domaine, sous la maison d’Espagne, contraignit les souverains à rendre annuelles leurs demandes jusqu’alors insolites.
+
+La périodicité des requêtes détermina celle des convocations, qui devinrent en même temps générales ; il passa en principe qu’un des membres ne pourrait rien accorder sans le concours des autres (aide de 1521).
+
+Les réunions communes se tiennent dès lors dans la halle de Lille ; elles suivent habituellement la convocation des états généraux de Bruxelles, où les quatre membres ont le privilége de députer toutes les fois qu’il s’agit d’aides (1521, 1522, 1530, 1548).
+Lorsqu’il est question au contraire d’événements nationaux, les trois ordres continuent de figurer au compte des dix-sept provinces.
+Peu à peu les deux systèmes de députation finirent par se combiner ; il en résulta des conflits au sujet des préséances, comme en 1596, 1616, etc.
+
+L’énormité des demandes annuelles engagea les quatre membres à évoquer fréquemment les deux ordres dans leurs assemblées de la halle.
+Les ecclésiastiques et les nobles vinrent tant de fois consentir l’impôt qu’ils finirent par se croire portion intégrante des états ; il fallut leur fermer obstinément les portes pour sauver la possession.
+
+xviie siècle.
+Les choses se maintinrent sur le même pied jusqu’à la conquête française.
+Lorsqu’en 1667 Louis XIV eut mis Lille en demeure de se rendre, les baillis et magistrats se présentèrent seuls pour traiter avec le vainqueur ; ils obtinrent d’être maintenus par un article de la capitation dans leur droit traditionnel de consentir l’impôt.
+Les ecclésiastiques et les nobles n’ayant plus à députer aux états généraux de Bruxelles, après l’assujétissement de la province, perdirent toute leur importance politique et ils se trouvèrent réduits à une simple classe privilégiée ; ils s’indignèrent de la situation qui leur était faite et prétendirent entrer aux états ; alors commença (en 1694) le long procès des trois ordres.
+
+xviiie siècle.
+Le procès suspendu par arrêt provisoire du 1eraoût 1707 fut repris avec une ardeur nouvelle, en 1735, à la suite de l’affaire des bêtes à pied fourchu, et terminée par arrêt définitif du 17 janvier 1767.
+Les deux ordres, déboutés de leurs prétentions, essayèrent de renouveler le conflit : ils s’attirent un nouveau désaveu par arrêt du 3 mars 1780.
+Désormais leur stratégie consista à incriminer les vrais états, ne pouvant s’y introduire, et à solliciter de Louis XVI l’établissement d’une administration provinciale analogue à ce dont il dotait une partie de l’ancienne France.
+Des déchirements se produisirent à la même époque, au sein des états, entre les deux premiers membres (1762) ; la révolution trouva chez nous les esprits disposés au renversement de tout l’ordre établi.
+
+
+=== § II. Variations dans les attributions des états. ===
+
+Si, comme on croit l’avoir démontré, la tenue des états a peu ou point varié, si leur composition fut au premier jour exactement ce qu’on la vit sous Louis XV, leurs attributions, en revanche, se sont ajoutées les unes aux au très à des époques fort distinctes.
+La seule qui leur art constamment appartenu, la seule aussi qui ait été diminuée par la force majeure des choses, ce fut le droit à consentir l’aidé.
+
+Quant à la répartition, elle fut faite de tout temps par les trois magistrats pour leurs villes respectives, et anciennement pour la châtellenie par la chambre des comptes.
+Les grands baillis furent associés de bonne heure à ce dernier travail, et ils finirent par l’exécuter seuls sous le contrôle de deux maîtres des comptes qui visaient également le budget annuel des états.
+
+Lorsque les officiers de cette illustre cour se retirèrent devant les armes victorieuses de Louis XIV, ils fournirent aux grands baillis l’occasion d’agrandir leurs prérogatives.
+
+Le roi de France y mit ordre en substituant l’intervention de l’intendant à celle de l’ancienne chambre.
+
+Les grands baillis ont acquis le droit de faire des ordonnances en même temps qu’ils ont reçu le pouvoir de lever des octrois sur le plat pays ; cette autorisation leur fut accordée par Charles-Quint, en 1536, année qui fait date dans leur histoire ; ils eurent, à partir de ce moment, un siége fixe à Lille, un tribunal pour connaître des infractions à leur règlement, un personnel de receveurs et de gens de loi à leur service, une comptabilité régulière, etc.
+
+Ils devinrent les administrateurs de la province, d’intercesseurs qu’ils étaient auparavant ; enfin, ils obtinrent, en 1657, par une sentence du conseil souverain de Malines, de juger toutes les causes relatives au fait des impositions, contrairement aux droits antérieurs de la gouvernance.
+Louis XIV restitua à celle-ci la connaissance de tailles, d’aide, de faux frais et de mauvais dépens (arrêt du 12 janvier 1700) ; ce fut tout ce qu’elle put obtenir au même temps où ces compétiteurs acquéraient sur les deniers de la province le bailliage de la ville de Lille (17 mars 1793), pour l’exercer à tour de rôle.
+Ordonnateurs de toutes les mesures dans la campagne, dispensateurs de toutes les grâces, arbitres de tous les intérêts, possesseurs de tous les moyens de contrainte, juges dans leur propre cause, les grands baillis en sont venus à soulever contre eux les réclamations les plus fortes et les attaques les plus passionnées.
+Ecrasés par le poids de leurs rentes, discrédités dans l’opinion, ils furent entrelacés avec les magistrats des villes dans le gouffre où tout périt.
+
+Ainsi finit une institution qui, après avoir rendu à la province des services séculaires, s’égara dans les voies du monopole, au bout desquelles elle rencontra la haine et le mépris des peuples.
+Le temps n’est pas venu de la juger ; il suffira d’en avoir étudié, à un point de vue désintéressé, l’origine et l’organisation.

@@ -1,0 +1,243 @@
+identifier: ENCPOS_1988_04
+creator: Sylvain Bertoldi
+date: 1988
+title: L’architecture religieuse gothique des xve et xvie siècles dans l’ancien diocèse de Toul (Lorraine centrale et méridionale)
+
+
+
+== Introduction ==
+
+Les limites géographiques de cette étude ont été fixées à l’ancien diocèse de Toul et plus précisément aux quatre plus importants archidiaconés qui le composaient : ceux de Toul, de Port, de Vittel et de Vôge.
+Ces territoires correspondent sensiblement à l’actuel département des Vosges (avec une petite partie de la Haute-Marne, dans le Bassigny) et à la majeure partie du département de la Meurthe-et-Moselle.
+
+A l’intérieur de ce cadre, nous avons étudié le développement de l’architecture religieuse aux XV’ et xvie siècles, c’est-à-dire du style que l’on appelle « le flamboyant ».
+Etant donné les caractères de cette architecture et la période envisagée, nous avons préféré donner à notre étude un titre chronologique, plus général et donc plus adapté que les deux appellations traditionnellement usitées : le terme de « gothique flamboyant » est trop suggestif pour convenir à l’ensemble de nos monuments et celui de « gothique tardif », traduction de la dénomination employée par la recherche allemande, est imprécis dans le vocabulaire archéologique français, désignant tour à tour l’architecture de la fin du Moyen Age et la persistance des traditions gothiques aux xviie et XVIIIe siècles.
+
+
+== Sources ==
+
+Les dépouillements, entrepris de manière approfondie, ont été très fructueux.
+Aux Archives départementales de Meurthe-et-Moselle, ce sont les archives civiles qui forment l’ensemble le plus important, en nombre et en qualité.
+Les minutes notariales (série E) ont été exploitées exhaustivement à partir de leur date de conservation jusque vers 1560 (les plus anciennes remontent à 1434-1437, mais l’essentiel du fonds devient très riche à partir de 1500).
+Il en a été de même pour les comptes des receveurs généraux et pour une grande partie des comptes des receveurs particuliers (chambre des Comptes de Lorraine, série B).
+Le dépouillement des autres fonds (en particulier les séries G et H) a apporté un complément indispensable, auquel s’est ajoutée la consultation des fonds contemporains (série O).
+
+Ce sont les fonds ecclésiastiques (grandes abbayes vosgiennes, puissantes et nombreuses) qui se révèlent les plus riches aux Archives départementales des Vosges (série G et H).
+Pour le reste, nous avons mené aussi des dépouillements dans les séries anciennes comme dans les séries contemporaines et ce, jusque dans les années 1940.
+Cela nous a permis de bénéficier d’une documentation importante sur un grand nombre d’églises.
+Nous y avons joint les données des archives communales anciennes (série E dépôt).
+
+Les différentes collections de manuscrits conservées dans les départements concernés, ainsi qu’à Paris (Bibliothèque nationale, collection de Lorraine) ont par ailleurs livré d’intéressants documents.
+
+
+== Première partie Histoire de la construction ==
+
+
+=== Chapitre premier la lorraine aux XV” et xvie siècles ===
+
+L’histoire lorraine aux XV’ et xvie siècles peut se diviser en quatre périodes.
+Les contrecoups de la guerre de Cent ans, puis la guerre de « succession de Lorraine », terminée seulement après 1441, firent de la première moitié du xve siècle une période agitée où les ruines l’emportèrent sur les constructions nouvelles.
+Une légère accalmie se fit sentir vers le milieu du siècle.
+La menace bourguignonne et les guerres qui suivirent entravèrent un premier redressement.
+Après 1477, et surtout à partir des années 1480-1490, le pays connut une belle période pendant laquelle reprise économique, accroissement démographique et développement artistique furent synchrones.
+
+
+=== Chapitre II La construction ===
+
+L’ampleur de la construction à la fin du Moyen Age se traduisit, dans les limites géographiques données ci-dessus, par la reconstruction totale ou partielle d’environ trois cent cinquante édifices.
+Afin de mesurer au mieux l’ampleur de ce phénomène, nous y avons inclus les édifices disparus mais connus de source sûre pour avoir été élevés à cette époque, sans lesquels l’histoire de l’architecture d’une région ne peut être qu’imparfaite, et parfois faussée.
+La passion de rebâtir est à son plus fort niveau entre 1490 et 1530.
+
+Les églises réédifiées sont surtout des paroissiales, catégorie juridique d’édifices évidemment la plus importante, mais qui se partage en trois groupes : les églises paroissiales en titre, les annexes et les simples dépendances.
+Le mouvement de fondation de chapelles est considérable et multiforme, par les structures (simple autel, chapelle dépendant d’une église, chapelles autonomes et ermitages) comme par les statuts juridiques.
+
+Modalités et agents de la construction. – Il est vain de vouloir tout codifier en fonction du patron de l’église et des décimateurs : au contraire, les documents montrent une réalité changeante.
+Il ne faut pas confondre construction d’un nouvel édifice et réparations d’entretien.
+Les « règles » sont totalement différentes.
+Pour la construction, elles varient au gré des volontés particulières.
+
+Modalités des réparations d’entretien. – L’édifice une fois bâti, l’entretien du sanctuaire est en général à la charge du curé (s’il est décimateur), celui de la nef est financé par les principaux décimateurs et les habitants sont tenus à faire toutes les réparations du clocher.
+Dans le cas des églises annexes ou des simples dépendances, l’entretien complet de l’édifice repose sur les habitants.
+
+Conséquence de la multiplicité des agents de la construction. – Beaucoup d’églises sont très hétérogènes.
+
+
+== Deuxième partie Étude archéologique ==
+
+
+=== Chapitre premier volumes et structures ===
+
+Matériau et appareil. – Deux matériaux principaux, le grès et le calcaire se partagent la région étudiée.
+Il est plus difficile de parvenir à une grande finesse avec le grès, mais la différence de qualité dans le travail de la pierre tient beaucoup au savoir-faire du maçon.
+Chaque village possédait une ou plusieurs carrières de moellons et l’église était bâtie avec les pierres du lieu.
+Cela explique que la majeure partie des églises aient été bâties de moellons.
+Pour les monuments importants, comme Saint-Nicolas-de-Port ou la cathédrale de Toul, on employa la pierre de taille des carrières de Viterne, les meilleures de la région.
+En cas de travaux de prestige ou requérant une sculpture très fine, les carrières du Barrois fournissaient un matériau réputé, dont le duché de Lorraine n’avait pas l’équivalent.
+
+Orientation. – Sauf cas particuliers, les églises étudiées sont toujours normalement orientées.
+
+Le corps de l’édifice : nefs. – Le vaisseau unique se rencontre assez fréquemment dans l’architecture rurale.
+Son emploi n’est pas systématiquement conditionné par l’héritage d’un édifice roman.
+Nous ne pouvons signaler que deux édifices qui possèdent véritablement deux vaisseaux : l’un existe encore (Serécourt), l’autre a disparu (La Chapelle-aux-Bois).
+Une majorité d’églises est composée de trois vaisseaux.
+Des solutions très diverses ont été adoptées pour leur élévation.
+L’élévation à deux niveaux où les baies hautes sont séparées des grandes arcades par une large surface de mur nu eut assez de vogue dans les villes et les bourgs (Mirecourt, par exemple).
+En revanche, le type basilical à grandes fenêtres, très apprécié en Champagne, en Ile-de-France, à Paris..., n’a été adopté qu’à Saint-Nicolas-de-Port.
+A l’opposé de l’élévation à deux niveaux, le type de l’église-halle véritable, dont Varangéville est le meilleur exemple, a eu fort peu de succès.
+Si l’on trouve quelquefois ce que nous appelons la quasi-halle (lorsque le vaisseau central ne domine pas les bas-côtés de plus d’un mètre), la formule qui triompha vraiment est celle de la halle à vaisseaux échelonnés.
+Le vaisseau central reste obscur, mais domine les bas-côtés de un à trois mètres, parfois plus, se rapprochant alors du type basilical.
+
+Le transept. – La rareté des véritables transepts est digne d’être relevée.
+Mais, par une recherche contradictoire, on s’appliqua souvent dans les églises rurales à vaisseau unique à en obtenir l’effet par un pseudo-transept formé de deux chapelles accolées de part et d’autre de la dernière travée de la nef.
+D’une façon générale, le plan en croix latine était apprécié dans les campagnes.
+
+Les parties orientales. – Les parties orientales comportent les chœurs, les absides et les chevets (définitions des termes et des différents types d’absides, avec plans).
+
+L’absence de chœur est fréquente.
+Il est plus souvent intégré à l’abside, à la nef ou au transept.
+Dans bien des cas, il se confond avec le chevet : les chœurs à chevet plat sont encore très appréciés aux xve-xvie siècles, mais on ne peut s’en convaincre qu’en ajoutant aux édifices existants l’étude des édifices disparus.
+
+Les absides ne sont jamais très développées : la formule de l’abside voûtée à cinq pans d’octogone est la plus couramment usitée.
+Elle est rarement accompagnée d’absidioles, mais le prolongement des bas-côtés jusqu’à l’entrée du chœur encadre souvent l’abside, créant à l’extérieur l’illusion d’un chevet composé.
+
+Volumes extérieurs. – Les clochers impriment à la silhouette de l’église une grande partie de son caractère.
+Ils s’élèvent de préférence en hors-œuvre, devant la première travée de la nef : on affectionna beaucoup les clochers servant de porche.
+D’autres emplacements sont fréquents : la première travée de la nef ou d’un bas-côté.
+Le clocher sur la croisée du transept (ou travée de chœur) est abandonné au profit d’un emplacement latéral permettant de dégager la vue et l’espace vers le sanctuaire.
+Ils sont le plus souvent à deux étages, d’aspect si simple et si marqué par des réminiscences romanes qu’ils sont très difficiles à dater.
+Leur amortissement est en bâtière, en pavillon.
+C’est parfois une haute flèche de bois, mais jamais on ne les couronna de flèches en pierre (les flèches projetées de la cathédrale de Toul n’ont jamais été réalisées).
+
+La simplicité est également de mise pour les façades : lorsqu’elles ne comportent pas de clocher en hors-œuvre, elles sont très souvent couronnées par un pignon.
+La région comporte deux façades à deux tours d’un art très étudié : la façade de la cathédrale de Toul et celle de Saint-Nicolas-de-Port.
+La façade de S⁎-Gengoult de Toul est restée inachevée.
+
+Les porches et les auvents sont peu nombreux, mais beaucoup de petits auvents de bois ont disparu.
+
+Quant aux façades latérales, elles ne sont privilégiées, en dehors de celles de Saint-Nicolas-de-Port, que pour des raisons d’ordre topographique (ainsi Vézelise).
+Souvent toutefois, elles sont agrémentées de l’effet pittoresque obtenu par l’adjonction de chapelles.
+
+Bâtiments annexes. – Les chapelles sont de plan varié, le plus souvent rectangulaire ou carré, deux de leurs côtés profitant alors de l’appui des contreforts de l’édifice.
+Cependant, certaines furent édifiées avec plus de recherche, sur le modèle d’absidioles à cinq pans.
+
+Les charniers n’ont pas laissé de traces remarquables, à la différence de ceux du diocèse de Metz.
+
+Les cloîtres étaient nombreux dans le diocèse de Toul, qui en offre encore trois, de grand intérêt : ceux de Saint-Dié, de Froville et de la collégiale S⁎– Gengoult de Toul.
+Celui de l’abbatiale d’Épinal n’est plus connu que par des dessins.
+
+Les plans mis en œuvre et la combinaison des différents volumes autorisent une approche synthétique.
+
+
+=== Chapitre II Moulurations et décor : jeux d’ombre et de lumière ===
+
+Le voûtement. – La région étudiée a exclusivement employé le voûtement en pierre, dédaignant totalement les lambris de bois sculpté si prisés dans d’autres provinces de l’ouest et du nord de la France.
+Comme partout, on note la persistance de la simple croisée d’ogives, dont la caractéristique est d’être très bombée.
+Toutefois, l’apparition des voûtes à nervures multiples fut beaucoup plus précoce qu’en bien d’autres endroits : il s’en rencontre dès les années 1470.
+Elles sont même employées avant 1500 dans de petites églises rurales.
+Les édifices qui en sont entièrement couverts sont rares (Saint-Nicolas-de-Port, Varangéville...).
+Ce genre de voûte met surtout en valeur les parties orientales et les chapelles construites par des particuliers ou des confréries (Saint-Laurent de Pont-à-Mousson).
+On peut recenser une quarantaine de dessins différents, parfois très originaux.
+Les voûtes à nervures curvilignes ont été brillamment mises en œuvre à trois reprises.
+Toutes ces voûtes demeurent des voûtes constructives, appareillées à arêtes doubles ou triples suivant qu’il y a ou non des diagonaux. 
+
+La plastique murale : un art des pleins. – Les piles composées ou fasciculées sont presque ignorées, de même que la pile polygonale : les supports utilisés sont quasi uniformément des colonnes.
+Les grandes arcades ont, sauf exception, un tracé en arc brisé.
+Grandes arcades et nervures des voûtes sont reçues par pénétration ou sur des chapiteaux moulurés dont l’emploi persiste jusqu’au début du xvie siècle.
+Les percements sont peu généreux : la baie à deux formes est d’un emploi universel.
+Elle est souvent étroite, n’occupant jamais tout l’espace compris entre les supports.
+Chaque édifice, même les plus infimes (l’église d’Oncourt), comporte la plupart du temps deux portails (ou portes, selon leur ampleur).
+
+Rythmes intérieurs et extérieurs. – Les contrastes sont vigoureusement affirmés entre les nefs plongées dans la pénombre et les sanctuaires brillamment éclairés.
+
+La mouluration. – Conduite sur la base d’un tableau complet qui en recense tous les types avec leur répartition, l’étude de la mouluration nécessite beaucoup de prudence et d’expérience.
+Elle se révèle fructueuse, à condition de la mener sur quelques centaines d’édifices.
+Au xve siècle, elle est encore exclusivement torique.
+Puis les listels et les cavets prennent de l’importance.
+Les profils dits « prismatiques » apparaissent seulement vers 1500.
+Certains sont très refouillés, de façon à accrocher la lumière.
+S’il y a encore des tores, ceux-ci sont piriformes et de très petit module.
+Toute la mouluration est conçue pour accentuer le contraste entre les creux remplis d’ombres et les prismes où brille la lumière.
+La mouluration est un décor que les maîtres maçons lorrains ont su employer avec distinction : retombées en faisceau dans les colonnes de Varangéville ou d’Essey-lès-Nancy.
+
+La décoration sculptée. – La décoration sculptée est peu abondante, même pour des édifices d’une certaine importance.
+Les lieux d’élection de la sculpture sont tout à fait traditionnels.
+A l’intérieur, ce sont essentiellement le mobilier liturgique (armoires eucharistiques, lavabos), les culots et les clefs de voûte.
+Seuls les grands monuments ont des corniches sculptées.
+A l’extérieur, les portails sont des endroits privilégiés pour la décoration.
+Les motifs de prédilection sont les fleurs et les feuillages, auxquels se mêlent souvent des détails piquants ou familiers chers à l’art de la fin du Moyen Age.
+Enfin, quelques motifs employés dans les églises rurales témoignent de la persistance des traditions romanes.
+La sculpture figurative en ronde-bosse agrémentait presque exclusivement les portails, placée dans des niches, aux trumeaux ou sur les culots des tympans.
+Elle n’a pas survécu aux destructions révolutionnaires (cathédrale de Toul, Vézelise, Saint-Julien...).
+
+Peintures et vitraux. – En ce qui concerne les enduits, les marchés retrouvés montrent que toutes les églises étaient blanchies intérieurement.
+Les peintures murales conservées sont peu nombreuses, mais ce décor a beaucoup souffert des ravalements successifs.
+Un bel exemple est à signaler à Malzéville.
+Les vitraux peints n’étaient pas réservés aux monuments urbains : maintes églises rurales possédaient une série de vitraux intéressants ou, tout au moins, une belle verrière soit dans la baie d’axe (Lorey...), soit dans une chapelle, grâce à la générosité de très nombreux donateurs (souvent des laboureurs aisés). 
+
+
+=== Chapitre III Une géographie monumentale : groupes stylistiques et types d’architectures ===
+
+Groupes stylistiques : ateliers. – Deux faits essentiels sont à relever : d’une part, le rayonnement du chantier de Saint-Nicolas-de-Port ; d’autre part, l’éveil d’une capitale artistique : Nancy.
+
+L’église de Saint-Nicolas-de-Port était trop exceptionnelle pour laisser une postérité directe.
+Cependant, un nombre considérable de maçons (nous les avons recensés) se formèrent au contact du chantier de la « grande église », et l’art raffiné qu’ils y acquirent eut ensuite un grand retentissement sur toute la région environnante.
+Les minutes notariales et l’étude archéologique permettent de l’appréhender.
+
+La création d’une cour ducale brillante, le mécénat de René II et de ses successeurs firent de Nancy, pour la première fois, la capitale artistique de la Lorraine, supplantant Metz.
+L’émulation joua entre les officiers ducaux, membres de la chevalerie lorraine ou anoblis de fraîche date, qui rivalisèrent pour créer dans leurs seigneuries un reflet de l’art de la cour ducale.
+Parmi ces créations, il est possible de distinguer un groupe stylistique que nous appelons le « groupe de Nancy ».
+
+Types d’architectures. – Les principaux types d’architecture sont les suivants :
+
+– Églises des villes et des bourgs ; églises rurales.
+Les églises « urbaines » ont en général préféré l’éclairage direct de la nef.
+
+– Les églises rurales du Saintois.
+Ce sont des édifices très caractéristiques dans leur simplicité : vaisseau unique, chevet plat ou abside à cinq pans d’octogone.
+
+– Le groupe des églises-halles parfaites.
+Les quelques églises de ce type sont concentrées entre la Meurthe, la Moselle et la Meuse.
+
+– L’architecture des ordres mendiants en Lorraine.
+Les couvents des quatre ordres mendiants et des tiers-ordres forment un groupe architectural d’une remarquable homogénéité, qui s’écarte radicalement des solutions adoptées dans les provinces voisines (françaises ou allemandes).
+Que les couvents soient ruraux (ce qui arrive à Ormes et aux Thons, couvent situé légèrement au sud de la région étudiée) ou urbains, la formule architecturale employée est la même : long vaisseau unique, abside à cinq pans d’octogone.
+
+– Chapelles indépendantes et ermitages.
+Grâce aux archives et aux témoins subsistants, on peut esquisser un portrait-type de ces chapelles souvent accompagnées d’un ermitage dont les bâtiments sont parfois conservés.
+
+– Eglises fortifiées.
+Un grand nombre d’églises, beaucoup plus important qu’on ne le pense, présente des restes de « fortification ».
+Il est rare qu’elles aient été fortifiées dès l’origine.
+Il s’agissait surtout de refuges aménagés après coup pour la population.
+Aussi n’a-t-on bien souvent qu’un système de défense rudimentaire. 
+
+
+=== Conclusion ===
+
+Origine, évolution et caractères du gothique « flamboyant » lorrain. – L’apparition du gothique flamboyant en Lorraine fut beaucoup plus précoce que dans bien des provinces françaises, mais il garda un caractère sobre et dépouillé, ce qui lui confère souvent, par la pureté des lignes, une grande distinction.
+
+Influences. – La Lorraine a toujours été, par sa position, une terre de contact.
+Aux xve et xvie siècles, elle fut particulièrement ouverte à un faisceau d’influences variées.
+
+Introduction du style Renaissance. – Les nouvelles modes décoratives et architecturales furent introduites de très bonne heure dans la province, de façon aussi précoce qu’en Normandie, dans la première décennie du xvie siècle (à Blénod-lès-Toul, dès 1506).
+
+
+== Troisième partie Monographies ==
+
+Réunis dans un catalogue qui se veut le plus complet possible, les trois cent cinquante édifices étudiés font l’objet soit de monographies très détaillées (environ soixante-quinze avec, pour chacun des édifices, les sources et la bibliographie correspondantes, la chronologie du monument depuis sa construction jusqu’à nos jours et ses dimensions) soit de notices plus ou moins étendues.
+La plus grande partie de ces édifices n’a jamais été étudiée jusqu’ici ou l’a été de manière très superficielle.
+
+
+== Pièces justificatives ==
+
+Documents relatifs à l’histoire de la construction : marchés, fondations de chapelles, comptes de confréries, procès-verbaux de visite. – Pièces de jurisprudence au sujet des réparations d’entretien des édifices. 
+
+
+== Annexes ==
+
+Répertoire des églises datées. – Glossaire des termes de la construction aux XV’ et xvie siècles.
+
+
+== Album de planches ==
+
+L’album de planches comprend trois tomes in-folio rassemblant environ mille photographies, soixante plans inédits dressés spécialement pour cette étude, des cartes historiques, géologiques et statistiques (également dressées pour cette étude), ainsi qu’une série de planches de dessins illustrant la mouluration des XV’ et xvie siècles.

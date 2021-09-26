@@ -1,0 +1,139 @@
+identifier: ENCPOS_1969_08
+creator: Pierre Janin
+date: 1969
+title: Gesta pontificium Autossiodorensium, édition critique avec une introduction et des notes
+
+
+
+== Introduction ==
+
+
+
+
+== Chapitre premier généralités ==
+
+La chronique des évêques d’Auxerre a fait l’objet de plusieurs publications souvent fragmentaires et de médiocre valeur.
+
+En 1657, Labbe (Bibl. nova manuscriptorum, t.
+I, p. 411-526), a donné la seule édition qui reproduise l’intégralité du texte.
+La publication la plus récente, qui n’est pas complète, date de 1850 (Duru, Bibl. hist. de l’Yonne, t.
+I, p. 309-509).
+Aucune de ces éditions ne reposait sur un examen critique sérieux des manuscrits et n’était accompagnée d’un commentaire historique.
+Il fallait chercher ces indications dans les Mémoires concernant l’histoire civile et ecclésiastique d’Auxerre de l’abbé Lebeuf, dont la première édition date de 1743, ouvrage essentiel, mais parfois bien vieilli.
+
+
+== Chapitre II Les manuscrits ==
+
+Le texte des Gesta pontificum Autissiodorensium nous est parvenu par deux manuscrits anciens : le manuscrit 142 de la Bibliothèque municipale d’Auxerre et le manuscrit 1283 A du fonds de la Reine Christine au Vatican. 
+
+Le manuscrit Auxerre 142 contient, dans une copie d’une seule main exécutée vers le milieu du xiie siècle, la vie des premiers évêques depuis saint Pèlerin jusqu’à Hugues de Cluny (♰ 1151).
+On y trouve ensuite les transcriptions originales des diverses continuations depuis Alain de Lille, successeur d’Hugues de Cluny, jusqu’à Érard de Lésigne (t 1278), écrites de la fin du xiie siècle à la fin du xiiie siècle.
+Enfin, après une lacune importante, le manuscrit d’Auxerre conserve encore, dans des copies originales, les biographies des évêques François Ier de Dinteville (♰ 1530), François II de Dinteville (♰ 1554), puis, après une nouvelle lacune, celles de Jacques Amyot (♰ 1593) et de ses successeurs jusqu’à Nicolas Colbert (t 1676).
+
+Une continuation allant de Guillaume de Grez, successeur d’Erard de Lézinnes, jusqu’à Pierre Aymon (♰ 1372), qui devait être le point de départ d’un deuxième livre des Gesta, nous est parvenue dans sa transcription originale, dans un volume distinct de format différent, manuscrit Vatican Reg.
+Lat. 1283 A.
+
+Outre ces deux manuscrits, qui seuls peuvent servir de base à une édition, il existe six copies du xviie siècle, plus ou moins complètes, qui en dérivent directement.
+
+Les évêques d’Auxerre entre Pierre Aymon et François Ier de Dinteville et entre François II de Dinteville et Jacques Amyot n’ont pas eu de biographe.
+
+
+== Première partie La composition et les sources ==
+
+Il est possible de déterminer avec précision les rédactions successives des Gesta.
+Il est plus délicat de dater ces différentes tranches de composition, mais on peut toutefois espérer, en ce domaine, une relative sûreté.
+Il s’avère malheureusement impossible de percer l’anonymat des auteurs de ces biographies épiscopales, tous chanoines de la cathédrale.
+Tout au plus peut-on avancer quelques précisions dérisoires.
+
+
+=== Chapitre premier la première compilation ===
+
+Le noyau primitif des Gesta, comprenant les trente-huit premières biographies depuis saint Pèlerin jusqu’à Christianus (♰ 872), a été rédigé sous l’épiscopat de Wala (872-879), entre 873 et 876 ou 877, par les deux chanoines Rainogala et Alagus ; nous ne savons rien de ces personnages.
+Il faut tenir la collaboration de Heiric d’Auxerre à cette compilation pour une fable sans fondement. 
+
+Il est probable que l’idée d’écrire un recueil de ce genre revient à l’évêque Wala, prélat instruit et bibliophile.
+Il aura voulu ainsi doter son église d’une œuvre semblable à celle qu’avait composée Grégoire de Tours pour les évêques ses prédécesseurs, sur le modèle du Liber pontificalis de Rome.
+Cela est d’autant plus plausible que l’Historia Francorum et le Liber pontificalis étaient connus à Auxerre à cette époque et qu’en outre l’église d’Auxerre possédait déjà les vies de quatre de ses évêques.
+
+
+=== Chapitre II Les continuations ===
+
+A ce premier recueil ont été ajoutées, par la suite, et à des intervalles assez irréguliers, treize continuations pour le moyen âge :
+
+1° les vies de Wala et de ses cinq successeurs jusqu’à Gualdricus (♰ 933) ont été rédigées peu après 933 par un chanoine inconnu qui se pique d’hellénisme et qui fait preuve d’un certain sens historique ;
+
+2° un chanoine dont nous ne savons rien a écrit la vie de Guido (♰ 961), probablement en 961 ou 962.
+Son information ne dépasse pas l’église d’Auxerre ;
+
+3° c’est probablement entre 1056 et 1060 qu’un chanoine sur lequel nous ne possédons aucun renseignement a rédigé les cinq biographies suivantes, de Richard (♰ 970) jusqu’à Heribertus II qui quitta le siège épiscopal en 1052.
+Son information est inégale ;
+
+4° la notice concernant Geoffroi de Champallement (♰ 1076) a été écrite peu de temps après sa mort, sans doute en 1076 ou 1077 ;
+
+5° la vie de Robert de Nevers (♰ 1095) a été composée trois ans après sa mort, en 1098, par un chanoine nommé Frodon dont nous ne savons rien, sinon qu’il avait lui-même, un peu plus de vingt ans auparavant, composé la vie de Geoffroi de Champallement.
+Son information est limitée à l’église d’Auxerre ;
+
+6° c’est un chanoine bien informé qui a rédigé la biographie de l’évêque Humbaud (♰ 1117), vers 1117-1118 ;
+
+7° ses deux successeurs Hugues de Montaigu (♰ 1137) et Hugues de Cluny (♰ 1151) ont trouvé un biographe faisant preuve d’un certain sens historique, probablement entre 1153 et 1154 ;
+
+8° les biographies d’Alain de Lille et de Guillaume de Toucy (♰ 1181) ont été écrites par un auteur inconnu contemporain de ce dernier évêque, probablement en 1183.
+L’attribution de ces vies au chanoine Fromond est tout a fait incertaine ;
+
+9° en 1223 ou peu après un chanoine anonyme a composé les notices des évêques Hugues de Noyers (♰ 1206) et Guillaume de Seignelay, qui quitta le siège d’Auxerre en 1220 (♰ 1223 évêque de Paris).
+L’attribution de ces textes au chanoine Eustache n’est pas suffisamment fondée pour être retenue ;
+
+10° le groupe des trois biographies suivantes, qui nous conduisent de Henri de Villeneuve (♰ 1234) jusqu’à Renaud de Salligny (♰ 1247), ont été rédigées par un auteur inconnu qui écrivait en 1247 ou peu après.
+Elles sont très pauvres en renseignements ;
+
+11° ce n’est pas le cas de la vie de Gui le Mello (♰ 1270), écrite peu de temps après sa mort par un chanoine dont nous ne savons rien, mais qui nous a laissé un récit bien documenté ;
+
+12° c’est encore à un auteur anonyme que nous devons la vie d’Erard de Lézinnes (♰ 1278), rédigée après 1278 et en tout cas avant 1293, surtout à l’aide de pièces d’archives ;
+
+13° les seize biographies épiscopales suivantes, depuis Guillaume de Grez jusqu’à Pierre Aymon (♰ 1372), ont été rédigées probablement entre 1374 et 1375 par un chanoine inconnu.
+
+Pour la partie moderne des Gesta on dénombre encore quatre rédactions.
+
+
+=== Chapitre III Les sources ===
+
+Rainogala et Alagus ont utilisé dans leur compilation divers textes hagiographiques et en particulier quatre vies d’évêques d’Auxerre (Passio sancti Peregrini ; Vita sancti Amatoris d’Etienne l’Africain ; Vita sancti Germani, non le texte de Constance, mais la vie interpolée ; Vita sancti Aunarii.).
+Ils se sont servi aussi de l’Historia Francorum de Grégoire de Tours, du Liber historiae Francorum, du Liber pontificalis de Rome, des actes de plusieurs conciles francs de l’époque mérovingienne, de deux lettres du pape Pélage II à l’évêque Aunaire (♰ 605 ?), de plusieurs exemplaires du martyrologue hiéronymien, des Miracula sancti Germani de Heiric d’Auxerre.
+
+Mais ce sont surtout les archives épiscopales qui leur ont fourni les éléments les plus originaux de leurs biographies.
+Elles contenaient plusieurs testaments d’évêques, des documents enregistrant un certain nombre de donations, des règlements liturgiques.
+Enfin elles ont certainement fourni un calendrier remontant à la fin du vie siècle, « où étaient représentés tous les anciens souvenirs des origines et de la succession épiscopale » (Mgr Duchesne).
+
+Des traditions recueillies par les rédacteurs ont fourni d’autre part quelques données sur plusieurs prélats.
+
+Pour les autres parties des Gesta, toute la documentation repose sur des pièces d’archives, des souvenirs personnels ou rapportés par des témoins.
+Les nécrologes de l’église et les brèves mentions annalistiques inscrites en marge de tables pascales ont pu fournir parfois quelques renseignements.
+On ne peut citer que la troisième compilation qui fasse un emprunt à une chronique, celle de Raoul Glaber, moine de Saint-Germain d’Auxerre. 
+
+
+== Deuxième partie L’intérêt du texte ==
+
+
+=== Chapitre premier l’intérêt historique ===
+
+Les Gesta pontificum Autissiodorensium présentent un grand intérêt à plusieurs égards.
+Ils donnent des renseignements inappréciables sur l’histoire bourguignonne au haut moyen âge.
+Ils constituent pour l’histoire de l’église d’Auxerre et de son diocèse une source continue à travers presque toute la période médiévale et, indirectement, nous font connaître, de première main, beaucoup d’évènements en rapport avec l’histoire générale.
+Ils ont conservé le souvenir de beaucoup de documents aujourd’hui perdus et leur documentation, lorsqu’elle est contrôlable, s’avère rarement défectueuse.
+Les domaines auxquels elle s’étend sont multiples : les Gesta sont une source précieuse pour l’archéologue, le toponymiste, l’historien.
+
+
+=== Chapitre II L’intérêt littéraire ===
+
+Du point de vue littéraire, les gesta ne sont souvent que des notices assez sèches et impersonnelles, selon la loi du genre.
+Par Gesta – c’est ce qui ressort de toutes les rédactions et c’est la conception implicite des auteurs qui ont participé à la confection du recueil – il faut entendre surtout les bienfaits spirituels et matériels, souvent confondus, des évêques vis-à-vis de leur église et du chapitre.
+Les portraits des prélats (comme d’ailleurs le plan des biographies, coulées dans le même moule, celui du Liber pontificalis) présentent peu d’originalité.
+
+Même certains passages plus personnels comme les récits de la mort des évêques et quelques anecdotes prises sur le vif répondent surtout à une intention édifiante.
+Quelques biographies se détachent, cependant, un peu du style conventionnel.
+La langue des Gesta est difficile à apprécier car elle reflète la culture d’époques fort diverses ; elle est, en général, simple et ne procède pas d’un souci littéraire réfléchi, sa correction varie suivant les époques. 
+
+
+== Édition ==
+
+Édition critique des quatre-vingts premières vies, depuis saint Pèlerin jusqu’à Pierre Aymon, suivie d’un commentaire des trente-huit premières notices.

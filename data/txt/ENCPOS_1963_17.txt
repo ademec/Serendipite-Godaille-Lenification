@@ -1,0 +1,92 @@
+identifier: ENCPOS_1963_17
+creator: Cécile Maury
+date: 1963
+title: Herbiers en français du xve siècle : le Livre des simples médecines et le Grand herbier en francoys
+
+
+
+== Introduction ==
+
+Au moyen âge, un herbier est un recueil illustré de matière médicale, à but essentiellement pratique, où l’on trouve décrites les propriétés curatives d’un certain nombre de simples, et où la description botanique, souvent indigente, tend à être remplacée par le recours à une illustration plus ou moins schématisée, et généralement puisée à des sources antiques.
+
+En France, au xve siècle, un seul herbier en langue vulgaire répond à cette définition, c’est le Livre des simples médecines, qui fut publié sous le nom d’Arbolayre, puis de Grand herbier, à la fin du siècle.
+
+Ce texte est considéré comme la traduction d’un traité latin du xiie siècle : le Circa instans de Platearius.
+
+
+== Première partie Les relations entre les textes ==
+
+Sous le nom de Platearius, circulent un certain nombre de textes, parmi lesquels trois principaux : la Practica brevis, le Circa instans et les Glossae in Antidotarium Nicolai.
+
+
+=== Chapitre premier ce que nous apprennent de Platearius les auteurs médiévaux qui le citent ===
+
+Le seul renseignement précis que nous ayons concerne les Gloses.
+Il est dû à Gilles de Corbeil, qui, dans son poème De virtutibus et laudibus compositarum medicinarum, dit avoir été l’élève à Salerne de Matthaeus Platearius, célèbre médecin et professeur, auteur des Gloses, mort à l’époque où lui-même écrit (fin du xiie siècle).
+
+Le Circa instans a joui d’un très grand succès au moyen âge, et, semble-t-il, tout particulièrement en France et à Paris.
+Dans cette ville, on le voit même imposé comme
+    « Codex » aux herbiers, au début du xve siècle.
+Il a été cité un grand nombre de fois par des auteurs, dont certains lui doivent beaucoup, comme Thomas de Cantimpré, Barthélemy l’Anglais et Vincent de Beauvais, pour la partie botanique de leurs encyclopédies, ou comme les compilateurs anonymes de textes imprimés à la fin du xve siècle (Herbarius latinus, Gart der Gesundheit, Ortus sanitatis).
+
+Chez aucun d’entre eux on ne trouve de précisions sur notre auteur, et les citations du nom de Platearius se rapportent aussi souvent à la Practica et aux Gloses qu’au Circa instans.
+
+
+=== Chapitre II Les manuscrits du « Circa instans » et de ses traductions ===
+
+Le grand nombre de manuscrits, tant à l’étranger qu’en France, nous confirme le succès du texte, mais ne nous apprend rien sur l’auteur.
+En effet, les manuscrits les plus anciens sont anonymes.
+Vers la fin du xiiie siècle, le nom de Platearius apparaît quelquefois, pour être plus fréquent au xive siècle.
+En général, on ne trouve aucun prénom.
+
+
+=== Chapitre III Les éditions des xve-xvie siècles et les bibliographes qui en dépendent ===
+
+L’édition princeps de 1488 met le Circa instans sous le nom de Johannes Platearius.
+
+Pendant deux siècles, les bibliographes vont accepter cette attribution.
+Il faut attendre Fabricius pour voir citer le texte de Gilles de Corbeil, mais cette découverte n’eut pas de suite immédiate.
+
+
+=== Chapitre IV Les travaux scientifiques des xixe et xxe siècles ===
+
+Les recherches d’érudits comme Choulant, Henschel, Meyer, Camus, puis Sudhoff et Starkenstein, allaient seules permettre, par l’étude des textes eux-mêmes, par la découverte des manuscrits et de leurs relations, l’attribution du Circa instans à Matthaeus Platearius, et la définition, dans la transmission du traité, de deux classes :
+
+– d’une part, ce qu’on appelle la version courte : le texte original, très bref, a commencé à être accru dès le départ, et a continué à recevoir des apports, jusqu’à l’édition, qui l’a figé sous une forme dite courte, comprenant 273 chapitres ;
+
+– d’autre part, des versions longues, entreprises nouvelles tendant à créer un texte qui réponde à tel ou tel besoin (le Liber de simplici medicina de Breslau est une somme diététique, le Tractatus de herbis attribué à Bartholomaeus Mino da Senis, un véritable herbier), et qui n’ont entre elles pas d’autre rapport que l’utilisation du Circa instans comme texte de base.
+
+C’est du Tractatus de herbis que dérive une nouvelle compilation latine, due à Manfredus de Monte Imperiali, mais surtout la traduction française généralement connue sous le nom de Livre des simples médecines, Grant herbier en françois.
+
+
+== Deuxième partie Le « Tractatus de herbis » et sa traduction, le « livre des simples médecines » ==
+
+
+=== Chapitre premier les sources ===
+
+Outre les citations de noms d’auteurs ou d’œuvres que l’on retrouve également dans le Circa instans, le Tractatus de herbis se caractérise par l’adjonction d’un nombre important de chapitres ou d’interpolations dans des chapitres existants, dont une bonne partie provient de l’Herbier d’Apulée.
+Cet apport à caractère magique modifie la teinte générale d’un ouvrage qui au départ reflétait plutôt un esprit rationnel.
+
+Malgré l’utilisation, dans la traduction française, d’auteurs du xive siècle, comme Gentile da Foligno, tout porte cependant à croire que la compilation a dû être composée vers la fin du xiiie siècle, en Italie, et que les citations en question ne sont que des adjonctions postérieures.
+
+
+=== Chapitre II La traduction française ===
+
+La traduction française apparaît dans la première moitié du xve siècle.
+Nous ignorons tout de son auteur, mais il fait preuve d’une réelle connaissance du latin et des termes médicaux.
+Sa traduction est assez fidèle, et le style en est ferme.
+La langue de la plupart des manuscrits est un francien plus ou moins imprégné de formes picardes.
+Cette influence n’est pas très marquée dans le manuscrit que nous éditons.
+
+
+== Conclusion ==
+
+Si le Circa instans latin a gardé jusqu’au milieu du xvie siècle toute sa valeur pour l’étudiant et le praticien, le Livre des simples médecines n’a pas eu un rôle négligeable.
+On pense, en effet, que c’est la vogue de ce traité en langue vulgaire qui a donné à Peter Schöffer l’idée de publier le Gart der Gesundheit, qui emprunte à Platearius une grande partie de ses matériaux, et même de son illustration.
+
+C’est ainsi que l’œuvre de Platearius, sous ses diverses formes, s’est trouvée en bonne place dans le grand courant d’intérêt pour les plantes, qui allait aboutir à la naissance d’une nouvelle science, la botanique.
+
+
+== Édition ==
+
+Édition complète du texte du Livre des simples médecines d’après le manuscrit 2888 de la Bibliothèque de l’Arsenal.

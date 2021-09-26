@@ -1,0 +1,127 @@
+identifier: ENCPOS_1994_27
+creator: Agnès Vatican
+date: 1994
+title: Les conversions au catholicisme de protestants étrangers devant l’Inquisition espagnole (fin xvie-xviie siècle)
+
+
+
+== Introduction ==
+
+La conversion, au sens de passage d’une religion à une autre, se situe au cœur du siècle de la Contre-Réforme ; après l’adhésion au protestantisme d’une grande partie de l’Europe, l’effort de l’Église catholique, après le Concile de Trente, a été de « ré-unir » en son sein ceux qu’elle considérait comme hérétiques.
+L’Espagne, championne de la Contre-Réforme, participe à ce mouvement.
+Après l’élimination des foyers de protestantisme de Valladolid et de Tolède, c’est vers les étrangers, nombreux dans la péninsule ibérique, que se dirige l’effort de l’Inquisition.
+La chasse aux « luthériens » étrangers est particulièrement vive, mais on constate, à partir des années 1560, qu’un certain nombre de protestants étrangers viennent se présenter « spontanément » afin de se convertir, mouvement qui prend toute son ampleur au xviie siècle. 
+
+
+== Sources ==
+
+Les dépouillements de procès et de relations de causes conservés à l’Archivo histórico nacional de Madrid ont porté sur les tribunaux situés au nord d’une ligne Llerena-Valence et, plus particulièrement, sur ceux qui présentent le plus grand nombre de cas, c’est-à-dire Barcelone, Saragosse, Logroño, Valence, Saint-Jacques-de-Compostelle, Tolède et la Cour.
+Par ailleurs, les instructions de l’Inquisition espagnole et les cartas acordadas envoyées aux tribunaux ont permis de suivre l’évolution juridique de ce type de procès.
+
+
+== Première partie Le cadre institutionnel ==
+
+
+=== Première section l’Inquisition ===
+
+Si l’action de l’Inquisition espagnole reste attachée à la répression de toutes les formes d’hérésie, le Manuel des inquisiteurs d’Eymerich puis les Instructions propres à l’Inquisition espagnole prévoyaient la possibilité de se présenter « spontanément » devant le tribunal et de bénéficier d’un certain allègement de sa peine, en particulier pendant le temps de grâce, en même temps qu’ils réservaient aux seuls inquisiteurs les cas de conversion.
+Après le traité Alba-Cobham de 1576, qui donne aux marchands anglais certaines garanties, les cartas acordadas de 1597 et 1605 procurent un cadre juridique spécial pour ces conversions d’étrangers, qui leur garantit définitivement une procédure secrète et l’absence de toute peine, à l’exception des pénitences spirituelles.
+
+
+=== Deuxième section le déroulement du procès ===
+
+Tous les procès se déroulent sous une forme « allégée » ; l’espontáneo se présente seul à l’audience ; parfois, il s’annonce par une lettre d’introduction que lui rédige un religieux.
+Souvent, il est même accompagné par un religieux qui le conduit jusqu’au tribunal et lui sert éventuellement d’interprète.
+Les audiences ont lieu dans la salle du tribunal et les dépositions suivent une grille d’interrogatoire précise ; les questions concernent l’état civil, le baptême, la formation religieuse et les pratiques, le discurso de la vida, la décision de se convertir et ses motifs ; tous ces points doivent être abordés, mais les tribunaux peuvent privilégier certains aspects, la tendance générale allant vers une certaine uniformisation.
+
+Jusqu’à la fin du XVI’ siècle, la sentence de ce type de causes est la réconciliation formelle, précédée d’une abjuration ; dans les tous premiers cas, elle a lieu pendant un autodafé, mais, avec l’accord de la Suprema, les tribunaux réconcilient dans la salle d’audience, sans confiscation de biens.
+A partir de 1597, deux sentences sont prévues : l’absolution ad cautelam est donnée à ceux qui n’ont pas eu de connaissance suffisante du catholicisme avant de se convertir et qui sont ainsi lavés de tout soupçon ; pour les autres, c’est une réconciliation formelle, également dans la salle.
+La carta acordada de 1597 abolit la confiscation des biens et les peines infamantes, même si dans la pratique, c’était déjà le cas.
+
+Ces dispositions laissent une certaine liberté d’appréciation aux inquisiteurs ; ils peuvent par exemple abandonner une procédure « allégée » pour un procès en forme si des éléments nouveaux, tels que des accusations de tiers, surviennent.
+Cette possibilité montre que, si les causes de conversion font apparaître une certaine bienveillance de la part des inquisiteurs, tout élément pouvant faire douter de la sincérité de l’espontáneo provoque immédiatement un changement de tonalité ; certaines causes, par exemple, peuvent aller jusqu’à la torture et la confiscation des biens.
+
+S’il était recommandé que l’instruction ait lieu avant l’absolution par le tribunal, le fait qu’un religieux prenne en charge le nouveau converti dès sa sortie du tribunal apparaît comme une garantie suffisante.
+C’est donc le plus souvent à la suite de la sentence que le nouveau converti est remis à un religieux pour que ce dernier l’instruise, le confesse et lui donne l’absolution sacramentelle.
+D’autre part, le tribunal peut prévoir des pénitences spirituelles dont la teneur est destinée à mieux ancrer la pratique religieuse.
+Les variations constatées concernant la place de l’instruction et la fréquence des pénitences montrent cependant que les tribunaux se cantonnent de plus en plus dans un rôle purement judiciaire.
+
+Outre les dispositions d’ordre juridique, la prise en charge de ces conversions a demandé un effort d’adaptation géographique pour rapprocher les tribunaux des lieux où se concentraient les étrangers.
+Les commissaires, qui apparaissent vers 1530, sont concernés dès les premières dispositions prises en faveur des espontáneos étrangers et, à partir de la carta acordada du 8 octobre 1605, ils obtiennent la possibilité de procéder eux-mêmes à l’absolution ad cautelam, la réconciliation demeurant réservée aux inquisiteurs.
+De grandes variations apparaissent selon les tribunaux : dans certains, comme Saragosse, les commissaires envoient systématiquement les espontáneos au siège du tribunal, sauf cas de force majeure.
+A Logroño, au contraire, les causes sont traitées d’une façon extrêmement décentralisée.
+Quant au tribunal de Barcelone, il est soumis à des conditions particulières : le déroulement de fréquentes opérations militaires en Catalogne, le stationnement de régiments composés de nombreux mercenaires protestants, l’obligent à donner des commissions particulièrement étendues aux aumôniers dans ces régiments.
+
+Enfin le souci des inquisiteurs se porte sur la question du baptême.
+En principe, le baptême administré par les protestants était reconnu par les catholiques depuis le concile de Trente.
+Cependant les hésitations de certains espontáneos au sujet de leur propre baptême entraînent souvent la réitération du baptême sub conditione.
+Cette réitération a ses partisans, y compris dans les cas où la validité du premier baptême ne peut être remise en cause.
+La persistance de ce courant tout au long du xviie siècle, y compris chez des ministres du Saint-Office, est particulièrement visible dans ces procès de conversion.
+
+
+== Deuxième partie Les convertis ==
+
+
+=== Première section étude quantitative ===
+
+Le dépouillement des fonds conservés pour les tribunaux de Barcelone, Saragosse, Logroño, Saint-Jacques-de-Compostelle, Valence, Madrid et Tolède permet de rassembler quelque 1 073 cas pour la période comprise entre 1563 et 1700.
+
+Il s’agit en majorité d’hommes jeunes, qui se convertissent pour la plupart entre seize et trente ans.
+Cette sur-représentation masculine n’est pas étonnante, car elle reflète celle qui existe dans l’immigration.
+
+La répartition dans le temps montre que les conversions apparaissent de manière régulière dans l’activité des tribunaux à partir de la deuxième moitié du xviie siècle.
+Jusqu’en 1635 environ, les conversions correspondent aux périodes de paix qui favorisent la venue de nouveaux immigrés ; par la suite, ce sont les conflits qui font affluer en Espagne de nombreux mercenaires parmi lesquels les religieux réalisent des conversions fort nombreuses.
+
+Une étude plus précise du rythme des conversions par tribunal montre l’existence de facteurs prépondérants liés à la situation géographique des tribunaux.
+Mais ceux-ci possèdent tous un dénominateur commun, le poids que représentent les opérations militaires au Portugal jusqu’en 1668 et en Catalogne après 1635.
+Même des tribunaux éloignés du front, comme Madrid, voient arriver avec un certain décalage de nombreux soldats désireux de retourner dans la vie civile.
+
+Du point de vue de l’origine géographique des convertis, on constate une évolution très nette vers une représentation élargie à l’Europe entière.
+La fin de la guerre de Trente Ans fait affluer vers l’Espagne non seulement des mercenaires en quête d’un nouvel emploi, mais aussi tous ceux qui fuient des régions dévastées par la guerre et tentent de venir faire fortune en Espagne.
+Ce phénomène explique que les Français et les Anglais, qui étaient proportionnellement plus nombreux parmi les convertis avant 1640, voient leur importance relative diminuer, même si le nombre de leurs conversions se maintient dans l’absolu.
+
+Malgré le poids que fait peser la conjoncture militaire sur le type socioprofessionnel des convertis, des comparaisons limitées à certaines catégories montrent que, si les conversions retrouvées ne sont que rarement le fait de personnes appartenant aux couches supérieures de la société, on ne voit pas non plus se présenter devant les tribunaux des flots de mendiants.
+Qu’il s’agisse de soldats, de marins, de domestiques ou d’artisans, tous ont en commun la mobilité et l’instabilité dans lesquelles s’insère la démarche de la conversion.
+
+
+=== Deuxième section le discours religieux ===
+
+La description de la religion dans laquelle avait été élevé le candidat à la conversion constituait une des parties les plus importantes de l’audience, à la fois parce qu’elle permettait aux inquisiteurs de souligner les différences entre protestantisme et catholicisme et parce qu’ils obtenaient ainsi des informations concernant, par exemple, l’état des communautés protestantes ou la vigueur de certaines missions catholiques.
+
+La qualité des exposés sur la religion d’origine est extrêmement variable mais ne repose que très rarement sur une véritable réflexion théologique.
+Le discours communique une impression d’uniformité, quelle que soit la confession réformée.
+Il se présente d’abord comme un témoignage du vécu fourni par des gens pour qui la religion est avant tout une pratique ; on peut en tirer ensuite un certain nombre de points de repère.
+Il constitue l’un des éléments principaux qui peuvent expliquer la fragilisation de l’attachement des convertis à leur foi première.
+
+
+=== Troisième section les causes de la conversion et le problème de la sincérité ===
+
+Contrairement à ce qu’on pourrait penser, l’intérêt premier des inquisiteurs n’était pas de connaître les motifs de la conversion mais plutôt de savoir à quel moment elle avait été décidée, afin de déterminer le type de sentence à rendre.
+
+Les raisons invoquées par les espontáneos sont extrêmement diverses ; la conversion apparaît plutôt comme le résultat d’un ensemble de rencontres, de réflexions, de discussions.
+Le rôle des religieux est souvent déterminant dans la mise à exécution d’une résolution souvent peu arrêtée.
+La notion du salut apparaît comme un élément commun à la plupart des déclarations, soulignant cette volonté de trouver la meilleure religion pour se l’assurer.
+
+Des manifestations caractéristiques de la Contre-Réforme sont mentionnées et l’on constate que les pèlerinages comme Montserrat ou Saint-Jacques-de-Compostelle gardent tout leur prestige, même dans des pays protestants.
+Beaucoup de conversions trouvent leur origine dans la force d’une Eglise catholique partie à la reconquête d’âmes « égarées », d’autant plus fragiles qu’elles ont quitté leur communauté depuis longtemps.
+On peut aussi considérer que l’affaiblissement du protestantisme dans certaines régions, en France par exemple, est aussi pour beaucoup dans le passage de nombreux réformés au catholicisme. 
+
+Reste à savoir quelle était la sincérité de ceux qui se convertissaient.
+Ce point est particulièrement délicat dans la mesure où les témoignages produits dans les procès ne sont pas les plus fiables, chacun cherchant à apparaître comme le plus convaincu possible, et où il est presque impossible de savoir ce que deviennent les convertis.
+Dans bien des cas, une recherche en amont pourrait être un élément permettant d’affiner les analyses pour des cas particuliers.
+
+
+== Conclusion ==
+
+Même si les procès de conversion occupent une place marginale dans les fonds inquisitoriaux, le phénomène ne se résume pas à quelques cas particuliers et la richesse de ces sources donne un éclairage particulièrement intéressant sur un aspect souvent ignoré de la Contre-Réforme.
+Il apparaît que la mise en place par l’Inquisition espagnole de mesures spéciales pour recevoir ceux qui veulent revenir au sein de l’Èglise catholique est avant tout destinée à continuer la lutte contre l’hérésie, sous une forme plus humanisée, sans nuire aux intérêts économiques et politiques de la Couronne.
+
+
+== Pièces justificatives ==
+
+Cartas acordadas contenant les principales dispositions concernant les espontáneos étrangers. – Procès et relations des causes de conversions.
+
+
+== Annexes ==
+
+Cartes des origines géographiques des convertis français. – Graphiques concernant les religieux intervenant dans les procès.

@@ -1,0 +1,113 @@
+identifier: ENCPOS_1970_03
+creator: Annie Berthier
+date: 1970
+title: Aspects juridiques et sociaux de l’histoire de Marseille au xive siècle d’après les registres de la Cour du Palais et des Cours des Appellations
+
+
+
+== Introduction ==
+
+Au xive siècle, Marseille traverse une phase de déclin.
+Or cette période de crises ne peut-elle être considérée comme une époque de transition vers un nouvel équilibre ?
+Notre dessein est de reconnaître les éléments juridiques et sociaux nouveaux à Marseille au xive siècle, et d’examiner comment la ville s’est peu à peu acheminée vers une organisation plus adaptée aux conditions économiques de l’époque, notamment en ce qui concerne le droit commercial et les rapports internationaux.
+
+
+== Sources ==
+
+Fonds de la Cour du Palais de Marseille et des Cours des Premières et Secondes Appellations, aux Archives départementales des Bouches-du-Rhône, série III B. 
+
+
+== Première partie Marseille au début du xive siècle : le cadre ==
+
+
+=== Chapitre premier le cadre géographique ===
+
+1° Le site. – Pour comprendre l’histoire de Marseille, il faut tenir compte des « servitudes de son cadre géographique » ; barricadée par les montagnes du côté de l’arrière-pays, Marseille est tout entière tournée vers la Méditerranée.
+
+2° La ville. – Il reste peu de vestiges de la ville du xive siècle, qui, malgré son exiguïté, était divisée en trois villes distinctes, administrativement et juridiquement.
+
+Marseille est aussi son port : il faut tenir compte également de l’exiguïté de celui-ci.
+
+Il est difficile d’évaluer la population qui vivait à Marseille et sur son terroir, à cette époque ; en cette période de crise démographique, peut-être y avait-il 15.000 habitants à la fin du xive siècle.
+
+
+=== Chapitre II Le contexte historique ===
+
+1° Rappel des principaux événements du xiiie siècle et situation de Marseille sous les princes angevins. – En 1246, Béatrix, héritière du comte de Toulouse Raymond-Béranger V, épouse Charles d’Anjou et lui apporte la seigneurie de Marseille.
+Au xive siècle, Marseille est donc dans l’orbite du royaume de Naples et de l’Italie, d’où vient le renouveau.
+Les principaux événements du xiiie siècle sont la révision des statuts de la ville, en 1253, et la conclusion avec Charles Ier des Chapitres de paix, en 1257.
+
+2° Le roi Robert.
+
+3° Le contexte économique : Marseille en Méditerranée, Marseille en Provence. – L’arrêt relatif des rapports avec le Proche-Orient est compensé par la formation de liens plus fermes avec l’Italie du Sud.
+Les luttes entre le royaume de Naples et le royaume d’Aragon ont des retentissements certains sur l’économie marseillaise.
+Perte des comptoirs orientaux, piraterie et guerre de course, établissement de liens directs par mer entre Méditerranée et pays du Nord, tout cela contribue au déclin de Marseille. 
+
+En Provence, la grande nouveauté est l’établissement des papes à Avignon ; cette cité, ainsi que d’autres villes provençales ou languedociennes, fait concurrence à Marseille.
+
+4° Les institutions et les hommes ; le régime politique. – Marseille a connu divers régimes politiques avant celui qui existe au xive siècle ; dans ces régimes antérieurs on retrouve des éléments qui subsistent dans l’organisation du xive siècle.
+
+Marseille est « terre adjacente », en dehors des vigueries de Provence.
+Le comte y est représenté par un viguier.
+L’organisation de la cité, ses droits, son statut politique se trouvent fixés une fois pour toutes dans les Chapitres de paix de 1257.
+
+
+== Deuxième partie La justice à Marseille au xive siècle (jusqu’en 1423) organisation et pratique ==
+
+
+=== Chapitre premier sources du droit et origines de la justice à Marseille ===
+
+1° Les sources. – Les sources du droit marseillais sont contenues essentiellement dans les statuts de la ville et les Chapitres de paix de 1257.
+Les Marseillais bénéficient du privilège de non extrahendo.
+
+2° La justice. – Les origines de la justice sont obscures, mais on y voit poindre l’organisation du xive siècle.
+
+
+=== Chapitre II L’organisation au xive siècle ===
+
+Avant 1343-1348, Marseille comporte trois villes, la ville inférieure, la ville épiscopale et la ville prévôtale.
+Chacune d’elles possède une organisation judiciaire qui lui est propre.
+
+La juridiction arbitrale existe dans les trois villes et joue un rôle important. 
+
+
+=== Chapitre III La pratique au xive siècle ===
+
+1° La Cour du Palais. – Dans les actes de la pratique, on note la confusion des pouvoirs administratif et judiciaire dans les mains du juge du Palais.
+Ce dernier juge en première instance au civil et au criminel, selon la procédure romano-canonique.
+Bien que l’on s’inspire du droit romain, les statuts de la ville et les Chapitres de paix constituent cependant la base principale du droit.
+
+2° Les Cours des Premières et Secondes Appellations. – En vertu du privilège de non extrahendo, tout procès commencé à Marseille doit s’y terminer, d’où la présence dans la ville de juridictions d’appel, de seconde et de troisième instance.
+
+3° Les villes supérieures. – Dans la ville épiscopale, coexistent une Cour royale, chargée de la haute justice, et une Cour épiscopale pour les causes ecclésiastiques.
+
+Dans la ville prévôtale, une Cour de juges et de bailes est compétente pour la moyenne et la basse justices.
+
+4° L’unification de 1343-1348. – Après plusieurs étapes, les lettres patentes de la reine Jeanne du 3 janvier 1348 étendent aux villes supérieures les droits, franchises, libertés et privilèges de la ville basse, ce qui met fin aux conflits de juridiction.
+
+
+== Troisième partie La justice à Marseille au xive siècle nature des causes et origine géographique et sociale des plaignants ==
+
+
+=== Chapitre premier origine géographique et sociale des plaignants ===
+
+Origine géographique. – A côté des Marseillais eux-mêmes, on trouve des étrangers des régions proches, extérieurs à la cité ou habitant Marseille, et des étrangers des régions lointaines, pour la plupart des Italiens, soit fixés dans la ville dont ils ont parfois acquis la citoyenneté, soit de passage pour y traiter des affaires. 
+
+Origine sociale. – Toutes les catégories sociales sont représentées, des petits artisans aux grands commerçants qui détiennent une partie du pouvoir dans la ville.
+
+
+=== Chapitre II Nature des causes ===
+
+Causes touchant à la vie économique de la cité. – Les causes commerciales ressortissent des cours, au même titre que les autres causes, car il n’y a pas encore de tribunal de commerce ; ce dernier apparaît en 1420 et est le résultat d’une évolution qui dura pendant tout le xive siècle.
+On peut distinguer les causes entre Marseillais, entre Marseillais et étrangers, entre étrangers.
+On voit poindre un droit international.
+
+Causes de droit privé touchant à la vie quotidienne. – Les registres des cours permettent d’observer la vie du peuple marseillais au xive siècle.
+
+Causes de droit pénal. – Ces causes sont surtout intéressantes en ce qui concerne le sort que l’on fait aux étrangers.
+Ce sont surtout des cas de représailles.
+
+
+== Conclusion ==
+
+L’unification des trois villes, vicomtale et supérieures en 1343-1348, l’évolution vers une spécialisation de la justice en matière commerciale, qui aboutit à la réforme de 1420, l’accaparement du pouvoir par les riches bourgeois constituent, pour Marseille au xive siècle, autant d’éléments nouveaux de transition vers le monde moderne.

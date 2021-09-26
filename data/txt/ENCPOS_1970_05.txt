@@ -1,0 +1,49 @@
+identifier: ENCPOS_1970_05
+creator: Marie-Françoise Bourdat
+date: 1970
+title: La chronique de Lambert d’Arles, édition critique
+
+
+
+== Chapitre premier l’auteur et son œuvre ==
+
+Nous n’avons pas d’autres renseignements sur Lambert d’Ardres que ceux donnés dans la chronique : curé d’Ardres à la fin du xiie siècle, il a entrepris de rédiger son histoire à partir de 1194, pour recouvrer la grâce de Baudoin II, comte de Guînes (1169-1206).
+
+La chronique traite, d’une part, de l’histoire des comtes de Guînes (des origines jusqu’à Baudoin II, 1203 environ), d’autre part, de l’histoire des seigneurs d’Ardres (des origines jusqu’au mariage de Chrétienne, fille héritière d’Arnoul IV, avec Baudoin II, comte de Guînes).
+
+
+== Chapitre II Intérêt de la chronique ==
+
+Intérêt historique. – La chronique de Lambert d’Ardres est le document le plus important que nous ayons sur l’histoire du comté de Guînes.
+Les sources de l’auteur sont multiples : d’une part, il se fait l’écho de nombreuses traditions orales, souvent légendaires.
+D’autre part, les sources écrites dont il s’est servi (généalogies des comtes de Flandre, des comtes de Boulogne, chroniques de Flandre, cartulaires des monastères voisins) sont aujourd’hui perdues.
+En outre, pour la période qui lui est contemporaine, il apporte son témoignage personnel. 
+
+Dans son œuvre, Lambert d’Ardres nous livre des renseignements précieux pour l’histoire de la société féodale et de la civilisation de son époque (constructions de châteaux, composition de la bibliothèque d’un seigneur, traits de mœurs).
+
+Intérêt littéraire. – L’auteur fait preuve d’une certaine culture classique : il cite dans la préface Homère, Pindare, Cornelius l’Africain, Phrygius Dares, Virgile, Ovide, Priscien, Eusèbe de Césarée, saint Jérôme, Prosper d’Aquitaine, Bède ; le texte lui-même est émaillé de citations d’auteurs classiques (Ovide, Virgile, Lucain, Stace), de références bibliques, d’allusions mythologiques.
+Mention est faite également d’œuvres en langue vulgaire (chansons de geste, romans, chansons de croisade) qui étaient lues à la cour de Guînes.
+
+Talent littéraire de l’auteur. – La composition bipartite de l’œuvre est très élaborée.
+Les procédés que l’auteur emploie le plus volontiers sont l’énumération et la digression.
+Le style, auquel on serait en droit de reprocher un manque de concision, de rigueur et de sobriété, est cependant au service d’une plume qui a le sens du détail pittoresque, de la scène à décrire et de l’anecdote à raconter.
+
+
+== Chapitre III Manuscrits et éditions ==
+
+Tradition du texte. – La chronique de Lambert d’Ardres est conservée par onze manuscrits : le manuscrit du Vatican, xve siècle, que nous désignons par la lettre V (Vatican, Reg. lat. 696) et qui a peut-être été copié, selon notre hypothèse, pour Louis de Bruges ; le manuscrit de Wolfenbuttel, fin du xvie siècle, W (Herzog-August 502), qui, selon la même hypothèse, aurait été copié à Audruicq en 1586 ; le manuscrit de Paris, fin xvie siècle, P (Bibliothèque nationale, lat. 5996) ; le manuscrit d’Amiens, début xvue siècle, A (Bibliothèque municipale 501) ; le manuscrit de Bruges, xviie siècle, Bg (Bibliothèque publique 434) ; le manuscrit de Saint-Omer, copié en 1616 par G. de Whitte, Oa (Bibliothèque municipale 819) ; le manuscrit de Saint-Omer, xviie siècle, Ob (Bibliothèque municipale 773) ; le manuscrit de Bruxelles, xvue siècle, Bx (Bibliothèque royale 7813) ; le manuscrit de Boulogne, copié en 1745 par Ch.
+Fort, Bl (Bibliothèque municipale 148) ; à ces neuf manuscrits, il faut ajouter deux manuscrits du xviiie siècle, conservés à la Bibliothèque nationale, qui sont restés inaperçus jusqu’à présent (lat. 9225 et lat. 10115).
+Il faut également signaler l’existence d’une copie du xviie siècle de la traduction française de la chronique faite au xvie siècle, conservée à la Bibliothèque nationale (fr. 24053).
+
+Classement des manuscrits. – Les manuscrits dépendent tous de V ; mais on peut distinguer deux groupes : Oa, Ob, Bx, Bl, qui dépendent de V par l’intermédiaire de W (W ayant été copié directement sur V) ; P, A, Bg, qui dépendent de V par l’intermédiaire, semble-t-il, d’un manuscrit perdu.
+
+Éditions.
+
+
+== Édition ==
+
+Pour l’établissement du texte, nous avons suivi le manuscrit du Vatican, V, faisant appel aux corrections que donnent les autres manuscrits, dans les cas où V est défaillant.
+
+Tableaux généalogiques des familles d’Ardres et de Guînes.
+
+Index des noms de personne et de lieu.

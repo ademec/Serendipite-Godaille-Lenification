@@ -1,0 +1,142 @@
+identifier: ENCPOS_1963_09
+creator: Jeanne-Marie Dureau-Lapeysonnie
+date: 1963
+title: L’œuvre d’Antoine Ricart, médecin catalan du xve siècle ; contribution à l’étude des tentatives médiévales pour appliquer les mathématiques à la médecine
+
+
+
+== Avant-propos ==
+
+L’œuvre du médecin catalan Antoine Ricart présente une tentative intéressante pour résoudre les problèmes thérapeutiques par un calcul mathématique.
+Elle attire l’attention sur un personnage jusqu’ici ignoré qui se révèle avoir été un médecin en renom auprès des souverains d’Aragon à la fin du xive et au début du xve siècle.
+
+
+== Première partie Antoine Ricart, sa vie, ses œuvres, sa culture ==
+
+
+=== Chapitre premier biographie ===
+
+On ne sait rien des origines d’Antoine Ricart.
+Les documents rassemblés le montrent, de 1395 à 1418, au service des rois d’Aragon.
+Lui-même dit avoir enseigné à l’Université de Lérida, mais on ne peut fixer la date de cet épisode de sa carrière. 
+
+Médecin de Jean I er. – En 1395, Antoine Ricart est envoyé par Jean Ier en Roussillon pour déterminer si l’épidémie de peste a épargné cette province.
+Son enquête permet au roi de se réfugier à Perpignan.
+
+Médecin et professeur sous le règne de Martin I er. – Antoine Ricart continue à exercer ses fonctions de médecin royal sous Martin Ier, qui lui marque sa confiance à plusieurs reprises : malade, le roi le mande d’urgence à son chevet à Perpignan ; il lui remet la surveillance médicale de ses deux petits enfants bâtards ; enfin, réorganisant l’école de médecins de Barcelone, il l’y nomme professeur.
+Dès lors, le nom d’Antoine Ricart se trouve mêlé aux querelles qui accompagnent les débuts de l’école.
+
+Au service de Ferdinand I er et Alphonse V. – La faveur d’Antoine Ricart ne semble pas se démentir après la mort de Martin Ier.
+Il figure au nombre des médecins de Ferdinand Ier qu’il assiste à son lit de mort.
+Dès son avènement, Alphonse V le nomme commissaire chargé de veiller à la qualification universitaire des médecins exerçant dans le royame.
+On perd toute trace de son existence après 1418.
+A la date de 1444 sa mort est certaine.
+
+
+=== Chapitre II Les œuvres d’Antoine Ricart ===
+
+Les œuvres conservées. – Ce sont des textes latins contenus dans deux manuscrits : le manuscrit 3366 de la Bibliothèque nationale de Madrid (ms.
+M), et le manuscrit VIIIc 14 de la Bibliothèque collégiale de San Candido (ms.
+SC).
+Il s’agit d’une Prefatio dédiant à Martin Ier les deux traités suivants : Compendium secundi operis de arte graduandi medicinas compositas et De quantitatibus et proportionibus humorum.
+Un Opusculum de arte graduandi a été pris, à tort, pour un commentaire du De gradibus d’Arnaud de Villeneuve.
+Il faut ajouter à cette liste l’Assumatio totius artis, résumé de l’Opusculum.
+
+Les œuvres connues par des allusions. – Antoine Ricart renvoie à ses autres écrits de façon assez précise pour que l’on puisse avoir une idée de leur contenu.
+Ce sont des traités mathématiques (Tractatus proportionum, Algorismi minutiarum et integrorum), des traités médicaux comme le De contraoperantiis et la Questio disputée à Lérida contre un maître nommé Franciscus Queralt, un traité intitulé Arbor fisicalis vel scala rationis, enfin diverses lecturae sur des classiques médicaux Hippocrate, Galien, Avicenne.
+On doit réserver une place particulière aux ouvrages sur la graduation des médicaments composés.
+Ces traités qui se succèdent sur le même sujet n’ont pas de titre et sont désignés par leur numéro d’ordre : Primum, Secundum, Tertium opus de arte graduandi medicinas compositas.
+
+Les œuvres catalanes. – Le manuscrit latin 4797 du Vatican contient deux traités médicaux en catalan dus à un maître en médecine : Entoni Ricart.
+Ces textes ont retenu l’attention de deux érudits qui les ont copiés : Lacurne de Sainte-Palaye (Arsenal, ms. 2525) et Don Antonio Bastero (Barcelone, Bibliothèque universitaire, ms. 29).
+Quoique la coïncidence soit frappante, il s’agit probablement d’un homonyme. 
+
+
+=== Chapitre III La culture littéraire d’Antoine Ricart d’après la préface adressée au roi Martin Ier ===
+
+Ce petit discours, lu devant le roi et la cour à l’occasion de la dédicace de deux traités médicaux à Martin Ier, témoigne du mouvement de pré-renaissance qui se fait jour en Catalogne à la fin du xive siècle, sous l’influence de relations politiques et commerciales étroites entre l’Italie et le royaume d’Aragon.
+Outre de nombreuses citations d’auteurs classiques, spécialement de Sénèque, ce texte, démarquant le De remediis utriusque fortunae et les Genealogiae deorum gentilium, montre le précoce succès de Pétrarque et de Boccace en Catalogne, de même qu’une certaine habileté d’Antoine Ricart à réunir des passages empruntés à divers auteurs.
+
+
+== Deuxième partie Étude du traité d’Antoine Ricart intitulé « Compendium secundi operis » ==
+
+
+=== Chapitre premier la graduation au moyen âge ===
+
+Introduction. – Après l’exposé des principes généraux qui sont à la base de la graduation des médicaments, est rappelée l’origine du système des degrés et son extension au xive siècle.
+
+Mathématique et posologie. – A partir des suggestions de Galien, Al-Kindi inaugure un système de posologie à base mathématique qui a déjà retenu l’attention des historiens des sciences dans la mesure où il présente une évidente similitude avec la loi psycho-physiologique de Weber-Fechner.
+Averroès adopte un système mathématique différent et fait figure de chef d’école en face d’Al-Kindi.
+
+Solution proposée par Antoine Ricart. – La graduation des médicaments pose un problème mathématique difficile qu’Antoine Ricart ne pouvait résoudre dans l’état des connaissances dont il disposait.
+Aussi a-t-il imaginé un mode de calcul particulier qui, pour être inexact, n’en est pas moins intéressant. 
+
+
+=== Chapitre II Sources du « Compendium secundi operis » ===
+
+Antoine Ricart résume tout d’abord l’opinion de ses prédécesseurs.
+La première partie de son traité est donc une compilation où il se propose de grouper nombre d’auteurs médicaux en trois écoles derrière Al-Kindi, Averroès et Raymond Lulle.
+Il donne alors une imposante liste de sources, mais il omet de préciser à quel groupe appartient chacun des auteurs cités, et son exposé se réduit au débat classique des traités de posologie entre Averroès et Al-Kindi.
+Antoine Ricart y ajoute une connaissance certaine des œuvres de Raymond Lulle et d’Arnaud de Villeneuve.
+
+
+=== Chapitre III Analyse du « Compendium secundi operis » ===
+
+Partie théorique. – Antoine Ricart expose les différents systèmes de relations entre les degrés ; il reprend celui d’Al-Kindi, tout en apportant un calcul original pour les fractions de degrés.
+Il aborde ensuite la posologie, définit ce qu’il entend par dose première et doses relatives, puis étudie la variation des doses en fonction du climat, de la complexion du sujet, du degré du médicament.
+
+Partie pratique. – Cette partie mérite, seule, le titre de « graduation des médicaments composés », qui est celui de tout le traité.
+Après avoir repoussé la façon dont Averroès, Al-Kindi, Arnaud de Villeneuve proposent de tenir compte des quantités mises en jeu dans une recette, Ricart développe sa théorie personnelle.
+
+
+== Troisième partie Étude du « de quantitatibus et proportionibus humorum » ==
+
+
+=== Chapitre premier analyse du traité ===
+
+Première partie. – Antoine Ricart s’applique à déterminer la quantité totale des quatre humeurs correspondant à chaque individu.
+Il étend alors le système des degrés, qui d’ordinaire intéresse des qualités, à une quantité, tentative qui paraît originale.
+La méthode par laquelle il propose d’évaluer la quantité totale d’humeurs de l’homme moyen, méthode statistique, semble également neuve. 
+
+Deuxième partie. – Ricart se préoccupe d’établir dans quelles proportions le corps humain doit contenir les humeurs pour réaliser l’état d’équilibre qu’est la santé.
+
+Troisième partie. – Antoine Ricart enseigne comment calculer et évacuer la quantité d’humeurs en excès.
+
+
+=== Chapitre II Sources du « de quantitatibus et proportionibus humorum » ===
+
+C’est la lecture d’Hippocrate et de Galien qui suggère à Antoine Ricart l’idée de sa recherche.
+Il est juste de dire qu’il interprète très largement leur pensée.
+Il utilise ensuite à l’appui de sa démonstration les écrits de médecins arabes, commentateurs de Galien, ainsi que ceux d’auteurs en majorité catalans et montpelliérains.
+La façon dont il s’en inspire n’est pas servile car il les cite seulement pour donner de la force à son argumentation.
+
+
+=== Chapitre III Les manuscrits du « de quantitatibus et proportionibus humorum » ===
+
+Après une note descriptive, les deux manuscrits (Madrid et San Candido) sont comparés : M et SC paraissent ne pas dériver l’un de l’autre.
+Le manuscrit M, corrigé et augmenté par l’auteur a été choisi comme manuscrit de base.
+
+
+== Conclusion ==
+
+Médecin apprécié des souverains d’Aragon, Antoine Ricart laisse une œuvre importante, très marquée par les mathématiques qu’il a pratiquées.
+A côté du travail de compilation, tributaire de stériles théories, quelques idées originales se font jour.
+
+
+== Édition ==
+
+Édition intégrale du De quantitatibus et proportionibus humorum d’après le manuscrit 3366 de la Bibliothèque nationale de Madrid, avec les variantes du manuscrit VIIIc 14 de la Bibliothèque collégiale de San Candido et l’indication des sources.
+
+Index nominum.
+Glossaire. 
+
+
+== Appendices ==
+
+I. Pièces justificatives de la biographie, extraites des Archives de la Couronne d’Aragon et des Archives notariales de Barcelone.
+
+II. Édition de la Prefatio adressée au roi Martin d’après le manuscrit unique (M).
+
+III. Édition de l’Assumatio totius artis d’après le seul manuscrit (SC).
+
+IV. Notice du manuscrit 4797 du Vatican latin.

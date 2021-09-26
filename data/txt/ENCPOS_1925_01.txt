@@ -1,0 +1,163 @@
+identifier: ENCPOS_1925_01
+creator: Marcel Baudot
+date: 1925
+title: Histoire de l’abbaye des Fossés, des origines à l’année 925, examen critique des sources narratives et diplomatiques
+
+
+
+== Avant-propos ==
+
+
+
+
+== Introduction ==
+
+
+=== 1. Les archives de l’abbaye ===
+
+Les archives de l’abbaye ont dû souffrir pendant la guerre de Cent ans des pillages et des incendies qui on ravagé Saint-Maur-des-Fossés.
+Leur transfert à Saint-Thomas-du-Louvre au milieu du xviiie siècle, puis à l’hôtel Soubise en 1792 ne semble pas leur avoir causé de graves dommages.
+Les opérations du bureau de triage, en dispersant dans plusieurs séries des Archives nationales les documents du fonds de Saint-Maur, donnent lieu à plus de regrets.
+Aujourd’hui, pour l’époque ancienne que nous étudions, il faut recourir surtout à la série K, qui contient les actes anciens originaux ou présumés tels et à la série L, qui renferme les cinq cartulaires du monastère.
+Deux de ces cartulaires seulement ont été faits d’après les originaux : le Livre noir qui, en majeure partie, date de 1250 et le Cartulaire de 1400 en papier.
+Le Livre blanc, que jusqu’ici on croyait indépendant, dérive en fait du Livre noir et a été fait d’après lui en 1284.
+Les deux autres cartulaires sont des copies des deux premiers datant de 1779.
+Les archives de l’abbaye ont été utilisées au xviie et au xviiie siècle par les érudits qui nous ont laissé un grand nombre de copies d’actes, aujourd’hui conservées à la Bibliothèque nationale et surtout dans la collection Baluze.
+La Bibliothèque Vaticane possède un fragment d’un Cartulaire de l’abbaye des Fossés paraissant dater du xie siècle et contenant les actes les plus anciens que, seul, aux Archives nationales, le Cartulaire de 1400 nous a conservés.
+
+
+=== 2. Les historiens de l’abbaye des Fossés ===
+
+Les érudits des xviie et xviiie siècles et surtout Lecointe et Mabillon ont, par la critique des diplômes et de la Vita Baboleni, essayé de débrouiller les véritables origines de l’abbaye ; les ouvrages parus plus directement sur le sujet, ceux du P. Martin, du P. Sanson, de dom Ansart, de Carpentier, et plus près de nous de Lambin, de Piérart et même celui très récent de Galtier manquent trop souvent de critique et se perdent facilement dans d’inutiles digressions.
+La notice de l’abbé Lebeuf et plus encore le court mais suggestif aperçu de M. Jullian et la longue étude de M. Voigt ont fourni d’intéressantes solutions aux divers problèmes que pose l’histoire ancienne de l’abbaye des Fossés.
+Pour les relations du monastère avec l’abbaye de Saint-Maur-sur-Loire, les articles de dom Landreau sont essentiels. 
+
+
+== Première partie Les origines de l’abbaye et son histoire pendant l’époque mérovingienne ==
+
+
+=== Chapitre premier critique des sources narratives ===
+
+1.
+L’office de saint Babolein. – C’est un office composé de douze leçons en prose entre lesquelles se placent douze répons destinés à être chantés.
+Le manuscrit 5.607 du fonds latin de la Bibliothèque nationale qui contient cette œuvre ne nous a malheureusement laissé que les huit premières leçons.
+Cet Office est très probablement dû au même auteur qui a écrit peu après 1030 un Office de Saint-Maur, connu sous le titre de Sermo de mirabilibus gestis et cet auteur que les Miracula Baboleni nomment Eudes pourrait bien être Eudes de Saint-Maur, l’auteur de la Vita Burcardi ; notons en faveur de cette hypothèse que dans le manuscrit 5.607 les leçons de l’Office sont écrites de la main de ce dernier.
+
+L’Office est une œuvre de caractère hagiographique qui imagine à plaisir les vertus du saint, mais qui, pour les événements de sa vie, a l’honnêteté de se contenter des maigres renseignements fournis par les quelques sources qu’il utilise : Historia ecclesiastica Anglorum de Bède, diplôme de Clovis II pour Blidegisilus, charte de ce dernier, privilège d’Audebert, diplôme de Clotaire III adressé à Gérin.
+
+2.
+La Vita sancti Baboleni. – Infiniment plus détaillée et plus imprudente est la Vita sancti Baboleni qui ne craint pas d’attribuer à saint Babolein tout ce qui dans les Histoires et les vies de saints se rapporte à un homme de ce nom ou d’un nom approchant et de relier par d’ingénieuses suppositions les renseignements contradictoires qui s’appliquent en réalité à des personnages différents.
+Cette Vita a utilisé, outre l’Office, la Vita Columbani de Jouas, les Versus de Bobuleno abbate, la Vita Remacli des Gesta episcoporum Leodiensium d’Hergier de Lobbes, les Gesta regum Francorum, les Gesta Dagoberti, l’Historia ecclesiastica Anglorum de Bède, Orose, la Passio retractata Acaunensium martyrum, d’où elle a puisé de quoi composer une biographie pleine de romanesque et de vie ; elle a en outre emprunté à la Vita Mauri du Pseudo-Faustus, aux Miracula sancti Mauri d’Eudes de Glanfeuil et à la Vita Burcardi d’Eudes de Saint-Maur maints développements, maintes tournures capables d’enjoliver son récit.
+La Vita analyse une série de diplômes et d’actes faux que l’Office n’avait pas connus.
+Bordier a soutenu que ces falsifications avaient été faites d’après les données de diplômes authentiques vus par l’auteur de la Vita ; Voigt a rétabli la vérité sur ce point en montrant que la Vita avait bel et bien utilisé les actes faux eux-mêmes.
+Mais contrairement aux affirmations de Bordier et de Voigt, il n’y a pas lieu de supposer que la Vita ait connu trois actes, deux de Clovis II et un de Clotaire III qui seraient aujourd’hui perdus ; ces actes n’ont jamais existé, même pas dans le cerveau de l’auteur de la Vita.
+
+Il est difficile de dater exactement la Vita Baboleni ; un indice permet d’établir qu’elle est antérieure à 1067.
+Elle a été rédigée probablement peu avant cette date par un moine de Saint-Pierre-des-Fossés ; il ne semble pas que sa rédaction ait été suscitée par le grand mouvement d’opposition et de résistance que la nomination du comte Guillaume à l’avouerie des Fossés provoqua en 1058 parmi les moines de l’abbaye et qui les amena à écrire la Vita Burcardi et à fabriquer des diplômes et une bulle.
+La Vita Baboleni n’a pas le caractère éminemment utilitaire de ces dernières productions ; les analyses qu’elle donne des actes du chartrier sont souvent maladroites et les avantages obtenus par l’abbaye sont rarement mis en relief.
+L’auteur anonyme de la Vita est fier de son abbaye, des privilèges qu’elle a obtenus, il montre bien de l’amour-propre, mais aucune arrière-pensée intéressée.
+Les Miracula s.
+Baboleni qui suivent la Vita et qui émanent du même auteur sont en partie contemporains de la rédaction de la Vita, mais les derniers chapitres ont été ajoutés peu après 1088.
+
+
+=== Chapitre II Critique des sources diplomatiques ===
+
+1.
+Le diplôme de Clovis II pour Blidegisilus (639). – Par ce diplôme, le roi Clovis II accorde au diacre Blidegisilus la propriété de la terre du fisc appelée Le Fossé et entourée par la boucle de la Marne à l’est de Paris pour qu’un monastère y soit construit.
+Le texte actuellement conservé de cet acte est un remaniement du diplôme original.
+Sous une forme très carolingienne transparaissent parfois des expressions qui ne peuvent venir que du prototype mérovingien.
+Le fonds n’a subi qu’une légère retouche.
+Nous n’avons fait que préciser la critique faite de cet acte par M. Voigt.
+
+2.
+La charte de Blidegisilus (9 mai 641). – La même conclusion s’impose pour la charte de Blidegisilus qui transfère à Babolein et à ses moines la propriété de là terre du Fossé.
+Le prototype mérovingien est plus apparent encore et le remaniement n’a porté que sur les formes grammaticales et sur le vocabulaire.
+La comparaison avec la charte de Chrotilde conservée en original est en ce sens décisive.
+Les conclusions de M. Voigt refusant illogiquement de croire cette fois à une base authentique comme il l’avait fait pour l’acte précédent et attribuant la charte à un faussaire qui aurait utilisé la charte d’Emmon pour Sainte-Colombe de Sens et la bulle de Martin I pour Rebais sont irrecevables. 
+
+3.
+Le privilège d’Audebert, évêque de Paris (15 mai 643). – Le privilège de l’évêque Audebert réglant les rapports entre le pouvoir épiscopal et l’abbaye de Saint-Pierre-des-Fossés, que M. Auvray croit remanié et que M. Voigt considère comme un faux fabriqué surtout à l’aide du privilège d’Emmon, est à notre avis absolument authentique dans sa forme comme dans ses clauses et c’est ce que la comparaison avec les autres chartes épiscopales établit très nettement.
+
+4.
+La bulle de Martin I (24 avril 649). – La bulle de Martin I qui confirme les actes précédents est un faux ayant à sa base plusieurs diplômes authentiques du chartrier des Fossés et dont la date est le fait d’une addition postérieure à la fabrication du reste de l’acte.
+La bulle fausse attribuée au même pape pour le monastère de Saint-Pierre-de-Rebais a été fabriquée vers 1135 d’après la bulle de Saint-Pierre-des-Fossés et non vice-versa comme le suppose M. Voigt.
+
+5.
+Le diplôme de Clovis II confirmatif des actes précédents. – Ce diplôme est un faux grossier dont le formulaire rappelle celui des actes de la chancellerie de Henri I et de Philippe I, rois de France.
+
+6.
+Le diplôme de Clotaire III adressé à tous les fidèles. – Ce diplôme qui place l’abbaye sous le régime de l’immunité est un faux fabriqué à l’aide des diplômes carolingiens du chartrier.
+Il contient aussi un long fragment d’un diplôme de Charles le Chauve pour l’abbaye de Vézelay où il est question d’une bulle pontificale ; c’est ce qui a donné l’idée de fabriquer la bulle de Martin.
+
+7.
+Le diplôme de Clotaire III adressé au comte Gérin (27 avril 658). – Ce diplôme qui met l’abbaye sous le régime de l’immunité est un remaniement d’un diplôme authentique dont la forme renouvelée suit pas à pas la forme primitive sans toucher au fond. 
+
+8.
+Le diplôme de Childebert III. – Le diplôme de Childebert III qui maintient le monastère sous le régime de l’immunité est le plus ancien acte du chartrier des Fossés qui ait été conservé en original, encore que l’écriture de ce diplôme plus simple que celle des autres originaux mérovingiens en ait fait douter ; mais M. Prou a dissipé tous les doutes en montrant que la souscription du référendaire était certainement une véritable signature absolument authentique et que l’écriture particulière du corps de l’acte était probablement due à ce fait que le diplôme avait été rédigé à Saint-Pierre-des-Fossés et écrit par un des moines du monastère et que l’on s’était contenté de le faire souscrire à la chancellerie.
+
+9.
+Le diplôme de Chilpéric II (24 avril 717). – Le diplôme de Chilpéric II qui confirme un acte perdu de Dagobert II ratifiant les décisions du privilège d’Audebert concernant la liberté des élections abbatiales nous est parvenu dans une forme très proche de sa forme authentique primitive ; on a seulement cherché à lui donner une latinité plus soucieuse de la syntaxe et de la morphologie.
+
+10.
+Le diplôme de Thierri IV (2 mars 722). – Ce diplôme qui ratifie la donation faite à Saint-Pierre-des-Fossés par le comte Raimond du village de Montreuil est un faux qui reproduit une grande partie du diplôme authentique de Charles le Chauve pour Vézelay, cité plus haut.
+
+11.
+Classification et datation des actes mérovingiens faux ou remaniés du chartrier des Fossés. – C’est une tâche très délicate et les érudits qui s’en sont occupés l’ont résolue très différemment.
+Pour Bordier, tous les faux ont été fabriqués après la rédaction de la Vita et d’après elle à une période indéterminée entre le XIe et le xve siècle.
+M. Voigt place au xe siècle la fabrication de la bulle de Martin, au début du xie celle du diplôme de Clovis II pour Blidegisilus, la charte de ce dernier et les diplômes de Clotaire III tandis que la confirmation de la bulle par Clovis II et le diplôme de Thierri IV seraient postérieurs à la Vita et du même faussaire, Henry Travers voyait plus justement au début du xie siècle la rédaction du diplôme de Thierri IV et vers le milieu du même siècle la fabrication des autres actes.
+Ayant établi que la bulle de Martin s’est servie du premier diplôme de Clotaire III, que le diplôme confirmatif de Clovis II a utilisé la bulle, que le diplôme de Clotaire III et celui de Thierry IV sont du même faussaire et du début du xie siècle (postérieurs à l’Office et antérieurs à la bulle), que la bulle est due au moine des Fossés qui a rédigé le diplôme de Henri I de 1058 (ce moine est peut-être Eudes de Saint-Maur, chancelier de l’abbaye), que ces deux derniers actes tendant vers le même but ont été rédigés ensemble, qu’enfin les actes remaniés l’ont été à la fin du ixe siècle à la suite de la destruction du chartrier lors d’une invasion normande et à l’aide des débris des originaux eux-mêmes (peut-être par les soins de l’abbé Eudes de Glanfeuil), nous pouvons dresser le tableau suivant :
+
+Diplôme de Clovis II pour Blidegisilus, charte de Blidegisilus, diplôme de Clotaire III adressé à Gérin, diplôme de Chilpéric H, remaniés entre 862-868-886 ;
+
+Diplôme de Thierri IV, diplôme de Clotaire adressé à tous les fidèles, faux fabriqués entre 1025 et 1058 ;
+
+Bulle de Martin I, faux fabriqué en 1058 ; diplôme confirmatif de Clovis H, faux fabriqué après 1067, vers 1100 ;
+
+Date de la bulle de Martin I, ajoutée entre 1067 et 1135. 
+
+
+=== Chapitre III Essai de reconstitution de l’histoire de l’abbaye à l’époque mérovingienne ===
+
+En 639, un noble parisien, nommé Blidegisilus et favori de feu le roi Dagobert obtint de la reine Nanthilde, régente au nom de son jeune fils Clovis II, la propriété du territoire compris dans la boucle de la Marne à l’est de Paris appelé Le Fossé, à cause du canal que les Romains y avaient creusé, et que l’imagination populaire avait dénommé le Château fort des Bagaudes.
+Blidegisilus qui avait reçu cette terre, à condition d’y bâtir une abbaye, en éleva une en effet et l’évêque de Paris Audebert lui donna pour abbé un disciple de saint Colomban nommé Babolein probablement natif d’Irlande.
+Le 9 mai 641, Blidegisilus, par un acte écrit et corroboré par les souscriptions de nombreux dignitaires ecclésiastiques et laïques, transmettait à Babolein ses droits sur la presqu’île du Fossé et le 15 mai 643 l’évêque Audebert, avec l’approbation d’un synode de onze prélats, accordait au nouveau monastère de Saint-Pierre-du-Fossé (depuis le xiiie siècle, Saint-Maur-des-Fossés) un privilège très libéral qui réglait les relations futures entre la juridiction épiscopale et les moines de l’abbaye.
+Clotaire III, le 27 avril 658, mettait le monastère sous le régime de l’immunité ; Dagobert III et Chilpéric II confirmaient les dispositions du privilège d’Audebert concernant la liberté de l’élection abbatiale.
+
+
+== Deuxième partie ==
+
+
+=== Chapitre premier les années de prospérité sous les règnes de Louis le pieux et de Charles le Chauve ===
+
+Comme beaucoup d’autres, l’abbaye eut à souffrir des sécularisations qui marquèrent les débuts de l’époque carolingienne et elle tomba en complète décadence, malgré le renouvellement de son privilège d’immunité par Pépin le Bref et Charlemagne.
+Le comte Bougon, gendre de l’empereur Louis le Pieux, entreprit de restaurer le monastère peu avant l’année 816 ; le souverain, de son côté, accorda à l’abbaye renaissante pleine immunité et exemption de tout péage et lui fit plusieurs donations.
+Le renom de Saint-Pierre-des-Fossés devint si grand que son abbé Benoît fut chargé de réformer le monastère de Saint-Wandrille et son successeur Engilbert alla restaurer l’abbaye de Saint-Maur-sur-Loire.
+L’évêque Audri du Mans lui demanda des moines pour le nouveau couvent de Neuville-sur-Sarthe ; pour prix de ces efforts Saint-Pierre-des-Fossés obtenait vers 833 que Saint-Maur-sur-Loire devînt un de ses prieurés, ainsi que Neuville-sur-Sarthe en 845.
+Les débuts du règne de Charles le Chauve furent pour l’abbaye une ère de prospérité, le souverain combla de ses faveurs les abbés Engilbert et Ainard ; et ceux-ci, par une série d’échanges, firent de la fortune territoriale de leur monastère un tout compact et immense.
+
+
+=== Chapitre II Les rapports avec l’abbaye de saint-maur-de-glanfeuil ===
+
+Le monastère de Saint-Maur-sur-Loire, uni à l’abbaye des Fossés vers 833, était passé au pouvoir de l’évêque de Poitiers, Evrouin, qui n’était pas homme à supporter la domination de l’abbé des Fossés sur ce petit monastère.
+Le diplôme qui consacrait les liens entre les deux abbayes fut détruit et Evrouin, tout en gardant pour lui les profits du bénéfice, confiait la charge d’abbé régulier à son jeune cousin Gauzlin qui fut béni abbé de Glanfeuil le 30 mai 846. (Cette date fournie par le récit contem porain d’Eudes de Glanfeuil a été rejetée à tort par les historiens ; car les synchronismes donnés concordent parfaitement avec l’emploi encore constant à cette époque du comput ambrosien.) A la mort d’Evrouin (18 avril 854) et selon les dispositions d’un diplôme du 14 juillet 847, Gauzlin devint l’abbé bénéficier de Glanfeuil et son frère Teodradus l’abbé régulier.
+Eudes de Glanfeuil, qui succéda bientôt à ce dernier, dut quitter l’abbaye avec ses moines devant les invasions normandes de plus en plus menaçantes ; il chercha refuge successivement au Mesle-sur-Sarthe, à Saint-Savin-sur-Gartempe et enfin dans une propriété bourguignonne, proche de la Saône, du comte Eudes, beau-frère de Louis le Bègue.
+On a eu tort de faire commencer cet exil en 862, car bien des raisons militent en faveur de 858.
+Devant l’impossibilité de retourner à Glanfeuil, Eudes se décida à porter les reliques de saint Maur et à installer ses moines à l’abbaye des Fossés qui lui offrait l’hospitalité.
+
+
+=== Chapitre III L’exil des moines des Fossés à fleury et à cessieu ===
+
+A la mort de l’abbé des Fossés, Geoffroi, Eudes de Glanfeuil devint abbé de ce monastère et il obtint du roi Carloman un diplôme qui soumettait à nouveau à l’abbé des Fossés la congrégation de Saint-Maur-sur-Loire.
+Le séjour aux Fossés devenait chaque année plus dangereux à mesure que grandissait l’audace des Normands et Eudes fit transporter le corps de saint Maur, accompagné d’une partie des moines d’abord à Fleury-la-Rivière en Champagne (876-888), puis à Cessieu-en-Bugey, où l’archevêque de Lyon Aurélien leur concéda un prieuré.
+Aux environs de 923, les exilés ramenèrent aux Fossés la châsse de saint Maur.
+Elle fut placée dans les nouveaux bâtiments monastiques que le comte Haganon, l’évêque Rainaut et les moines demeurés à l’abbaye avec l’abbé Rumault avaient fait construire.
+
+
+== Recueil des actes de l’abbaye de Saint-Pierre (Saint-Maur) des-fossés des origines à l’année 925 ==
+
+47 documents.
+
+
+== Pièces justificatives. Appendices ==
+
+

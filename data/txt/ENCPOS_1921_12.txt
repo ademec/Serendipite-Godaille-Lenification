@@ -1,0 +1,113 @@
+identifier: ENCPOS_1921_12
+creator: Louis Martin
+date: 1921
+title: L’affaire des évêques simoniaques bretons et l’érection de Dol en métropole (848-850)
+
+
+
+== Bibliographie ==
+
+
+
+
+== Avant-propos ==
+
+Raisons du choix du sujet : la question demeure fort obscure, quoique les érudits s’y soient depuis longtemps attachés ; les ressemblances littérales, et qu’on n’avait point remarquées jusqu’ici, entre le chapitre LXI de la première compilation de Pierre le Baud et le chapitre XI de la Chronique de Nantes ont attiré mon attention.
+Je tente de démontrer que ce chapitre LXI est la traduction française d’un fragment de la Chronique de Dol de Baudry de Bourgueil, lequel a utilisé en grande partie les mêmes sources que le chroniqueur de Nantes du xe siècle.
+Je tâche de découvrir l’origine de ces sources communes : le Récit de la translation des reliques de saint Marcellin, écrit vers 850 et les Chroniques annaux des rois Bretons Armoricains, terminés vers 874.
+Les autres sources de Baudry sont  : la Chronique de Nantes elle-même et la Chronique de Dol du clerc Pierre, composée entre 1076 et 1080.
+
+
+== Introduction ==
+
+Exposé de l’origine du schisme breton.
+Noménoé, chef des Bretons, prend le prétexte de la simonie pour destituer les prélats francs qui occupent en Bretagne des sièges épiscopaux.
+Puis, pour rendre sa province indépendante au spirituel, de la province franque de Tours, comme elle l’est politiquement du royaume franc, grâce à ses victoires sur Charles le Chauve, il érige Dol en métropole, sans prendre, sur cela, l’avis du pape.
+Pendant trois siècles, jusqu’en 1199, la discussion se poursuit entre les partisans de Dol et ceux de Tours.
+La vérité sur l’origine de l’affaire est difficile à démêler, sous tant d’erreurs et de mensonges D’ailleurs, la plupart dés documents primitifs sont perdus.
+On peut cependant en découvrir la trace dans des ouvrages postérieurs.
+C’est ce que j’ai tenté de faire dans cette étude.
+
+
+== Première partie La chronique de Dol de Baudry de Bourgueil ==
+
+Pierre le Baud, dans son Histoire de Bretagne, témoigne, en en citant quelques extraits, que Baudry de Bourgueil, archevêque de Dol de 1107 à 1130, a rédigé une Chronique de Dol.
+Ces citations nous permettent de reconnaître que ce prélat s’est inspiré de la chronique du clerc Pierre, plaidoyer en faveur de la métropole bretonne, composé entre 1076 et 1080, sous l’inspiration de l’archevêque Even.
+Mais il a dû développer ce maigre canevas, et sa chronique, perdue, était sans doute, beaucoup plus importante.
+
+On trouve dans la première compilation de Pierre le Baud, un chapitre traitant de l’origine du schisme breton, dont la partialité en faveur de Dol prouve que Pierre le Baud ne fait que traduire un ouvrage antérieur.
+Cet ouvrage est une dissertation appuyée sur un certain nombre de sources et composée à Dol, après 1076, puisqu’elle utilise la chronique de Pierre, et avant 1199, époque où la dispute entre Dol et Tours fut décidément résolue.
+L’époque où elle fut rédigée, l’esprit qui l’anime, les procédés que l’auteur emploie font croire que cette dissertation est un fragment de la chronique de Baudry, composée entre 1107 et 1125, pour défendre les droits de la métropole doloise.
+
+
+== Deuxième partie Les sources narratives de la chronique de Baudry ==
+
+
+=== 1° Baudry n’a pas utilisé la chronique de Nantes du xe siècle, mais des sources qui ont inspiré également celle-ci. ===
+
+Certains passages de la chronique de Baudry et de la Chronique de Nantes du xe siècle présentent des ressemblances littérales telles qu’on peut croire que celle-ci a servi de source à celle-là.
+Si l’on examine les différences qui les distinguent, cette présomption s’évanouit.
+La chronique de Baudry, quant aux faits, est plus véridique, ou plus vraisemblable ; quant au dessein, elle est plus logique et plus simple.
+Les explications tendancieuses, les interprétations compliquées, les interpolations du chroniqueur de Nantes, témoignent qu’il a dû faire de grands efforts, et maladroits, pour adapter à sa thèse des renseignements à lui fournis par des textes qui étaient favorables à Dol, à Noménoé et hostiles aux évêques simoniaques, quand lui-même est partisan de Tours.
+La simplicité de Baudry démontre, au contraire, qu’il a utilisé ces mêmes textes, sans en modifier l’esprit, puisqu’ils servaient de défense aux opinions que lui-même soutient.
+
+
+=== 2° la translation des reliques de saint Marcellin. ===
+
+Durant le voyage qu’il accomplit à Rome pour soutenir devant le pape les desseins de Noménoé, et obtenir l’agrément du pontife, Convoion, abbé de Redon reçut de Léon IV le chef de saint Marcellin, qu’il rapporta dans son abbaye.
+Le récit de cette translation fut écrit, peu après le retour du saint abbé, par un moine de Redon et avant que Noménoé eût enfreint les ordres du pape : l’innocence du récit et la candeur avec laquelle le narrateur rapporte des événements qu’il eût, s’il en avait soupçonné la portée future, passés sous silence, témoignent de l’ancienneté de son texte.
+D’ailleurs, nous possédons dans les Gesta sanctorum rotonensium, rédigés entre 868 et 875, un récit, adapté aux circonstances par un auteur prudent et qui utilise, en le modifiant, selon les nécessités du moment, le texte de la translation.
+
+Ce texte nous a été transmis, à peine modifié, par Baudry de Bourgueil, et interpolé par le chroniqueur de Nantes.
+
+
+=== 3° les chroniques annaux des rois bretons Armoricains. ===
+
+Pierre le Baud traduit sous ce titre un assez grand nombre de fragments, tirés d’un même ouvrage, contrairement à l’opinion reçue jusqu’ici.
+Cette chronique, d’après les passages que nous en possédons, tend à établir l’ancienneté de la monarchie bretonne, le droit de Noménoé, descendant de l’ancienne lignée royale, à porter la couronne, le droit éminent de Salomon, fils du frère aîné de Noménoé, à revendiquer contre Érispoé, fils de Noménoé, le titre de roi, la légitimité des prétentions de la métropole de Dol.
+Elle se termine par la légende du roi Salomon, assassiné et devenu, grâce à ses vertus et à sa mort, saint et martyr.
+
+Elle n’a pu être écrite que sous l’inspiration de Salomon, puisque après lui, nul ne prétendit plus à la dignité royale : il n’y aurait eu aucune raison de composer cette chronique après sa mort.
+Et elle ne peut avoir pour auteur qu’un moine de Redon ou de Plélan, car la reconnaissance et l’intérêt expliquent seuls que cet ouvrage se termine par le panégyrique hagiographique d’un roi qui fut grand bienfaiteur de Redon et enterré à Plélan.
+D’ailleurs, pour la partie proprement annalistique, elle fut écrite avant 874, et elle utilisa les Gesta sanctorum rotonensium composés entre 868 et 875 et qui n’ont pas dû se répandre dès leur origine en dehors du monastère.
+
+Baudry et le chroniqueur de Nantes utilisent, avec un esprit différent ces Chroniques annaux des rois Bretons Armoricains. 
+
+
+== Conclusion ==
+
+Outre ces deux sources communes à la chronique de Baudry et à la Chronique de Nantes, Baudry cite, pour le réfuter, un passage de la Chronique de Nantes à laquelle son ouvrage constitue en quelque façon une riposte.
+Enfin il se sert de la chronique du clerc Pierre.
+En résumé, Baudry utilise la Translation des reliques de saint Marcellin, qui a servi aussi de source aux Gesta et à la Chronique de Nantes du xe siècle ; les Chroniques annaux des rois Bretons Armoricains qui ont servi aussi de source à la Chronique de Nantes du xe siècle et à la chronique du clerc Pierre ; la Chronique de Nantes du xe siècle ; la chronique du clerc Pierre.
+Et sa chronique a servi elle-même de source à la Chronique de Saint-Brieuc et à le Baud, qui en a traduit au moins un fragment dans le chapitre LXI de sa première compilation.
+
+
+== Appendice I les batailles de Messac et de Blain et la prise de Nantes par les normands en 843 ==
+
+Le texte de ce récit est composé de deux fragments : le premier, qui raconte les batailles de Messac et de Blain entre les Bretons et les Nantais, a été traité d’abord dans les Chroniques annaux des rois Bretons Armoricains ; le deuxième qui narre le siège, la prise et le sac de Nantes par les Normands est l’œuvre d’un témoin oculaire, qui écrivait entre 853 et 877.
+Les Chroniques annaux des rois Bretons Armoricains en ont donné un résumé.
+
+Ces deux fragments se trouvent réunis dans une Chronique de Nantes.
+Or la Chronique de Nantes du xie siècle n’en rapporte que le second.
+Donc il existe une autre Chronique de Nantes, antérieure à celle-ci et dont le texte fragmentaire nous est fourni par le fragment dit du Val-Dieu.
+
+
+== Appendice II le siège d’Angers par Charles le Chauve et Salomon en 873 ==
+
+Le récit initial a été composé par un clerc d’Angers et est contemporain des faits.
+Il a donné naissance aussitôt à une version bretonne, insérée dans les Chroniques annaux des rois Bretons Armoricains et inspirée par Salomon, car elle tend à démontrer que le roi Charles a concédé à Salomon les attributs royaux, admis ses droits légitimes, hérités des anciens rois bretons, et reconnu que son titre royal serait héréditaire.
+
+
+== Appendice III texte fragmentaire des chroniques annaux des rois bretons Armoricains ==
+
+
+
+
+== Appendice IV texte de la traduction par le Baud du fragment de Baudry ==
+
+
+
+
+== Table des matières ==
+
+

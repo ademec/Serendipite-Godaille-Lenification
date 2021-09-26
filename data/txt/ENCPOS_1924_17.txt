@@ -1,0 +1,154 @@
+identifier: ENCPOS_1924_17
+creator: Jeanne Vielliard
+date: 1924
+title: Le latin des diplômes royaux et chartes privées à l’époque mérovingienne
+
+
+
+== Avant-propos ==
+
+L’étude de ces documents, dont les originaux datés sont conservés, peut contribuer à établir la chronologie des faits linguistiques romans.
+
+
+== Bibliographie ==
+
+
+
+
+== Première partie Phonétique ==
+
+
+=== Chapitre premier les voyelles toniques ===
+
+A reste a sauf dans -ario qui se présente une fois sous la forme -ero et dans -aco, écrit parfois aeco ou aico. – Ĕ est rarement confondu avec i, se diphtongue dans decem > dieci. – Ē libre ou entravé est noté généralement i. – I est souvent confondu avec e. – I reste i sauf dans sī >se. – Ǒ est conservé. – Ō est confondu avec u. – Ŭ est confondu avec o, – Ū reste u, 
+
+
+=== Chapitre II Les voyelles atones ===
+
+A antétonique devient e dans adiecencia, monestirium ; a final reste a. – Ĕ et ē sont notés i en toutes positions et notamment en hiatus devant une voyelle.–/ devient e. – Ī reste généralement i sauf à la finale où ī devient e. – Ǒ et b sont confondus avec u. – U et parfois ū sont confondus avec o. – υ grec est noté rarement y, souvent i ou e, jamais u.
+
+
+=== Chapitre III Les diphtongues ===
+
+AE > e, souvent noté i. – AU >a dans agustus. – EU d’origine grecque ou germanique est noté eo, iu. – OE est confondu avec ae.
+
+
+=== Chapitre IV Les consonnes ===
+
+1.
+Explosives. – a) palatales : k(c) intervocalique devant o, u, a, devient g ; devant e, s’assibile dans requiisset ; k + r > gr ; auct->aut- ; k + s(x) > s. – • G intervocalique avant ou après e, i, devient yod ; n + g > n dans distriniendum, guignentas. – b) dentales : t intervocalique ou final devient d. – D intervocalique est conservé ; d final devient t ; il tombe dans ad > a. – c) labiales : P intervocalique > b ; pr > br ; p appuyant et entre consonnes tombe. – B intervocalique > v ; b devant t > p ; mbi > mi.
+
+2.
+Fricatives. – D + i en hiatus, g + e ou i deviennent yod. t + i et k + i sont confondus mais restent distincts de si. – S final est maintenu. – U tombe après q, g, n. – W germanique > gu . – F intervocalique > v. – V parfois confondu avec b.
+
+3.
+Sonantes. – L est vocalisé dans Salicetum > Saocitho, Saucito. – M final s’est amuï. – N devant s tombe.
+
+4.
+L’aspiration. – Emploi erroné de h ; l’aspiration ne subsiste que dans les noms germaniques.
+
+5.
+Les consonnes doubles se simplifient ; m est doublé à la première personne du pluriel : summus.
+
+
+=== Chapitre V Phénomènes divers ===
+
+La recomposition est pratiquée de façon courante et semble ne pas intéresser uniquement la graphie.
+La syncope est régulière dans dominus > domnus et a lieu parfois entre une explosive et une liquide.
+La prosthèse de i ou e est fréquente devant s impur.
+Quelques cas d’aphérèse, d’épenthèse et d’haplographie.
+
+
+== Deuxième partie Morphologie ==
+
+
+=== Chapitre premier les noms et les adjectifs ===
+
+Première déclinaison : le nominatif pluriel est en -as ; quelques ablatifs pluriels en -abus. – Deuxième déclinaison : génitif singulier contracte des noms en -ius, – ium : palati. – Troisième déclinaison : les imparissyllabiques conservent le nominatif classique sauf superstes > superstetis, optimas> optimatis \ la forme maiorem domus est employée à tous les cas. même au nominatif ; quelques génitifs pluriels en -orum : fratrorum. – Les formes classiques des quatrième et cinquième déclinaisons sont généralement conservées ;rem tend à devenir forme unique indéclinable. – Noms propres en -a -anis, -o -onis. – Passage d’une déclinaison à une autre : ǹurus > nura. – Neutre pluriel assimilé au féminin singulier.
+
+
+=== Chapitre II Les Pronoms ===
+
+1.
+Pronoms personnels. – Persistance du génitif de nos, nostri.
+
+2.
+Possessifs. – La forme réduite vulgaire sa est substituée à sua.
+
+3.
+Démonstratifs. – Id, forme invariable. – Ille > illi ; pas d’exemples d’illui. – Ipsius est employé à tous les cas obliques. – Hac, nominatif féminin singulier ; hic, nominatif féminin singulier et pluriel.
+
+4.
+Indéfinis. – Les génitifs ullius, utriusque sont conservés.
+
+5.
+Le relatif qui et ses composés. – Les formes qui, nominatif, quem, accusatif s’appliquent aux trois genres, singulier et pluriel. – Quod tend à devenir relatif unique, indéclinable. – Aliquis> alicus.
+
+
+=== Chapitre III Le verbe ===
+
+1.
+Les voix. – Quelques déponents devenus actifs.
+
+2.
+Les temps et les modes. – Confusions dans les terminaisons dues aux transformations phonétiques et aux graphies inverses. – Participe passé de la première conjugaison en -itus : rogitus. – Impératif : videtis pour videte, facetis pour facite. – Parfaits : prédominance des formes contractes ; parfaits en -si, parfaits en -dedi.
+
+3.
+Changements de conjugaison. – Minuere > minuare, 
+
+4.
+Verbes irréguliers. – Leur conjugaison tend à s’uniformiser avec celle des verbes réguliers : inferrire pour inferre ; volemus pour volumus ; potibat, potibunt pour poterat, poterunt.
+
+
+== Troisième partie Syntaxe ==
+
+
+=== Chapitre premier le nombre ===
+
+1.
+Pluriel dit de majesté. – Ce pluriel est employé régulièrement dans les diplômes royaux ; il alterne avec le singulier, à la première personne, dans les chartes privées.
+
+2.
+Accord en nombre. – Le verbe ayant pour sujet un nom collectif singulier se met au pluriel ; quand plusieurs sujets sont unis par vel, seu, neque, le verbe est tantôt au singulier, tantôt au pluriel.
+
+
+=== Chapitre II Les Pronoms ===
+
+1.
+Pronoms personnels. – Le pronom personnel sujet est fréquemment exprimé, mais dans des cas qui en justifient presque toujours l’emploi.
+
+2.
+Démonstratifs. – Ipse prend souvent la place des autres démonstratifs ; ille a la valeur d’un article défini.
+
+3.
+Possessifs. – Suus se substitue à eius pour renvoyer à un possesseur unique ; eorum, à suus pour renvoyer à un possesseur multiple. 
+
+
+=== Chapitre III Les cas ===
+
+Grande confusion dans l’emploi des cas ; pourtant le nominatif reste toujours distingué des cas obliques. – Le génitif de possession est souvent remplacé par l’accusatif, l’ablatif ou le datif. – Ablatif, accusatif et nominatif absolus.
+
+Après les prépositions, l’accusatif et l’ablatif sont employés indifféremment. – Extension de l’usage et du sens des prépositions ; la construction périphrastique avec ad, de, ex, per est employée pour exprimer les relations que les cas seuls indiquent en latin classique.
+
+
+=== Chapitre IV Le verbe ===
+
+1.
+Les voix. – Confusion du participe présent (actif) avec le participe passé (passif). – Le passif impersonnel.
+
+2.
+Les temps des propositions simples. – L’imparfait pour le parfait. – L’indicatif et le subjonctif présents, le futur antérieur sont substitués au futur simple. – Le plus-que-parfait pour l’imparfait. – L’infinitif passé pour l’infinitif présent.
+
+3.
+Les modes des propositions simples. – Emplois nouveaux de l’infinitif, du participe présent et du gérondif. – Confusion de l’indicatif et du subjonctif dans le discours direct.
+
+4.
+Les temps et les modes des propositions complexes. – A la proposition infinitive se substituent des subordonnées avec quod et ut. – Le subjonctif est conservé après ut final. – Après dum assimilé à cum, l’indicatif et le subjonctif sont employés indifféremment. – Après si hypothétique, on trouve l’imparfait de l’indicatif. 
+
+5.
+Les verbes auxiliaires de temps et de mode. – Sens et emploi de habere, debere, posse, valere, videri.
+
+
+== Conclusion ==
+
+Les vulgarismes que l’on relève dans ces documents sont, en général, identiques à ceux que présentent, à la même époque, les textes bas-latins de tout le domaine roman ; il en est quelques-uns pourtant qui semblent particuliers à la Gaule et font prévoir certaines formes proprement françaises.

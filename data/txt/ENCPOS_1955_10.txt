@@ -1,0 +1,102 @@
+identifier: ENCPOS_1955_10
+creator: Colette Jabraud
+date: 1955
+title: Un style du Châtelet de Paris, le Pour monstrer et aprandre. Étude et édition
+
+
+
+== Introduction ==
+
+Le
+    « Pour monstrer et aprandre » est un style de procédure du Châtelet de Paris.
+Son auteur est inconnu.
+L’importance du Châtelet – prévôté ordinaire en droit, mais exceptionnelle de fait – ■ justifie l’étude d’un style de cette juridiction.
+Choppin, Laurière, Klimrath ont utilisé ou signalé celui-ci.
+Mais c’est M.A. Giffard qui a montré son véritable intérêt : ses rapports avec le Grand Coutumier de Jacques d’Ableiges.
+
+
+== Bibliographie ==
+
+
+
+
+== Première partie Étude externe ==
+
+
+=== Chapitre premier tradition. ===
+
+On possède trois manuscrits du
+    « Pour monstrer » : le ms. 2794 du fonds Ottoboni de la Bibl.
+Vaticane, le ms. 18419 du fonds français de la Bibl. nationale de Paris et le ms. 14669 du fonds latin de cette même Bibliothèque.
+Un quatrième manuscrit, signalé par Salmon et M.A. Giffard, n’a pu être retrouvé.
+Le manuscrit du Vatican, qui est le plus complet et dans lequel la disposition des paragraphes est la plus satisfaisante, a été choisi comme manuscrit de base.
+
+
+=== Chapitre II Principes d’édition. ===
+
+ 
+
+
+== Deuxième partie Étude interne ==
+
+
+=== Chapitre premier les rapports du « pour monstrer » et du grand coutumier. Sa date. ===
+
+Le
+    « Pour monstrer » est antérieur à 1367.
+Les rapports avec le Grand Coutumier sont nombreux et importants.
+Ils ne suffisent peut-être pas à démontrer absolument que d’Ableiges l’a utilisé.
+
+
+=== Chapitre II La procédure. ===
+
+Introduction. – – L’organisation judiciaire du Châtelet.
+
+Section I. L’ajournement. – Ajournements généraux, particuliers.
+En cas personnel, en cas réel.
+A personne, à domicile.
+A particuliers, à communautés.
+
+Section II. Le plaid jusqu’à la « litis contestatio ». – La demande : formule en cas personnels et en cas héréditaux.
+Les premiers débats : sur la personne du demandeur, sur celle du procureur.
+Sur la fondation du procureur.
+Sur l’ajournement et sa conformité avec la demande.
+Les exceptions : déclinatoires ; dilatoires : en matière personnelle, jour de conseil ou jour d’avis si la cause excède 20 s. ; en matière réelle, jour d’avis, jour de vue et retour de plaid, jour de garant ; péremptoires.
+
+Section III. Le plaid depuis la « litis contestatio ». – Le débat au fond : interrogatoire des parties ; des témoins, pour lesquels on ne dispose que de deux productions.
+Reproches et contredits, que l’auteur semble d’ailleurs confondre.
+Salvations.
+
+Section IV. L’appel. – Appel des juridictions inférieures au prévôt de Paris.
+Appel du prévôt devant le Parlement (on a trois mois pour le poursuivre et huit jours pour y renoncer).
+Appel de déni de justice et de défaute de droit de la cour d’un baron à celle du prévôt.
+
+Section V. Les exoines et les défauts. – Le texte mentionne encore les contremands.
+Les exoines : leur nature ; comment il convient de procéder pour se faire exoiner.
+Les défauts : d’une façon générale, le défaut du demandeur lui fait perdre sa demande et celui du défendeur fait triompher ipso facto son adversaire.
+La question de l’amende due par la partie défaillante n’est pas agitée.
+L’utilité du défaut doit être réclamée dans l’an et jour.
+
+Section VI. La procédure criminelle. – Le
+    « Pour monstrer » n’y fait que quelques allusions. 
+
+
+=== Chapitre III Le droit privé. ===
+
+Sous une forme qui rappelle celle des notables, le
+    « Pour monstrer » énonce quelques règles juridiques, notamment en matière réelle.
+
+
+== Conclusion ==
+
+
+
+
+== Édition du « pour monstrer et aprandre » ==
+
+
+
+
+== Appendices ==
+
+

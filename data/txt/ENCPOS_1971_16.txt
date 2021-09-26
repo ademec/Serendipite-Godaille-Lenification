@@ -1,0 +1,66 @@
+identifier: ENCPOS_1971_16
+creator: Jean-Pierre Le Coq
+date: 1971
+title: Étude sur la Consultation de Paris pour la noblesse de Picardie de Dumoulin (1564)
+
+
+
+== Introduction ==
+
+L’étude de la Consultation de Paris pour la noblesse de Picardie de Dumoulin se justifiait essentiellement pour trois raisons : la première consiste dans les circonstances qui ont donné naissance à cette consultation ; la seconde réside dans l’objet de cette consultation, c’est-à-dire le mode de désignation des évêques au milieu du xvie siècle, entre le concordat de 1516, qui supprime les élections, et l’ordonnance des États d’Orléans du 31 janvier 1561, qui rétablit le principe électif ; la personnalité de l’auteur de la Consultation, enfin, ajoutait un nouveau centre d’intérêt à cette étude.
+
+Partant donc de l’étude d’une situation historique bien définie, la situation à Amiens en 1564 et l’opposition d’une partie de la noblesse locale à la promotion d’un nouvel évêque, notre travail devait progressivement permettre une approche de Dumoulin.
+
+
+== Première partie Causes de la consultation et aperçu sur l’évolution du principe électif jusqu’à l’ordonnance de 1561 ==
+
+
+=== Chapitre premier la situation à Amiens ===
+
+En 1561, Nicolas de Pellevé résigne en faveur d’Antoine de Créquy ; ce dernier abandonne l’évêché de Nantes à son oncle et se rend à Amiens.
+Il y rencontre une forte opposition de la part des protestants, qui sont fortement implantés dans le diocèse et sont en majorité à l’échevinage.
+On assiste alors à une lutte entre le parti catholique, qui a à sa tête Antoine de Créquy, et le parti protestant, conduit par le vidame Louis d’Ailly, pour savoir qui l’emportera à la tête du diocèse et à la tête de l’échevinage.
+L’opposition de Louis d’Ailly à la promotion d’Antoine de Créquy à l’évêché d’Amiens constitue un des épisodes de cette lutte.
+
+
+=== Chapitre II L’intervention de Dumoulin ===
+
+Les documents font défaut pour comprendre à la suite de quelles démarches Dumoulin a été appelé à intervenir dans cette affaire.
+On peut légitimement penser que Louis d’Ailly a d’abord porté son opposition devant le Conseil du roi, que ce dernier a déclaré recevable cette requête et que le vidame a alors interjeté appel comme d’abus, procédure pour laquelle la consultation de plusieurs avocats était nécessaire.
+
+
+=== Chapitre III La question juridique posée ===
+
+L’ordonnance d’Orléans a rétabli le principe des élections des évêques.
+La Consultation de Dumoulin permet de voir dans quelle mesure cette prescription fut respectée.
+Pour ce faire et pour comprendre l’argumentation de Dumoulin, il a été nécessaire de tracer l’évolution du principe électif.
+
+
+== Deuxième partie Analyse et appréciation de la consultation ==
+
+
+=== Chapitre premier l’argumentation de Dumoulin ===
+
+L’argumentation se développe autour de deux thèmes : d’une part, Antoine de Créquy n’a pas reçu l’évêché suivant les formes prescrites, d’autre part, il est incapable de devenir évêque, notamment il manque de science et d’expérience.
+
+Pour établir le vice de la provision, il est incontestable, selon Dumoulin, qu’au temps de la primitive Église, les évêques étaient les égaux des autres prêtres et qu’ils ne pouvaient être élus qu’avec le consentement du peuple.
+Cette prescription a été reprise par les saints docteurs, par les saints décrets et conciles, par Charlemagne et enfin par l’ordonnance d’Orléans.
+Or, il est non moins incontestable que les nobles forment la partie la plus importante du peuple et qu’ils n’ont pas été appelés à l’élection.
+De ce fait, l’élection d’Antoine de Créquy doit être tenue pour nulle, comme n’ayant pas respecté les règles observées depuis la primitive Église jusqu’à l’ordonnance d’Orléans.
+Qui plus est, même si ces règles avaient été respectées, Antoine de Créquy ne pourrait en aucun cas recevoir cet évêché : il n’a pas la science requise par saint Paul et les anciens docteurs.
+Par ailleurs, il possède des bénéfices incompatibles et sa conduite, tant à Nantes qu’à Amiens, où il a commis certains crimes, le rend inhabile à l’épiscopat.
+
+
+=== Chapitre II La procédure préconisée ===
+
+La nullité d’une telle promotion est si apparente qu’il est possible de s’y opposer par tous les moyens, mais le plus expédient est d’interjeter appel comme d’abus.
+Ce moyen est d’autant plus justifié que la promotion d’Antoine de Créquy s’est faite contre les décrets et canons reconnus en France.
+
+
+=== Chapitre III Appréciation de la consultation ===
+
+Dans l’œuvre de Dumoulin, cette consultation apparaît comme le prolongement des écrits plus importants qu’il vient de publier ou va publier à la même époque sur les droits du roi de France et sur son opposition à l’intrusion en France de l’autorité pontificale, que ce soit sous la forme des canons du concile de Trente ou de bulles de provision d’un évêché.
+
+H est possible également que sous les arguments gallicans apparaissent quelques conceptions chères aux protestants.
+
+Enfin, tant par la forme que par le fond, cette consultation met en relief l’originalité de Dumoulin dans la doctrine du xvie siècle.

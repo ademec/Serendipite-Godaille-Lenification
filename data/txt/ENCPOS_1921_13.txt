@@ -1,0 +1,97 @@
+identifier: ENCPOS_1921_13
+creator: Jean Porcher
+date: 1921
+title: Le De disciplina scholarium. Traité du xiiie siècle faussement attribué à Boëce, publié avec une introduction et des notes
+
+
+
+== Avant-propos ==
+
+
+
+
+== Bibliographie ==
+
+
+
+
+== Première partie ==
+
+
+=== Chapitre premier ===
+
+
+==== § Ier. – Liste des manuscrits. ====
+
+Ils sont au nombre de 82, la plupart en France et en Angleterre, les autres à Munich, Prague, Vienne, Venise, Florence.
+
+
+==== § 2. – Classement des manuscrits utilisés. ====
+
+Deux familles, A et B ; de la famille A se détache, interpolé à l’aide de gloses et de commentaires, le groupe a, qui comprend les manuscrits de Prague et de Munich.
+La famille A est à la base de la présente édition.
+
+
+==== § 3. – Divisions de l’ouvrage. ====
+
+La division en chapitres est récente.
+Dans les manuscrits, l’ouvrage est partagé en trois livres.
+
+Tableau de concordance des manuscrits et des sigles employés pour l’édition. 
+
+
+=== Chapitre II Essai sur l’origine de l’ouvrage ===
+
+
+==== § I. – Anciennes hypothèses sur l’auteur. ====
+
+L’authenticité du De disciplina scholarium n’a fait de doute pour personne jusqu’à la fin du xve siècle.
+L’ouvrage est vivement critiqué à partir du xvie.
+Nombreuses attributions proposées.
+Une seule pourrait se défendre, celle de J. Thomasen qui croit découvrir l’auteur en Thomas de Cantimpré : la comparaison du De rerum natura et du De disciplina scholarium ne permet pas de la maintenir.
+
+
+==== § 2. – Recherches sur la date. ====
+
+L’ouvrage du pseudo-Boëce est très répandu dès la deuxième moitié du xiiie siècle.
+Cité pour la première fois dans le Spéculum majus de Vincent de Beauvais, dont la première édition est de 1244 environ, l’ouvrage ne peut être postérieur à 1240.
+
+Silence absolu sur son compte pendant la première moitié du siècle.
+Raisons de penser qu’il ne peut être antérieur au premier tiers du xiiie siècle : il y est fait mention de la théorie des « propriétés des termes » en logique, théorie exposée pour la première fois dans les écrits de Guillaume Shyreswood, mort en 1249.
+Comparaison entre les questions de cosmographie que l’auteur attribue à Craton (Ératosthène) et les Quaestiones super auctorem Sphaerae de Michel Scot : il est peut-être possible de retrouver dans le De disciplina la trace de la même influence des théories péripatéticiennes qu’on peut relever dans l’ouvrage de Michel Scot.
+Cette influence ne s’est fait sentir en Occident qu’à partir de 1230, époque vers laquelle furent connues de la Chrétienté latine les traductions d’Aristote envoyées de Sicile par Frédéric II.
+
+
+==== § 3. – Recherches sur l’auteur. ====
+
+Ses sources sont surtout les ouvrages de logique et de rhétorique de Boëce et de Cicéron.
+Il semble avoir aussi été familier avec les
+    « Auctores » classiques latins : souvenirs qu’on en rencontre dans son ouvrage.
+
+Les exemples dont il illustre ses conseils à l’adresse des maîtres et des écoliers sont choisis dans la littérature classique ou dans la tradition d’école adaptée au but que se propose l’auteur : Trebatius, le fils de Lucrèce, Ganymède, Virgile, Craton (Ératosthène).
+
+Raisons de supposer que l’auteur était anglais.
+Une note du xive s. placée en tête du De disciplina dans un manuscrit d’Oxford attribue l’ouvrage au chroniqueur Elias de Trikingham dont les Annales s’arrêtent en 1268 : c’est possible, mais ne peut être vérifié.
+
+
+==== § 4. – Les commentaires. ====
+
+Leur nombre, leur médiocre intérêt.
+En tête de l’un d’eux se lit un prologue, isolé dans certains manuscrits, qui pourrait être de l’auteur lui-même ; détails qu’il donne sur l’origine supposée de l’ouvrage.
+
+Commentaires de Guillaume Whetley, Nicolas Trivet.
+
+
+== Deuxième partie ==
+
+
+
+
+== Texte ==
+
+
+
+
+== Notes ==
+
+

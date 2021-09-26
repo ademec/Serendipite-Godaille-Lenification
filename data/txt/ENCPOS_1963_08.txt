@@ -1,0 +1,111 @@
+identifier: ENCPOS_1963_08
+creator: Jean Dufour
+date: 1963
+title: La bibliothèque et le scriptorium de Moissac
+
+
+
+== Sources ==
+
+Les manuscrits de Moissac sont conservés en France (Bibliothèque nationale, Institut catholique de Paris, Bibliothèque municipale de Toulouse) et à l’étranger (Esztergom, Leyde, Londres, Oxford, New York, Vatican).
+
+Les actes, au nombre d’une trentaine pour la période antérieure à 1130, se trouvent aux Archives départementales du Tarn-et-Garonne (série G).
+
+
+== Introduction historique ==
+
+Fondée vers 640, l’abbaye de Moissac n’eut qu’un rôle effacé pendant longtemps.
+Mais, après son affiliation à Cluny (1048), elle prit un grand essor et son influence tant du point de vue artistique que spirituel s’étendit, pendant près d’un siècle, non seulement à l’Aquitaine, mais aussi à la péninsule ibérique.
+Par la suite, elle tomba peu à peu en déclin et fut sécularisée en 1618.
+
+
+== Première partie Histoire de la bibliothèque de Moissac ==
+
+
+=== Chapitre premier l’époque médiévale ===
+
+La bibliothèque de Moissac se composa des manuscrits produits par le scriptorium, florissant à partir des abbatiats de Durand de Bredon (1048-1072) et d’Hunaud de Gavarret (1072-1085), ainsi que des livres donnés par des abbayes (Cluny, Arles-sur-Tech), plus tard par des particuliers (moines, évêques), enfin, au xve siècle, par les membres de la famille de l’abbé Aymery de Peyrac (1377-1406).
+Sur ces manuscrits, copiés par des moines qui gardèrent toujours l’anonymat, furent apposés quelquefois des cotes ou des marques d’appartenance.
+
+D’autre part, le monastère dut se défaire de nombreux livres, le plus souvent liturgiques, au profit de ses dépendances, aussi bien aquitaines qu’espagnoles.
+Enfin, de nombreux manuscrits furent perdus ou détruits lors de catastrophes telles que l’incendie de 1188.
+
+
+=== Chapitre II L’époque moderne ===
+
+L’époque moderne vit la dispersion de la bibliothèque de Moissac.
+
+Avant 1675, peu de manuscrits sortirent de l’abbaye : Pierre Pithou et Jacques-Auguste de Thou à la fin du xvie siècle, Claude Joly en 1656, Labroue, officier de la ville de Moissac, en 1675, furent les seuls acquéreurs dont on connaisse le nom.
+
+Foucault, pendant son séjour à Montauban comme intendant (1674-1684), s’intéressa aux manuscrits de Moissac ; il les fit cataloguer par Foulhac, chanoine de Cahors, à la demande de Colbert auquel il envoya en mai et juin 1678 la plus grande partie de la bibliothèque ; il conserva cependant pour lui les livres liturgiques.
+
+Les manuscrits de Foucault furent vendus en 1720 à La Haye et dispersés dans de nombreuses collections européennes ; ceux de Colbert entrèrent en 1732 à la Bibliothèque royale.
+
+Enfin quelques manuscrits, restés à Moissac et sauvés à la Révolution, furent acquis aux xixe et xxe siècles par des bibliothèques françaises ou étrangères.
+
+
+== Deuxième partie Le scriptorium de Moissac de 1050 à 1130 ==
+
+Aucune salle particulière ne servait, semble-t-il, de scriptorium à Moissac ; les copistes travaillaient, peut-être, dans le cloître et, durant l’hiver, dans le chauffoir.
+La majeure partie de la journée était consacrée à l’office divin et les scribes ne disposaient guère de plus de deux heures par jour pour transcrire chaque fois une trentaine de lignes.
+
+
+=== Chapitre premier disposition matérielle des manuscrits ===
+
+Format des manuscrits. – Les livres ont des dimensions variables selon leur nature : des manuscrits notés, que l’on doit facilement transporter, sont petits, tandis que les lectionnaires, destinés à la lecture publique, sont de grande taille. 
+
+Signatures et réclames. – Les signatures, constituées par des chiffres romains, par des lettres, ou par q suivi de r ou de contuli, furent remplacées fréquemment à partir de 1075 par des réclames.
+
+Mise en page. – Deux systèmes de réglure furent employés essentiellement à Moissac : au schéma >>>><<<< (ou à sa variante <<<<|>>>>) succéda à partir de 1075, le schéma ><><|><>< qui ne triompha totalement qu’au xiie siècle.
+Les piqûres étaient faites à l’aide d’un canif ou d’une pointe.
+Le plus souvent, quatre traits, deux verticaux et deux horizontaux, formaient l’encadrement de la feuille de parchemin.
+La foliotation était placée parfois au milieu de la marge supérieure, parfois aux deux tiers de la marge latérale droite.
+
+
+=== Chapitre II Morphologie de l’écriture ===
+
+Les formes archaïques, en particulier pour les ligatures, furent fréquentes au xie siècle : l’influence wisigothique, bien que peu importante, se fit sentir longtemps.
+Souvent, à Moissac, les hastes et les crosses des lettres étaient cambrées.
+Au cours des années 1070-1075, apparurent de nouveaux éléments, tels que les empâtements au talon des lettres, l’s capitale à la fin des mots, les traits décoratifs placés tout spécialement à l’épaule des r, le signe tironien.
+A la fin du xie siècle, sous l’abbatiat d’Ansquitil (1085-1115), les copistes acquirent une plus grande habileté et l’écriture devint très élégante.
+
+
+=== Chapitre III Signes auxiliaires de l’écriture ===
+
+La ponctuation, souvent très succincte, n’a aucun caractère particulier.
+L’accentuation, plus riche, est représentée par le signe exclamatif, la dasia que les copistes moissagais employèrent surtout durant la seconde moitié du xie siècle, les i accentués, qui firent leur apparition à la même époque.
+La cédille, utilisée rarement pour la diphtongue oe, est placée quelquefois sous la lettre q et la ligature &.
+Le signe de renvoi dh se rencontre dans les manuscrits de Moissac aussi bien au xie qu’au xiie siècle.
+
+La notation musicale, très stéréotypée à partir du milieu du xie siècle, est celle que l’on rencontre dans toute l’Aquitaine : la virga cornue ou semi-circulaire, la virgule, le guidon sont les signes les plus intéressants.
+
+
+=== Chapitre IV Abréviations et graphies ===
+
+Les abréviations, peu nombreuses, sont parfois de type espagnol, voire wisigothique ; quelques signes insulaires (abréviation de autem) apparaissent parfois.
+
+La langue vulgaire, que parlaient la plupart des moines de Moissac, a altéré souvent les formes latines. 
+
+
+=== Chapitre V Décoration ===
+
+En général, la décoration moissagaise, ni riche ni originale, est faite de lettres peintes aux rinceaux habités ; lettres enclavées des titres et monstres affrontés ont des rapports certains soit avec les inscriptions lapidaires soit avec la sculpture de Moissac ; quelques dessins, pour la plupart frustes, dénotent la volonté des décorateurs d’indiquer les divers plans d’une scène ou de représenter l’anatomie humaine avec exactitude.
+
+
+== Conclusion ==
+
+Le scriptorium et la bibliothèque de Moissac, par leur importance, témoignent de la vitalité et du rayonnement culturel de l’abbaye au cours de la période clunisienne.
+
+
+== Appendices ==
+
+Deux catalogues anciens de la bibliothèque de Moissac insérés dans les manuscrits de la Bibliothèque nationale lat. 4871 et lat. 17002.
+
+Correspondance échangée à l’occasion des recherches des manuscrits moissagais, puis de leur envoi à Paris.
+
+Concordances entre le catalogue des manuscrits de Colbert et le catalogue des manuscrits de la Bibliothèque nationale.
+
+
+== Notices des actes et des manuscrits de Moissac album de planches ==
+
+

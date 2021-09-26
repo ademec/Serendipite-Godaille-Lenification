@@ -1,0 +1,107 @@
+identifier: ENCPOS_1939_17
+creator: Yves Metman
+date: 1939
+title: La vie économique à Paris pendant le siège de 1590
+
+
+
+== Avant-propos ==
+
+L’objet de cette étude est la vie des Parisiens, qui furent assiégés par Henri IV à la suite de la victoire d’Ivry (14 mars 1590) jusqu’à ce que le duc de Parme vînt les délivrer.
+
+
+== Étude critique des sources ==
+
+La source principale de ce travail a été fournie par les archives notariales de Paris.
+Leur emploi posait des problèmes.
+Plus de la moitié, en effet, des minutes passées à cette époque ont disparu et la fragmentation extrême de ces documents juxtaposés, sans autre lien que d’avoir été passés chez le même notaire, rend difficile leur utilisation.
+Cette multiplicité ne va pourtant pas sans une parfaite identité entre les actes de même nature : de cette répétition se dégage le fait économique, dont l’importance ne dépend pas du chiffre absolu d’actes parcourus, mais de la proportion qu’ils représentent dans l’ensemble envisagé.
+Les études réunies au minutier central se répartissent d’une façon satisfaisante sur l’ensemble de Paris, de sorte qu’il n’y a pas d’erreurs à redouter de ce fait.
+Là où les minutiers étaient muets, les archives judiciaires se sont souvent montrées imprécises sur la nature de l’obligation à faire exécuter.
+
+
+== Introduction historique ==
+
+Après avoir réduit l’armée de Mayenne à l’impuissance pour un certain temps, Henri IV, par un vaste mouvement tournant de la Normandie à la Brie à travers la Beauce, coupe toutes les voies de communication par où peut s’effectuer l’approvisionnement de Paris, puis achève sa manœuvre de plus près en enveloppant Paris par le Nord, du pont de Charenton au pont de Saint-Cloud.
+Le siège ne connut qu’un engagement vraiment important : celui qui eut lieu le samedi 12 mai 1590, dans le faubourg Saint-Martin.
+L’événement capital qui, en empêchant la moindre sortie, fit du siège un très étroit blocus est l’occupation des faubourgs, qu’il faut dater de la nuit du 24 au 25 juillet 1590, et non pas du 27.
+
+Les faits prouvent clairement qu’Henri IV n’a jamais voulu entrer de force dans Paris.
+L’intimidation, la surprise ont échoué.
+Mais le roi se refuse à donner le signal de l’assaut général, pour éviter le pillage et la mise à sac d’une ville aussi riche. 
+
+
+== Première partie Économie de production et d’échange ==
+
+La conséquence la plus directe du siège est la hausse considérable du prix de toutes les denrées alimentaires : le setier de blé, qui valait auparavant six ou sept écus, dépassa cent vingt écus.
+Encore fallait-il improviser dans la ville des moulins à bras pour remplacer ceux des hauteurs environnantes, que le roi avait fait brûler.
+La fabrication du pain subit des modifications progressives ; il comporta de plus en plus de son et de moins en moins de farine.
+Les commerces qui ne touchaient pas à l’alimentation ne furent pas moins atteints et, si les boutiques restèrent ouvertes, les clients y furent rares.
+Seuls certains produits manufacturés dont les assiégeants manquaient purent être échangés en fraude contre des provisions.
+La stagnation du commerce fut si complète que la municipalité de Paris accorda aux adjudicataires des différents droits de la ville décharge de leur ferme.
+
+
+== Deuxième partie Les biens et les contrats ==
+
+Les perturbations apportées dans les fortunes privées par la désorganisation du travail, seule source de richesse, sont l’occasion d’un tableau des principaux placements pratiqués par les Parisiens dans le dernier quart du xvie siècle. 
+
+
+=== Chapitre premier les vignes. ===
+
+Les bourgeois de Paris avaient toujours étendu leur emprise sur les environs immédiats de la capitale.
+Depuis le début du xvie siècle, les vignes, qui couvraient alors les moindres pentes dans les villages les plus proches des faubourgs, étaient l’objet des convoitises des Parisiens et, lentement, ceux qui les cultivaient de leurs mains s’en laissaient déposséder.
+Le siège de 1590 a provoqué une accélération de ce mouvement, qui entraîne irrésistiblement dans l’orbite de la capitale des régions de. plus en plus éloignées.
+Les cultivateurs, en effet, chassés par les royalistes ou venus spontanément se mettre à l’abri, sont en grand nombre dans la ville assiégée.
+Complètement dénués de ressources, ils en sont réduits à vendre leurs vignes parcelle après parcelle.
+Ainsi, de riches marchands, qui avaient de l’argent liquide, ont pu se constituer sans peine des domaines parfois importants dans la localité de leur choix.
+
+
+=== Chapitre II Les loyers. ===
+
+Les maisons de Paris subissent une grande dépréciation par suite de l’exode d’une partie de la population aisée et de la désorganisation du commerce : les loyers ne sont plus guère payés.
+Certains propriétaires accordent aux locataires qui les menacent de partir des diminutions très considérables ; d’autres propriétaires, au contraire, se montrent intraitables et continuent à se servir à l’encontre de leurs locataires de la contrainte par corps et de la saisie.
+Le Parlement, pour éviter les saisies trop fréquentes, d’une part, mais aussi pour sauvegarder les droits du propriétaire, fut conduit à instituer une législation d’exception pour la diminution des baux.
+L’arrêt général du 14 avril 1589, en accordant la réduction du tiers, maintenait en même temps l’obligation de payer les deux autres tiers.
+Dès le terme de la Saint-Jean 1590, il fallait aller jusqu’à la moitié, mais la levée du siège n’a pas arrêté la chute des loyers ; le mouvement continuera jusqu’en 159’2, date à laquelle le Parlement consacrera l’amputation des trois quarts des baux antérieurs à 1589 et se décidera à interdire les saisies et ventes.
+
+
+=== Chapitre III Les rentes. ===
+
+Les rentes foncières subsistent comme les cens, mais les engagements perpétuels conviennent peu à une période d’intense activité économique et d’instabilité monétaire, aussi les rentes constituées sont-elles d’un usage de plus en plus fréquent.
+Ce ne sont ni de purs engagements personnels ni de simples emprunts hypothécaires à court terme.
+Les rentes constituées gardent de leur origine deux traits qui les distingueront toujours du prêt à intérêt : elles ne sont rachetables que sur l’initiative du débit rentier ; jamais le créancier ne pourra exiger le capital dont il a abandonné complètement la propriété et, d’autre part, elles créent une obligation réelle, puisqu’elles sont liées à un immeuble déterminé.
+La formule com porte toujours, en outre, obligation générale de tous les biens, mais le procédé des prête-noms permet à à celui qui ne possède pas d’immeubles d’obtenir un capital : il lui suffit de constituer une rente en son nom et au nom d’un propriétaire dont il a la confiance, puis de promettre, dans un second acte, de payer seul les intérêts, puisqu’il a seul touché le prix de la vente.
+
+Le taux de ces rentes est uniformément le denier douze (8,33 %).
+Elles seront moins régulièrement payées que les loyers pendant les guerres, mais ne seront diminuées que d’un tiers pour les « cinq années des troubles 1589-1594 ».
+Les maisons sont un placement plus sûr ; les rentes sont un placement plus avantageux.
+
+
+== Troisième partie La vie privée ==
+
+La désorganisation du travail et du commerce a ébranlé les revenus.
+A son tour, cette diminution des moyens d’existence a un profond retentissement sur la vie privée.
+
+Les collectivités voient cependant leurs charges augmenter.
+Taxes extraordinaires, frais d’équipement militaire, payement des soldats envoyés à la garde ou à la réparation des murs, pots-de-vin en nature ou en argent, les dépenses se multiplient.
+Les budgets privés de la très grande partie de leurs revenus ordinaires ne peuvent y suffire.
+Les collèges, par exemple, sont très sévèrement atteints.
+Plusieurs sont abandonnés.
+Les autres mènent une vie réduite.
+Les hôpitaux sont remplis et ne vivent que de quêtes.
+Le chapitre de Notre-Dame ne peut continuer à distribuer aux chanoines les pains traditionnels.
+Les particuliers sont diversement frappés par la crise.
+Les ecclésiastiques ne peuvent prendre possession de leur bénéfice, les princesses de la maison de Guise engagent leurs bijoux, les parlementaires redoutent les mouvements populaires, les marchands voient leur commerce arrêté, les pauvres meurent de faim.
+
+Les uns étaient atteints dans leur opulence ou dans leur aisance, les autres dans leurs corps.
+
+
+== Conclusion ==
+
+Il faut conclure avec un mémorialiste, en donnant aux mots qu’il emploie toute leur force :
+    « Le menu peuple souffrait, les médiocres enduraient, les aisés appréhendaient. »
+
+
+== Pièces justificatives ==
+
+

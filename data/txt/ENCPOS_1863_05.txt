@@ -1,0 +1,51 @@
+identifier: ENCPOS_1863_05
+creator: Harold de Fontenay
+date: 1863
+title: Étude de géographie comparée sur le territoire de l’ancien diocèse d’Autun
+
+
+Etude des termes.
+Le Pagus, aux temps mérovingiens et carlovingiens, est un terme vague, représentant un territoire sans limites fixes.
+
+Accolé a un terme d’une valeur précise, il en usurpe la précision et se fait l’équivalent des mots Comté, Diocèse, Archiprêtré, Paroisse.
+
+L’ager n’est pas un synonyme du pagus, il en est une circonscription.
+
+Les mots ager, finis, circuitus, suburbium, n’ont pas une valeur plus déterminée que le mot pagus.
+
+La division des pagi en majores et minores est purement arbitraire.
+
+Description des pagi compris dans le territoire de l’ancien diocèse d’Autun, à savoir des pagi :
+Augustodunensis, | d’Autun.
+Belnensis, | de Beaune.
+Alsensis, | d’Auxois.
+
+
+Magnimontensis, | de Mesmont ;
+Pauliacensis, | de Pouilly.
+Avalensis, | d’Avallon.
+Dusmensis, | de Duesme.
+Morvennensis, | du Morvand.
+Nivernensis sive Ammonias, | de Nevers.
+Burbunensis, | de Bourbon-Lancy.
+Briennensis, | de Briant.
+Dunensis, | de Dun-le-Roi.
+
+
+
+Le diocèse d’Autun des temps carlovingiens s’est conservé intact avec ses subdivisions jusqu’au milieu du xviie siècle.
+
+Le texte de Walafrid Strabon, considéré comme preuve de l’identité des circonscriptions civiles et ecclésiastiques, n’est qu’une comparaison de dignités (comparationem dignitatum), sans aucun effet sur les circonscriptions régies par ceux qui en étaient revêtus.
+
+Ce n’est pas le diocèse d’Autun tel qu’il était immédiatement avant 1801, ni même au viie siècle, qu’il faut comparer à la civitas, mais ce diocèse avant l’érection des sièges de Chalon-sur-Saône et de Nevers.
+
+Le diocèse d’Autun est d’origine plus ancienne que ces deux diocèses, et, par conséquent, les divisions ecclésiastiques sont moins stables qu’on ne le suppose communément.
+
+Les archiprêtrés ne sont pas établis sur les vicairies.
+
+Les comtés n’ont pas les mêmes circonscriptions que les évêchés. 
+
+
+== Conclusion. ==
+
+Les divisions territoriales, ecclésiastiques, civiles, basées sur des intérêts différents, répondant à des besoins étrangers les uns aux autres, sont complètement indépendantes entre elles.

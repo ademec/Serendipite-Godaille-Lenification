@@ -1,0 +1,174 @@
+identifier: ENCPOS_1947_13
+creator: Jacques Monfrin
+date: 1947
+title: Le Secret des Secrets, recherches sur les traductions françaises, suivies du texte de Jofroi Waterford et Servais Copale
+
+
+
+== Première partie Les textes primitifs ==
+
+
+=== Chapitre premier origines du « secret des secrets ». ===
+
+Le Secret des Secrets, ou Lettre d’Aristote à Alexandre sur le gouvernement des princes, se rattache étroitement à la littérature apocryphe qui se développa dans le monde hellénistique à la suite des contacts établis entre les civilisations de l’Orient et celles de l’Occident par les conquêtes d’Alexandre.
+La préface assure qu’il a été traduit du grec en syriaque et du syriaque en arabe : elle est probablement supposée.
+Certains ont cherché dans la littérature grecque post-classique ou dans la littérature syriaque l’original de ce texte.
+Plus vraisemblablement il a été compilé en langue arabe à une époque assez tardive (xe-xie siècles).
+H n’a jamais cessé de varier et, s’il est possible de distinguer deux versions arabes, il y a presque toujours entre les manuscrits d’une même recension des différences importantes. 
+
+
+=== Chapitre II Les traductions latines. ===
+
+La plus brève des recensions arabes a été traduite au xiie siècle par un Johannes Hispalensis, qu’il ne faut peut-être pas identifier avec Ihn Daoud, le traducteur tolédan, collaborateur de Dominique Gondisalvi.
+Ce travail, très bref, ne contient que des conseils d’hygiène.
+
+C’est, au contraire, le texte arabe de la version plus étendue qui a servi de base à la traduction à peu près intégrale exécutée par Philippe de Tripoli, au début du xiiie siècle, pour un certain Guy de Vere, évêque de Tripoli (?).
+Cette version s’est diffusée rapidement en Occident.
+Roger Bacon a donné du texte, vers 1267 (et non avant 1257), une édition « critique » accompagnée de gloses et d’une introduction.
+
+
+=== Chapitre III Analyse du texte. ===
+
+Le texte comprend quatre sections : traité de morale, traité d’hygiène, traité d’astrologie, de philosophie naturelle et de politique, traité de physiognomonie ; la matière de chacune de ces parties est divisée en chapitres assez mal liés.
+C’est le caractère à demi savant de l’œuvre qui, probablement, a assuré sa diffusion.
+
+
+=== Chapitre IV La diffusion du texte en Occident. ===
+
+A peine traduit, le Secret des Secrets s’est répandu : le nombre des manuscrits conservés en atteste le succès.
+Cependant, il est négligé par les philosophes ; son authenticité est discutée dès le xiiie siècle ; au xive siècle, on le considère généralement comme faux (Nicole Oresme, Pierre de Candie).
+Les premiers humanistes le tiennent dans un mépris complet.
+Les écrivains politiques, auteurs de
+    « Miroirs des princes », le citent, mais l’ouvrage n’a jamais exercé d’influence profonde.
+Il a connu un beaucoup plus grand crédit chez les astrologues, alchimistes et médecins, mais c’est sous forme de traductions en langue vulgaire qu’il a surtout été apprécié.
+
+
+== Deuxième partie Les traductions françaises ==
+
+
+=== Chapitre premier les traductions intégrales. ===
+
+Traduction anglo-normande (Bibl. nat., fr. 571) remontant à la fin du xiiie siècle, décalque du latin.
+
+Traduction remontant au milieu du xive siècle (Arsenal 2872, Bibl. nat., fr. 1088, 1201 (fragment), Lyon 864, Stockholm Vu 20) ; le manuscrit de l’Arsenal est le meilleur.
+La traduction est libre, mais exacte et assez élégante ; elle est accompagnée dans les manuscrits d’un chapitre supplémentaire traduit de l’Alexandréïde de Gautier de Châtillon.
+
+
+=== Chapitre II Traductions par choix. ===
+
+Traduction du ms. de la Bibl. nat., fr. 24432, traduction médiocre, remontant à la première moitié du xive siècle.
+Le traducteur a retenu la majorité des chapitres à allure philosophique.
+Un manuscrit de cette traduction se trouvait dans la bibliothèque de Charles V.
+
+Traduction du ms. d’Oxford, Bodl.
+Rawl.
+C 538 (manuscrit ayant appartenu à Jean de Berry).
+
+Traduction lorraine du ms. de Montpellier, Fac. de médecine, H. 164. 
+
+Traduction lorraine du ms. de Berne 275.
+
+Traduction des mss. : Bibl. nat., fr. 10468, Ars. 2691, Cambrai 959, Berlin Ham. 45, Brit.
+Mus.
+Add. 18170, Oxford
+
+John’s College 102.
+
+Traduction anglo-normande du ms.
+British Muséum Royal 20 B. V, remontant au xive siècle, très abrégée.
+
+Traduction d’origine française : Bibl. nat., fr. 1087, 1166, 1623, 1958, 5028, n. acq. fr. 4951 ; Arsenal 3190 ; Chantilly 685, 686 ; Cambridge Univ.
+Ff. 1. 33 ; Brit.
+Mus.
+Harley 219, Royal 16 F.X. ; Berlin Ham. 44 a, 46 a ; Bruxelles 10367 ; Rome Vat.
+Reg. 1514 ; Turin, Bibl. naz.
+Gall.
+CXLII. 1.
+IV, 45 ; Genève 179 b.
+
+Ces traductions, quoique indépendantes, se ressemblent beaucoup ; par suite de la suppression des passages astrologiques, médicaux et philosophiques, le Secret des Secrets devient un ouvrage de morale et d’hygiène.
+C’est sous cette forme qu’il a connu le plus grand succès.
+
+
+=== Chapitre III Extraits. ===
+
+Extrait franco-italien du xive siècle, du ms.
+Bibl. nat., fr. 821, décalque de quelques chapitres moraux du texte latin.
+
+La
+    « Physionomie Aristote », mss.
+Bibl. nat., fr. 1543, Chantilly 865, contenant la Physiognomonie, les quatre temps de l’an, les quatre complexions, le microcosme.
+
+Extraits divers : Bibl. nat., fr. 20040 (xiiie siècle), 2017 (xve siècle).
+Ces deux textes sont sans intérêt.
+
+Traduction du texte de Jean d’Espagne : Bibl. nat., fr. 2045 (xve siècle).
+
+En conclusion, le Secret des Secrets a connu la plus grande faveur vers la fin du xive et le début du xve siècle.
+Pour se répandre, il a perdu son caractère ésotérique ; les traductions sont, en général, médiocres et conservées dans des ma nuscrits grossiers.
+L’ouvrage s’adresse visiblement à un public peu difficile.
+
+
+== Troisième partie Le « Secré de Secrés » de Jofroi de Waterford et Servais Copale ==
+
+
+=== Chapitre premier les témoins du texte. ===
+
+Manuscrit de la Bibl. nat., fr. 1822, de la fin du xiiie siècle.
+Ce manuscrit porte dans ses marges quelques additions que l’on doit considérer comme des corrections, et non comme des interpolations : elles se retrouvent, en effet, dans une traduction anglaise, partielle mais littérale, exécutée en 1422 en Irlande dans la région de Waterford, probablement d’après un manuscrit provenant du couvent de cette ville, par un certain James Yonge.
+
+
+=== Chapitre II Le dialecte du manuscrit 1822. ===
+
+Graphie et phonétique. – Morphologie.
+
+L’étude de la langue permet d’assigner comme pays d’origine au ms. fr. 1822 la Wallonie, et, vraisemblablement, la partie occidentale des pays wallons.
+Il n’est pas possible de distinguer la langue de l’auteur de celle du copiste.
+
+
+=== Chapitre III Les auteurs. ===
+
+Jofroi de Waterford, dominicain, est un inconnu : sans doute est-il d’origine irlandaise. 
+
+Servais Copale est Wallon.
+On trouve son nom en 1314 et 1319 dans des documents d’origine liégeoise.
+
+On ne sait de quelle manière les auteurs ont collaboré : Servais n’est peut-être qu’un copiste ; il n’a, en tout cas, joué qu’un rôle secondaire dans l’élaboration de l’œuvre.
+Celle-ci date de la fin du xiiie siècle.
+
+
+=== Chapitre IV Analyse de l’œuvre. ===
+
+Le Secré de Secrés est une compilation dont le Secret des Secrets latin, élagué des passages ésotériques, a fourni le cadre.
+On peut y distinguer trois parties : traité moral, traité médical, traité de physionomie.
+
+
+=== Chapitre V Les sources. ===
+
+Sources du traité moral. – Extraits du Breviloquium de virtutibus antiquorum principum atque philosophorum de Jean de Galles, de la Formula vitae honestae de Martin de Braga, de la Légende dorée, de l’Histoire scolastique de Pierre Comestor et de la Bible, etc.
+
+Sources du traité médical. – Traité latin non identifié sur les choses convenables à chaque partie du corps : De diaetis generalibus et particularibus d’Isaac, texte sur les crus de vin français
+
+Sources du traité de physiognomonie. – Les Physiognomonica du Pseudo-Aristote.
+
+
+=== Chapitre VI Caractère de la traduction et valeur littéraire. ===
+
+La traduction est très libre : l’auteur, soucieux d’ordre et de clarté, remanie constamment son modèle.
+La langue s’adapte avec beaucoup de souplesse au ton des textes à traduire : art de la formule, qualités de vivacité dans le récit.
+La première partie de l’ouvrage est en prose rimée
+
+
+== Texte du « Secré de Secrés » ==
+
+
+
+
+== Notes critiques ==
+
+
+
+
+== Table des noms propres ==
+
+

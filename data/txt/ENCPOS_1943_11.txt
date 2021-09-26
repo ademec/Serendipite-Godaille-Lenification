@@ -1,0 +1,261 @@
+identifier: ENCPOS_1943_11
+creator: Bertrand Gille
+date: 1943
+title: L’industrie du fer en France, de Colbert à la Révolution
+
+
+
+== Avant-propos ==
+
+
+
+
+== Sources – Ouvrages utilisés ==
+
+
+
+
+== Première partie Les éléments ==
+
+
+=== Chapitre premier la sidérurgie avant Colbert. ===
+
+Développement de l’industrie avant Colbert. – Dès l’âge du Fer, tous les centres miniers de la Gaule sont exploités.
+L’essor que Rome imprima à la sidérurgie fut brisé par les invasions barbares.
+Une reprise semble se faire aux xe-xie siècles.
+Dès lors, le progrès se poursuit régulièrement.
+Cependant, le manque de bois se manifeste dès le xive siècle et deviendra aigu au xvie siècle.
+On note aussi le manque de main-d’œuvre.
+La guerre de fient ans provoqua une chute marquée.
+Une reprise s’effectue dans la seconde moitié du xve siècle et au xvie siècle, qui sera brisée par les guerres de religion.
+Le début du xviie siècle représente une certaine stagnation. 
+
+Développement tech nique de l’industrie avant 1661. – Le procédé primitif, la forge catalane, fut longtemps le seul employé.
+Au milieu du xiiie siècle, première mention d’un moulin employé à la fabrication du fer.
+A la fin du xve siècle, c’est l’apparition du haut fourneau qui mettra deux siècles à se répandre en France : la région pyrénéenne ne le Connaîtra jamais.
+
+Evolution juridique des mines et des forges. – A Rome, sous la République, les mines appartiennent au propriétaire du fond.
+On vit de bonne heure s’opérer un mouvement de concentration continue entre les mains des empereurs.
+Devenu un droit régalien, le droit d’exploitation a été usurpé par les seigneurs fonciers qui, dans certaines régions, créent des forges banales.
+L’ordonnance de 1413 reprend les termes des dernières lois romaines ; elle est complétée par celle de 1471.
+Jusqu’en 1548 et après 1597, liberté de fouiller ; de 1548 à 1597, concession temporaire de toutes les mines à un privilégié.
+Pour l’établissement des forges, le roi peut légiférer par le biais des eaux et du combustible.
+
+L’organisation de la production avant 1661. – Les barbares avaient ruiné les grandes entreprises métallurgiques créées par Rome.
+La féodalité créa la banalité des forges et le chasement des ouvriers, origine de nos cités ouvrières.
+Deux tentatives corporatives échouèrent.
+La forge exige de gros capitaux et souvent ce sont des associations aux formes multiples, qui doivent se monter pour chaque usine.
+Au xviie siècle, on peut deviner déjà quelques-unes des organisations qui aboutiront à la grande industrie : concentration ou cartel.
+
+
+=== Chapitre II Le colbertisme (1661-1730). ===
+
+La sidérurgie bénéficia du mouvement de redressement opéré par Colbert.
+Dès 1670, l’organisation manifeste de la fatigue  : le pays se trouve saturé de 1er.
+La crise ira en s’aggravant jusqu’en 1720.
+L’aventure de Law permit une éphémère reprise.
+
+Les idées de Colbert. – Colbert voit dans une industrie solide un moyen de maintenir l’ordre à l’intérieur et le prestige à l’extérieur.
+
+Régime juridique et législation douanière. – La sidérurgie est réglementée par les ordonnances de 1669 sur les eaux et forêts et de 1680 sur la marque des fers.
+Le tarif de 1664 représentera une augmentation de 100 % sur celui de 1632.
+Le tarif de 1687 établit des droits prohibitifs qui seront supprimés en 1701.
+
+Les facteurs économiques. – Les prix marquent une baisse jusqu’en 1685 et une stabilité presque complète de 1685 à 1718.
+La crise de 1720 entraîne un dérèglement profond, qui ne s’apaise qu’en 1730.
+L’appel à la main-d’œuvre étrangère est de plus en plus nécessaire, ainsi que le maintien des ouvriers dans une étroite dépendance des patrons.
+Les progrès techniques consistent surtout dans l’introduction de la fabrication de produits spéciaux (acier, fer-blanc).
+Pour les capitaux, l’Etat joue encore le rôle de grand établissement de crédit.
+
+L’organisation de la production. – Avec ses arsenaux et ses commissaires, Colbert établit une véritable inspection et direction de l’industrie.
+Grande entreprise privée : Jean Thomas, dit Maslin, qui établit un véritable trust en Nivernais.
+Colbert apprécia les grandes compagnies du Dauphiné, du Nivernais, du Forez, qui périclitèrent faute de capitaux et durent céder la place aux régies d’Etat.
+
+
+== Deuxième partie Les conditions de l’industrie du fer == 
+
+
+=== Chapitre premier les matières premières. ===
+
+La force motrice. – Force hydraulique utilisée directement ou au moyen de barrages.
+Elle est sujette aux contingences de la nature : gelées, irrégularité du débit.
+A la fin du siècle, la machine à vapeur lait son apparition, mais elle est encore très peu utilisée.
+
+Le minerai. – Réglementée encore par l’arrêt du Conseil de 1741, l’industrie minière n’a pas évolué.
+Il y a peu d’exploitations souterraines.
+
+Le combustible. – La fabrication du 1er exige une grande quantité de bois : cinq livres de charbon de bois par livre de fer en moyenne.
+Toute l’industrie sidérurgique exigerait, d’après un rapport de l’an IV, six millions de cordes sur une production de huit millions par an.
+La mauvaise gestion des forêts, les défrichements ont diminué les possibilités.
+Un peu partout, on craint la disette.
+Cette situation se maintiendra cependant jusqu’en 1864.
+Les remèdes ne visent qu’à diminuer le nombre des établissements.
+L’idée d’utiliser le charbon de terre se heurtait à des difficultés techniques que supprima la découverte du coke en Angleterre (1735).
+Malgré de nombreux essais, le coke n’est guère utilisé que dans le Nord, l’Est et au Creusot.
+
+
+=== Chapitre II Les conditions techniques. ===
+
+La littérature technique. – Réaumur, Bouchu, Courtivron, Grignon et Buffon.
+Le De ferro du Suédois Swedenborg (1735) et L’art des forges et fourneaux à fer de Bouchu et Courtivron (1762) sont les deux ouvrages classiques.
+
+La chimie métallurgique. – Arrêt provoqué par la théorie du phlogistique.
+Au milieu du xviiie siècle, les éléments de l’air sont isolés.
+Lavoisier découvre l’oxyde de carbone et entreprend d’importants travaux sur la combustion (1774-1784), qui permettent à Berthollet, Monge et Vandermonde d’écrire leur mémoire sur Les différens états du fer (1788).
+
+Le haut fourneau. – De dimensions restreintes, il est en général mal conçu et mal bâti.
+
+La conduite du haut fourneau. – Difficile, la conduite du haut fourneau obéit à des procédés routiniers et défectueux.
+Les coulées sont très irrégulières en quantité et en qualité.
+
+La forge. – La forge opère la transformation de la fonte en fer par l’affinage et le martelage.
+La proportion des déchets est encore très forte : 33 % en moyenne, et s’élève souvent à 50 %.
+
+L’acier. – Réaumur, avec sa théorie des sels et soufre, engage l’industrie dans une mauvaise voie.
+Clouet, en 1788, trouve la fabrication de l’acier au creuset, déjà appliquée en Angleterre depuis 1754.
+
+Le machinisme se développe surtout, dans la seconde moitié du siècle : laminoirs, appareils d’estampage et de tréfilerie.
+
+
+=== Chapitre III Les conditions commerciales. ===
+
+Allure générale. – Étude des forges selon que leurs clients appartiennent au marché local ou au grand marché.
+
+Les transports. – – Question capitale pour le xviiie siècle, les transports par terre sont gênés par le très mauvais état des chemins de traverse, que l’on utilise soit pour les transports intérieurs, soit pour joindre la forge à la grand’route.
+Les rivières sont mal entretenues et les canaux peu développés.
+
+Le marché local. – Difficile à étudier, le marché local comprend surtout l’agriculture et les industries qui emploient le travail à domicile (coutelleries, clouteries, épingleries) : il est, d’une faible ampleur.
+
+Le marché national. – Entravé par les douanes intérieures, péages et octrois, le marché national est réglé par un certain nombre de places situées, les unes dans les régions productrices (centres de rassemblement), les autres sur les grandes artères commerciales (centres de distribution).
+
+Le marché international. – Importations et exportations ont un volume assez faible, malgré des tarifs douaniers très libéraux.
+Exportations vers les pays voisins et les colonies.
+Les importations, qui ont provoqué tant de plaintes, sont insignifiantes : l’Angleterre est encore le plus gros importateur de l’Europe, l’Espagne est en complète décadence, l’Allemagne envoie un peu d’acier.
+Seules, Russie et Suède font entrer en France un peu de fer, par la place d’Amsterdam.
+
+
+=== Chapitre IV Les conditions financières., ===
+
+Les capitaux ne manquent pas en France, mais ils s’immobilisent plus volontiers sur les charges et les offices.
+
+L’appel aux capitaux privés. – L’épargne publique est t imide et indifférente aux opérations industrielles.
+Cela tient en partie à la concentration du marché de l’argent entre les mains des notaires parisiens, alors qu’une concentration similaire de la direction de l’industrie n’existe pas.
+En outre, la mauvaise gestion financière des entreprises n’encourage guère le public.
+
+Les participations d’autres sociétés. – Les grandes banques n’existent pas encore et les autres compagnies ont les mêmes difficultés financières.
+Seule la Compagnie des Indes, ayant besoin de fer pour ses armements, soutient quelques entreprises.
+
+Le rôle de l’État. – Le rôle de l’État reste prépondérant.
+Le Bureau du Commerce ou la faveur du pouvoir sont les seuls juges de l’opportunité des avances.
+Les formes des subventions sont très diverses : prêt avec ou sans intérêt, don, etc.
+Les fonds sur lesquels sont engagées ces dépenses sont nombreux : capitation, caisse du 1 /2 %, Marine, Guerre, Colonies, Trésor royal.
+Assez souvent, le roi prend des participations dans de grosses sociétés : il sera un des principaux actionnaires du Creusot.
+
+Les prix. – Les prix marquent une progression constante.
+
+Les bilans. – Les bilans de quelques entreprises montrent la part énorme des matières premières et des frais généraux.
+Manque presque total de fonds de roulement qui accule souvent les sociétés à la faillite.
+
+
+=== Chapitre V Les conditions sociales. ===
+
+Les ouvriers externes. – Mineurs, voituriers, charbonniers constituent une main-d’œuvre abondante, mais intermittente et passagère, de qualité assez faible et d’esprit indépendant en raison de son origine paysanne.
+
+Les ouvriers internes. – Les spécialistes, entièrement détachés de l’agriculture, font défaut, ce qui est une des raisons de leur indépendance et de leur manque de stabilité.
+
+La législation ouvrière. – La législation vise surtout à fixer les ouvriers à leur travail (arrêts de 1729, 1730, 1749) et à stabiliser les salaires (1749).
+C’est aussi ce que cherchent les patrons dans les privilèges qu’ils demandent et. les avantages qu’ils offrent aux ouvriers.
+
+La question ries salaires. – Mêmes solutions que de nos jours : salaires au temps, aux pièces, salaires progressifs.
+Les salaires semblent n’avoir évolué que dans une proportion plus faible que le coût de la vie.
+
+Propriétaires et maîtres de forges. – Il est essentiel de dis tinguer le propriétaire, qui est le possesseur du matériel de fabrication, du maître de forges, qui est l’exploitant.
+Les propriétaires se recrutent en grande partie dans la noblesse.
+La bourgeoisie ne domine que dans le Nord et l’Est.
+Le faire-valoir direct est peu employé, sauf en Dauphiné.
+
+Le maître de forges est né au xvie siècle de la division du travail.
+Il doit son élévation sociale aux privilèges que lui a donnés à ses débuts la royauté (1471) et à sa ressemblance avec les maîtres verriers.
+Une certaine hérédité se manifeste, en outre, dans ce métier.
+Au xviiie siècle, on rencontre des savants, des nobles, des maîtres de forges de la première couche (arrivés peu à peu à former une noblesse industrielle), de grands industriels, d’allure très moderne, et de simples ouvriers.
+
+
+== Troisième partie Les origines de la grande industrie ==
+
+
+=== Chapitre premier la concentration. ===
+
+Dans l’Est. – En Alsace, les Diétrich ont de nombreuses forges et une production importante.
+En Lorraine, entre autres, les Gouvy, spécialisés dans la fabrication de l’acier.
+
+Dans le Hainaut. – Les Despret groupent un haut fourneau et treize forges.
+Ils ont, en outre, des usines dans les Pays-Bas espagnols, en Lorraine, Champagne, Soissonnais et dans le Perche.
+C est une famille industrielle très puissante.
+
+Champagne, Franche-Comté et Bourgogne. – A côté de concentrations plus ou moins temporaires, le comte d’Orsay groupe huit hauts fourneaux et trois forges et Fleur, ban quier de Besançon, truste, dans tout l’Est, la fabrication des tôles et des fils de fer.
+
+Dans le reste de la France. – Peu d’exemples dans le reste de la France, sauf celui des Le Vacher dans le Perche.
+
+Les forges de La Chaussade. – L’entreprise est créée par le banquier de Paris Jacques Masson et poursuivie par son gendre Pierre Babaud de La Chaussade.
+Ils réunissent, entre 1720 et 1754, une dizaine d’usines en Nivernais et Berry, prennent des sous-traitants et arrivent à un véritable trust régional.
+Une organisation très complète est montée, où se fait jour une intégration très poussée.
+Ils accaparent presque tous les marchés de la Marine.
+La crise industrielle qui suit la paix de 1763 fait péricliter ces usines, que l’État doit racheter en 1780.
+
+Les Wendel. – Les Wendel débutent en 1704 à Hayange.
+Pendant tout le xviiie siècle, cette famille augmente sa fortune, crée des forges et en achète d’autres.
+Ignace-François de Wendel participe, en outre, à toutes les grandes créations de l’époque : Ruelle, Indret, le Creusot, et arrive à un véritable contrôle de toute la sidérurgie française.
+
+
+=== Chapitre II Les grandes usines. ===
+
+Ruelle. – Créée par les Montalembert en 1750, elle est saisie par l’Etat en 1755.
+Maritz y monta une grande forerie.
+En 1780, cette usine est rattachée à l’établissement d’Indret.
+
+Indret. – Commencé en 1777 pour la fonte des canons, sous la direction de l’Anglais Wilkinson, Indret est confié, en 1780, à Wendel.
+Les procédés les plus modernes y sont employés.
+Produisant annuellement plus d’un million et demi de livres, Indret manque bientôt de matières premières et c’est pour lui fournir des fontes que l’on crée le Creusot.
+
+Le Creusot. – Usine construite sur les plans de Wilkinson, sous la direction de Wendel, entre 1781 et 1785, le Creusot est un des plus gros établissements d’Europe et contient les derniers perfectionnements : hauts fourneaux de trente-neuf pieds, machines à vapeur, emploi du coke.
+Sa production reste de 50 % inférieure aux prévisions et est de qualité médiocre : par sa conception, l’usine est en avance sur son temps.
+
+Amboise. – Créé en 1772, Amboise ne commence vraiment à produire qu’en 1782 et ne donnera, avec des moyens de production très grands, qu’une quantité d’acier de faible valeur qui ne cessera de décroître jusqu’en 1789.
+
+Allevard. – Allevard est un établissement important, que ses propriétaires chercheront en vain à vendre à l’État.
+
+
+== Conclusion ==
+
+La grande industrie a déjà fait son apparition et sa faiblesse tient plus au manque de débouchés qu’aux moyens de production et à la rareté du combustible.
+Beaucoup des créations du xviiie siècle existent encore de nos jours.
+La Révolution et l’Empire vont accélérer le mouvement de concentration, la période 1820-1850 achèvera la révolution technique.
+Les principaux problèmes de la production sont connus au xviiie siècle et les solutions sont déjà esquissées.
+
+
+== Appendice I ==
+
+Catalogue des actes relatifs à l’industrie du fer antérieurs à 1300.
+
+
+== Appendice II ==
+
+Les sources de documentation économique au xviiie siècle. 
+
+
+== Pièces justificatives ==
+
+
+=== I. – Journal de la mise a feu de la fonderie royale du Creusot. ===
+
+
+
+
+=== II. – État de la sidérurgie française au 1er avril 1771. ===
+
+
+
+
+== Table des identifications ==
+
+

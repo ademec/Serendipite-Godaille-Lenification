@@ -1,0 +1,197 @@
+identifier: ENCPOS_1970_20
+creator: Danielle Muzerelle-Hardouin
+date: 1970
+title: Les poètes latins des guerres de Charles VIII et de Louis XII
+
+
+
+== Première partie ==
+
+
+=== Chapitre premier les origines de la poésie épique de circonstance ===
+
+La poésie épique de circonstance est un genre que l’on voit se développer particulièrement à la fin du xve siècle et au début du xvie siècle, à l’occasion des guerres d’Italie.
+Ce n’est certes pas un genre ignoré de la littérature latine médiévale, mais il prend dans la période qui nous intéresse un essor remarquable dû, d’une part, à l’influence de l’école des Rhétoriqueurs, qui, à la cour de Bourgogne, puis à la cour de France, cultivent en français les mêmes thèmes, et, d’autre part, à l’influence de l’Italie, pays où la littérature de cour encomiastique connaissait un grand épanouissement.
+
+Même si ce genre poétique existait auparavant, l’humanisme et la Renaissance lui apportent un renouveau profond, dans la forme comme dans le fond.
+
+
+=== Chapitre II Les auteurs ===
+
+Ces auteurs sont généralement mal connus et n’ont fait que rarement l’objet d’études.
+Ce sont le plus souvent des spécialistes de la poésie de circonstance, quoique certains d’entre eux aient composé des œuvres diverses.
+On peut regrouper ces poètes humanistes en trois catégories. 
+
+Les Italiens. – Ceux-ci jouent un rôle particulièrement important en ces débuts de la Renaissance française.
+Venus en France dans la deuxième moitié du xve siècle ou à la suite du roi Charles VIII à son retour d’Italie, ils s’emploient, non sans querelles, à se créer une position dans les milieux savants.
+Le meilleur exemple de ces poètes italiens dévoués au roi de France est Fausto Andrelini.
+Né à Forli, il arrive en France vers 1489 et conquiert de haute lutte une chaire à l’Université de Paris, où il acquiert une réputation considérable et se lie avec les plus grands humanistes, Erasme, Budé, Lefèvre d’Étaples.
+Panégyriste enthousiaste des rois de France, il n’est pas d’événement qu’il n’ait célébré.
+Secrétaire de la reine Anne de Bretagne, pensionné par le roi, poeta régius ac regineus, protégé par de nombreux mécènes, il est le type même de ces poètes de cour laudateurs zélés des exploits royaux.
+
+On peut citer aussi Quintianus Stoa, de Brescia, lui aussi secrétaire de la reine Anne de Bretagne, poète de la bataille d’Agnadel.
+
+D’autres encore, s’ils ne viennent pas en France, ne se font pas faute de célébrer le nouveau roi de Naples ou le nouveau duc de Milan, du moins tant que les Français sont vainqueurs.
+C’est le cas de Balthasar Novellini, d’Harmonius Marsus, de Nagonius.
+
+Le milieu universitaire parisien. – C’est à Paris que se développent l’humanisme et les idées nouvelles, dans l’Université et dans les collèges.
+Parmi les autres humanistes, on trouve des poètes néo-latins autour de Robert Gaguin, comme Andrelini, dans les collèges, comme Valerand des Varennes aux Cholets ou Guy de Fontenay à Sainte-Barbe.
+L’Université est représentée par Andrelini, qui y enseigna les poètes latins et « la sphère », par Martin Dolet, qui fut recteur, et par Guillaume de La Mare.
+Ils se regroupent dans les cercles littéraires auprès de divers mécènes, le plus souvent des parlementaires, les Ganay, les Rochefort, Pierre de Courthardy, les Briçonnet.
+
+Le cercle d’Anne de Bretagne. – La reine Anne de Bretagne avait à cœur d’encourager les lettres et d’entretenir autour d’elle une cour brillante de lettrés et de poètes.
+Sa riche bibliothèque est témoin de son goût pour les lettres.
+Peut-être aussi avait-elle pour but en favorisant les poètes d’entretenir la popularité et la gloire de ses époux successifs, qui eux-mêmes ne manifestaient que peu de goût pour les lettres.
+Parmi ses secrétaires, car elle encouragea aussi plusieurs rhétoriqueurs en renom, on peut citer Andrelini, Germain de Brie, Quintianus Stoa, trois poètes dévoués à la renommée de Charles VIII puis de Louis XII.
+
+
+=== Chapitre III Les œuvres ===
+
+Les événements guerriers contemporains n’inspirèrent pas aux poètes néo-latins que des poèmes épiques proprement dits.
+Ils répartirent leur production de poésies de circonstance en plusieurs genres littéraires. 
+
+L’épopée. – C’est le genre par excellence de la poésie de circonstance et celui qu’on trouve le plus représenté.
+Écrits en hexamètres, ces poèmes sont de longueur très variable, allant de 300 vers, comme l’Herveus de Germain de Brie, à 3 000 vers, comme le poème contenu dans le manuscrit lat. 14 154 de la Bibliothèque nationale.
+Ils présentent les principales caractéristiques de l’épopée classique, longs discours, merveilleux, épisodes guerriers, etc.
+
+L’élégie. – Elle est souvent difficile à distinguer de l’épopée chez nos poètes.
+L’emploi du mètre élégiaque, le distique, est le trait le plus distinctif.
+L’élégie se caractérise souvent par une plus grande imprécision, comme le poème de Valerand des Varennes sur la bataille de Fornoue, et les thèmes guerriers y tiennent moins de place.
+
+L’héroide. – Remise en honneur par la traduction qu’Octovien de Saint-Gelais donne des Héroïdes d’Ovide, l’héroïde apparaît sous la forme de lettres en vers latins de la reine Anne au roi Louis XII, dans un recueil dont Andrelini est le principal auteur, à l’occasion de la bataille d’Agnadel.
+
+Le panégyrique-placet. – On peut appeler ainsi ces pièces purement laudatives, allant souvent jusqu’à la flagornerie, que les poètes italiens surtout adressaient au roi pour attirer ses faveurs.
+Nous en donnerons pour exemple le De expugnatione Genuensi de Balthasar Novellini.
+
+La tragédie. – Les guerres d’Italie inspirèrent également des pièces dialoguées, à l’imitation de la tragédie antique.
+L’exemple le plus remarquable est le De triumphis Italicis d’Harmonius Marsus, tragédie en cinq actes avec chœurs (Bibl. nat., ms. lat. 16 706).
+On peut citer aussi les œuvres d’un Allemand, Jacobus Locherius, dit Philomusus.
+
+L’églogue. – L’églogue n’est représentée que d’une façon tout à fait mineure, par quelques pièces d’Andrelini inspirées par les événements contemporains.
+
+Quelle que soit leur forme littéraire, ces pièces de circonstance ont généralement pour sujet un événement, une campagne militaire, comme le De Neapolitana Fornoviensique Victoria d’Andrelini, ou la Chiliade de Sylviolus, une bataille, comme les poèmes sur le combat de la Cordelière, ou le Bellum Ravenne d’Humbert de Montmoret.
+
+Certaines, cependant, ont pour centre d’intérêt non un fait militaire, mais un héros.
+C’est souvent le roi, mais on trouve aussi des auteurs consacrant leurs vers à un personnage illustre : Hugues de Colonges célèbre Jacques de Chabannes, sire de La Palice, Charles Curre chante les exploits de Béraud Stuart d’Aubigny.
+
+Ces pièces de circonstance paraissent facilement stéréotypées et dépourvues de toute sincérité ou de tout élan.
+Cependant, la forme imitée de l’Antiquité et le fatras mythologique qui encombre souvent ces œuvres ne doivent pas tromper.
+Certes, cette littérature, souvent stipendiée, comme c’est le cas pour Andrelini, apparaît comme une littérature de propagande, vouée à la gloire royale ; mais un tel dessein n’exclut pas la sincérité des sentiments patriotiques, un dévouement certain au pays et aussi une grande joie devant les victoires françaises en Italie.
+Ces poésies exaltent donc la France et ses prouesses pré sentes et passées ; le personnage de Charlemagne, par exemple, joue un grand rôle ; elles manifestent aussi une xénophobie souvent extrêmement violente.
+Les sources contemporaines sont en général suivies par nos poètes avec exactitude, sauf quand les événements sont trop défavorables à la France.
+
+Quoique ces œuvres n’apportent pas grand chose sur le plan historique, l’imprécision des poètes étant trop grande, on y trouve cependant le reflet des préoccupations et des idées contemporaines, tant politiques que sociales ou chrétiennes.
+
+
+=== Chapitre IV L’imitation des classiques latins ===
+
+Être antique est la principale préoccupation de ces poètes néo-latins.
+Cette imitation, souvent servile, quand elle n’est pas pur plagiat, apparaît dans la forme comme dans le fond.
+
+Le vocabulaire. – H est entièrement classique, emprunté le plus souvent à Virgile et à Ovide.
+Pour les noms de lieu, les événements relatés ayant trait à l’Italie, la géographie virgilienne peut être mise à contribution.
+Les noms de personne, au contraire, sont parfois difficiles à « latiniser ».
+
+La composition.. – Elle est presque immuable : une exposition, suivie d’une invocation à une divinité, puis on entre dans le vif du sujet.
+
+La rhétorique. – Nos poètes reprennent tous les lieux communs et les procédés de la poésie antique, périphrases, comparaisons, merveilleux mythologique, songes, discours fictifs, etc.
+
+Cette imprégnation par la latinité classique se traduit également dans les sentiments des poètes, surtout par une nouvelle notion du patriotisme et une nouvelle idée de la gloire de la France.
+
+
+== Bibliographie générale ==
+
+
+
+
+== Deuxième partie ==
+
+
+=== Chapitre premier les poètes de la première expédition de Naples ===
+
+FAUSTO ANDRELINI, De Neapolitana Victoria : analyse d’après l’incunable conservé à la Bibliothèque nationale, Rés. m.
+Yc.11 (Pellechet, 753).
+
+– , De Neapolitana Fornoviensique Victoria : édition critique annotée, d’après les manuscrits de la Bibliothèque nationale, lat. 8 134 et nouv. acq. lat. 776, et l’incunable de la même bibliothèque, Rés. m.
+Yc.12 (Pellechet, 754).
+
+Bellum gestum apud Fornovo : analyse de ce poème anonyme (doit-on voir le nom de l’auteur dans le Joannes Faciebat qu’on rencontre au bas de la préface dédicatoire ?), contenu dans le manuscrit lat. 14154 de la Bibliothèque nationale.
+
+VALERAND DES VARENNES, De Fornoviensi conflictu carmen : édition critique annotée, d’après l’édition non datée, Bibl. nat., Rés. m.
+Yc.930 (4).
+
+CHARLES CURRE, Les triumphes de France... : analyse d’après le texte édité en 1508, avec la traduction française de Jehan d’Ivry, Bibl. nat., Rés. p.
+Yc.1323.
+
+HUGUES DE COLONGES, Silve : analyse de la seconde pièce de ce recueil, dédiée au maréchal de La Palice, d’après l’édition de 1516, Bibl. nat., Rés. 8° La17 1.
+
+GUILLAUME DE LA MARE, In Antenoridas... et de strenuissimo Caroli regis eius exercitus apud Forum novum transitu : édition critique d’après l’édition de 1513, Bibl. nat., Rés. m.
+Yc.215.
+
+
+=== Chapitre II La conquête de Milan et Naples par Louis XII ===
+
+JOHANNES HARMONIUS MARSUS, De rebus Italicis : édition critique de cette tragédie d’après le manuscrit de la Bibl. nat., lat. 16706.
+
+FAUSTO ANDRELINI, De captivitate Lodovici Sforcie : analyse d’après les manuscrits de la Bibl. nat., lat. 8134 et 8394, et l’édition de 1505, Rés. m.
+Yc.9.
+
+GUY DE FONTENAY, De obitu Mauri Ludovici ipsiusque exequiis : analyse d’après l’édition non datée, Bibl. nat., Rés.
+G. 2 800.
+
+FAUSTO ANDRELINI, De secunda Neapolitana Victoria : analyse d’après les manuscrits de la Bibl. nat., lat. 8134 et 8489, et l’édition de 1504, Rés.
+G. 2 801.
+
+
+=== Chapitre III La révolte de Gênes ===
+
+FAUSTO ANDRELINI, De regia in Genuenses Victoria libri III : analyse d’après le manuscrit de la Bibl. nat., lat. 8 393, et l’édition de 1509, Bibl. nat., Rés.
+G. 2 798 (exemplaire défectueux).
+
+VALERAND DES VARENNES, Carmen de expugnatione Genuensi : analyse d’après l’édition de 1507 (1508 n.st.), Bibl. nat., Rés.
+G. 2 797. 
+
+ANTONIUS SYLVIOLUS, Ex sylvula Antonii Sylvioli Parrhisiensis decerpta.. : édition de trois élégies extraites de ce recueil, d’après l’édition de 1508, conservée au British Museum sous la cote 11 408 bb 54.
+
+BALTHASAR NOVELLINI DE SALIZOLIA, De Genuensi expeditione : édition critique annotée, d’après le manuscrit de la Bibl.
+Vaticane, Reg. lat. 806.
+
+
+=== Chapitre IV La bataille d’Agnadel ===
+
+ANTONIUS SYLVIOLUS, De triumphali... regis Ludouici duodecimi in Venetos Victoria Chilias heroica : analyse d’après l’édition non datée, Bibl. nat., Rés.
+G. 2 803.
+
+FAUSTO ANDRELINI, Epistola in qua Anna... regina exhortatur maritum... : analyse d’après l’édition de 1509, Bibl., nat., Rés. m.
+Yc. 741.
+
+JOHANNES BESSUS, De Victoria in Venetos... : analyse d’après le manuscrit de la Bibl. nat., lat. 14 152.
+
+
+=== Chapitre V La bataille de Ravenne ===
+
+HUMBERT DE MONTMORET, Bellum Ravenne : édition d’après l’édition de 1513, Bibl. nat., Rés.
+G. 2 808.
+
+
+=== Chapitre VI Le combat de « la Cordelière » ===
+
+HUMBERT DE MONTMORET, Herveis : analyse d’après l’édition non datée, Bibl. nat., Rés.
+G. 2 809.
+
+GERMAIN DE BRIE, Chordigerae navis conflagration ou Herveus : analyse d’après l’édition de 1513, Bibl. nat., Rés. m.
+Yc. 68. 
+
+
+=== Chapitre VII Les affaires de Navarre ===
+
+GUILLELMUS PIELLEUS, De Anglorum ex Galliis fuga et Hispanorum ex Navarra expulsione... : analyse d’après l’édition de 1512 (1513 n.st.), Bibl. nat., Rés. m.
+Yc.851 (2).
+
+ARNALDUS AVEDELIS, dit SONIS, Comedia divina : analyse d’après l’édition de 1514, Bibl. nat., Rés. 4° Lb29. 45.
+
+
+=== Chapitre VIII Un poète de la fin du règne de Louis XII ===
+
+MARTIN DOLET, De parta ab... rege Ludovico duodecimo in Maximilianum ducem Victoria... : analyse d’après l’édition non datée, Bibl. nat., Rés.
+G. 2 804.

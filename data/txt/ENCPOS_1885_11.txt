@@ -1,0 +1,30 @@
+identifier: ENCPOS_1885_11
+creator: Gédéon Huet
+date: 1885
+title: Étude sur Gasse Brulé, poète du xiie siècle et édition critique de ses chansons
+
+
+
+== Introduction. Étude sur Gasse. ==
+
+I. Liste des manuscrits contenant ses chansons ; remarques sur ces mss. – Les divergences que présentent les noms des auteurs de chansons dans le grand ms. de Berne, comparé aux autres mss. ne peuvent pas toutes s’expliquer par des fautes de copiste. – B.N. franç. 20,050 se compose de deux parties distinctes par l’écriture, le travail des copistes et la langue.
+
+II. Classement des mss. – Premier groupe : B.N. 844 et 12,615.
+Ces deux mss. ne sont pas copiés l’un sur l’autre. – Vatican, Christ. 1490 se rattache à ce groupe. – Second groupe : B.N. 845, nouv. acq. 1050, etc. – Le ms. nouv. acq. fr. 1050 et le ms. de l’Arsenal représentent le ms. original de la famille ; dans 845 (sur lequel avait été copié le ms. perdu de De Mesmes) on a ajouté des pièces ; B.N. 765 a subi une influence étrangère, ainsi que 847 et 24,406. – Troisième groupe : le grand ms. de Berne et B.N. 20,050. – La seconde partie de ce dernier ms. n’est pas copiée sur le ms. de Berne. – ■ Quatrième groupe : B.N. 846 et 12,581 (pour une pièce). – 846 ne peut être classé dans une autre famille ; souvent il offre un texte plus complet que les autres mss. – Une tentative récente pour réduire le nombre des familles amène des résultats inadmissibles.
+
+III. Authenticité des pièces attribuées à Gasse. – 1° L’auteur se nomme dans les envois de quelques pièces. – 2° La présence, dans l’envoi d’une pièce douteuse, d’un nom propre qui se retrouve dans une pièce authentique, plaide en faveur de la première pièce. – 3° Attributions des mss. (familles 844, etc., 845, etc., Berne).
+Les divergences de ces attributions s’expliquent par la tendance des copistes à attribuer des pièces anonymes à des auteurs connus. – Les pièces attribuées à l’auteur par deux familles de mss. au moins peuvent servir à déterminer l’authenticité des autres. – 4° Structure des pièces. – Chez Gasse, les pièces où les strophes riment deux à deux sont fréquentes.
+Pour ces pièces, Gasse n’admet jamais la même rime dans deux groupes différents de strophes. – Il évite les monorimes. – 5° Rimes examinées au moyen de la phonétique. – Résultats principaux : voyelles : a latin tonique libre donne é ; suivi d’une autre voyelle, il devient ei ( – eie de – ata, etc) ; en n’est pas confondu avec an ; consonnes : s venant de s latin ou de c+i latin ne se confond pas avec s venant de t +s latin. – 6° Remarques à propos de pièces douteuses. –
+    « Les oisillons de mon païs » présente deux rédactions différentes, dont l’une n’est pas de Gasse. – Remarques à propos de pièces apocryphes : des pièces une voyelle rime avec la même voyelle précédée de i (« A l’entrant del dois termine », etc.) ; celles qui font rimer ance avec anche (A malaise est ki sert en esperance ») ; celles où le vers de dix syllabes est coupé après la cinquième syllabe (« En l’entrant d’esté ke li tens s’agence ») ; celles où il y a des assonances (« Lonc tens ai esté », etc.) ne peuvent être authentiques.
+
+IV. De ce qu’on peut savoir de la vie de Gasse. – Le passage des Chroniques de Saint-Denis qui nomme Gasse avec le roi de Navarre est sans valeur pour cette recherche.
+Le fait que les pièces de Gasse suivent celles du roi de Navarre dans plusieurs mss. explique l’association des deux noms dans ce texte. – Gasse n’était pas contemporain du Roi. – Deux romans où sont citées des pièces de Gasse sont écrits, l’un (la Violette) peu après 1225, l’autre (Guillaume de Dôle) avant 1217 et probablement vers 1202. – Gasse mentionne lui-même la Champagne comme sa patrie. – Le comte de Bretagne, qu’il mentionne, et qui le fit venir dans son pays, était Geoffroy II. Ce comte est, avec Gasse, l’auteur d’un jeu-parti. – Ces résultats s’accordent avec ce qu’on sait du développement de la poésie lyrique au Nord, à la fin du douzième siècle.
+
+Table des pièces attribuées à Gasse par les mss. – Table des rimes.
+Index des noms propres cités par Gasse.
+
+Texte critique de cinquante-trois chansons.
+
+Chaque élève publiera les positions de sa Thèse sous sa responsabilité personnelle.
+
+(Règlement du 2 février 1866, art. 9.)

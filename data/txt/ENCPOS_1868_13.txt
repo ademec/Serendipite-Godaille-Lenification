@@ -1,0 +1,182 @@
+identifier: ENCPOS_1868_13
+creator: Léopold Pannier
+date: 1868
+title: Pierre Bersuire et sa traduction de Tite-Live considérée comme monument de la formation savante de la langue française au xive siècle
+
+
+
+== Première partie Biographie ==
+
+I. – On a défiguré de cent façons, toutes également arbitraires, le véritable nom du traducteur dont il est ici question.
+Il est certain, d’après les chartes qu’on a retrouvées, et des indices tirés de son lieu d’origine, qu’il s’appelait, non pas Berceure, Bercheure, Berchoir, le Bercheur, etc., mais PIERRE BERSUIRE.
+
+II. – Bersuire est né à Saint-Pierre-du-Chemin, dans le département de la Vendée.
+C’est à tort qu’on a prétendu que ce village était à 3 lieues de Poitiers, ou qu’on l’a confondu avec Saint-Pierre-le-Vieux.
+
+On ne peut au juste fixer la date de sa naissance ; toutefois, d’après certaines circonstances de sa vie et le témoignage de Pétrarque, son contemporain, on est autorisé à la placer dans les dix dernières années du treizième siècle.
+
+C’est sans doute à l’abbaye de Maillezais qu’il entra, jeune encore, dans l’ordre de Saint-Benoît.
+
+III. – Dès avant 1330, on le trouve à Avignon, attaché au cardinal Pierre du Prat, vice-chancelier du Pape.
+C’est dans cette ville qu’il compose d’abord son Reductorium morale, puis en 1540 son Repertorium.
+Il a aussi l’occasion de s’y lier avec Pétrarque. 
+
+IV. – En 1542, Pierre Bersuire est à Paris.
+Il y corrige ses deux premiers ouvrages latins et prépare le troisième, le Bréviaire moral.
+Il semble qu’il continue ensuite d’y demeurer jusqu’en 1551, tout en jouissant des divers bénéfices que lui accordent successivement les papes.
+
+Erreur de Sauval et de Piganiol de la Force qui prétendent que Bersuire a été moine de l’abbaye de Saint-Victor de Paris, et enfermé dans une tour de ce monastère.
+
+Poursuivi, il est vrai, pour n’avoir pas eu des sentiments suffisamment orthodoxes, c’est dans les prisons de l’Évêché qu’il est détenu.
+Il en sort en mars 1351, sur la réclamation de l’Université dont il faisait alors partie.
+
+L’identité de Pierre Bersuire avec le chambrier de l’abbaye de Notre-Dame-de-Coulombs, que les actes mentionnent à cette occasion, est manifeste.
+
+V. – Vers 1552, il commence sa traduction de Tite Live, par ordre du roi Jean.
+Il est probable que ce fut en 1555 qu’il la termina.
+En tous cas, il est impossible d’admettre qu’il l’ait laissée inachevée.
+Erreur de l’Histoire littéraire a ce sujet.
+
+Il devient prieur de Saint-Éloy à Paris, à la fin de l’année 1554.
+
+Bien que son prieuré soit le théâtre de plus d’un acte important sous la régence agitée du dauphin Charles, Bersuire passe à cette époque inaperçu.
+On sait seulement qu’en 1559 il complète son Repertorium et en fait la table.
+
+Lors de l’ambassade de Pétrarque auprès de Jean le Bon, en janvier 1561, Pierre Bersuire a de fréquents rapports littéraires avec le poëte, qui lui écrit encore après avoir quitté la France.
+
+Au mois de juin de la même année, il achète une maison à Paris, rue des Murs, près la porte Saint-Victor.
+Recherches nouvelles sur ce point.
+
+Il meurt dans le courant de 1362, certainement avant le 20 septembre. 
+
+
+== Deuxième partie La traduction de Tite Live ==
+
+
+=== Chapitre premier. – Introduction. ===
+
+Quelque régulière, quelque justement célèbre qu’elle fût, l’ancienne langue française d’origine populaire était insuffisante.
+Les efforts tentés pour l’élever et l’enrichir remontent très-loin.
+Dès le début du douzième siècle, les traductions de la Bible et les ouvrages des clercs érudits introduisent en français des expressions simplement copiées sur le type latin, sans tenir compte de l’accent tonique.
+Au siècle suivant l’élude du droit nécessite aussi l’emploi de nouveaux termes.
+
+Mais c’est surtout du quatorzième siècle que date la transformation savante de notre langue, car c’est seulement alors que l’on traduit les textes mêmes de l’antiquité romaine.
+
+Bien qu’il existe plusieurs versions d’Ovide faites sous Philippe le Bel, on peut dire que Bersuire fut le premier traducteur d’un auteur classique en français.
+Il précède de vingt ans Nicole Oresme et les écrivains du règne de Charles V.
+
+Influence de Pétrarque sur la renaissance littéraire à cette époque.
+Son admiration pour Tite Live en particulier dut guider le choix de Bersuire.
+
+Il y a dans la traduction de Bersuire deux lacunes qui se trouvaient sans doute dans le texte latin.
+
+La première comprend les livres XI à XX. Remarquée dès le quinzième siècle, elle fut remplie alors par une traduction de la Première Guerre Punique de l’Aretin, par Jean le Besgue.
+
+La seconde, celle du livre XXXIII, est signalée ici pour la première fois.
+
+
+=== Chap. II. – Les commentaires de Bersuire. ===
+
+Les institutions républicaines et païennes décrites par Tite Live sont nouvelles pour le moyen âge. 
+
+Difficultés que présentaient les beautés de son style et le nombre des expressions dont l’équivalent manquait dans le langage d’alors.
+
+Efforts de Bersuire pour expliquer les mœurs romaines qu’il raconte et les mots nouveaux qu’il est forcé d’introduire.
+Pour la rendre plus intelligible, il accompagne sa traduction de trois sortes de commentaires :
+
+1° Glossaire (ou Déclaration des mots), mis en tête de l’ouvrage.
+Importance de ce document qui n’a pas été publié en entier de nos jours.
+
+2° Notes (ou Incidences), intercalées dans le cours des chapitres.
+Fréquentes dans les premiers livres, elles disparaissent complètement ensuite.
+Inconnues jusqu’ici.
+
+3° Périphrases, ou simples mots explicatifs joints au texte lui-même ; additions très-fréquentes.
+
+L’exemple de Bersuire est imité par ses successeurs.
+
+
+=== Chap. III. – Ses procédés de traduction. ===
+
+Il est porté à amplifier, à réunir en une seule plusieurs propositions séparées dans l’original.
+
+Contre-sens.
+Phrases passées ou dont l’ordre est interverti ; c’est tantôt le sens absolu des mots, tantôt leur sens relatif qui échappe à Bersuire.
+
+Ou bien il applique à des expressions toutes romaines la signification qu’elles avaient prise dans la société du moyen âge (antistes, évêque ; dux, duc) ; – ou bien pour calquer plus exactement le terme latin, il emploie le mot savant précédemment créé d’après ce terme, ou, à son défaut, le crée lui-même.
+
+Exemples de membres de phrases bien rendues.
+
+Les noms propres.
+
+Extraits de narrations et de discours.
+
+
+=== Chap. IV. – Ses habitudes grammaticales. ===
+
+Le soin que Bersuire met à rendre son modèle devait accélérer dans la langue dont il se sert la désorganisation des règles de l’ancien français. 
+
+En l’absence du texte original, il est impossible de connaître au juste son orthographe.
+Mais les bonnes copies que l’on a suivies font supposer qu’elle subissait les inconséquences et les irrégularités qui sont le propre de l’époque.
+
+La notion des anciens principes est perdue.
+Dans leur lutte avec le système nouveau qui commence, la grammaire est livrée à l’arbitraire et à la confusion.
+Exemples :
+
+La règle de l’s tantôt appliquée, tantôt méconnue.
+
+Les adjectifs dérivés d’un mot latin en is ou en ens qui n’avaient qu’une forme pour le masculin et le féminin dans l’ancien français, parfois suivent le régime ancien, parfois le nouveau.
+
+Dans les plus anciens manuscrits on trouve déjà, presque sans exception, mon, ton, son, devant un substantif féminin commençant par une voyelle.
+
+L’accord en genre et en nombre des articles, adjectifs, pronoms et participes est très-variable.
+
+Je, tu, il, ils encore plus fréquemment employés en sujet que moi, toi, lui, eux.
+
+Verbes très-réguliers et riches en flexions.
+Pour les personnes dont la terminaison a changé, il semble que Bersuire suivait plutôt l’ancienne orthographe que la moderne.
+
+Emploi rationnel et fréquent de l’imparfait du subjonctif.
+
+Usage des formes réfléchies.
+
+Citation de quelques particules.
+
+
+=== Chap. V. – Lexique. ===
+
+C’est la partie la plus importante de ce travail.
+Avant le dictionnaire de M. Littré, on connaissait à peine quelques-uns des mots introduits par Bersuire dans la langue française.
+
+Le nombre des termes savants usités avant lui, qu’il a employés, et des néologismes qu’il a créés, est considérable.
+
+Quatre séries :
+
+1° Les mots ou groupes de mots d’origine populaire dont Bersuire se sert pour exprimer de nouvelles idées ou peindre de nouvelles coutumes, mais qui n’ont pas conservé ce sens.
+
+2° Les mots de forme savante créés par lui d’après le type latin, qui ont disparu.
+
+3° Les mots savants introduits antérieurement à Bersuire, et employés par lui, qui se sont conservés.
+
+4° Les mots savants formés par lui, qui se sont conservés. – Dans cette dernière série, qui est la plus intéressante, beaucoup de mots qu’on relève ne sont pas signalés par M. Littré, et d’autres jusqu’à présent n’avaient été rencontrés pour la première fois que dans Oresme.
+
+
+== Troisième partie Bibliographie ==
+
+Les nombreux manuscrits qui restent de la traduction de Tite Live attestent le succès qu’elle obtint.
+
+Fréquentes mentions de cette traduction dans les catalogues des bibliothèques de l’époque.
+
+Parmi les quarante et un exemplaires qui nous ont été connus, nous avons presque exclusivement suivi les trois qui nous semblaient devoir se rapprocher le plus du texte original.
+
+Description critique des manuscrits que nous avons pu voir.
+
+Reproduction des notices concernant les autres.
+
+Éditions imprimées.
+
+Extraits des manuscrits et pièces justificatives.
+
+Chaque élève publiera les positions de sa thèse isolément et sous sa responsabilité personnelle.
+
+(Règlement du 10 janvier 1860, art. 7.)

@@ -1,0 +1,198 @@
+identifier: ENCPOS_1939_14
+creator: Anne-Marie Lanfry
+date: 1939
+title: Les églises romanes dans les anciens archidiaconés du Grand et du Petit-Caux au diocèse de Rouen
+
+
+
+== Préface ==
+
+
+
+
+== Introduction ==
+
+
+
+
+== Sources – Bibliographie ==
+
+
+
+
+== Première partie Caractères généraux ==
+
+
+=== Chapitre premier matériaux et appareil. ===
+
+Le sous-sol étant à peu près identique dans toute l’étendue des archidiaconés du Grand et du Petit-Caux, les matériaux employés sont partout les mêmes : le calcaire, le tuf et le silex.
+Les nombreuses petites carrières de calcaire du pays ont été supplantées, pour les édifices importants, par les grandes carrières de la Seine, surtout celles de Gaumont et de Vernon.
+La pierre de Caen n’a pas été employée.
+
+Le tuf, matériau rude, mais léger, a beaucoup servi à la construction des églises rurales.
+On le trouve souvent associé au calcaire.
+
+Dès le xie siècle, l’appareil est moyen et régulier.
+Le calcaire est layé.
+Les joints, d’abord épais, s’amincissent au xiie siècle.
+
+Le silex, employé à bain de mortier, avec harpes de pierre aux angles, n’est utilisé que pour les constructions pauvres.
+
+
+=== Chapitre II Orientation et plan. ===
+
+L’orientation est régulière.
+Le plan se développe autour d’un noyau central : la travée carrée placée entre chœur et nef, formant ou non croisée de transept, qui supporte la tour-lanterne ou le clocher.
+Le plan-type des petites églises comprend une large nef unique, la travée du clocher forcément rétrécie, suivie d’une travée de chœur et d’une abside.
+On trouve parfois un transept, sur les croisillons duquel ouvrent des absidioles orientées.
+Les chevets plats sont rares.
+
+Dans les églises plus importantes, la nef est flanquée de bas-côtés, coupée le plus souvent par un transept saillant ou non, avec absidioles.
+C’est seulement dans les grands édifices que le chœur est accosté de collatéraux terminés par une abside prise dans un chevet plat. 
+
+On ne trouve le plan à déambulatoires et chapelles rayonnantes qu’à Fécamp.
+
+Les porches se rencontrent seulement dans les églises d’abbayes ou de prieurés, pris entre les deux tours de façade.
+
+
+=== Chapitre III Voûtes et couvertures. ===
+
+Les nefs ne sont jamais voûtées, mais elles sont couvertes de charpente sans arcs diaphragmes.
+On trouve aussi des charpentes sur le chœur et les croisillons, des appentis sur les collatéraux, des planchers sous les beffrois.
+
+On a également construit des voûtes de blocage recouvertes d’enduits : culs-de-four sur les absides, berceaux rampants dans les escaliers en vis, voûtes d’arêtes sur les bas-côtés, les travées droites de chœur, le déambulatoire et les chapelles rayonnantes de Fécamp.
+
+Dès le premier quart du xiie siècle, on trouve des voûtes sur croisée d’ogives, de blocage ou d’appareil, établies en général sur les travées du chœur ou du clocher.
+Les ogives sont larges, en plein cintre, de profil lourd.
+Les clefs sont très simples.
+
+Les toits, autrefois de petites tuiles, sont en bâtière pour la nef, le chœur, les croisillons, en appentis pour les bas-côtés, en pavillon pour les clochers.
+
+
+=== Chapitre IV Élévation et supports. ===
+
+1° Élévation, intérieure. – Lorsque la nef est unique, ses murs sont simplement percés de baies haut placées.
+Les nefs à bas-côtés ont toujours des fenêtres ouvertes au-dessus des grandes arcades en plein cintre.
+Nous n’avons aucun exemple d’élévation à trois étages, la nef romane de Fécamp étant détruite : l’élévation des bas-côtés et des travées de clocher ne présente aucune particularité.
+Le carré du transept est limité par des arcs en plein cintre, parfois brisés, au xiie siècle.
+A Montivilliers seulement, il est décoré à sa partie supérieure de plusieurs étages d’arcatures desservis par une coursière.
+Les croisillons, les travées de chœur et les absides sont, en général, de la plus grande simplicité ; il arrive cependant, dès le xie siècle, qu’ils soient décorés d’un ou même de deux rangs d’arcatures, dans lesquels peuvent être ouvertes les baies.
+Le chœur de Fécamp seul avait un étage de tribunes entre les arcades et les fenêtres hautes.
+
+2° Supports. – L’alternance est rare.
+Les colonnes hautes, au contraire, se rencontrent dans presque toutes les églises à collatéraux.
+Le support le plus simple des grandes arcades consiste en une pile cruciforme flanquée de colonnettes : à quelques exceptions près, les colonnes sont engagées au xie siècle, cantonnées au xiie.
+Dans les bas-côtés, un contrefort intérieur, colonne ou dosseret, prend souvent naissance sur la base du support.
+Les piles monocylindriques n’apparaissent qu’assez tard, dans la première moitié du xiie siècle.
+
+Les massifs qui supportent le clocher sont toujours des piles à ressauts, flanqués de colonnettes.
+
+Les ogives, relancées, retombent souvent sur de petits culs-de-lampe.
+
+3° Elévation extérieure. – Les nefs uniques, bien que non voûtées, sont raidies par des contreforts plats.
+Les fenêtres, haut placées, forment au xie siècle une frise sous la corniche.
+Lorsqu’il y a des bas-côtés, ils sont renforcés de place en place.
+Sur les murs de la nef se prolongent les contreforts intérieurs des bas-côtés.
+
+Les façades sont de la plus grande sobriété, limitées par des contreforts qui marquent aussi parfois la largeur de la nef dans les églises à collatéraux.
+Les façades des abbatiales sont resserrées entre deux tours.
+
+On trouve quelques exemples de croisillons ou de travées de chœur décorés d’arcatures.
+Le fait est plus fréquent pour les absides.
+Elles sont assez souvent raidies par des contreforts-colonnes au xie et au début du xiie siècle.
+Les chevets plats sont nus.
+
+
+=== Chapitre V Les percements. ===
+
+1° Les portails. – Ils sont le plus souvent percés à l’ouest, parfois, cependant, dans les plus anciennes églises, au bas de la nef du côté sud.
+Dans quelques édifices, on trouve des traces de la porte aux hommes et de la porte aux femmes.
+Toutes les portes latérales du xie siècle sont simples, couronnées par un linteau monolithe.
+Avant la fin de ce siècle apparaît le portail à voussures portées par des colonnettes.
+Ils sont en plein cintre, le plus souvent sans tympan, moulurés de tores et de gorges, ou décorés de billettes au xie siècle.
+Au xiie, le décor est uniquement géométrique et il est traité claveau par claveau.
+
+2° Les fenêtres. – Les fenêtres restent en plein cintre jusqu’au milieu du xiie siècle.
+L’ébrasement intérieur est toujours très prononcé, tandis que l’ébrasement extérieur est encore à peine indiqué en plein xiie siècle.
+Au xie siècle, on trouve des baies étroites comme des meurtrières, dont le cintre est découpé dans une dalle.
+Dès cette époque aussi, les fenêtres sont encadrées de colonnettes et leur archivolte est moulurée.
+
+
+=== Chapitre VI Tours-lanternes et clochers. ===
+
+Placés entre chœur et nef, à l’époque romane, les clochers sont tous sur plan carré.
+Les souches sont peu intéressantes, percées de baies étroites.
+Au xie siècle, les clochers à un seul étage sont décorés, à leur partie supérieure, d’arcades ouvertes et aveugles.
+Lorsqu’il y a plusieurs étages, l’étage le plus élevé est aussi le plus décoré.
+Les tours du xie siècle sont belles et trapues.
+Leurs angles sont vifs ou amortis par des colonnettes.
+Au début du xiie, les clochers ont leur unique étage percé sur chaque face d’une fenêtre recoupée ou non.
+Ce n’est que dans le second quart de ce siècle que l’on retrouve de beaux clochers : le thème des baies jumelées du xie siècle a été repris et il est traité avec beaucoup de finesse et d’élégance.
+
+Les flèches de pierre ne semblent pas avoir existé.
+Les tours devaient être couvertes de charpente et d’un toit en pavillon. 
+
+
+=== Chapitre VII Mouluration et sculpture. ===
+
+1° Les bandeaux. – Les bandeaux sont à simple ou à double chanfrein.
+Dans les plus anciennes églises, un grain d’orge sépare le bandeau du chanfrein.
+
+2° Les corniches. – Les corniches, presque toujours formées d’une tablette portée par des modifions, sont très souvent chanfreinées, surtout au xie siècle.
+Vers le milieu du siècle suivant, on trouve quelques corniches plus compliquées, entre autres des corniches beauvaisines.
+
+3° Les arcs. – Les arcs, le plus souvent à arêtes vives, peuvent être décorées à l’archivolte de frettes, d’imbrications, de billettes ou d’un tore surmonté d’une gorge au xie siècle.
+Au xiie, la mouluration est plus compliquée.
+L’apparition des bâtons brisés, très employés, n’a pas supprimé l’ancien décor de frettes.
+
+4° Les bases. – – Les plus anciennes bases sont talutées ou formées de tores superposés.
+Dès la fin du xie siècle et surtout au xiie, une gorge sépare les deux tores et le tore inférieur est beaucoup plus développé.
+Les griffes n’apparaissent pas avant le xiie siècle.
+
+5° Les chapiteaux. – Les tailloirs sont à chanfrein ou à cavet, avec ou sans grain d’orge.
+Le xiie siècle semble avoir préféré les tailloirs à cavet.
+On trouve quelques tailloirs ornés.
+
+Les astragales, épais au xie siècle au point de garder la forme de filet, s’arrondissent et s’affinent au xiie.
+Ils sont en amande dans les plus jeunes de nos églises. 
+
+Nous n’avons pas trouvé de chapiteaux cubiques.
+Les corbeilles du xie siècle, quand elles ne sont pas simplement épannelées, se rattachent à trois types : les chapiteaux ornés d’épaisses volutes aux angles, avec une petite console, au milieu de chaque face, sous le tailloir ; les chapiteaux à rinceaux de feuillage, qui sont certainement les plus beaux ; enfin, les chapiteaux historiés, maladroits, naïfs, sculptés avec très peu de relief.
+
+Au xiie siècle, les genres sont tout différents : les consoles ont disparu.
+On trouve beaucoup de chapiteaux à godrons, à entrelacs et surtout à feuilles plates enroulées en volutes aux angles.
+Les rares chapiteaux à rinceaux n’ont plus le caractère de ceux du xie siècle, mais ils sont aussi très remarquables.
+
+6° Les modillons. – Ils sont extrêmement variés.
+Les groupes principaux sont ceux des modillons à copeaux, très employés au xie siècle, des modillons à figures géométriques et des modillons à masques.
+Ils sont, en général, taillés avec vigueur et réalisme, mais sans beauté.
+
+
+=== Conclusion ===
+
+Les grandes abbayes n’ont pas exercé d’influence sur l’architecture des petites églises environnantes.
+Les mêmes procédés de construction et de décoration ont été employés dans toute l’étendue de nos archidiaconés, mais le pays de Caux n’a pas eu un art propre : les églises romanes du Grand et du Petit-Caux restent bien dans la tradition de l’école romane de Normandie. 
+
+C’est au xie siècle qu’appartiennent les plus beaux édifices de la région que nous avons étudiée.
+Au contraire, les monuments du début du xiie siècle manquent de caractère, de proportion et d’imagination.
+Une renaissance semble se produire au milieu du xiie siècle, faisant déjà présager l’art gothique.
+
+
+== Deuxième partie Monographies ==
+
+
+
+
+== Appendice I églises du grand et du Petit-Caux ayant conservé des vestiges romans de peu d’importance. ==
+
+
+
+
+== Appendice II églises en totalité ou en partie romanes disparues depuis 1845. ==
+
+
+
+
+== Table des matières ==
+
+

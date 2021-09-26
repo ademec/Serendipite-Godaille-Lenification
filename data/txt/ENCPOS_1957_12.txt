@@ -1,0 +1,139 @@
+identifier: ENCPOS_1957_12
+creator: Henri-Georges Le Saulnier De Saint-Jouan
+date: 1957
+title: Pons le Provençal maître en dictamen (xiiie siècle)
+
+
+
+== Introduction ==
+
+On appelait au moyen âge dictamen l’art de la composition et du style et particulièrement celui de la composition et du style épistolaire.
+Cet art, en raison de l’utilité pratique qui était reconnue à l’epistola par les contemporains, fit l’objet d’un enseignement dans les écoles et les universités du xiie au xive siècle.
+Étudié d’abord en Italie, il le fut en France à partir de 1130, notamment à Tours, à Orléans et à Paris.
+L’un des maîtres qui enseigna en France, au xiiie siècle, la technique de l’epistola fut Pons le Provençal.
+
+
+== Chapitre premier l’œuvre. ==
+
+Pons le Provençal est l’auteur de quatre traités : une Summa dictaminis, une Summa de constructione, un Epistolarium et un De libellis.
+
+La
+    « Summa dictaminis ». – La Summa dictaminis de competenti dogmate est un manuel où se trouvent exposés en sept chapitres les principes de la rédaction de l’epistola : sa division en cinq parties (salutatio, proverbium, narratio, petitio, conclusio), les règles de l’ornement du style (ornatus) et de la prose rythmée (cursus).
+Chaque chapitre est illustré d’exemples qui remplissent presque tout l’ouvrage.
+Celui-ci dut être publié à Paris entre 1238 et 1243.
+Il en subsiste huit manuscrits complets (Florence, Laurentienne, Ashburnham 1545, fol. 2-36 v° ; Londres, Br.
+Mus., Arundel 514, fol. 54-64 v° ; Reims 1101, fol. 51-60 v° ; Paris, Bibl. nat., lat. 8653, fol. 2-7 ; lat. 18595, fol. 1-11 v° ; Arsenal 1132, fol. 1-14 ; 3807, fol. 48-56 ; Cracovie, Jagellonnienne 679, fol. 117-124) et sept incomplets (Troyes 1556, fol. 1-13 ; Arras 1011, fol. 35-37 v° ; Paris, Bibl. nat., lat. 8625, fol. 79 v°-86 ; lat. 11386, fol. 37-43 v°, avec des interpolations ; Munich, clm. 16122, fol. 4 v°-9 ; Vienne, Bibl. nat., 2512, fol. 3 v°-11 et 24 v°-33 ; Barcelone, Arch. de la Couronne d’Aragon, Ripoll 190, fol. 2, 106 v°-121). 
+
+La
+    « Summa de constructione ». – La Summa de constructione est un traité de grammaire qui nous est conservé dans cinq manuscrits, intercalé entre la Summa dictaminis et l’Epistolarium : Florence, Laurentienne, Ahsburnham 1545 ; Londres, British Museum, Arundel 514 ; Paris, Bibl. nat., lat. 18595 et 8653 ; Cracovie, Jagellonnienne 679, incomplet.
+C. Fierville s’est servi du manuscrit B. n. 8653 pour donner, non sans quelques lacunes, une édition du texte (Une grammaire latine inédite..., Paris, 1886, p. 177-192).
+Pons le Provençal écrit dans le prologue dont il l’a pourvue qu’il a composé la Summa de constructione après la Summa dictaminis.
+
+L’« Epistolarium ». – L’Epistolarium est l’œuvre la plus considérable de Pons le Provençal.
+C’est un formulaire de trois cent dix-huit modèles de lettres et d’actes juridiques rangés en dix-huit chapitres.
+Sept manuscrits en donnent un texte à peu près complet : Florence, Laurentienne, Ashburnham 1545, fol. 52-154 v° ; Londres, Br.
+Mus., Arundel 514, fol. 69-99 ; Paris, Bibl. nat., lat. 8653, fol. 9-22 v° ; lat. 18595, fol. 16-44 v° ; Arsenal 3807, fol. 56-84 ; Cracovie, Jagellonnienne 679, fol. 125 v°-146, 153 v°-154.
+Des fragments en sont contenus dans les manuscrits suivants : Troyes 1556, fol. 13-20 ; Paris, Bibl. nat., lat. 11385, fol. 47-50 v° et 69 v°-74 v° ; nouv. acq. lat. 1524, fol. 25-26 v° ; Sainte-Geneviève 2775, fol. 270 v°, 272, 247 v°, 271 ; le texte, donné encore par le manuscrit latin 16122 (fol. 9-11 v°) de Munich et qui reproduit les modèles de contrats inclus dans le dernier chapitre de l’Epistolarium, a été édité par L. Rockinger (Briefsteller und Formelbücher..., Munich, 1863, p. 933-948).
+
+Pons le Provençal écrit dans le prologue de l’Epistolarium qu’il a composé ce formulaire en 1252.
+La date de 1259 donnée, au lieu de la précédente, par le seul manuscrit latin 18595 de la Bibliothèque nationale doit être considérée comme une erreur de copiste.
+L’Epistolarium paraît avoir été rédigé et publié à Orléans ; cette ville est, en effet, souvent mentionnée dans les lettres d’étudiants qu’il contient.
+Il a été utilisé également à l’Université de Toulouse dans une adaptation réalisée avant 1271 dont nous avons conservé deux témoins médiocres et incomplets : Barcelone, Arch. de la Cour. d’Aragon, Ripoll 190, fol. 11 v°-73 et 121-123 ; Paris, Bibl. nat., lat. 11386, fol. 13-13 v°, 43 v°.
+Le texte du prologue donné par le premier précise que l’Epistolarium aurait été composé à Toulouse, mais cela paraît très douteux.
+
+Trois manuscrits donnent un texte du formulaire de Pons le Provençal différant de l’Epistolarium : Paris, Arsenal 1132, fol. 14-16 v° ; Munich, clm. 16122, fol. 11 v°-15 ; clm. 22293, fol. 278-295.
+Le recueil de lettres du premier est intitulé Dictamina.
+Les deux autres manuscrits ont dû être copiés par des étudiants allemands venus à Paris, ville dont la mention revient fréquemment dans le texte qu’ils donnent du formulaire.
+Ces trois manuscrits conservent probablement des états primitifs de l’Epistolarium, remontant au temps où maître Pons enseignait à Paris.
+Les lettres qu’ils renferment se retrouvent, en général, dans l’Epistolarium, certaines mot pour mot, quelques-unes après avoir été modifiées.
+La division en chapitres n’est pas indiquée, mais, dans les deux manuscrits de Munich, les modèles se suivent dans l’ordre qui a été adopté dans l’Epistolarium.
+
+Le
+    « De libellis ». – Le De libellis est un recueil de modèles de libelles judiciaires, précédé d’une liste des actions.
+Le libelle était l’écrit par lequel on engageait un procès ; le demandeur devait l’adresser au juge en y formulant sa plainte ou sa revendication.
+Le texte du De libellis fait suite à celui de l’Epistolarium dans trois manuscrits : Cracovie, Jagellonnienne 679, fol. 146-153 v°, le seul qui paraisse complet ; Paris, Bibl. nat., lat. 18595, fol. 44 v°-47 v°, qui en donne le premier quart ; Arsenal 3807, fol. 84, arrêté après les premières lignes.
+
+Le tractatus positionum ou de positionibus attribué à Pons le Provençal à l’incipit et à l’explicit du manuscrit 10060 du fonds latin de la Bibliothèque Vaticane paraît être, en réalité, l’ouvrage de Roffredo de Bénévent où ce juriste a traité des questions que le demandeur devait adresser par écrit au défendeur au cours d’un procès devant une juridiction d’Église.
+
+Aux manuscrits indiqués, il faut ajouter les manuscrits perdus, celui de Turin (Univ. 918), disparu en 1904, la Summa dictaminis de la Bibliothèque de Thou, cité par Ducange (Glossarium, art. supermissa), et très probablement la Summa magistri Poncii, mentionnée dans le testament de Jakob Roth, fait à Zurich en 1321.
+
+
+== Chapitre II L’auteur. ==
+
+L’auteur s’est intitulé, dans le Prologue de la Summa de constructione et dans celui de l’Epistolarium, « magister Poncius Provincialis ».
+Dans plusieurs lettres de ce formulaire, il s’est désigné « magister Pondus » ou « magister P. ».
+On lit son nom sous ces trois formes aux incipit et aux explicit que portent les différents manuscrits de ses traités.
+Dans deux des modèles que contient l’état primitif du formulaire, l’auteur est nommé
+    « P. magister in dictamine ».
+Le nom de baptême et le surnom de Pons le Provençal attestent son origine méridionale.
+
+Aucune mention de maître Pons n’a pu être reconnue en dehors du texte que les manuscrits ont conservé de son œuvre.
+De l’examen des modèles de l’Epistolarium, il résulte que Pons le Provençal enseigna peut-être à Toulouse vers 1236-1238, et très probablement à Paris, où il dut composer la Summa dictaminis, avant 1244, ainsi que les premiers états de son formulaire ; il professa ensuite à Orléans, où il aurait publié, en 1252, l’Epistolarium et, probablement, l’édition complète des quatre ouvrages dont il est l’auteur. 
+
+
+== Chapitre III La doctrine. ==
+
+Il existe dans l’œuvre de Pons le Provençal prise dans son ensemble une certaine unité voulue par l’auteur et réalisée par lui autour de la Summa dictaminis.
+Il convient, cependant, de distinguer les deux Summa, ouvrages de doctrine, des formulaires que sont l’Epistolarium et le De libellis.
+
+Pons le Provençal s’est inspiré, en composant la Summa dictaminis, du traité similaire du maître bolonais Bernard.
+Il lui a emprunté, notamment, la division de l’epistola en cinq parties, la classification des personnes, faite à propos de la salutatio, en superiores, médiocres et inferiores, ainsi que certaines de ses définitions.
+Il a utilisé de la Summa de son prédécesseur une adaptation rédigée en France dont il subsiste un témoin dans le manuscrit 246 de la Bibliothèque nationale de Vienne.
+
+Comme dans le texte adapté de maître Bernard, on lit dans la Summa dictaminis les règles du cursus exposées selon la méthode pratiquée en France, par laquelle on supposait des dactyles et des spondées dont le premier pied correspondait aux syllabes accentuées des mots.
+
+La presque totalité du texte de la Summa de constructione se retrouve, identique, dans celui des Notule gramaticales de maître César.
+Il est plus vraisemblable que Pons le Provençal ait copié les Notule, plutôt que maître César la Summa.
+La doctrine énoncée est celle de Priscien.
+
+L’idée directrice de la Summa dictaminis et, par conséquent, de l’œuvre de Pons le Provençal tout entière est la conception de l’ornatus qu’il y a exprimée.
+La concision du style (brevitas) est obtenue en composant sans nul souci que celui d’écrire correctement : c’est l’ornatus sentenciarium.
+La correction du style (congruitas) porte sur deux points : elle suppose l’application des règles de la grammaire, dont les plus utiles à la composition sont exposées dans la Summa de constructione ; elle suppose également l’accord de la pensée et de l’expression, accord qui relève de la logique et dont l’auteur se borne à signaler la nécessité.
+
+Comme les arts poétiques composés en France au xiie et au xiiie siècle, la Summa dictaminis distingue deux degrés dans l’ornement du style proprement dit, l’ornatus mediocris et l’ornatus superior.
+Mais les procédés d’amplification qui sont décrits pour les atteindre demeurent extrêmement simples ; ils s’apparentent à celui de la determinatio, exposé par Geoffroy de Vinsauf et Jean de Garlande.
+
+Les trois styles distingués par Pons le Provençal suivant lesquels il était possible de rédiger une lettre – brevitas, ornatus mediocris, ornatus superior – correspondaient à la hiérarchie des personnes en inferiores, mediocres, superiores.
+La distinction des styles, héritée de la rhétorique de l’Antiquité, fut adoptée d’autant plus volontiers au moyen âge qu’elle convenait au sentiment que l’on avait, à cette époque, de la hiérarchie sociale : au xiie et au xiiie siècle, elle a été exprimée en France par les théoriciens de l’art poétique, en Italie par les maîtres en dict amen.
+Pons le Provençal l’a puisée à ces deux sources.
+
+Selon Pons le Provençal, l’art d’écrire reposait sur la connaissance de la grammaire, de la logique et de la rhétorique.
+Le maître italien Guido Faba a exprimé également cette idée dans sa Summa dictaminis et on retrouve la même conception sous la plume de saint Bonaventure.
+
+
+== Chapitre IV Le formulaire. ==
+
+Pons le Provençal écrit, dans le prologue de l’Epistolarium, qu’il a composé cet ouvrage « secundum doctrinam et ordinem Summe dictaminis ».
+De fait, les principes qui sont énoncés dans le manuel ont trouvé leur application dans le formulaire ; l’ordre et le titre des chapitres de l’Epistolarium qui contiennent les lettres de catégories de personnes déterminées reproduisent assez fidèlement ceux des paragraphes de la Summa, entre lesquels sont répartis les proverbia et les petitiones donnés à titre d’exemples.
+La division de l’Epistolarium en dix-huit chapitres est peut-être imitée de celle des Institutiones grammaticae de Priscien.
+
+Alors que les formulaires Orléanais de la fin du xiie siècle faisaient place à des lettres d’imagination dont le sujet était parfois emprunté à Ovide, l’Epistolarium ne contient qu’une lettre dont le thème a été développé de façon poétique.
+C’est l’épître par laquelle maître Pons engage les étudiants d’Orléans à suivre son enseignement : il leur raconte comment Rhetorica lui apparut et lui ouvrit les sept portes de la cité aux dix-huit palais, Practica dictatorum.
+On reconnaît sous l’allégorie la doctrine du maître : les personnages qui siègent aux sept portes figurent par leurs attitudes l’exposé de chacun des sept chapitres de la Summa dictaminis.
+Pareillement, les dix-huit palais sont l’image des dix-huit chapitres de l’Epistolarium.
+Ce morceau en prose rythmée (édit.
+L. Delisle, dans Ann.– Bull. de la Soc. de l’Hist. de France, 1869, p. 150-152) doit être rapproché de différents poèmes didactiques rédigés en latin vers la même époque et dérive, comme eux, pour le fond et la forme, de l’Anticlaudianus d’Alain de Lille.
+
+Le sujet des lettres de l’Epistolarium était d’ordre pratique : un certain nombre d’entre elles concernent les relations des étudiants avec leurs parents, leurs maîtres ou leurs camarades ; la plupart sont des modèles de lettres administratives ou d’actes juridiques.
+Toutes nous documentent sur les institutions et les mœurs de l’époque, et elles offrent, prises dans leur ensemble, une sorte de tableau de la société.
+
+Seize lettres de l’Epistolarium font allusion à des événements historiques que l’on peut identifier grâce aux noms des personnages qu’elles mettent en rapports ou dont il est question dans le texte : lutte de Frédéric II contre la Ligue lombarde ; rivalité du comte de Provence, Raymond-Béranger V, et du comte de Toulouse, Raymond VII, et intervention du roi de France contre ce dernier ; croisade de saint Louis en Égypte ; et, semble-t-il, passage des Pastoureaux à Orléans.
+Pons le Provençal a dû composer ces lettres en s’inspirant de l’actualité.
+Leur valeur pour l’historien est, cependant, médiocre.
+L’auteur a généralement évité de préciser les faits, dont il n’avait peut-être qu’une connaissance imparfaite : les événements furent probablement plus ou moins déformés suivant l’opinion en cours à l’université où enseignait maître Pons ; ils ont pu être également transformés pour s’adapter à un thème d’école.
+Dans les modèles qu’il attribuait à un personnage historique, Pons le Provençal n’a pas tenu compte du formulaire diplomatique propre à la chancellerie de celui-ci ; il s’est plutôt préoccupé de suivre les usages communément reçus, tels qu’on les trouvait codifiés dans les Summa dictaminis.
+
+Les deux derniers chapitres de l’Epistolarium ont été réservés aux modèles juridiques.
+L’un, le De modo curie, contient des exemples de lettres, telles que les juges ou les parties devaient en rédiger au cours d’un procès devant une juridiction ecclésiastique.
+L’autre, le De cartis sive de instrumentis, est composé de trente-trois modèles de contrats.
+Il faut rattacher aux formules de ces deux chapitres les modèles du De libellis.
+
+
+== Conclusion ==
+
+Les caractéristiques de l’enseignement du dictamen au xiiie siècle et les causes de son déclin.
+
+
+== Édition de la « Summa dictaminis » et de l’« Epistolarium » d’après le manuscrit latin 8653 de la bibliothèque nationale ==
+
+

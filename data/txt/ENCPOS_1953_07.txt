@@ -1,0 +1,95 @@
+identifier: ENCPOS_1953_07
+creator: Pierre Gasnault
+date: 1953
+title: Étude sur les chartes de Saint-Martin-de-Tours des origines au milieu du xiie siècle
+
+
+
+== Chapitre préliminaire histoires consacrées a Saint-Martin de tours ==
+
+Parmi les histoires écrites avant la Révolution, seule l’histoire de Raoul Monsnyer, continuée par Michel Vincent, tous deux chanoines de Saint-Martin, mérite d’être retenue.
+Mais elle est restée en partie manuscrite.
+De nos jours, il faut signaler l’ouvrage du chanoine Vaucelle.
+Mais la critique des sources n’a pas encore été entreprise avec assez de rigueur.
+
+
+== Première partie Le chartrier ==
+
+
+=== Chapitre premier histoire. ===
+
+Mentionné dès le début du ixe siècle, le dépôt d’archives de Saint-Martin de Tours fut ruiné en partie par les invasions normandes.
+Les premiers travaux de classement datent du xe siècle et, pendant tout le Moyen Age, les chanoines veillèrent à la conservation de leurs archives.
+Le répertoire rédigé en 1541 par François Courtin était une œuvre importante ; mais les guerres de religion désorganisèrent le chartrier pour un demi-siècle.
+Au xviie siècle et dans la première moitié du xviiie, les archives furent consultées et copiées par de nombreux érudits (Bignon, Besly, A. Duchesne, dom Le Michel, dom Lesueur, J. Bouhier, Gaignières, et surtout Baluze).
+Les archivistes que le chapitre entretint à ses gages à partir de 1733 exécutèrent d’importants travaux de classement et d’inventaire.
+Mais la Révolution ruina le chartrier.
+Il n’en reste plus aujourd’hui que des épaves.
+
+
+=== Chapitre II Les documents. ===
+
+Le cartulaire le plus ancien était la pancarte noire.
+Rédigé entre 1131 et 1143, peut-être par Pierre Béchin, il comprenait la copie d’environ cent cinquante actes, le plus ancien étant la bulle du pape Adéodat (672-676).
+Les chartes des xiie et xiiie siècles avaient été transcrites dans la pancarte rouge et dans la pancarte blanche.
+Les registres capitulaires et le rituel de Péan Gatineau.
+Tous ces documents ont été brûlés à la Révolution et il n’en reste que des copies du xviie et du xviiie siècle.
+
+
+== Deuxième partie Étude diplomatique ==
+
+
+=== Chapitre premier les diplômes royaux. ===
+
+Caractères de la rédaction. – Dès le règne de Louis le Pieux, la plupart des diplômes destinés à Saint-Martin étaient rédigés par les chanoines eux-mêmes, ce qui permet d’expliquer certaines particularités (reprise des mêmes formules, juxtaposition de dispositions étrangères, style recherché), voire certaines irrégularités (invocation et suscription fautives) de ces actes.
+
+Les tentatives de faux et les faux. – Le diplôme de Charles le Gros du 22 août 886, lui-même sincère, fait allusion à un privilège de Nicolas Ier et à un acte du concile de Pitres.
+Ces deux actes sont des faux rédigés vraisemblablement pour écarter l’abbé de l’administration des biens dévolus à l’entretien des chanoines.
+Les trois diplômes de confirmation de l’immunité intitulés au nom de Charles le Simple sont des faux (irrégularités diplomatiques, erreurs historiques).
+Ils insistent sur les obligations incombant aux détenteurs des biens de l’abbaye et rappellent au roi de France qu’il est, en tant qu’abbé, défenseur des biens de Saint-Martin.
+On peut y rattacher les bulles fausses de Léon III et de Serge III, qui tendent à assurer le paiement des dîmes et des nones.
+
+
+=== Chapitre II Les privilèges ecclésiastiques. ===
+
+Sous l’impulsion de la reine Bathilde, des moines réguliers furent intro duits à Saint-Martin de Tours vers 650.
+L’évêque de Tours, Chrodebert, leur accorda un privilège d’émancipation, aujourd’hui perdu.
+Ce privilège fut confirmé par le pape Adéodat (672-676) et renouvelé par l’évêque de Tours, Ibbon (703-711).
+Ces deux actes peuvent être considérés comme sincères ; car toutes leurs dispositions sont semblables à celles des privilèges épiscopaux contemporains.
+Lorsque, au début du ixe siècle, l’élément monacal eut été évincé complètement par l’élément clérical, la situation du monastère vis-à-vis de l’archevêque de Tours demeura inchangée.
+
+Au xie siècle, la question de l’exemption fut liée à celle de l’évêque monastique.
+L’acte du concile de Tusey, le privilège d’Adrien Ier et le privilège de Grégoire V, qui confirment l’exemption du monastère de Saint-Martin et lui attribuent un évêque monastique, sont des faux rédigés vers 1083, à la suite du conflit violent qui opposa, en 1081, les chanoines à l’archevêque de Tours, Raoul Ier de Langeais, et au légat pontifical, Amat d’Oloron.
+Une bulle sincère d’Adrien Ier pour Saint-Denis a servi de modèle au faussaire.
+En 1096, le pape Urbain II plaça les chanoines de Saint-Martin sous la protection du Saint-Siège et les bulles pontificales du xiie siècle nous les présentent comme exempts de la juridiction de l’archevêque de Tours.
+Les bulles d’Urbain II du 14 mars et du 29 mars 1096 sont des faux composés à l’extrême fin du xie siècle.
+
+
+=== Chapitre III Les actes privés. ===
+
+Au ixe siècle, quelques actes sont rédigés en dehors de Saint-Martin par des personnages intitulés amanuensis, notarius ou dominicus cancellarius.
+A Saint-Martin, la rédaction des actes était assurée par l’écolâtre ou par son secondicier.
+L’écolâtre se qualifie aussi de cancellarius.
+
+Les souscriptions étaient le procédé de corroboration le plus usité.
+A la fin du xie siècle apparaît la charte-partie et au début du xiie siècle le sceau.
+Une grande importance était reconnue, à l’époque carolingienne, aux titres écrits.
+Les notices sont peu nombreuses.
+Passage de la notice judiciaire à la notice proprement dite.
+
+Il n’existe qu’un seul acte de vente, daté de 733, mais des contrats de vente sont fréquemment mentionnés dans les chartes du ixe et du xe siècle.
+Les donations sont toujours des donationes pro anima.
+La tradition peut conférer au bénéficiaire une saisine immédiate (donatio a die presenti, appelée dans les chartes de Saint-Martin donatio) ou simplement en expectative (donation avec réserve d’usufruit, appelée cessio).
+Les chartes intitulées precariae sont toujours des precariae remuneratoriae.
+Cette opération juridique peut revêtir, dans les chartes de Saint-Martin, deux formes diplomatiques différentes.
+La concession à cens porte le nom de manus firma ; la rédaction en est plus simple.
+
+
+== Pièces justificatives ==
+
+
+
+
+== Liste chronologique des chartes jusqu’au milieu du xiie siècle ==
+
+

@@ -1,0 +1,137 @@
+identifier: ENCPOS_1941_12
+creator: Jean Rychner
+date: 1941
+title: Martial d’Auvergne et les Vigiles de Charles VII
+
+
+
+== Introduction bibliographique ==
+
+
+
+
+== Première partie Biographie ==
+
+I. Sources. – Les œuvres de Martial d’Auvergne nous renseignent très rarement sur sa vie.
+La Chronique scandaleuse décrit l’accès de fièvre qui le rendit fou en 1466.
+Parmi les documents d’archives, les registres du Parlement de Paris mentionnent quelquefois, mais sèchement, le procureur d’Auvergne ; les archives de la paroisse de Saint-Germain-le Vieux, dans laquelle il habitait, sont moins pauvres : nous y trouvons les preuves d’un côté de son activité ignoré jusqu’ici.
+
+II. Le nom.
+Origines de la famille.
+Les homonymes. – Tous les documents officiels appellent notre auteur Martial d’Auvergne, et ce n’est que dans les manuscrits et les éditions de ses œuvres que l’on trouve Martial de Paris ou Martial de Paris, dit d’Auvergne. – L’origine auvergnate qu’indique le nom d’Auvergne peut être lointaine ; l’origine limousine plus proche qu’Antoine Thomas a voulu démontrer n’est pas établie.
+Il n’y a aucune preuve que Martial ait appartenu à la famille d’Auvergne installée à Limoges, dont plusieurs membres ont aussi porté le prénom de Martial.
+
+III. Martial d’Auvergne l’ Aîné. – Le père du poète, demeurant à Paris dès 1421, y épouse Marie de Bohain, d’une famille probablement parisienne.
+Il est à la fois notaire au Châtelet et procureur en Parlement.
+Il s’occupe des affaires de sa paroisse de Saint-Germain-le-Vieux, dont il est marguillier de 1454 à 1458.
+Il meurt vers 1470.
+
+IV. Martial d’Auvergne le Jeune.
+Date de naissance. – – Martial dut naître entre 1430 et 1435.
+
+V. La paroisse de Saint- Germain-le-Vieux.
+La maison familiale. – Martial possédait et habitait une maison située en face de l’Hôtel-Dieu dans l’île de la Cité.
+La rue prolongeant le Petit-Pont dans l’île ne s’appelait pas au xve siècle rue du Marché-Palu, mais Marché-Palu ou, comme la première section de la rue Saint-Jacques, rue du Petit-Pont.
+Martial et sa famille déménagent en 1490 et vont habiter rue de la Calandre, à la maison du Cheval-Blanc.
+
+VI. Le métier. – Dans le monde agité qui peuple le Palais de Justice, un procureur n’est pas un personnage important.
+Les procureurs sont soumis à une réglementation professionnelle stricte.
+Ils ne sont pas populaires.
+Affaires dans lesquelles intervient Martial d’Auvergne.
+
+VII. La vie privée. – Martial se marie avec Martine Fournier, fille de Jacques Fournier, conseiller en Parlement, au début de juin 1466 : trois semaines après, il est pris d’un terrible accès de fièvre et se jette par la fenêtre de sa chambre, mais n’en meurt point.
+Il renonce dès lors aux « livres d’amours et vanité ». – Ses quatre fils : Guillaume, Germain, Louis et Martial. – Il s’occupe des intérêts de sa paroisse : il en est marguillier de 1471 à 1474, et probablement de 1484 à 1487.
+Il fait dans son église diverses fondations pieuses.
+Il meurt le 13 mai 1508 ; le 28 octobre suivant, quatre cents pauvres se régalent aux Bernardins du dîner que Martial, par son testament, avait ordonné qu’on leur servît.
+
+
+== Deuxième partie Les Vigiles de Charles VII ==
+
+
+=== Chapitre premier manuscrits et éditions. ===
+
+I. Manuscrits. – Le manuscrit français 5054 de la Bibliothèque nationale représente la version originale des Vigiles de Charles VII. Le manuscrit 503 de Chantilly en est la copie.
+
+II. Editions. – Simple énumération des éditions Du Pré (1493), Le Caron (s. d.), Claude Dayne (s. d.), Robert Bouchier (s. d.), Michel Lenoir (1505), veuve Jean Trepperel (s. d.) et Coustelier (1724).
+
+III. Filiation du texte. – La première édition, celle de Du Pré, dérive du ms. fr. 5054.
+Les éditions suivantes reproduisent le texte de la première, directement ou indirectement.
+
+IV. Modifications apportées par l’ensemble des éditions à la version originale. – Certaines d’entre elles ont pour objet de corriger des fautes patentes, d’améliorer la versification, le style ou la langue, de compléter l’information historique.
+Il semble bien ressortir de cela que Martial a revu lui-même son œuvre avant de la livrer à l’impression.
+
+
+=== Chapitre II L’œuvre. ===
+
+I. Date de composition. – Les Vigiles ont été composées entre 1477 et 1482. 
+
+II. L’œuvre.
+La forme liturgique. – Les Vigiles, poème à la louange de Charles VII et de son règne, écrit par réaction contre le gouvernement de Louis XI et le malheur des temps, empruntent leur titre et leur plan (psaumes et leçons) à l’Officium defunctorum ou Vigiles des morts.
+D’autres œuvres attestent le succès de l’Officium au xve siècle : ce sont surtout ses traductions françaises, les IX leçons de Job de Pierre de Nesson, les Vigiles de Labeur et différentes farces ou moralités.
+
+III. Le sens de l’œuvre. – Regrets du bon vieux temps (le règne de Charles VII), révolte contre les malheurs contemporains, telles sont les deux principales sources d’inspiration de Martial d’Auvergne.
+Les regrets causés par la mort de Charles VII ont suscité d’autres œuvres : les Regrets et complaintes de la mort du roy Charles viie derrenier trespassé, d’un auteur inconnu, les Epitaphes du roy Charles viie par Simon Greban, le Mystère de la mort du roy Charles VII de Georges Chastellain, quelques vers et un éloge en prose d’Henri Baude, plusieurs épitaphes latines.
+
+IV. Les psaumes. – a) Sources historiques.
+Les psaumes sont une chronique rimée du règne de Charles VII. Martial eut recours à deux sources : la Chronique du héraut Berry et la Chronique de Jean Chartier. – 1.
+Le héraut Berry.
+Si le manuscrit de sa chronique employé par Martial d’Auvergne est parvenu jusqu’à nous, il s’agit du ms. fr. 3866. – – 2.
+Jean Chartier.
+Martial a lu sa chronique dans la version française.
+Le texte le plus proche de celui qu’il employa est celui que renferme l’édition des Grandes Chroniques de France de Pasquier Bonhomme (1477, n. st.).
+
+b) Table des matières et des emprunts.
+Analyse des psaumes ; indication de la source pour chaque passage.
+Le résidu original de cette chronique rimée consiste principalement en des renseignements sur le procès de réhabilitation de Jeanne d’Arc et la révolte des Gantois en 1451.
+
+c) Comment Martial emploie ses sources.
+Martial suit la Chronique de Berry et consulte celle de Jean Chartier.
+Par ignorance ou par négligence, il fausse le sens de certains passages de ses sources, mais il s’en éloigne rarement.
+Le style des Vigiles est plus voisin de celui de la nouvelle que de celui d’œuvres historiques : les expressions de Martial sont plus imagées que celles des chroniqueurs, le récit est souvent « dramatisé ».
+
+d) Développements et exemples moraux.
+Martial tire des événements qu’il raconte une leçon morale.
+Il vante les qualités de son héros, Charles VII, et démontre, par de nombreux exemples historiques, que les vertus sont récompensées et les vices punis.
+Ces exemples sont empruntés principalement à la Bible, au Jeu des échecs moralisé de Jacques de Cessoles, que Martial a lu dans la traduction française de Jean Ferron, au Speculum historiale de Vincent de Beauvais.
+Les références aux auteurs classiques sont pour la plupart de seconde main.
+
+V. Les leçons. – a) Analyse.
+Entrecoupant le récit des événements, les leçons sont des intermèdes lyriques, seules parties de l’œuvre à proprement parler poétiques.
+Martial y exprime avec un réel talent les regrets du temps jadis : ces regrets sont parfois circonstanciés et s’appliquent à telle qualité de Charles VII ou de son gouvernement ; ils sont souvent plus généraux et ressemblent aux regrets de toutes les époques pour l’âge d’or qu’elles imaginent. – Dans la leçon de Labour, Martial reprend le thème littéraire de la bergerie.
+Les leçons expriment, d’autre part, la révolte de Martial contre les misères présentes et les souffrances des petites gens.
+Sa sympathie pour eux est celle d’un cœur de bonne trempe.
+
+b) Versification. – – 1.
+Compte des syllabes à l’intérieur du vers.
+Non-élision du e final des polysyllabes ; les syllabes muettes comptent ou ne comptent pas suivant les besoins du vers ; élision du i de qui et de si devant voyelles ; différentes synérèses ; vers faux. – 2.
+Strophes.
+Dans les leçons des Vigiles et des Dévotes louanges à la Vierge, Martial a mis en œuvre des types de strophes et des mètres divers et souvent originaux.
+On ne rencontre cependant pas de forme lyrique fixe, comme la ballade ou le lai, à l’exception du groupe de huitains à refrain qui constitue la première partie de la leçon de Labour.
+
+
+== Appendices ==
+
+
+=== I. Lexique. ===
+
+
+
+
+=== II. Les leçons de France, noblesse et Labour des « Vigiles de Charles VII ». Texte du ms. Fr. 5054. ===
+
+
+
+
+=== III. Les neuf leçons des « dévotes louanges a la Vierge ». Texte du ms. Fr. 1804. ===
+
+
+
+
+== Livres cités ==
+
+
+
+
+== Table des matières ==
+
+

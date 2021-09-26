@@ -1,0 +1,72 @@
+identifier: ENCPOS_1891_02
+creator: Léon Dorez
+date: 1891
+title: Donat : étude sur ses ouvrages, ses commentateurs, ses imitateurs et traducteurs
+
+
+
+== Introduction la grammaire au Moyen-Age ==
+
+
+
+
+== Première partie Donat et son œuvre ==
+
+
+=== Chapitre I Vie de Donat ===
+
+
+
+
+=== Chapitre II Ouvrages de Donat ===
+
+1° Grammaire.
+Écrits authentiques : Ars Minor et Ars Major ; écrits apocryphes : De punctuandi modo, Liber Donati, etc. – 2° Rhétorique et Littérature.
+Écrits authentiques : fin de la Vita Terentii, commentaire sur les Comédies de Térence.
+Ecrits apocryphes : commentaire sur le De Rhetorica Inventione de Cicéron, vie de Virgile, arguments sur les Métamorphoses d’Ovide. 
+
+
+== Deuxième partie Le texte des traités grammaticaux ==
+
+
+=== Chapitre I Considérations générales ===
+
+Renommée de Donat ; causes générales de l’altération du texte ; les artigraphi.
+
+
+=== Chapitre II Tradition manuscrite ===
+
+Divisions et titres des ouvrages de Donat. – Modifications introduites dans le corps du texte : transpositions, interpolalations, additions. – Attributions fausses.
+
+
+=== Chapitre III Tradition imprimée ===
+
+Donats xylographiques et prototypographiques. – Description de quelques éditions du xve siècle et du xvie siècle : éditions communes ; premiers essais d’éditions critiques. – Donat et les recueils grammaticaux de la Renaissance. – Les éditeurs modernes (Putsch, Lindemann, Keil).
+
+
+=== Chapitre IV Sources ===
+
+Les grammairiens grecs. – Sources directes.
+
+
+== Troisième partie La Littérature grammaticale. Issue des ouvrages de Donat ==
+
+
+=== Chapitre I Les commentateurs ===
+
+Premiers commentateurs : Servius, Cledonius, etc. – Commentateurs carolingiens : Smaragde, Sedulius, Remi d’Auxerre, etc.  – Commentateurs du moyen-âge : Robert Kilwardby, Radulfus, les Objectiones contra Donatum, etc. – Commentateurs de la Renaissance : l’Anonyme du Musée Britannique (fin du xive siècle), les Vocabula super Donato majori, etc.
+
+
+=== Chapitre II Les imitateurs ===
+
+Haut moyen-âge et renaissance carolingienne : saint Augustin, Cassiodore, Isidore de Séville, etc. – Moyen-âge proprement dit : Paul le Camaldule, Hugues de Saint-Victor, le Libellus Donati metrice compositus, etc. – Renaissance : Nicolas Perotti, Sulpizio de Veroli, etc.
+
+
+=== Chapitre III Traductions ===
+
+Traductions manuscrites : anglo-saxonne (Ælfric) ; – françaises : elles semblent toutes dériver d’un original unique du xiiie siècle ; – grecque, attribuée à Maxime Planude. – Traductions imprimées : françaises, allemandes, italienne, anglaise, polonaise.
+
+
+=== Conclusion ===
+
+Popularité et survivance de Donat.

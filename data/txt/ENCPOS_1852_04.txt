@@ -1,0 +1,40 @@
+identifier: ENCPOS_1852_04
+creator: Charles-François Pécantin
+date: 1852
+title: Notice sur le Roman de la Rose
+
+
+
+== I ==
+
+Œuvre de deux auteurs, le Roman de la Rose a gardé l’empreinte de cette double paternité.
+Guillaume de Lorris, élève des troubadours et d’Ovide, dépeint, sous des traits allégoriques, les divers sentiments de l’amour.
+Jean de Meung, plus érudit, plus Français d’ailleurs que son devancier, se fait de la poursuite de la Rose le cadre commode d’une encyclopédie.
+
+
+== II ==
+
+La langue du Roman de la Rose est latine par ses radicaux, – provençale encore par quelques désinences, par sa grammaire surtout, – française enfin par sa syntaxe et ses allures.
+
+La grammaire du treizième siècle a emprunté au provençal : son article unique et invariable, li ou le, la, les ; – l’application presque constante aux substantifs et aux adjectifs de la règle de l’s ; – les espèces et les formes si variées de ses pronoms ; – les cinq modes (indicatif, impératif, optatif, conjonctif et infinitif) selon lesquels se répartissent les temps dans la conjugaison du verbe ; – enfin, presque tous ses adverbes et scs prépositions.
+
+Le Roman de la Rose est en vers octosyllabiques à rimes léonines.
+L’on ne sait pas précisément d’où et quand est venue à cette sorte de rime la qualification de léonine ; mais il est probable que la rime elle-même n’est rien autre chose que l’affectation passée en règle, à l’époque de la décadence, des omoioteleutes de la phrase périodique latine.
+
+
+== III ==
+
+Les ressources historiques à tirer de notre roman sont nulles ou à peu près.
+En fait d’événements, Guillaume de Lorris ne paraît guère sensible qu’à ceux de son petit monde mythologique ; quant à Jean de Meung, s’il aborde quelque point d’histoire, c’est à titre de satirique et de pamphlétaire plutôt que d’historien.
+
+
+== IV ==
+
+Pour ce qui est de l’archéologie, le sujet fort léger du Roman de la Rose amène des détails nombreux sur les frivolités de la mode et les diverses pièces dont se composait, à l’époque, l’habillement des femmes, sur les jeux, les instruments de musique, etc.
+On n’y trouve de vraiment important que la description typique d’un château fort au treizième siècle.
+
+
+== V ==
+
+De l’antiquité latine, Guillaume de Lorris n’a connu qu’Ovide, et d’Ovide n’a imité que le premier livre de l’Art d’aimer.
+Jean de Meung nomme, cite, et parait avoir connu un plus grand nombre d’auteurs ; mais son érudition ne brille ni par le bon goût, ni par l’exactitude.

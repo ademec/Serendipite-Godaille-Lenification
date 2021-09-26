@@ -1,0 +1,139 @@
+identifier: ENCPOS_1950_16
+creator: François Lang
+date: 1950
+title: Bernard de Trilia et ses Quaestiones de cognitione animae coniunctae corpori. Étude et édition
+
+
+
+== Avant-propos – Introduction ==
+
+
+
+
+== Bibliographie ==
+
+
+
+
+== Première partie La personnalité de Bernard de Trilia ==
+
+
+=== Chapitre premier biographie de Bernard de Trilia. ===
+
+Bernard de Trilia naquit à Nîmes vers 1240.
+Entré dans l’ordre des Frères-Prêcheurs assez jeune, il fut nommé, après des études de théologie à Paris entre 1260 et 1265, sous-lecteur à Montpellier et, en 1267, professeur de théologie à Avignon.
+En 1268, il enseigna de nouveau comme sous-lecteur à Montpellier, en 1271 à Bordeaux, en 1272 à Marseille, en 1273 à Toulouse et, comme lecteur, en 1273 à Avignon et en 1276 à Toulouse.
+Second définiteur à l’assemblée provinciale de Castres en 1279, il fut nommé lecteur en 1280 au couvent Saint-Jacques à Paris où il prépara la licence qu’il obtint en 1282.
+Bernard de Trilia devint maître régent (magister actu regens) en 1284 et le resta jusqu’en 1287.
+En 1287, Bernard quitta Paris pour la Provence.
+Définiteur de cette province aux divers Chapitres, il fut élu en 1291 provincial de Provence et confirmé dans cette charge par le général de l’ordre, le Frère Munio.
+Révoqué par le Chapitre de Rome en 1292, il mourut le 4 août de la même année. 
+
+
+=== Chapitre II Bernard et Bertrand de Trilia. ===
+
+Certains historiographes de l’ordre des Frères-Prêcheurs ont admis à tort l’existence de deux dominicains contemporains, l’un du nom de Bernard de Trilia, mort en 1292 ou 1295, l’autre du nom de Bertrand de Trilia, mort en 1296.
+
+
+=== Chapitre III L’enseignement a la faculté de théologie de Paris. ===
+
+Les Quaestiones disputatae font connaître les disputes ordinaires auxquelles le maître consacrait de huit à quinze jours par an.
+Les Quaestiones quodlibetales sont la rédaction des disputes extraordinaires qui portaient sur les sujets les plus divers.
+Elles se tenaient deux fois par an.
+
+
+=== Chapitre IV L’organisation et l’enseignement dans l’ordre des Frères-Prêcheurs au xiiie siècle. ===
+
+Avant de commencer l’étude de la théologie, il fallait consacrer deux ans au Studium artium et deux autres années au Studium naturalium.
+Les études théologiques duraient trois ans, auxquels s’ajoutaient, pour les lecteurs, trois autres années dans le Studium solemne.
+A partir de 1305, il fallut passer en outre deux ans dans le Studium generale.
+
+
+== Deuxième partie L’œuvre de Bernard de Trilia ==
+
+
+=== Chapitre premier les écrits de Bernard de Trilia. ===
+
+
+
+
+=== Chapitre II Manuscrits des « Quaestiones ». ===
+
+Étude de trois manuscrits : Paris, Bibl. nat., lat. 3609 ; Avignon, 298 ; Paris, Bibl.
+Mazarine, 3490.
+
+
+== Troisième partie La pensée de Bernard de Trilia == 
+
+
+=== Chapitre premier idées innées ou acquises. ===
+
+Selon Aristote, point d’idées innées.
+L’âme connaît par l’intellect, faculté spirituelle, qui est en puissance à l’égard de toutes les formes intelligibles.
+L’intellect possible passe de puissance en acte grâce à l’intellect agent, qui est l’agent principal, et aux facultés sensitives, attachées aux organes corporels, qui sont l’agent instrumental.
+
+
+=== Chapitre II Universel ou particulier. ===
+
+L’intellect tend directement vers l’universel par l’idée, c’est-à-dire la forme intelligible qu’il extrait de l’image et non pas vers l’image même.
+Selon Aristote, l’âme connaît avec la même faculté le singulier ou particulier et l’universel ou essence, mais non de la même façon.
+
+
+=== Chapitre III La connaissance de soi-même. ===
+
+Pour que l’âme unie au corps puisse connaître quelque objet, il faut que celui-ci se présente à elle ad modum ei convenientem.
+Dans cette vie, la connaissance a lieu par les similitudes ou formes intelligibles abstraites des choses sensibles.
+Dans l’autre monde, l’âme séparée du corps se connaîtra directement en regardant son essence, mais ici sa connaissance est a posteriori.
+
+
+=== Chapitre IV La connaissance du monde spirituel. ===
+
+Les trois modes de connaissance du monde divin : connaissance naturelle, connaissance accordée par révélation aux prophètes, connaissance définitive propre aux bienheureux ou temporaire donnée aux extatiques.
+
+
+=== Chapitre V La connaissance de Dieu. ===
+
+L’intellect étant limité aux essences des choses sensibles ne peut pas connaître Dieu naturellement.
+Par les effets, nous pouvons savoir que Dieu existe, mais non pas ce qu’il est.
+Les notions sur Dieu sont des notions par analogie.
+Les anges et les bienheureux voient Dieu dans les créatures et, nous, nous arrivons à la connaissance de Dieu par les créatures.
+L’illumination divine est superflue pour la connaissance naturelle.
+Elle est nécessaire pour connaître les vérités de foi, les prophéties et les futurs contingents qui dépassent la nature humaine. 
+
+
+=== Chapitre VI Le Processus de la connaissance. ===
+
+La connaissance s’appuie sur les images.
+Les sens extérieurs étant endormis pendant le sommeil, il ne peut y avoir alors de nouvelle acquisition d’idées, de formes intentionnelles.
+
+Les effets qui suivent nécessairement une cause determinata ad unum peuvent être connus avec certitude.
+Par de telles causes, on peut connaître leurs futurs effets.
+Les prévisions météorologiques et les prédictions des astrologues s’expliquent si la cause est magis determinata ad unum quam ad alterum.
+On peut connaître certains effets futurs qui dépendent du libre arbitre grâce aux habitudes qui déterminent l’homme.
+L’habitude est une seconde nature.
+Les effets futurs contingents peuvent être connus avec certitude par la révélation divine parce que par rapport à Dieu ils sont toujours présents, certains, déterminés et nécessaires.
+D’après Aristote, l’intellect s’exerce selon deux démarches, l’une qui perçoit directement l’essence, l’autre qui compose et divise en affirmant ou niant quelque chose.
+Dans l’appréhension de l’essence, il n’y a pas d’erreur en général.
+L’erreur est possible dans la connaissance des conclusions dont les termes ne sont pas connus immédiatement.
+
+
+== Conclusion ==
+
+Bernard de Trilia suit dans ses Quaestiones la théorie aristotélicienne de la connaissance adoptée par saint Thomas.
+Il n’est pas un novateur et n’apporte rien de neuf en psychologie rationnelle.
+Il contribue seulement à imposer la pensée du docteur angélique.
+
+
+== Édition ==
+
+
+
+
+== Tabula rerum ==
+
+
+
+
+== Index nominum ==
+
+

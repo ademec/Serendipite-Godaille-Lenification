@@ -1,0 +1,62 @@
+identifier: ENCPOS_1967_20
+creator: Jean Taccetti
+date: 1967
+title: Le traité De sacramentis numerorum a ternario usque ad duodenarium de Guillaume d’Auberive : édition critique et commentaire
+
+
+
+== Chapitre premier les arithméticiens cisterciens ==
+
+Tout un aspect de la littérature théologique du moyen-âge est encore mal connu : il s’agit des nombreux traités consacrés à la mystique des nombres.
+De cette littérature se dégage un groupe de traités dû à la collaboration de plusieurs cisterciens vivant au xiie siècle, Odon de Morimond, Guillaume d’Aube rive, Geoffroy d’Auxerre, ainsi que d’un certain Thibaut de Langres.
+
+
+=== Chapitre II Guillaume d’Auberive. Sa vie, son œuvre ===
+
+On ne connaît guère de la vie de Guillaume d’Auberive que les dates de son abbatiat (1165-1180).
+
+Pendant longtemps, on lui a attribué la paternité d’un véritable corpus de traités de mystique des nombres.
+L’étude plus attentive des manuscrits a permis d’isoler ce qui, dans cet ensemble, lui revenait en propre, c’est-à-dire essentiellement le traité De sacramentis numerorum a ternario usque ad duodenarium pour lequel on peut assigner un terminus ad quem, puisqu’il fut complété entre 1165 et 1170 par Geoffroy, abbé de Hautecombe.
+On peut encore attribuer à Guillaume d’Auberive, entre autres opuscules authentiques, quatre lettres à un certain abbé Noël et une lettre adressée à Henri de Clairvaux.
+
+
+=== Chapitre III La tradition du texte et le classement des manuscrits ===
+
+Le De sacramentis numerorum a ternario usque ad duodenarium de Guillaume d’Auberive est conservé par cinq manuscrits, dont deux sont à la Bibliothèque nationale de Paris (manuscrits lat. 2583 et 3011, désignés respectivement par les lettres P et C), un à la Bibliothèque nationale de Luxembourg (ms. 60, désigné par la lettre L), un à la Bibliothèque municipale de Troyes (ms. 969, désigné par la lettre T), le dernier à la Bibliothèque municipale de Bruges (ms. 527, désigné par la lettre B).
+Fait remarquable, sur ces cinq manuscrits, quatre proviennent de bibliothèques d’anciennes abbayes cirsterciennes, T ayant appartenu à l’abbaye de Clairvaux, L à l’abbaye d’Orval, B à l’abbaye des Dunes et C à l’abbaye de Larivour.
+Il ne nous est pas possible de déterminer la provenance de P qui, tout comme C, a appartenu à la bibliothèque de Colbert avant d’entrer dans celle du roi.
+
+Un premier classement de ces cinq manuscrits permet de rapprocher T et B, d’une part, et P et L, d’autre part.
+Le manuscrit C appartient à la famille de B et T, mais il comporte de nombreuses corrections établies d’après le texte conservé par les manuscrits P et L.
+
+Le texte qu’offrent les manuscrits P, L et C est incomparablement supérieur à celui de B et T. Pour établir l’édition, nous avons suivi le texte de P, de préférence à celui de L : tous deux paraissent remonter à un archétype commun dont P, bien que postérieur à L, nous transmet plus fidèlement le texte.
+
+
+=== Chapitre IV La composition du traité ===
+
+Le traité est divisé en deux parties bien distinctes ; une première partie composée de douze chapitres, est consacrée aux nombres de 3 à 11.
+Le nombre 12 se voit consacrer une seconde partie, divisée en vingt-quatre chapitres.
+
+A partir d’une arithmologie (il serait peut-être préférable d’utiliser le terme d’« arithmo-géométrie »), d’inspiration néo-pythagoricienne, Guillaume d’Auberive étudie les mystères que renferme chacun des nombres en fonction de ses propriétés mathématiques et des données de l’Écriture sainte.
+Un long développement est consacré aux nombres parfaits, dans la première partie du traité, alors que la seconde est centrée sur la notion de nombre pentagone. 
+
+
+=== Chapitre V Les sources du traité ===
+
+Guillaume d’Auberive était profondément imprégné de l’arithmétique spéculative que Boèce avait transmise au moyen âge.
+H semble avoir une connaissance assez étendue des œuvres de saint Augustin.
+Cependant, sa principale source d’inspiration demeure l’Écriture sainte, dont il cite constamment des versets entiers.
+
+
+== Conclusion ==
+
+Guillaume d’Auberive, dans une certaine mesure, fait œuvre originale.
+Ce qu’il faut relever chez lui, c’est sa solide formation arithmétique, qui le distingue de certains de ses prédécesseurs dans l’étude de la mystique des nombres ; par cet aspect de sa pensée, il présente un témoignage intéressant sur l’état de la science au cours du xne siècle.
+Son propos n’est cependant pas d’instruire son lecteur, mais de l’édifier.
+Ses considérations théologiques et mystiques présentent un intérêt certain pour l’étude du développement de la pensée chrétienne au moyen âge, pensée qu’informe une double tradition, celle de la culture classique et celle de la révélation divine.
+
+
+== Édition critique ==
+
+L’édition suit le texte de P, avec indication des variantes des quatre autres manuscrits.
+Lorsque P est manifestement fautif, la leçon qui a paru la meilleure a été retenue.

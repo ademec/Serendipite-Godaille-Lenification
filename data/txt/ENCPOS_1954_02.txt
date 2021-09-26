@@ -1,0 +1,110 @@
+identifier: ENCPOS_1954_02
+creator: Jeannine Bordas
+date: 1954
+title: L’art d’amour. Traduction en prose de l’Ars amatoria d’Ovide
+
+
+
+== Bibliographie ==
+
+
+
+
+== Introduction ==
+
+L’« Art d’amour » en prose est une traduction glosée de l’Ars amatoria.
+Elle est anonyme et peut être datée de la fin du xiiie siècle ou du début du xive siècle.
+Elle clôt la série des imitations du poème latin qui se sont succédé au cours du xiiie siècle.
+Inédite, elle a fait l’objet d’une étude de Gaston Paris.
+
+
+== Première partie ==
+
+
+=== Chapitre premier les manuscrits. ===
+
+L’« Art d’amour » en prose est conservé dans trois manuscrits : le manuscrit fonds Campori 42 de la bibliothèque d’Este, à Modène, qui contient la traduction glosée des trois livres de l’Ars amatoria ; le manuscrit 2741 de la bibliothèque de l’Arsenal et le manuscrit français 881 de la Bibliothèque nationale, qui sont incomplets et ne renferment que la traduction des deux premiers chants du poème latin.
+Ces manuscrits sont des copies exécutées au début du xve siècle, un siècle environ après la composition de l’ouvrage.
+Pour établir l’édition du texte, nous avons pris comme base le manuscrit de Modène, qui offre l’état complet de l’œuvre, en le corrigeant grâce aux leçons de l’excellent manuscrit de l’Arsenal.
+On relève dans le manuscrit de Modène quelques traits dialectaux du nord de la France qui sont le fait du copiste.
+
+
+=== Chapitre II La traduction de l’« Ars amatoria ». ===
+
+L’« Art d’amour » est une traduction glosée, composée de parties traduites de l’Ars amatoria, dans lesquelles viennent s’insérer de longs commentaires.
+L’auteur s’est proposé de traduire intégralement le poème latin, sans intervertir l’ordre des vers et sans apporter le moindre changement à l’ordonnance de son modèle.
+Il s’est servi d’un exemplaire latin auquel étaient jointes quelques gloses.
+Médiocre latiniste, il a abordé une tâche difficile qu’il n’a pas su mener à bien.
+Sa traduction est déparée par des erreurs grossières et des contresens sans nombre.
+S’en tenant rigoureusement au texte latin qu’il a défiguré en le faisant passer en français, le traducteur n’a rien ajouté qui soit digne de retenir l’attention.
+C’est la partie la moins intéressante de l’ouvrage.
+
+
+=== Chapitre III Comparaison avec les traductions en vers. ===
+
+Trois traductions en vers de l’Ars amatoria ont précédé 1’« Art d’amour » en prose.
+L’idée commune de tous les traducteurs, c’est que l’amour est un art et, comme tel, s’enseigne et s’apprend.
+C’est là le seul point commun entre les œuvres en vers d’une part, et l’ouvrage en prose d’autre part.
+Les premières sont beaucoup plus des adaptations et des imitations du poème latin que de véritables traductions : leurs auteurs n’ont emprunté à leur modèle que les passages didactiques qu’ils ont interprétés librement, les abrégeant ou les amplifiant à leur gré.
+Seul, 1’« Art d’amour » en prose est une traduction : son auteur s’est efforcé, avec beaucoup de gaucherie, de tout traduire, quitte à rejeter dans les gloses tout ce qu’il a emprunté à des sources diverses et tout ce qu’il a mis d’idées personnelles ou d’observations des mœurs de son temps.
+Les œuvres en vers sont des codes didactiques assez courts et des poèmes élégants ; la traduction en prose est un traité prolixe, qui n’a pas su se limiter à son sujet.
+En dépit d’inévitables ressemblances, 1’« Art d’amour » ne doit rien à l’œuvre de ses devanciers.
+
+
+=== Chapitre IV Les gloses. ===
+
+La traduction est coupée par des commentaires, plus étendus, en général, que le texte lui-même.
+Très différentes les unes des autres, ces gloses présentent un intérêt inégal : certaines ne sont qu’une paraphrase des passages traduits ; une seconde catégorie comprend tous les récits mythologiques de 1’« Art d’amour » ; d’autres, assez singulières, n’ont aucun rapport avec la traduction qu’elles commentent et témoignent de l’incohérence du raisonnement de l’auteur ; un certain nombre sont des gloses moralisées ; enfin, beaucoup nous fournissent quantité de détails touchant aux idées et aux mœurs du temps.
+Elles décrivent les usages et les divertissements de la société aristocratique pour laquelle l’ouvrage semble avoir été écrit.
+Les conseils donnés par le traducteur sont ceux qui conviennent à l’éducation d’un jeune chevalier.
+
+
+=== Chapitre V Refrains et proverbes. ===
+
+Les refrains. – Les refrains ont été édités partiellement par Gaston Paris et Friedrich Gennrich.
+Complément à ces éditions.
+
+Les proverbes. – Table des proverbes.
+Notes.
+
+
+=== Chapitre VI Les sources. ===
+
+Les citations. – La Bible.
+Le pseudo-Caton.
+    « Athis et Prophilias ».
+    « Blancandin et l’Orgueilleuse d’amour ».
+Jean de Meun.
+Bestiaires et lapidaires.
+Horace, Valerius et Theodolus, cités à tort, semble-t-il.
+
+Les sources des récits mythologiques. – De nombreux épisodes concernant les héros de la guerre de Troie sont dans la tradition du
+    « Roman de Troie », sans qu’on puisse dire avec certitude s’ils sont tirés de l’œuvre de Benoît de Sainte-Maure ou de son abrégé du xiiie siècle.
+La légende de la mort de Remus est tirée du roman
+    « Athis et Prophilias ».
+
+Les fables mythologiques sont empruntées pour la plupart aux Métamorphoses, que le glossateur a connues parfois par des versions en français : Philomèle et Procné par le conte de Chrétien de Troyes, Tantale par le récit de Jean de Meun.
+Il a eu aussi à sa disposition des gloses latines.
+
+La connaissance de l’Antiquité est moins sommaire que ne le pensait G. Paris.
+Ce que sait le traducteur, c’est avant tout ce que lui ont révélé les œuvres en langue vulgaire.
+
+
+=== Conclusion ===
+
+
+
+
+== Deuxième partie Édition critique du premier livre de l’« art d’amour » ==
+
+
+
+
+== Glossaire ==
+
+
+
+
+== Index des noms propres ==
+
+2

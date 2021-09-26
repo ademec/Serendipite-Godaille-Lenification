@@ -1,0 +1,135 @@
+identifier: ENCPOS_1894_05
+creator: Ernest Laurain
+date: 1894
+title: Essai sur les présidiaux (1552-1790)
+
+
+
+== Introduction ==
+
+Aucune étude d’ensemble n’a été faite sur les Présidiaux.
+
+La création de ces tribunaux eut pour résultats la décentralisation de l’appel, une diminution de la puissance des Parlements et des baillis au profit des justiciables.
+
+
+== Première partie Histoire ==
+
+
+=== Chapitre premier origine des Présidiaux. – Les baillis ===
+
+L’institution des Présidiaux est le développement naturel de l’institution des grands baillis.
+
+Dès les premières années du xvie siècle, des conseillers en titre d’office assistent les baillis dans le jugement des causes importantes.
+
+A la même époque, l’idée qui fit établir les Présidiaux, c’est-à-dire limiter les appels d’après le taux des affaires, est appliquée.
+
+Dès la fin du xiiie siècle, le siège principal d’un bailliage s’appelle Cour présidiale, du moins dans le Midi. 
+
+
+=== Chapitre II Création des Présidiaux ===
+
+Henri II créa les Présidiaux en janvier 1552 (n. st.) pour se procurer quelques ressources, décharger les Parlements et rapprocher des justiciables le dernier ressort.
+
+L’instigateur de cette réforme fut probablement le cardinal de Lorraine.
+
+Soixante Présidiaux furent établis cette année-là.
+Le présidial ne formait pas un siège indépendant du bailliage : dès l’origine, la présidialité fut attribuée aux officiers du siège principal du bailliage.
+
+
+=== Chapitre III Les Présidiaux et les Parlements ===
+
+Le tiers état se montra toujours zélé partisan des Présidiaux.
+
+Les Parlements en furent toujours les adversaires ; ils repoussaient tous les édits qui les concernaient, retardaient l’établissement de nouveaux sièges, recevaient même l’appel des sentences rendues en dernier ressort.
+
+Le grand Conseil fut déclaré le protecteur des Présidiaux contre les Parlements (décembre 1574) ; la lutte dura jusqu’à la suppression de ces diverses juridictions.
+
+
+=== Chapitre IV La décadence des Présidiaux ===
+
+Leur nombre fut augmenté, surtout entre 1629 et 1645, et vers la fin du xviie siècle. 
+
+Vers 1690, ils étaient déjà en pleine décadence.
+Accablés de dettes, recevant des épices et des gages à peu près nuis, ruinés par les augmentations de gages et les privilèges qu’il leur fallait acheter, les officiers délaissaient les charges présidiales.
+
+Quelques réformes introduites dans l’administration de la justice furent impuissantes à combattre le mal.
+
+
+=== Chapitre V Le mouvement de 1763. – Ampliation des pouvoirs des Présidiaux ===
+
+Diverses tentatives faites en 1740, 1753, 1757 pour restaurer les Présidiaux n’aboutirent pas.
+En 1763, les Présidiaux députèrent Jousse auprès du Bureau de Législation pour solliciter la noblesse en faveur des officiers et l’ampliation de leurs pouvoirs.
+Cette démarche fut inutile.
+
+Enfin, un édit de 1774 élève le taux de leur compétence jusqu’à 2,000 livres au premier chef.
+Sur les réclamations du Parlement, un édit d’août 1777 y apporte de graves restrictions que tempère une déclaration d’août 1778.
+
+
+=== Chapitre VI Suppression des Présidiaux ===
+
+La situation des Présidiaux devient plus mauvaise ; certains sièges ne peuvent plus juger présidialement, faute d’officiers et d’avocats.
+
+La création des Grands Bailliages semble devoir leur rendre leur splendeur ; mais l’illégalité de la mesure et la violence avec laquelle on l’applique soulèvent des protestations plus vives que n’en soulevèrent les Conseils supérieurs de Maupeou. 
+
+Les États généraux de 1789 demandent l’ampliation du pouvoir des Présidiaux jusqu’à concurrence de 10,000 livres.
+
+Les Présidiaux sont supprimés ; les tribunaux de district les remplacent.
+
+
+== Deuxième partie Juridiction civile des Présidiaux ==
+
+
+=== Chapitre premier les Présidiaux considérés comme juges de première instance ===
+
+Les Présidiaux jugent en première instance, tout ainsi que les baillis jugeaient avant 1552.
+
+Il leur est interdit de connaître des objets qui reçoivent « un prix d’affection » et des demandes qui intéressent l’état ou la qualité des personnes.
+
+Ils ne connaissent que des matières civiles qui reçoivent une estimation ; cette estimation ne peut être supérieure aux sommes portées par l’édit.
+
+Plusieurs exceptions sont introduites par le Parlement.
+
+
+=== Chapitre II Comment se règle la compétence présidiale en première instance ===
+
+Quand la valeur de l’objet de la demande ou de l’objet contesté n’est pas supérieure aux sommes portées par l’édit, les causes sont de la compétence du présidial.
+
+Les moyens de connaître cette valeur sont les instruments authentiques, l’estimation par experts, la restriction définitive des parties avant le jugement au fond. 
+
+
+=== Chapitre III Des Présidiaux considérés comme juges d’appel ===
+
+Juges d’appel, ils forment un tribunal permanent.
+Il n’est plus besoin d’attendre jusqu’aux assises trimestrielles pour appeler des sentences des juges inférieurs.
+Les assises ne sont plus dès lors qu’un moyen, pour les baillis, de surveiller leurs lieutenants et les prévôts.
+
+Les Présidiaux connaissent de l’appel des sentences rendues par les juges de leur ressort, dans les cas de l’édit ; ils connaissent de l’appel des sentences rendues par le lieutenant général aux petites audiences, par les conservateurs des privilèges royaux de l’Université, par les sièges de police en certains cas, et aussi par les juges des Pairies qui n’ont pas obtenu le privilège de ressortir directement au Parlement.
+
+
+=== Chapitre IV Manière de rendre les jugements. – Qualités des sentences présidiales ===
+
+Les audiences du présidial sont distinctes de celles du bailliage.
+
+Sept magistrats sont nécessaires pour juger présidialement ; leur jugement se forme à la pluralité d’une voix.
+
+Les sentences sont intitulées : les gens tenant le siège présidial.
+Il faut y mentionner si les juges prononcent par jugement dernier ou par provision.
+En appel, les juges ne peuvent prononcer que par bien ou mal jugé. 
+
+
+=== Chapitre V De l’exécution des sentences présidiales. – Des voies de recours ===
+
+Les sentences présidiales rendues au second chef s’exécutent, nonobstant l’appel, sauf caution.
+L’appel se porte au Parlement.
+
+Les sentences présidiales rendues au premier chef s’exécutent sans que l’appel en puisse être reçu au Parlement.
+En cas d’appel, la Cour doit, sur les fins de non-recevoir de l’intimé, obliger l’appelant d’acquiescer à la sentence.
+
+Les conflits entre Parlements et Présidiaux se portent au Grand Conseil.
+
+Les voies de recours sont, contre les sentences en dernier ressort, la proposition d’erreur, la requête civile dite présidiale, la requête en cassation ; et contre les dénis de justice, la prise à partie.
+
+
+== Pièces justificatives ==
+
+

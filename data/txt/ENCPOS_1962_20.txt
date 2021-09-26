@@ -1,0 +1,193 @@
+identifier: ENCPOS_1962_20
+creator: Colombe Verlet
+date: 1962
+title: Le clavecin à Paris. Sa facture et son rôle dans la vie sociale à l’époque classique
+
+
+
+== Avant-propos ==
+
+Place du clavecin dans la musique instrumentale.
+
+
+== Introduction ==
+
+Les origines.
+L’« eschequier » du xive siècle, le « clavycimbale » de Charles le Téméraire, le « clavisimbalum » et le « dulcemelos » d’Arnaut de Zwolle, les épinettes ou clavecins italiens du xvie siècle conduisent, d’un instrument incertain, au clavecin classique.
+
+
+== Première partie L’instrument ==
+
+
+=== Chapitre premier présentation ===
+
+Le mécanisme du clavecin se décompose en trois éléments : le clavier soulève un sautereau qui fait vibrer les cordes.
+
+
+=== Chapitre II Disposition ===
+
+La barrure de la table est l’opération importante, mais elle est délicate.
+La sonorité et la solidité exigent des qualités contraires. 
+
+La mise à ravalement et à grand ravalement, c’est-à-dire l’extension à 56 et à 61 touches de clavecins anciens et spécialement de clavecins flamands, constitue une spécialité des facteurs parisiens.
+
+
+=== Chapitre III Décoration ===
+
+Au xvie siècle, les instruments sont enfermés dans un étui de cuir, décoré ou non.
+
+Au xviie siècle, la caisse est le plus souvent traitée en noyer ou en chêne ciré, mais, sous l’influence italienne, il existe des clavecins sculptés et richement décorés.
+
+Au xviiie siècle, à Paris, le décor le plus fréquent est composé de vernis (noir, rouge, gris, etc.), avec bandes ou filets dorés.
+Des peintures de chinoiseries, de grotesques, de mythologies peuvent décorer la caisse et l’intérieur du couvercle des instruments de luxe, dont les pieds sont sculptés.
+
+
+== Deuxième partie Les facteurs de clavecins ==
+
+
+=== Chapitre premier milieu d’origine ===
+
+Origine sociale. – Le recrutement familial est habituel et on a pu établir des tableaux généalogiques de familles parisiennes de facteurs de clavecins, comme les Denis et les Jacquet aux xvie et xviie siècles, les Blanchet, Goermans, Hemsch, Taskin au xviiie siècle, familles de petite bourgeoisie, dans lesquelles on trouve bien des noms d’organistes.
+
+Cependant, à une exception près, celle des Richard, il ne semble pas exister de lien entre les dynasties de facteurs antérieures au règne de Louis XIV et les familles nouvelles qui se fondent aux alentours de 1700.
+
+Origine géographique. – Étant familial, le recrutement est d’abord parisien.
+L’apport provincial est mince.
+
+L’origine de la moitié environ des facteurs parisiens du xviiie siècle a pu être déterminée et elle permet d’établir la proportion suivante : deux tiers de Parisiens, un quart d’étrangers (Allemands surtout, quelques Flamands), quelques provinciaux. 
+
+
+=== Chapitre II Position sociale ===
+
+La situation matérielle de nombreux facteurs nous est connue par les archives notariales.
+Aucun n’a fait faillite.
+La plupart réussissent à amasser une petite fortune, dont le montant maximum paraît avoir atteint 150.000 livres (Goermans).
+Leur aisance relative les tient un peu au-dessus de beaucoup d’artisans, bien que travaillant comme eux de leurs mains.
+
+Souvent eux-mêmes organistes ou maîtres de clavecin, vendeurs ou fabricants d’instruments de luxe, qu’ils entretiennent ou réparent au gré de leur clientèle, ils sont placés dans une position privilégiée, tant par leurs connaissances musicales que par leurs contacts directs avec la société cultivée ; le facteur est en somme plus musicien qu’artisan.
+
+
+=== Chapitre III La vie quotidienne ===
+
+L’étude du logement illustre les progrès d’un métier où se conjuguent le travail manuel, le commerce et les préoccupations artistiques.
+
+Petite maison à un étage, comprenant en moyenne trois pièces et un grenier, au xvie siècle et au début du xviie, – appartement de cinq pièces principales, parfois sept, à la fin du xviiie siècle, – maison de campagne aux environs de Paris dans quelques cas, témoignent du niveau de vie.
+
+Le mobilier, le linge de maison, les vêtements, la cave situent les facteurs parisiens dans la petite ou la moyenne bourgeoisie.
+
+
+=== Chapitre IV L’atelier ===
+
+Situation et superficie. – A quatre exceptions près, l’atelier est situé au domicile du facteur, soit au rez-de-chaussée de sa maison, soit à l’intérieur de son appartement.
+Une pièce suffit au xvie siècle, les instruments étant de petite taille.
+L’activité professionnelle peut s’étendre à l’appartement entier au xviiie siècle.
+
+Les instruments. – On peut compter qu’une dizaine d’instruments, en construction ou terminés, tant clavecins qu’épinettes, de la main du facteur, occupent en même temps l’atelier.
+Comme la revente d’instruments anciens ou étrangers s’ajoute souvent, au xviiie siècle, à la propre production du facteur, on peut trouver chez lui en même temps jusqu’à quinze ou vingt clavecins : le terme de magasin conviendrait parfois mieux que celui d’atelier.
+
+Les bois. – Les différents bois nécessaires à la construction des instruments sont conservés pour le séchage et pour l’approvisionnement dans l’atelier même, au grenier ou dans les couloirs.
+Ils peuvent former, au xviiie siècle, dans un atelier moyen, un stock de plus de cinq cents planches. 
+
+Les outils. – Les outils sont, outre l’établi, ceux de menuisier-ébéniste, et les outils propres à la facture des clavecins.
+
+L’achat du matériel. – Le montant total des bois et des outils représente environ un dizième des marchandises estimées.
+Même chez les grands facteurs, il ne dépasse jamais 700 livres au xviiie siècle.
+Ce matériel s’achetait fréquemment d’occasion à la mort d’un autre facteur.
+
+Le personnel. – Les compagnons, qui ne semblent pas avoir été nombreux, à peine un par atelier, nous sont mal connus.
+Ils étaient payés de deux à trois livres par jour.
+
+Les métiers annexes. – Le facteur confiait à des spécialistes extérieurs à son atelier les travaux de peinture, dorure et vernissage, ainsi que les serrures et certains mécanismes.
+
+
+=== Chapitre V L’activité professionnelle ===
+
+Construction. – Le temps minimum nécessaire à la construction (y compris les périodes nécessaires au séchage) semble avoir été d’un an et le rythme moyen de production de quatre clavecins par an.
+
+Ventes. – Les ventes et réparations d’instruments anciens ou étrangers se développent au xviiie siècle.
+Un facteur peut posséder en un même moment une dizaine de clavecins d’occasion, qu’il remet en état et se propose de vendre.
+
+Réparations. – Les réparations peu importantes sont exécutées au domicile du client.
+Les ravalements, les réparations de la table exigent le transport du clavecin à l’atelier.
+Les réparations, auxquelles s’ajoutent les accords et les entretiens, ralentissent la production d’instruments neufs, mais apparaissent aussi plus lucratives.
+
+Les faux. – De nombreux facteurs parisiens, tels que Bellot, Goujon, Taskin, se livrent à la fabrication de faux clavecins flamands, qui valent naturellement moins cher que les originaux.
+
+
+=== Chapitre VI La communauté et la protection du travail ===
+
+Les facteurs de clavecins sont compris, à Paris, dans la communauté des faiseurs d’instruments.
+Ils composent environ le quart des maîtres de cette communauté.
+
+Les statuts règlent notamment l’apprentissage, qui dure six années ; le compagnonnage n’est pas obligatoire.
+Ils permettent aussi de poursuivre les facteurs non maîtres (Vaudry en 1705, Delavigne en 1741).
+
+La réforme de 1776 établit une seule corporation des tabletiers-luthiers-éventaillistes.
+Elle crée une rupture entre les anciens facteurs de clavecins et un grand nombre d’étrangers admis sans apprentissage chez les maîtres parisiens. 
+
+
+=== Chapitre VII Les relations entre facteurs et théoriciens ===
+
+Facteurs et théoriciens parisiens travaillent ensemble et parfois se confondent.
+Certains facteurs, comme Jean Denis ou Chiquelier, étudient le problème du « tempérament », l’un en écrivant un Traité sur l’accord, l’autre en construisant un clavecin chromatique.
+
+Les théoriciens, d’autre part (sans compter Arnaut de Zwolle, qui n’est pas Parisien), Marin Mersenne ou les auteurs de trois articles différents dans trois éditions de l’Encyclopédie, prennent les avis des facteurs.
+
+
+== Troisième partie La musique ==
+
+
+=== Chapitre premier la diffusion ===
+
+Les principaux vendeurs de clavecins sont les facteurs et les maîtres de clavecin.
+Le marché des instruments d’occasion est aussi actif que celui des instruments neufs.
+Le prix moyen d’une épinette est, au xviie siècle, 5 ou 10 livres, selon la grandeur ; au xviiie siècle, 20 ou 50 livres, selon l’étendue.
+Un bon clavecin vaut de 150 à 200 livres, au xviie siècle ; de 500 à 700 livres, au xviiie siècle.
+Les clavecins de Ruckers mis à grand ravalement dépassent souvent 1.000 livres.
+
+Le nombre des Ruckers existant à Paris et celui des clavecins signés de maîtres parisiens semblent s’équilibrer à la fin du xviiie siècle.
+
+Aux clavecins achetés par des particuliers s’ajoutent ceux qui sont loués : de 5 à 12 livres par mois.
+
+On trouve des clavecins chez les bourgeois, dans les maisons où il y a des jeunes filles, dans les couvents et les pensionnats, mais surtout chez le roi, à la cour, dans la noblesse, d’une part, chez les musiciens, d’autre part, et notamment chez les organistes.
+
+
+=== Chapitre II L’entretien ===
+
+Un clavecin qui sert doit être accordé souvent (ce que l’amateur peut faire lui-même) ; les plumes doivent être égalisées tous les quinze jours ou tous les mois, et l’instrument remis en état tous les ans, ce qui représente, au xviiie siècle, une dépense annuelle de 150 à 200 livres. 
+
+Le clavecin est un instrument stable, sauf à la cour : il a sa place fixée dans une pièce.
+Lorsqu’on le transporte, en particulier pour les réparations, on le porte à pied sur des brancards ; pour les longs parcours, on choisit de préférence le bateau, afin d’éviter les secousses.
+Lorsqu’ils se rendent à la campagne, bien des gens emportent plutôt un clavecin brisé, c’est-à-dire pliant, une épinette ou un clavicorde.
+
+
+=== Chapitre III La musique ===
+
+Les leçons. – Les élèves ne sont pas uniquement des enfants ; beaucoup d’adultes prennent des leçons.
+Les maîtres de clavecin sont nombreux, tant au xviie siècle qu’au xviiie siècle ; on en dénombre près de cent cinquante à Paris en 1785.
+
+Les concerts. – Les amateurs de clavecin font volontiers montre de leur talent : amateurs célèbres, princesses de la famille royale, personnalités littéraires.
+
+La musique de clavecin. – Musique et instrument suivent, à Paris, une évolution longtemps parallèle.
+Lorsque le clavecin prend le pas sur le luth et que les Denis, les Richard ou les Jacquet fabriquent des instruments appréciés, Jacques Champion de Chambonnières écrit de la musique pour clavecin.
+
+Les ressources fournies par les clavecins à deux claviers suscitent les grandes compositions de François Couperin, parues entre 1713 et 1730, et celles de Jean-Philippe Rameau entre 1727 et 1747.
+
+Mais lorsque le clavecin parisien possède sa plus haute perfection technique, la veine des compositeurs paraît épuisée.
+La concurrence que le piano-forte fait au clavecin à partir de 1760 ou 1770 n’est qu’en partie responsable de cette décadence.
+
+
+== Conclusion ==
+
+Le succès du piano-forte ruine les facteurs de clavecins ou les oblige à construire le nouvel instrument à la mode.
+Toutefois, depuis un demi-siècle, un renouveau de faveur entoure le bel instrument de l’époque classique.
+
+
+== Pièces annexes ==
+
+Répertoire des facteurs parisiens. – Nomenclature de maîtres de clavecin.
+
+
+== Pièces justificatives ==
+
+Publication de quarante et un inventaires après décès et de fragments des comptes des menus-plaisirs du roi.

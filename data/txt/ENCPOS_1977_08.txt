@@ -1,0 +1,227 @@
+identifier: ENCPOS_1977_08
+creator: Catherine Gaziello
+date: 1977
+title: Une expédition de découvertes à la fin du xviiie siècle. Recherches sur quelques aspects du voyage de Lapérouse
+
+
+
+== Sources ==
+
+Le voyage de découvertes entrepris en 1785 sous la direction de Lapérouse constitue le centre de la présente étude.
+Il a paru cependant impossible de le considérer sans aucune référence aux expéditions maritimes qui l’avaient précédé ou qui le suivirent, celles de Bougainville, Kerguelen, Cook, Baudin ou Freycinet notamment.
+A l’occasion, les recherches de sources ont été étendues à ces dernières, pour établir des comparaisons sur des points particuliers.
+
+Parmi les éléments très dispersés qui constituent les sources manuscrites, les documents conservés aux Archives nationales occupent la première place.
+Les Archives de la Marine antérieures à la Révolution ont été consultées, en particulier les séries B4, C1, C7 et G, les Archives du Service hydrographique (séries 2 JJ, 3 JJ, 5 JJ et 6 JJ), la série BB4 des Archives de la Marine postérieures à la Révolution.
+Les Archives des Colonies (série E, personnel), les Archives privées (201 AP, 296 AP), les documents provenant des Affaires étrangères (série B1, correspondance consulaire) et du Muséum d’histoire naturelle (AJ XV) ont fourni d’utiles éléments.
+Les collections de la Bibliothèque nationale permettent de compléter cette documentation fondamentale : cartes du Service hydrographique déposées au Département des cartes et plans, collection Margry au Département des manuscrits.
+Sur la préparation du voyage de Lapérouse, les séries 1A et 1E des Archives des ports de Rochefort et de Brest se sont révélées riches d’enseignements.
+A ces documents essentiels s’ajoutent les pièces diverses recueillies à la Bibliothèque de l’Institut de France, à la Bibliothèque du Muséum d’histoire naturelle, à celle de l’Observatoire de Paris et à la Biblio thèque Mazarine, ainsi qu’aux Archives de l’Académie des sciences et du ministère des Affaires étrangères.
+Des recherches ont également été effectuées, sans grand résultat, à Londres (Public Record Office, Admiralty board) et Greenwich (National Maritime Museum).
+
+Une centaine d’ouvrages qui figurent au catalogue des livres emportés à bord des vaisseaux de Lapérouse constituent l’essentiel des sources imprimées.
+Il faut y joindre un certain nombre de Mémoires et de récits de voyages écrits à la fin du xviiie siècle ou au début du xixe siècle.
+
+Les documents iconographiques ont été choisis parmi les cartes et dessins originaux exécutés au cours du voyage et les gravures qui en furent tirées pour illustrer l’atlas de la première édition.
+Les voyages de Cook ont également fourni un apport appréciable de ce point de vue.
+
+
+== Première partie Genèse du projet ==
+
+
+=== Chapitre premier la conjoncture ===
+
+A partir des années 1783-1785, les conditions intellectuelles, politiques et économiques se révèlent en France particulièrement propices à l’organisation d’un grand voyage d’exploration maritime.
+En 1783, la paix signée entre la France et l’Angleterre mettait fin à la lutte soutenue pour l’indépendance des États-Unis d’Amérique.
+La marine française, jusqu’alors tout entière engagée dans le conflit, se trouvait disponible pour des tâches pacifiques.
+Aucune n’aurait pu mieux convenir aux circonstances qu’une expédition de découvertes et d’observations scientifiques.
+La philosophie des Lumières a répandu le goût des sciences, des connaissances précises dans tous les domaines.
+Le voyage de Bougainville éveillait la curiosité pour les mondes lointains ; les travaux de Cook n’ont fait que l’aiguiser davantage, alliant à l’exotisme des observations géographiques d’une exactitude et d’une rigueur toutes nouvelles.
+Cook faisait en effet l’épreuve des techniques de navigation scientifiques récemment mises au point et démontrait définitivement leur valeur.
+Ses mesures de longitudes atteignirent une précision inégalée grâce à l’emploi conjugué des chronomètres de marine, des instruments à réflexion perfectionnés dans la seconde moitié du siècle et des tables astronomiques de Tobias Mayer.
+Désormais, une exploration véritablement scientifique des côtes et leur cartographie exacte devenaient possibles. 
+
+Cook avait ouvert la voie.
+Cependant, son œuvre demandait à être complétée.
+Le gouvernement français reprit à son compte les travaux entrepris par le navigateur anglais.
+Il s’agissait, certes, d’une question de prestige : la France ne devait pas faire moins que l’Angleterre.
+Or, le voyage de Bougainville pâlissait auprès des réalisations de Cook et les entreprises de Kerguelen s’étaient soldées par un échec total.
+Plus encore, l’enjeu était politique.
+Le traité de Versailles, s’il interrompait les hostilités ouvertes, ne mettait pas fin à la rivalité entre la France et l’Angleterre, clef de la politique étrangère française depuis la guerre de Sept ans.
+Un voyage d’exploration permettait, sous couvert d’activités pacifiques et désintéressées, d’affirmer la présence française sur toutes les mers face aux Anglais, de surveiller les activités maritimes et coloniales de ces derniers, de les devancer dans la recherche d’échanges nouveaux avec la Chine, le Japon ; on pouvait aussi en rapporter d’utiles informations sur l’état des colonies européennes où l’on comptait relâcher, l’intérêt économique et stratégique qu’elles présentaient, leurs faiblesses et leurs moyens de défense.
+Pour accomplir cette double tâche, à la fois scientifique et politique, le gouvernement de la France trouvait un instrument de choix dans la marine royale, aguerrie par le récent conflit avec l’Angleterre, encadrée par des officiers mieux instruits depuis les réformes de Choiseul et très ouverts aux progrès scientifiques en matière de navigation.
+
+
+=== Chapitre II Intentions et idées directrices ===
+
+Si le voyage de Lapérouse s’inscrit parfaitement dans le climat scientifique du xviiie siècle, son origine immédiate semble plutôt devoir être cherchée dans les préoccupations commerciales et politiques du moment.
+Il est probable que l’idée d’un voyage de découvertes a été agitée dès l’année 1784.
+Aucun document ne permet cependant de le prouver.
+En revanche, les premiers témoignages écrits que nous ayons découverts sur le voyage de Lapérouse remontent au début de février 1785 et le font naître, non de préoccupations scientifiques, mais de visées commerciales précises.
+En février 1785, Fleurieu, directeur des ports et arsenaux de la marine, reçut une proposition présentée par un nommé Guillaume Bolts, négociant hollandais dont la carrière s’était déroulée en Inde, au service, tour à tour, des Anglais et des autres nations européennes.
+Bolts proposait l’armement de bâtiments royaux pour la côte nord-ouest de l’Amérique : la relation du troisième voyage de Cook révélait qu’on y pouvait acheter aux indigènes, en échange d’outils, de métaux et de pacotille, des fourrures qui étaient, en Chine, d’un grand prix.
+Bolts n’était pas le seul qui eût médité ce détail du dernier voyage de Cook ; dès 1784, les Espagnols s’installaient à Nootka, port où Cook avait effectué ses échanges ; des armements se préparaient en Angleterre au début de l’année 1785.
+L’affaire prenait l’ampleur d’une compétition internationale, d’une nouvelle « guerre des fourrures » et ne pouvait laisser indifférent le gouvernement de Louis XVI. Il retint donc la proposition de Bolts, non sans la modifier considérablement. 
+
+La transaction commerciale qu’envisageait Bolts devint une mission d’information, destinée à faire connaître exactement l’intérêt et les modalités des échanges, leur extension éventuelle en direction du Japon.
+A partir de là, le voyage prévu élargit ses perspectives à des fins politiques et commerciales à long terme : on prévoyait une exploration systématique des régions qui pouvaient offrir d’intéressants points d’appui stratégiques ou économiques, des rapports sur toutes les colonies européennes abordées et spécialement les possessions espagnoles.
+On profitait enfin de l’occasion pour achever l’exploration maritime du monde et effacer des cartes les dernières lacunes ou incertitudes.
+Toute cette phase du programme s’élabora avec le plus grand secret, dans le cercle étroit des principaux responsables politiques et maritimes du royaume.
+
+Vers avril-mai 1785 seulement, le projet fut divulgué.
+Aux yeux du monde domina l’image d’une expédition de découvertes entièrement désintéressée.
+Pour corroborer cette interprétation, qui offrait l’avantage de dissimuler les objectifs politiques et commerciaux, autant que pour ajouter au prestige de l’entreprise, le gouvernement royal fit officiellement appel aux autorités scientifiques du temps.
+Privées d’indications précises sur le plan de campagne, encouragées à voir dans le voyage projeté une expédition d’une ampleur sans pareille, celles-ci élaborèrent un programme d’observations quasi universel, confié à un état-major de savants plus nombreux et plus divers que tout ce que l’on avait vu auparavant.
+Né d’une spéculation commerciale limitée, le voyage de Lapérouse devenait une véritable somme où s’imbriquaient objectifs politiques et économiques et progrès des sciences.
+L’accent mis officiellement sur ces derniers explique que ses autres buts comme son origine véritable aient été si longtemps ignorés ou minimisés.
+
+
+=== Chapitre III Les organisateurs ===
+
+Les décisions fondamentales furent prises au cours de réunions secrètes qui rassemblaient autour du roi ou de son ministre de la Marine, le maréchal de Castries, Lapérouse, Fleurieu, directeur des ports et arsenaux, le chevalier de Borda, spécialiste des nouveaux instruments de navigation et le géographe Buache de La Neuville.
+Le rôle essentiel revient sans aucun doute à Pierre Claret de Fleurieu.
+Intermédiaire entre Bolts et le ministre, Fleurieu rédige le premier mémoire présenté au roi, fait établir les devis et prévisions de campagne.
+Marin expérimenté et savant géographe, il élabore le plan de navigation, réunit la documentation nécessaire sur les explorations précédentes.
+De par ses fonctions dans l’administration maritime, Fleurieu se trouve également amené à superviser l’armement et à surveiller la préparation de tout le voyage.
+Dans tous ses aspects, l’expédition de Lapérouse porte donc la marque de sa personnalité d’érudit scrupuleux, épris de rigueur scientifique et soucieux de faire réaliser une exploration aussi précise que complète.
+
+Fleurieu trouve à la fois un collaborateur et un exécutant remarquable dans son ami Jean-François de Galaup, comte de Lapérouse, qu’il propose comme commandant de l’expédition envisagée.
+Lapérouse est alors au faîte de sa carrière de marin.
+Deux ans plus tôt, il avait rempli une mission des plus difficiles et s’était révélé l’un des plus remarquables navigateurs français : ayant reçu l’ordre de détruire les établissements anglais de la baie d’Hudson, Lapérouse avait exécuté ses ordres avec une exactitude parfaite, réussi à mener ses navires dans des parages dangereux et pratiquement inconnus, établi d’amicales relations avec les indigènes rencontrés.
+Dès lors, tout le désignait pour assumer la charge d’un grand voyage de découvertes.
+Énergique et enthousiaste autant que zélé serviteur du roi et marin expérimenté, Lapérouse participe activement à la préparation de la campagne, en fixe les moindres détails de concert avec Fleurieu, n’hésitant pas à discuter certains points, à demander et obtenir des aménagements aux prévisions de ce dernier.
+Cette collaboration étroite et fructueuse n’est pas la moindre originalité de l’expédition.
+
+Le maréchal de Castries soutint les projets de Fleurieu, encouragea même tout ce qui pouvait ajouter au prestige de l’entreprise pour laquelle il obtint un large crédit financier.
+Le roi Louis XVI, le fait est bien connu, s’intéressa de près au voyage, en bon géographe qu’il était, et sut émettre de judicieuses remarques sur le mémoire que lui présentait Fleurieu.
+On ne saurait cependant omettre de signaler la conception très personnelle qu’il s’en faisait : conscient de l’ampleur du programme fixé, le prince chercha à en réduire les proportions, permit au commandant en chef de l’aménager selon les circonstances, voire de se limiter aux points essentiels.
+La conception ambitieuse de Fleurieu prévalut cependant et rien ne fut en définitive retranché des multiples objectifs envisagés.
+
+
+== Deuxième partie Les préparatifs ==
+
+
+=== Chapitre premier la préparation matérielle ===
+
+L’armement des navires devait avoir lieu en deux temps : on se proposait de choisir deux bâtiments, de les radouber, de remettre à neuf le gréement et d’effectuer les gros travaux à Rochefort ; à Brest étaient réservés les aménagements intérieurs, la sélection des vivres et des rechanges.
+Les circonstances obligèrent à modifier ce plan.
+
+On dut abandonner l’idée d’employer la gabare l’Utile, de capacité trop réduite pour servir à la campagne projetée.
+L’un des deux vaisseaux, l’Astrolabe, fut donc choisi et entièrement armé à Brest.
+Le second navire, la Boussole, fut radoubé comme prévu à Rochefort ; mais il apparut dès son arrivée à Brest que les réparations avaient été négligées et devaient être reprises.
+Le secret observé sur la destination des bâtiments explique sans doute que l’on n’ait pas compris à Rochefort les ordres du ministre ni poussé l’effort au-delà de ce qu’exigeait un armement ordinaire.
+A Brest, les travaux furent menés dans un tout autre esprit.
+Lorsqu’ils débutèrent, le secret n’était déjà plus nécessaire et l’on savait qu’il s’agissait d’un voyage exceptionnel.
+Surtout, les ordres furent exécutés avec un zèle tout particulier par le comte d’Hector, commandant de la marine à Brest.
+Sans doute avait-il été mis au courant par Fleuriot de Langle, son parent, qui se trouvait à Brest et venait d’être choisi comme second de Lapérouse.
+Mené par ces deux hommes, l’armement fut effectué avec une attention scrupuleuse.
+Tandis que le comte d’Hector est principalement soucieux d’assurer la sécurité de la campagne et préconise d’appliquer les techniques les plus éprouvées, Fleuriot de Langle ne s’interdit pas d’expérimenter avec soin des équipements nouveaux qu’il installe ensuite sur les navires.
+
+La caractéristique essentielle de cet armement est d’être pensé en fonction des voyages précédents, mûrement étudiés et médités.
+On évite les erreurs de Kerguelen et l’on préfère des navires de charge à des bâtiments plus rapides mais moins robustes et spacieux.
+Cook surtout constitue la référence essentielle ; on l’imite dans le choix des navires comme pour la nature et la qualité des vivres.
+On va jusqu’à envoyer en Angleterre Monneron, ingénieur en chef de l’expédition, avec la mission secrète de réunir des informations sur les antiscorbutiques et les marchandises d’échange emportés par Cook.
+Grâce à Webber, peintre du troisième voyage de Cook, qu’il rencontre à Londres et qui exécute son portrait, Monneron est en mesure d’envoyer à Lapérouse tous les renseignements désirés.
+Cet aspect, jusqu’à présent ignoré, du voyage de Monneron illustre mieux que tout autre ce que représente pour l’expédition de Lapérouse le précédent de Cook, modèle scientifique avoué, mais aussi concurrent commercial et politique que l’on cherche à imiter et dépasser.
+
+
+=== Chapitre II Les hommes ===
+
+Une élite de marins partit avec Lapérouse.
+Pour commander le second vaisseau, l’Astrolabe, Lapérouse choisit son ami et compagnon d’armes à la baie d’Hudson, Fleuriot de Langle, connu pour ses connaissances scientifiques en matière de navigation et d’astronomie.
+Les deux commandants eurent toute liberté pour choisir leurs états-majors.
+Ils désignèrent des officiers qu’ils connaissaient personnellement et dont ils avaient pu apprécier les qualités.
+La personnalité de Robert Sutton de Clonard, second de Lapérouse à bord de la Boussole, illustre ce recrutement : issu d’une famille vouée au service du roi dans la marine et aux colonies, Clonard a servi sous les ordres de Lapérouse dans l’Inde et son comportement au siège de Mahé lui a valu la croix de Saint-Louis.
+D’autres, parmi les états-majors de l’Astrolabe et de la Boussole, sont de très jeunes gens dont la guerre d’Amérique fut souvent le premier engagement et que distinguent leur zèle et leurs aptitudes scientifiques ; Law de Lauriston, garde de la marine sur l’Astrolabe, ou les deux Laborde, fils du fermier général Jean-Joseph de Laborde, en offrent de bons exemples.
+La plupart des officiers se connaissent, soit par relations familiales et mondaines, soit pour avoir navigué ensemble auparavant ; aussi forment-ils des ensembles d’une cohésion remarquable.
+
+On n’apporta pas moins de soin à la composition des équipages.
+Le comte d’Hector insista pour qu’on ne choisît que des Bretons et chercha des hommes capables d’exercer, en plus de leur service à la mer, plusieurs métiers.
+La sélection des soldats de marine fut également rigoureuse ; on ne retint que des sujets réfléchis et expérimentés, afin d’éviter les heurts avec les indigènes des pays abordés au cours du voyage.
+
+Parmi les passagers embarqués, seuls l’ingénieur en chef et les astronomes furent choisis par les principaux organisateurs du voyage : l’importance de leur rôle ne permettait pas qu’on en laissât le soin à d’autres.
+Lapérouse proposa comme ingénieur Monneron, qu’il avait eu sous ses ordres à la baie d’Hudson.
+Le chevalier de Borda suggéra de confier l’astronomie aux maîtres de mathématiques de l’École militaire, Louis Monge et Joseph Dagelet.
+Les autres savants embarqués furent recrutés tout autrement, recommandés par de hautes personnalités ou choisis par l’Académie des sciences.
+Chacun d’eux détermina librement la spécialité dans laquelle il désirait travailler.
+Le docteur Lamartinière est botaniste, l’abbé Mongez s’intéresse à la physique et à la chimie tandis que son collègue sur la Boussole, le Père Receveur, est plutôt géologue.
+En revanche, le chevalier de Lamanon est animé d’une curiosité encyclopédique et rien n’échappe à son appétit de connaissances ; tout pénétré d’idées philosophiques, ardent disciple de Rousseau, il trouve dans sa participation au voyage de Lapérouse une occasion unique de contribuer au progrès des Lumières.
+Tous les savants attachent d’ailleurs une importance extrême à leurs travaux tandis que pour les marins, seules la géographie et l’astronomie revêtent un intérêt essentiel.
+Ainsi apparaît, avant même le départ, le germe d’une certaine incompréhension entre savants et marins.
+
+
+=== Chapitre III Le potentiel scientifique ===
+
+Plus ambitieuse que les expéditions qui la précédèrent, l’entreprise de Lapérouse est dotée de moyens scientifiques inusités.
+Comme pour le second voyage de Kerguelen, on fait largement appel aux savants les plus éminents : Bailly, Lalande prêtent des instruments scientifiques.
+Les grands établissements officiels sont également sollicités : Cassini reçoit l’ordre de confier à Dagelet une partie du matériel déposé à l’Observatoire de Paris ; le Dépôt des cartes et plans de la marine et l’Académie de marine fournissent bon nombre de livres ; Berthoud remet aux navigateurs plusieurs des montres et horloges qu’il avait fabriquées pour la Marine.
+Des achats complètent cet important fonds documentaire et technique, pour lesquels on s’adresse aux meilleurs constructeurs d’instruments scientifiques, Lenoir, Langlois, Canivet, Mossy, etc.
+D’Angleterre, Monneron apporte théodolites et sextants achetés chez Ramsden et Troughton, les plus célèbres artistes anglais. 
+
+Chaque savant dresse en outre l’état des fournitures nécessaires à ses travaux.
+Tous se constituent bientôt leur bibliothèque et leur laboratoire complets, excédant largement les crédits prévus pour cet objet.
+Si Fleurieu se plaint quelque peu de leurs exigences, il déclare avec satisfaction que rien ne saurait manquer à l’expédition, en nombre comme en qualité.
+
+
+== Troisième partie Le cours du voyage ==
+
+
+=== Chapitre premier vivre à bord ===
+
+Malgré l’encombrement des navires jusqu’au terme de la campagne, on réussit à organiser la vie à bord de manière à garantir à chacun travail et repos dans des conditions satisfaisantes.
+L’organisation rationnelle des logements et la répartition des quarts répondaient à ce souci.
+Les circonstances favorables autant que les précautions prises permirent d’assurer également l’alimentation correcte et la santé des voyageurs.
+Lapérouse utilisa systématiquement les antiscorbutiques de Cook et appliqua les mesures d’hygiène que préconisait l’explorateur anglais ; surtout, l’Astrolabe et la Boussole ne restèrent jamais trois mois consécutifs sans se procurer des vivres frais.
+Cette circonstance explique en grande partie l’absence quasi totale de cas de scorbut à bord pendant toute la durée de la campagne.
+Le fait n’échappa d’ailleurs pas à Lapérouse, qui sut établir un lien formel entre alimentation fraîche et prévention du scorbut.
+Les observations précises qu’il fit à cet égard ne semblent pas cependant avoir été utilisées à bon escient par les navigateurs qui lui succédèrent.
+
+Si les conditions matérielles furent bonnes dans l’ensemble, il n’en fut pas de même pour les rapports humains au cours du voyage.
+Aucun problème ne se posa du côté des marins, mais Lapérouse ne s’entendit pas avec les savants qui l’accompagnaient.
+Un certain désaccord se fit jour dès les premiers temps de la campagne, pour éclater en querelle ouverte à l’escale de Macao.
+Le différend ne fut cependant suivi d’aucune conséquence grave et les divergences allèrent en s’atténuant à la fin du voyage.
+Elles laissaient pressentir néanmoins les difficultés que rencontrèrent de ce point de vue les expéditions suivantes, celle de Baudin en particulier. 
+
+
+=== Chapitre II Les travaux accomplis ===
+
+Selon ce que lui prescrivaient ses instructions, Lapérouse accumula une documentation précise sur le commerce des fourrures de la côte nord-ouest américaine.
+Il y prit même possession au nom du roi d’une baie propice à l’établissement d’un comptoir commercial et mena de point en point une transaction destinée à servir de modèle, vendant à Macao les pelleteries acquises en Amérique.
+A Macao, il renvoya en France le naturaliste Dufresne, chargé de toutes ses notes sur la question.
+Il lui confiait également, ainsi qu’à l’interprète de russe, Lesseps, débarqué au Kamtchatka, ses rapports sur l’état politique et économique des colonies espagnoles où il avait relâché : après une analyse critique de l’organisation mise en place par les Espagnols, il y donnait ses idées personnelles sur la manière dont on pouvait l’améliorer, en se fondant sur l’abandon du protectionnisme, du despotisme et de l’intolérance religieuse.
+Lapérouse se révélait ainsi plus profondément marqué par les idées philosophiques qu’il ne voulait bien l’avouer.
+
+Les réalisations géographiques de la campagne furent plutôt le fait d’une équipe : l’astronome Dagelet, aidé par les officiers des deux vaisseaux, multiplia les observations de longitudes en combinant l’usage des montres marines et la méthode astronomique ; le géographe Bernizet et, sur l’Astrolabe, le lieutenant de frégate Blondela purent ainsi dresser des cartes précises des principales découvertes de la campagne, en particulier des mers de Corée et du Japon, où Lapérouse fut le premier à reconnaître le détroit qui sépare Yeso et Sakhaline.
+Avec les journaux de navigation des dernières expéditions espagnoles dans le nord de l’Amérique, obtenus à Manille et les cartes russes que Lapérouse se procura au Kamtchatka, c’était une documentation complète sur les pays visités que l’on essayait de donner.
+Enfin, et c’est là l’un de ses apports essentiels, la navigation qu’accomplissait Lapérouse lui donna l’occasion d’un important travail critique sur les cartes existantes ; il fit disparaître de ces documents un certain nombre de terres imaginaires, qu’il avait recherchées avec assez de rigueur scientifique pour pouvoir affirmer qu’elles n’existaient pas.
+
+
+=== Chapitre III Rencontrer d’autres hommes ===
+
+Lapérouse ne croyait pas à la bonté de l’homme à l’état de nature.
+Plus voltairien qu’adepte de Rousseau, il considère la civilisation comme infiniment meilleure.
+Aussi part-il avec la volonté affirmée d’apporter aux indigènes des pays visités les bienfaits de cette dernière ; à cet effet, ses navires transportaient en abondance outils et plantes utiles.
+L’escale de l’île de Pâques dura trop peu de temps pour renforcer ou infirmer l’idée qu’il se formait des sauvages ; nul doute cependant qu’elle eût alimenté ses discussions avec les défenseurs du «  bon sauvage » et notamment Lamanon, le naturaliste embarqué sur la Boussole.
+A la côte nord-ouest de l’Amérique, où les vaisseaux firent une station prolongée, les navigateurs purent acquérir une expérience plus complète, qui les incita plutôt à la méfiance.
+Sur les côtes de l’île Sakhaline, ils rencontrèrent des hommes bons et hospitaliers, mais dont les conditions de vie très primitives n’excitèrent guère leur admiration.
+
+Ce n’est qu’après le massacre de Langle et de ses compagnons par les indigènes de Tutuila (archipel des Samoa) que se transforma véritablement l’attitude de Lapérouse à l’égard des sauvages : il perdit désormais toute vélléité civilisatrice, se cantonna dans la défiance et la riposte immédiate à tout geste d’hostilité.
+Jamais cependant, il ne renonça totalement à observer les hommes rencontrés, à chercher à comprendre leur gouvernement, leur organisation sociale, leur religion.
+Sa curiosité comme la précision et la lucidité de ses analyses en font de ce point de vue l’égal de Cook, tandis que sa foi dans la civilisation européenne, son désir d’en répandre les Lumières et d’ajouter au bonheur des hommes portent la marque de l’école des Philosophes.
+
+
+== Conclusion ==
+
+Le voyage de Lapérouse s’inscrit dans un type nouveau d’exploration maritime qui, du second voyage de Kerguelen à l’expédition de Baudin annonce les entreprises véritablement scientifiques du xixe siècle, soigneusement préparées, organisées et entièrement financées par l’État, celles de Freycinet, Dumont d’Urville par exemple.
+En même temps, il apparaît bien comme une réalisation du xviiie siècle français dont l’esprit anime son programme encyclopédique.
+Il constitue par ailleurs un élément non négligeable de la rivalité politique et commerciale qui oppose depuis la guerre de Sept ans la France et l’Angleterre.
+
+
+== Annexes ==
+
+Schémas et chronologie du voyage de Lapérouse. – Tableaux des dépenses occasionnées par la préparation de l’expédition. – Rôles d’équipage de la Boussole et de l’Astrolabe. – États de service des officiers embarqués avec Lapérouse. 
+
+
+== Pièces justificatives ==
+
+Édition du premier projet de navigation élaboré par Fleurieu. – Inventaire des livres emportés à bord de l’Astrolabe et de la Boussole. – Inventaire des instruments scientifiques de Dagelet, astronome de l’expédition. – Édition des lettres envoyées de Londres à Lapérouse par Monneron.

@@ -1,0 +1,129 @@
+identifier: ENCPOS_1978_01
+creator: Chantal Amalvi-Mizzi
+date: 1978
+title: Le Doctrinal aux simples gens ou Doctrinal de sapience. Édition critique et commentaire
+
+
+
+== Introduction ==
+
+Le Doctrinal aux simples gens est un texte d’instruction religieuse de la fin du xive siècle, qui est généralement attribué à l’archevêque Guy de Roye.
+Il nous est parvenu à travers de nombreux manuscrits et éditions des xve et xvie siècles ; il a cependant été très peu étudié et reste mal connu.
+
+Son titre fait référence à la religion populaire, mais il est nécessaire d’examiner dans quelle mesure il en est une manifestation.
+Ses destinataires sont à la fois les prêtres et les laïques sans instruction ; l’identité de son auteur est plus difficile à déterminer, car il faut établir ici une distinction qui n’a été perçue que confusément par les quelques historiens qui ont cité notre texte : il existe en réalité deux Doctrinal : une version courte, attribuée tantôt à Guy de Roye, archevêque de Sens (1385-1390) puis de Reims (1390-1409), tantôt à Gerson (Mgr Glorieux imprime cette version dans son édition des œuvres complètes de Gerson, t.
+X), et probablement composée sous le règne de Jeanne d’Évreux (1325-1370) ; une version longue, signée par un moine de Cluny qui dit l’avoir composée en 1388.
+
+La première version a été rédigée à l’occasion de la réforme de l’enseignement des laïques sans culture, promue en particulier par Gerson, qui écrivit dans cette intention plusieurs opuscules très proches du Doctrinal court.
+Le moine de Cluny lui ajouta plusieurs chapitres et de nombreux exempla, qui s’inscrivent moins nettement dans cette perspective de redressement des croyances populaires. 
+
+Nous donnerons une étude et une édition critique de la version longue, souvent imprimée aux xve et xvie siècles, mais qui n’est connue par aucune édition récente.
+
+
+== Chapitre premier la tradition ==
+
+Analyse de la version longue du
+    « Doctrinal ». – Le Doctrinal peut se diviser en quatre parties : la première examine les articles de la foi et ses déviances, les diverses manifestations de la charité, avec un excursus sur la Passion, et les dix commandements ; la seconde les péchés mortels, chapitres agrémentés de nombreuses digressions ; la troisième traite des sept sacrements, et plus particulièrement de l’eucharistie et de la pénitence ainsi que du mariage ; elle est complétée par un long chapitre sur les religieux ; la quatrième, des fins dernières : jugement, purgatoire, enfer et paradis.
+L’ouvrage commence et se termine par l’exposé des buts et des méthodes de l’auteur.
+
+La tradition du texte long. – Le texte long nous est connu par quinze manuscrits, dont douze ont servi de base à cette édition.
+Ces manuscrits sont de présentation peu luxueuse, et plus du tiers ne contiennent que le Doctrinal.
+Les autres renferment surtout des œuvres de dévotion destinées à des laïques pieux.
+
+Il est aussi représenté par au moins trente-sept éditions, s’échelonnant entre 1478 et le milieu du xviie siècle.
+Les premières ont été réalisées à Genève, à Lyon puis à Paris, et les quatre plus récentes, dont le texte a été rénové, font partie de la Bibliothèque bleue de Troyes.
+On compte parmi ces éditions deux traductions provençales et une traduction anglaise.
+
+Classement des manuscrits et établissement du texte. – Le classement des manuscrits est un travail complexe, car beaucoup d’entre eux ont été contaminés.
+On peut cependant distinguer deux familles, dont la première est plus fidèle aux sources utilisées par l’auteur.
+C’est dans cette famille que nous avons choisi notre manuscrit de base, le n° 1252 de la Bibliothèque municipale de Lyon ; ce manuscrit possède par rapport à d’autres représentants de la même famille l’intérêt d’offrir un texte correct et représentatif de l’ensemble de la tradition.
+
+Appendice : le texte court. – Le texte court est représenté par vingt manuscrits au moins, dans lesquels il est accompagné de nombreux autres opuscules.
+La plupart de ces manuscrits appartenaient aussi à des laïques.
+Seuls les plus récents mentionnent le nom de Guy de Roye.
+
+On ne connaît qu’une seule édition ancienne de cette version. 
+
+
+== Chapitre II Les sources ==
+
+La part de l’auteur est très réduite dans la rédaction du Doctrinal.
+Il avoue lui-même n’avoir fait qu’assembler autorités et exempla.
+On peut distinguer trois sources principales.
+
+Le texte court. – Le texte court a été intégralement réutilisé par l’auteur du texte long, mais celui-ci lui a ajouté environ quarante-cinq chapitres entiers, plus de nombreuses autorités et presque tous les exempla.
+Les chapitres sur la croix, l’âme, les religieux et les dons du Saint-Esprit entre autres, sont totalement absents du texte court.
+L’auteur développe en outre à l’aide d’emprunts à ses autres sources certains thèmes seulement évoqués dans son modèle.
+
+Ces adjonctions modifient notablement la nature du texte ; on peut donc considérer les deux versions du Doctrinal comme deux œuvres distinctes.
+
+La
+    « Somme le Roi ». – Nulle part l’auteur n’avoue ses emprunts à la Somme le Roi, qui sont très inégalement répartis.
+Il en recopie intégralement certains chapitres, en particulier ceux qu’il consacre aux dons du Saint-Esprit, mais le plus souvent entremêle étroitement au canevas du texte court des passages parfois très brefs empruntés ici ou là à sa seconde source.
+En outre ces emprunts sont effectués à deux niveaux, le texte court s’étant lui-même inspiré, quoique moins servilement, de la Somme.
+
+La Somme le Roi est un traité destiné aux laïques cultivés composé par le confesseur de Philippe le Hardi à la fin du xiiie siècle, alors que le Doctrinal vise l’instruction des « simples gens » et des « simples prêtres ».
+Cette différence de public explique l’irrégularité des emprunts, l’auteur du Doctrinal laissant de côté tout l’aspect scolastique que comporte la Somme pour n’en conserver que ce qui s’applique à l’édification des simples gens.
+
+Le
+    « Manipulas curatorum ». – Le Manipulas curatorum, composé par Guy de Montrocher au début du xive siècle, a été utilisé par l’auteur du Doctrinal principalement dans les chapitres concernant les sacrements.
+En effet, il étend considérablement les chapitres du texte court destinés aux prêtres et emprunte à un guide pour les curés la matière de ces chapitres.
+L’un d’entre eux en particulier, concernant les erreurs que le prêtre peut commettre en célébrant la messe et les moyens d’y remédier, utilise les mêmes termes que le Manipulus.
+Cependant il n’est pas absolument certain que ce soit ce traité même qui ait servi de modèle à notre auteur, car les préceptes qu’il contient se retrouvent dans d’autres recueils, en particulier dans des statuts synodaux.
+
+Ces diverses sources donnent chacune au Doctrinal une configuration différente : abrégé de la foi, traité de morale, guide pour les curés, livre de dévotion.
+
+Un tableau des sources met en évidence les emprunts effectués à ces sources dans les différents chapitres du Doctrinal. 
+
+
+== Chapitre III Les « exempla » ==
+
+Les exempla constituent le tiers du Doctrinal, et seul un petit nombre d’entre eux sont empruntés aux sources déjà mentionnées.
+
+Nature et rôle des « exempla » du
+    « Doctrinal ». – Il faut d’abord établir une distinction entre l’exemplum proprement dit, « récit inséré dans un discours pour convaincre un auditoire par le moyen d’une anecdote donnée comme réellement arrivée, animée d’une vérité religieuse utile à son salut », et la similitudo, dépourvue d’élément narratif.
+Le Doctrinal contient cent quarante et un exempla et similitudines, certains très brièvement énoncés, d’autres constituant des narrations à épisodes.
+Leur choix est dicté autant par leur présence dans les recueils auxquels ils sont empruntés que par les nécessités de l’exposé qu’ils appuient.
+
+En effet, l’apport original de l’auteur est aussi réduit dans ce domaine que dans la partie purement doctrinale de notre recueil.
+En outre, ces sources s’échelonnant entre les premiers siècles et le début du xive, les exempla du Doctrinal sont tributaires des caractéristiques propres à chaque époque et à chaque auteur, du « proto-exemplum » tiré des Vies des Pères et des Dialogues de saint Grégoire, dressant un portrait du chrétien idéal, à l’exemplum de la fin du Moyen Âge attentif à la personnalité des acteurs et à l’environnement social.
+
+On peut les répartir en plusieurs catégories : exempla bibliques (39 sont tirés de l’Ancien Testament et 10 du Nouveau Testament) ; hagiographiques (13) ; « patristiques » (16) ; exempla mettant en scène des religieux (16 exempla tirés de sources plus récentes s’ajoutent aux précédents), des clercs (6) ou des laïques (40), exempla tirés de l’Antiquité classique (4), de l’histoire ou de la légende (5) et des bestiaires (2).
+On peut aussi distinguer cinq miracles de la Vierge et vingt récits de visions et d’apparitions.
+Les histoires de moines ont donc la préférence de notre auteur, moine lui-même.
+A part les représentants des septième, huitième et neuvième catégories citées, minoritaires, la plupart des exempla du Doctrinal ressortissent à un même type d’anecdotes pieuses.
+
+Sources des « exempla ». – La principale source utilisée par l’auteur du Doctrinal est l’Alphabetum narrationum d’Arnaud de Liège, compilation alphabétique de la fin du xiiie ou du début du xive siècle, à laquelle notre moine emprunte l’idée de la plupart de ses exempla.
+Mais à chaque fois qu’il en a la possibilité, il recourt au texte même de la source mentionnée par Arnaud, n’utilisant la version donnée par ce dernier que lorsqu’il n’indique aucune source, ou lorsque celle-ci ne lui est pas accessible.
+
+Il utilise donc abondamment les Vitae patrum (ve siècle), les Dialogues de Grégoire le Grand, leur empruntant en particulier quelques épisodes de la vie de saint Benoît, le Dialogus miraculorum de Césaire d’Heisterbach, qu’il ne cite que par l’intermédiaire de VAlphabetum, et les grands recueils du XIIIe siècle : sermons de Jacques de Vitry, Legenda aurea de Jacques de Voragine, Liber de septern demis Spiritus Sancti d’Étienne de Bourbon, Liber de dono timoris d’Humbert de Romans, dominicain comme le précédent, qui constitue une de ses sources privilégiées (il lui emprunte tous les exempla de son prologue et d’autres récits que l’on trouve chez Humbert seul), ainsi que les compilations alphabétiques que sont la Tabula exemplorum, le Speculum, laicorum, et bien sûr l’Alphabetum narrationum.
+
+Étude de détail de chaque « exemplum ». – Pour chaque exemplum, nous indiquons les diverses occurrences du récit dans les recueils habituellement utilisés par l’auteur et celui qui semble lui avoir fourni la version qu’il a choisie, ainsi que la manière dont il a pu la modifier.
+
+
+== Conclusion ==
+
+Les problèmes de datation et d’identification de l’auteur sont incomplètement résolus : on peut estimer que le texte court a été composé dans la seconde moitié du xive siècle, et avant 1370 ; il est du moins certain qu’il n’est pas postérieur à 1390.
+Son auteur fut-il un familier de Jeanne d’Évreux, qui recommanda l’ouvrage, ou bien fut-il Guy de Roye lui-même ?
+Rien ne l’indique.
+Quant au texte long, il semble qu’on puisse accepter la date de 1389 indiquée par l’auteur.
+En revanche, ce moine de Cluny nous reste totalement inconnu.
+
+En ce qui concerne les destinataires, les manuscrits montrent que les lecteurs du Doctrinal étaient surtout des laïques, amateurs de traités de dévotion.
+Cependant il est certain qu’il a touché un public très large qui en eut connaissance par l’intermédiaire de la prédication ; le Doctrinal est en effet également un manuel à l’usage des curés.
+
+Le Doctrinal date donc de la fin du xive siècle.
+On n’y trouve toutefois aucun écho des événements ou de la crise de l’Église contemporaine.
+Il s’insère toutefois dans son temps, d’une part en rappelant la législation ecclésiastique en vigueur – canon Utriusque sexus (1215), bulle Ne in vinea Domini (1369) – et surtout en reflétant les tendances du sentiment religieux de son époque : intérêt pour la Passion, pour la Vierge des douleurs ou de miséricorde, jugement sévère porté sur son temps.
+
+Il présente en résumé une religion formelle, catalogue d’interdictions et de vérités à croire ; accordant une large place à la morale au détriment du dogme, il donne une idée du monde, en particulier à travers les exempla, en relation constante avec le surnaturel ; enfin, la présence permanente de l’idée de la Passion y invite l’homme à souffrir et à se détacher du monde pour mériter le paradis. 
+
+
+== Édition ==
+
+La version longue du Doctrinal aux simples gens est éditée à partir du ms. 1252 de la Bibliothèque municipale de Lyon, que nous appelons I. Il est corrigé d’après les manuscrits F (Arras, Bibl. mun. 236) et L (Berne, Bibl. mun.
+A 260, qui est incomplet).
+
+L’apparat critique présente les variantes de tous les manuscrits pour les premiers chapitres, puis les variantes communes à plusieurs manuscrits uniquement, ainsi que celles de F et L.
+
+L’édition est suivie de notes signalant les références des citations dans la mesure où nous avons pu les identifier, et replaçant dans l’histoire ou explicitant quelques-unes des notions abordées par le Doctrinal.

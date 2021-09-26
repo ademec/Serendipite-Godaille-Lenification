@@ -1,0 +1,150 @@
+identifier: ENCPOS_1975_06
+creator: Pierre-Dominique Cheynet
+date: 1975
+title: Les traductions de la Règle de saint Benoît en ancien occitan
+
+
+
+== Introduction ==
+
+Les traductions de la Règle de saint Benoît en ancien occitan n’ont pas encore été étudiées de façon complète.
+Une étude rapide de Giulio Bertoni, qui ne connaissait que trois de ces traductions, soulève la question de leur interdépendance.
+Un examen plus poussé montre que leur indépendance est manifeste, malgré de nombreuses ressemblances.
+Le problème est donc de situer l’origine de ces rapports.
+
+
+== Première partie Les manuscrits et les versions de la règle ==
+
+
+=== Chapitre premier description des manuscrits ===
+
+Il n’a pas été possible de trouver des manuscrits contenant des traductions de la Règle de saint Benoît autres que ceux qu’a signalés Clovis Brunel dans sa Bibliographie des manuscrits littéraires en ancien provençal et qui sont :
+
+1° Brunel n° 69 : Avignon, Bibliothèque du Museon Calvet, ms. 707 (ancien 455), désigné par le sigle A et contenant la version A (partiellement éditée) ; 
+
+2° Brunei n° 89 : Rome, Bibliothèque Casanatense, ms. 329 (ancien B. IV. 9), désigné par le sigle R et contenant la version R (édition intégrale fautive dans le Spicilegium Casinense) ;
+
+3° Brunel n° 167 : Paris, Bibliothèque nationale, ms. fr. 2428 (ancien 80872), désigné par le sigle P et contenant la version P (partiellement éditée) ainsi qu’un fragment, signalé par Brunel ; il constitue une version distincte, désignée comme fragment Z (inédit) ;
+
+4° Brunel n° 318 : Clermont, Bibliothèque municipale, ms. 674 (ancien A 108a), désigné par le sigle C et contenant la version C (inédite).
+
+
+=== Chapitre II Inventaire des versions ===
+
+Deux problèmes ayant trait au nombre des versions qui ont pu exister sont à examiner.
+Raynouard signale dans la Table des principaux ouvrages, au tome V du Lexique roman, un manuscrit d’Aix qui semble en fait n’avoir jamais existé.
+D’autre part, le début du texte de la version A laisse l’impression qu’elle pourrait résulter du mélange de deux versions antérieures ; un examen détaillé prouve qu’il n’en est rien.
+Ainsi ce sont cinq versions de la Règle qui sont connues et étudiées, dont quatre versions principales :
+
+– la version A date du xiiie siècle ; la copie est peut-être originaire de l’abbaye de Saint-Véran d’Avignon, vraisemblablement de la région d’Avignon même ou du nord du comtat Venaissin ;
+
+– la version R date du xive siècle ; comme le manuscrit qui la contient, elle est d’origine provençale, apparemment du comtat Venaissin comme la version A ;
+
+– la version P est la mieux située : elle date du milieu du xiiie siècle, a pour auteur un certain Petrus Alquer et a été rédigée à l’abbaye de Souillac (diocèse de Cahors, actuellement département du Lot, arrondissement de Gourdon) ; le texte qui nous est parvenu est vraisemblablement, sinon l’original, du moins le premier exemplaire copié ;
+
+– la version C date de la fin du xiiie siècle ; ce texte a été copié à l’abbaye de Saint-AHyre de Clermont, vers la même époque que le Nécrologe, daté de peu après 1288, qui le suit dans le manuscrit.
+
+La seule de ces quatre versions qui nous soit parvenue entière est la version P, qui n’est pas une traduction intégrale, mais abrégée.
+Les autres versions étaient des traductions intégrales : A est la mieux conservée ; R a perdu la fin et C le premier tiers du texte.
+
+
+=== Chapitre III Le fragment Z ===
+
+Ce fragment Z n’a de rapports avec aucune des quatre versions principales.
+On sait qu’il a été copié à Souillac peu de temps après la version P. Sous des traits de langue identiques à ceux de la version P transparaissent quelques traits particuliers à Z, qui sont tous des archaïsmes.
+La confrontation avec le latin montre que le calque est de règle, y compris dans l’ordre des mots.
+Ces caractéristiques laissent penser que la traduction Z serait très antérieure aux quatre autres.
+
+
+== Deuxième partie La langue des versions principales ==
+
+L’étude de la langue des quatre versions principales confirme l’origine et la datation des versions.
+Les versions A et R, mal localisées et datées, appartiennent par leur langue à l’est du domaine occitan ; l’antériorité de la version A par rapport à R explique sans doute la plus grande imprégnation de traits nord-occitans dans A. L’étude de la langue de la version P confirme les faits relevés par M. Robert Marichal dans la comparaison qu’il a établie entre cette version P et la traduction de la Légende de Sidrac.
+L’étude de la langue de la version C fournit quelques indications sur le dialecte nord-auvergnat, qui est peu connu.
+
+
+== Troisième partie Le problème de l’interdépendance ==
+
+Pour résoudre la contradiction apparente entre l’indépendance des versions et leurs nombreux points communs, il convient d’analyser leur convergence de manière détaillée, puis de les comparer au texte latin.
+
+
+=== Chapitre premier confrontation des quatre traductions entre elles ===
+
+L’analyse de convergence, après avoir soigneusement éliminé les cas non pertinents, consiste en un traitement statistique des cas collectés dans les extraits choisis.
+Deux tableaux en regroupent les résultats (I : Mesure de la convergence ; II : Mesure de l’affinité). 
+
+R et C jouent par rapport à A et P le rôle de traductions à forte attirance.
+Dans ce rôle, elles sont très indépendantes l’une de l’autre.
+Deux solutions sont possibles : la première voudrait qu’il y ait eu deux traductions antérieures, dont les meilleurs représentants seraient, respectivement, R et C, et qui auraient indistinctement servi de modèles à A et P. Mais cette interprétation est peu vraisemblable.
+La seconde suppose qu’aucune version antérieure n’a inspiré les quatre traductions et que le rôle apparemment joué par R et C s’explique par leur plus grande fidélité au latin.
+
+La confrontation des traductions entre elles ne suffit donc pas et renvoie au texte original, avec lequel une comparaison s’impose.
+Pour ce faire, il convient au préalable de choisir un texte de référence, puis d’examiner comment le texte traduit se trouve découpé et présenté dans les versions.
+
+
+=== Chapitre II Le problème du « Textus receptus » ===
+
+Le texte édité par Dom Philibert Schmitz est choisi comme texte latin de référence : tous les éditeurs recherchent le texte le plus proche du texte autographe de saint Benoît.
+
+Comme c’est le cas pour tous les textes très répandus, l’histoire du texte de la Règle au Moyen Âge reste à faire.
+Les textes utilisés par les traducteurs appartiennent au groupe du Textus receptus et sont différents les uns des autres.
+
+
+=== Chapitre III Le découpage et la présentation du texte traduit ===
+
+Le découpage matériel des traductions semble respecter, mais sans précision et incomplètement, le découpage du latin en lectures quotidiennes.
+Seule la présentation du texte dans la version A mérite d’être retenue ; elle confirme que cette version est destinée à un public d’auditeurs, ce que montrent bien la mise en position de citation du texte traduit et, dans la présentation, l’intervention d’un narrateur collectif et l’emploi exclusif de verbes se rapportant à l’ouïe.
+
+
+=== Chapitre IV La fidélité au latin ===
+
+Il est impossible d’analyser la fidélité des traductions de la même manière que leur convergence, car le problème est différent : calquer servilement le modèle n’est pas la meilleure façon de lui être fidèle.
+De plus, on peut distinguer deux sortes de calques : le calque « servile » et le calque « intelligent » (lequel s’oppose à la « traduction loin du texte »).
+Ainsi pour la version R, qui apparaît comme seul représentant du calque servile, les cas d’infidélité font figure d’exceptions, tandis qu’ils abondent dans les trois autres versions et se prêtent à une analyse de fréquence, mais surtout à une étude typologique comparée de l’infidélité au latin.
+
+Une fois la part faite aux erreurs de copie, les « fautes de version latine » sont très rares.
+Mais seule la version C en paraît pratiquement exempte.
+
+C’est la caractéristique essentielle de la version P que de faire le plus grand nombre d’omissions, les versions A et C étant beaucoup plus complètes.
+Les rares cas de coupure des mêmes passages dans plusieurs versions semblent dus au hasard.
+
+La version A vient en tête par le nombre d’interpolations.
+Dans les trois versions A, P et C, les interpolations se prêtent à un examen typologique grâce auquel se précisent les caractéristiques individuelles des traductions.
+
+Les deux modifications stylistiques les plus significatives, renforcement de l’expression et refus de l’abstraction, mettent également en relief les comportements différents des quatre versions principales.
+
+
+=== Chapitre V Problèmes de traduction de la syntaxe latine ===
+
+Dans beaucoup de cas, une tournure latine étant amphibologique, le traducteur pouvait choisir soit une tournure précise, de création occitane, soit le calque du latin.
+Ce choix, sans doute dépendant pour une part des possibilités offertes par chaque dialecte, semble pourtant fournir des indications assez sûres quant au souci des traducteurs de parvenir à la précision de l’expression.
+Ainsi voit-on se compléter le portrait des traductions et des traducteurs qui se dégage de la comparaison des versions.
+
+
+== Conclusion ==
+
+Ainsi, la confrontation des versions entre elles et leur comparaison avec le latin permettent de préciser leurs caractéristiques et d’apprécier la personnalité des traducteurs.
+
+Z témoigne d’une soumission totale du traducteur à son modèle.
+Pour R, la langue reste fortement soumise, mais la phrase s’affranchit et les contraintes linguistiques de l’occitan s’affirment dans l’ordre des mots. 
+
+Le respect pour le contenu du texte disparaît avec les versions A et P : l’une l’alourdit d’explications et va jusqu’à modifier le sens de certains passages, l’autre ne se gêne pas pour abréger le plus possible.
+La liberté de la langue est plus grande ; ces hardiesses nuisent parfois à l’exactitude.
+Le même souci pédagogique qui nuit à la clarté de l’expression dans A ne semble pas gêner P. Il est frappant de ne pas retrouver ailleurs les redites et ce qui nous semble manquer de construction logique dans A. L’impression plus moderne que donnent les versions P et C est peut-être due à ce qu’elles transposent plus directement la cohérence du texte latin.
+
+La version C fait figure d’heureux compromis entre l’autonomie de la traduction et la fidélité bien comprise ; c’est une « bonne traduction » ou, si l’on veut, un véritable optimum.
+
+Si nos traductions présentent de nombreuses ressemblances, c’est qu’elles traduisent le même texte latin.
+Quant aux différences, il faut, sans négliger les variations dialectales, les attribuer à la personnalité et aux motivations différentes de chaque traducteur.
+Ne les voit-on pas, même lorsqu’ils se sont proposé le même but, recourir à des moyens opposés ?
+
+Ces différences témoignent aussi des variations de la culture romane, puisqu’à nos traductions Z, R, A et P, et C, il n’est pas impossible de faire correspondre les différents degrés d’affirmation de cette culture vis-à-vis de la culture latine.
+Mais il ne s’agit pas des étapes successives d’une évolution ; nos traductions décéléraient plutôt le caractère divers, inégal et tributaire du cloisonnement régional de divers milieux.
+
+La typologie comparée des traductions d’un même texte pourrait ainsi servir à l’étude des modalités suivant lesquelles une culture s’émancipe et s’affirme à partir d’une autre.
+Mais seule l’analyse de traductions plus nombreuses et plus espacées dans le temps permettrait de préciser la part des multiples facteurs dont nous avons relevé les interventions et celle, notamment, de la personnalité des traducteurs et de leur public.
+
+
+== Édition ==
+
+Édition intégrale des textes, inédits (fragment Z, version C) et partiellement publiés (versions A et P). – Collation de l’édition de la version R publiée dans le Spicilegium Casinense. – Édition synoptique d’extraits choisis des quatre versions principales en regard des passages correspondants du texte latin.

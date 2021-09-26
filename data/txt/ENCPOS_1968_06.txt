@@ -1,0 +1,145 @@
+identifier: ENCPOS_1968_06
+creator: Jean-Loup Delmas
+date: 1968
+title: Les termes techniques de la construction en langue d’oc en usage dans l’Albigeois
+
+
+
+== Introduction ==
+
+Le mot, du fait de la relation étroite qu’il a avec les objets ou les faits, est pour l’archéologue un instrument efficace : il peut être daté et localisé.
+La présente étude se propose de retrouver les techniques par les mots en reliant les témoignages qui ont pu être donnés au cours des temps.
+
+Le choix du parler albigeois fournit le cadre géographique et linguistique de cette recherche.
+Cette limitation offre un autre avantage : comme parler secondaire à l’égard du français, l’albigeois se révèle plus conservateur et son héritage plus vivace.
+Il s’imposait donc de l’étudier dans sa continuité.
+
+La collection des Documents linguistiques du midi de la France (1909), inaugurée par Paul Meyer, tient compte d’un cadre géographique et linguistique ; le Recueil de textes relatifs à l’histoire de l’architecture en France (1914-1931) de Victor Mortet et de M. Paul Deschamps observe un cadre technique : la construction.
+Ce dernier cadre offre la possibilité non d’une limitation supplémentaire, mais d’une extension.
+
+En effet, les archives des xviie et xviiie siècles, exclues des études linguistiques régionales, conservent cependant un vocabulaire technique en langue d’oc.
+Dans l’esprit d’une étude sur la continuité de la langue, elles justifient donc a posteriori les deux principes énoncés par les ouvrages précédents.
+En outre, au xviiie siècle, ces mots techniques nous sont livrés dans un contexte descriptif et analytique conforme à l’esprit du siècle de l’Encyclopédie.
+
+Au xxe siècle, la disparition des témoins des techniques anciennes souligne l’urgence qu’il y a de recueillir les mots : après la guerre de 1914-1918, l’héritage se perd. 
+
+
+== Première partie La recherche et l’utilisation des mots ==
+
+
+=== Chapitre premier les sources et leur utilisation ===
+
+La recherche a été faite dans les archives du xive au xviiie siècle : la totalité des comptes consulaires de Castelnau de Montmiral (xive-xve siècle), ceux d’Albi pour le début du xve siècle, les archives municipales de Castres et de Gaillac, divers registres de notaires (xvie et xviie siècles), des rapports d’expertise (xviiie siècle).
+La langue du xixe siècle est étudiée principalement d’après les dictionnaires de Gary et de Couzinié (Castres, 1845 et 1850).
+
+Des enquêtes enregistrées, faites auprès de maçons, de charpentiers et d’artisans, ont permis de pousser l’examen de l’évolution des mots jusqu’à nos jours : elles ont été menées principalement dans le Ségala, le pays castrais, le Vaurais et la Montagne Noire, à Montmiral et à Anglés.
+
+Ces matériaux ont été classés dans l’ordre alphabétique et dans l’ordre méthodique ; ce dernier regroupe les synonymes et permet de les situer les uns par rapport aux autres dans le temps et l’espace.
+L’étude se déroule en plusieurs étapes : la datation, la localisation, la définition, la synthèse autour de sujets complexes.
+
+
+=== Chapitre II Présentation de l’albigeois ===
+
+Le cadre géographique et historique, justifié par l’identité entre le territoire des Ruteni provinciales et le département du Tarn, formé des trois diocèses d’Albi, Castres et Lavaur, présente paradoxalement moins d’uniformité que les cadres linguistiques et techniques.
+
+Les deux premiers diocèses forment l’Albigeois.
+Celui de Lavaur est traditionnellement rattaché au Toulousain et au Lauragais.
+En outre, la Montagne Noire a toujours constitué un bloc à part, stratégique comme frontière, économique en raison des possessions des ordres monastiques, en particulier des chartreux.
+
+Le vocabulaire de la construction révèle, par la fréquence de certains termes, une autre division : il y a une opposition marquée entre l’aire du mur peirenh (de pierres), et celle du mur pesenh (de terre) ; le domaine de la lausa (ardoise grossière) et celui de lo feule (tuile) correspondent aux sols schisteux et argileux ou calcaires.
+Les toits de chaume, clujada, ou de genêt, ginesta (s. m.), semblent avoir été plus fréquents là où le sol était de gneiss ou de granit. 
+
+Ainsi, la diversité du vocabulaire technique apparaît étroitement liée aux ressources du sol et du sous-sol.
+
+
+=== Chapitre III Les mots au service de l’histoire des techniques ===
+
+Les mots ne rendront compte de cette diversité que s’ils sont définis en fonction de leur utilisation précise.
+Ainsi secadou et sechouer correspondent à des usages différents, parus à des époques différentes (séchoir à châtaignes et séchoir d’industrie).
+Les aires linguistiques de truel ou de trel semblent correspondre aux régions où sont usités soit des pressoirs à huile, soit des pressoirs de vendange.
+Par ailleurs, menar (1421), rapproché de menadou (1637), signifie précisément « actionner » (le branloire d’un soufflet de forge).
+
+Une analyse rigoureuse de termes tels que levadou (levier), dormen (châssis immobile), roudet (rouet), dé (crapaudine) permet d’assurer l’existence d’un moulin à roue horizontale aux environs d’Albi en 1591.
+Or, ce type de moulin, dessiné, peut-être imaginé par les ingénieurs italiens de la Renaissance, n’était connu jusqu’à présent qu’au xviiie siècle à Toulouse.
+
+Le mot escandel (1967), pièce d’une scie hydraulique permettant de régler l’épaisseur des planches, attesté isolément en 1594, permet de supposer l’existence d’un procédé semblable à cette époque.
+
+Le mot cadalbre (arbre à cames), attesté de 1592 jusqu’à nos jours, a été considéré comme le terme propre par les hommes du xviiie siècle et n’a pas été traduit.
+Cap est ici non pas simplement la tête, mais la partie active de l’arbre moteur, celle qui transmet le mouvement.
+
+
+=== Chapitre IV Les migrations techniques et la langue ===
+
+Les textes nous renseignent parfois sur l’origine des matériaux ou des hommes de l’art : fer de Foys, peyra de Plasensa, pierre d’Alet.
+Les patronymes peuvent confirmer ces influences : Raimon, de Rocilho est forgeron.
+Le terme technique peut être un mot d’origine géographique : aoubergnas (scieur de long), picardo (galetas surélevé).
+
+Les doublets sécadou, sechouer, cités précédemment, indiquent, du fait d’une graphie et d’une prononciation différente, une origine différente.
+Ainsi, en 1542, masson et peyrie désignent l’un un maçon de Toulouse, l’autre un maçon d’Albi.
+
+Le terme coulanos (1966), désignant les montants d’une scie hydraulique, est un autre exemple caractéristique.
+Son origine gasconne suggère une telle influence sur le plan technique. 
+
+
+== Deuxième partie Regroupement méthodique des termes techniques ==
+
+Le plan méthodique et l’édition de textes ont été ordonnés parallèlement.
+Le premier rassemble autour de thèmes comme la métrologie, les chemins, les escaliers, les canalisations, les fontaines, le chevet des églises, les verreries, les mots relevés dans le glossaire.
+Il comprend, dans de nombreux appendices, la totalité des termes recueillis pour certains types de constructions à une époque donnée.
+
+L’édition de textes observe, au sein des divisions logiques, un ordre chronologique ; pour un certain nombre de questions, la transcription phonétique d’une enquête vient conclure un dossier composé de textes recueillis dans les archives ; ainsi une enquête sur la construction des fours (1966) atteste la persistance de termes employés dans les textes au xve siècle.
+
+II est difficile de résumer des listes de mots.
+Citons cependant quelques faits caractéristiques, illustrant les chapitres précédents.
+
+Les éléments de la construction. – Tous les éléments de la construction sont examinés tour à tour ; par exemple, la chaux est produite de préférence dans la région de Carmaux (1404) ; cela permet de supposer l’utilisation semi-industrielle du charbon naturel qui affleure à proximité.
+La terre est souvent préférée au mortier de chaux pour les pierres, car c’est un meilleur isolant.
+Le mortier des fonteniers, betum (1514), est fait de chaux et d’huile, selon la recette de Vitruve.
+Le pommier est réputé pour la fabrication de certaines pièces de machines en raison de sa dureté.
+L’aune, vernh, est utilisé pour asseoir les fondations dans les terrains peu fermes, car il est « imputrescible ».
+Les clous se vendent à la quantité et les chevilles au poids du fer.
+Le colombage, corondat, rempli de terre, a été d’un emploi général.
+On construit des cloisons de torchis dans les châteaux au xviie siècle.
+La richesse d’un propriétaire se voit au nombre des pied-droits, corondas, de sa façade.
+
+U architecture civile, religieuse et militaire. – Si les maisons du Ségala ont des toits à quatre pentes, cela est dû, paraît-il, au fait que le maçon, pour épargner la pierre, ne construit pas de pignon.
+Dans le Vaurais, le carrelage de l’étage repose sur un lit de torchis ou sur un lit de plâtre, mêlé de cœurs de maïs (carbou blanc), dans les belles maisons.
+Le galetas est généralement ouvert, au sud d’Albi ; il est surélevé dans la montagne au nord.
+On connaît un procédé sans cintre pour construire les voûtes de four ; le seul moyen d’assurer la parfaite courbure est une corde à nœuds.
+Le pont d’Albi, un des grands monuments de l’Albigeois, réclame des soins constants et exceptionnels : pour enfoncer les pilots ou les batardeaux, on construit en 1404 un grand trépan, lo tarayre.
+A cette occasion, on fabrique un véritable scaphandre, afin de dégager le lit de la rivière : c’est une création spontanée, comme le prouve l’absence de termes propres pour la désigner ou la décrire, una caissa (caisse).
+L’ogive, ougiva, est employée en 1415 pour la voûte des chœurs.
+Les hourds couronnent les remparts (amban, trenh) : ils constituent des ensembles complexes de bois et de terre. 
+
+L’architecture et les techniques industrielles. – Le fer est extrait à Ambialet en 1274 ; la mine se compose de galeries probablement boisées.
+Une fonderie et une forge sont attestées à Escoussens en 1284.
+Le cuivre est acheminé de Rieupeyroux (Aveyron) à Monestiés (début xve siècle).
+L’étain provient de la récupération de pichets ou de vases ; la résine, peroyna, est employée pour le souder.
+La fonte des cloches est un événement : semblable au phénix, la cloche brisée, coulée dans son moule parmi les tombes, à l’intérieur de l’église, est déterrée (dessencrossar, 1423) et baptisée.
+On bat toujours le cuivre à Durfort, à l’aide d’un martinet mu par un cadalbre.
+Dans les tuileries, on laisse au temps le soin d’émietter la terre à brique : un cheval, faisant tourner deux roues dans la bardiera (fosse), lui donne la consistance convenable.
+Les verriers viennent du Nivernais.
+Les grandes meulières qui approvisionnent le département se trouvent à Salles (Tarn) et à Saint-Julien-en-Minervois (Hérault).
+La pelle qui, sous la trémie d’un moulin reçoit le grain, s’orne de la tête d’un cheval, celui dont le galop anime le moulin.
+On lit l’âge de la crapaudine de bronze au nombre de ses trous et elle sert plusieurs générations de meuniers.
+
+
+== Troisième partie Glossaire des termes techniques de la construction ==
+
+Le glossaire comprend des termes de langue d’oc, des mots patois, c’est-à-dire issus du français, et les escaisses ou argot de métier.
+
+Quelques termes latins ont été relevés en raison des rapports qu’il y a eu entre les deux langues au moyen âge : rota (lat.), roda, meule ; peyrerius (lat.), peyrier, maçon.
+
+Le vocabulaire de langue d’oc apparaît fréquemment dans les textes français des xviie et xviiie siècles : il a été relevé lui aussi, soit en raison du genre : étable (s. m.), tuile (s. m.), canal (s. f.), soit en raison du sens : métal (bronze), soit parce qu’on ne connaît pas d’attestation antérieure de l’existence d’un terme local : ventrière (panne, 1758), et bentrieyro.
+
+Le glossaire comprend plus de dix mille formes, classées dans l’ordre alphabétique des graphies.
+
+Chaque article rassemble des exemples datés.
+On a tenté dans certains cas de définir le mot en fonction de l’usage que rapportait le texte : lia, tige de fer reliant la cloche au mouton, ou encore anneau de fer enserrant l’extrémité d’une poutre.
+Quelques articles comportent un exposé de caractère technique : ainsi, l’article arbre (arbre moteur) renvoie aux dictionnaires encyclopédiques du xviiie siècle, et celui de burc (bruyère) à une enquête sur la couverture des maisons.
+D’autres articles discutent les définitions données par les dictionnaires de référence : ceux d’Alibert (Dictionnaire occitan-français) ou de Cayla (Dictionnaire des institutions, des coutumes et de la langue dans quelques pays de Languedoc, de 1535 à 1648). 
+
+
+== Quatrième partie Recueil d’illustrations ==
+
+Un recueil de dessins, de plans et de photographies, suivant l’ordre du plan méthodique, permet d’illustrer certaines enquêtes : les principaux dossiers concernent la construction rurale, le travail du cuivre, les scieries hydrauliques, la corderie et les moulins à farine et à huile.

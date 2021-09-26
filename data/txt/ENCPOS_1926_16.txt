@@ -1,0 +1,272 @@
+identifier: ENCPOS_1926_16
+creator: Charles Perrat
+date: 1926
+title: Les institutions municipales de Lyon à la fin du xve siècle (1461-1495)
+
+
+
+== Introduction ==
+
+Intérêt des institutions municipales de Lyon, placé dans une région intermédiaire entre le Nord et le Midi.
+
+Insuffisance des travaux de Guyaz et de Courbis.
+Caractère spécial des études de MM. Clédat et Caillet.
+Délimitation du sujet.
+
+
+== Sources ==
+
+
+
+
+== Bibliographie critique ==
+
+
+
+
+== Chapitre premier le cadre géographique et le milieu social ==
+
+I. L’importance de Lyon au xve siècle résulte à la fois de facteurs politiques (position stratégique près de la frontière du royaume) et géographiques (croisement de routes).
+
+1.
+L’immense circuit des remparts, qui laissent en dehors de la ville les faubourgs de Saint-Just, Saint-Irénée et Saint-Vincent, est en rapport avec le relief accidenté sur lequel elle est bâtie.
+
+2.
+Le tracé de la rue Mercière, axe de Lyon à cette époque, est déterminé par la position des deux ponts du Rhône et de la Saône.
+Cette dernière sépare la cité archiépiscopale (quartiers du Royaume, sur la rive droite) et la ville bourgeoise (quartiers de l’Empire, sur la rive gauche), groupée autour de l’église Saint-Nizier et de la chapelle Saint-Jaqueme, siège primitif de l’administration municipale, établie depuis 1462 à l’hôtel de Charnay.
+
+II. La féodalité laïque n’existe pas à Lyon.
+En dehors du clergé, la population se répartit en trois classes :
+
+1.
+Les « clercs » : gradués en droit, officiers royaux, officiers lais de l’archevêque.
+
+2.
+Les « bourgeois ». – Ce mot désigne non les membres de la communauté urbaine, qualifiés de « citoyens », mais ceux d’entre eux qui vivent de leurs revenus et terres.
+
+3.
+Les « marchands », comprenant indifféremment les grands et les petits négociants (épiciers, revendeurs), les artisans (drapiers, orfèvres, pelletiers, armuriers, boulangers, maçons, etc...), les hôteliers et les taverniers, les notaires, les changeurs, les professions agricoles, les étrangers, Allemands et Italiens, spécialisés dans les métiers d’art, la banque et l’imprimerie.
+
+Les « nommées » de 1493 (état estimatif des biens, meubles et immeubles, des habitants assujettis aux tailles) attestent un accroissement général de la fortune privée depuis le début du xve siècle.
+Les clercs, les bourgeois et les plus riches marchands tendent à former une caste qui se réservera la première place dans l’administration de la ville. 
+
+
+== Chapitre II La communauté urbaine et ses franchises ==
+
+I. COMMENT DEVIENT-ON CITOYEN DE LA VILLE ? – Grande libéralité des Lyonnais.
+Ils ne requièrent aucun serment de bourgeoisie.
+Le domicile d’an et jour suffit en principe pour entrer dans la communauté.
+Toutefois l’on constate certaines hésitations à l’égard des étrangers établis à Lyon dans l’intervalle des foires.
+
+II. LES PRIVILÈGES DES CITOYENS. – 1.
+Ils leur ont été concédés par les papes, les archevêques et les rois de France.
+
+Les chartes de 1206 et de 1320 ont restreint l’exploitation féodale des Lyonnais au point de vue financier et au point de vue judiciaire : suppression de la taille archiépiscopale, diminution des lods et ventes, adoucissement des impositions indirectes et des taxes sur les poids et mesures, sans faire disparaître entièrement le droit de banvin ; en dehors des crimes de vol, de trahison et d’homicide, aucun citoyen ne devra être poursuivi par inquisition ni être emprisonné, s’il offre de fournir caution.
+Mais elles ont maintenu la juridiction de l’archevêque.
+Les citoyens ont seulement le droit d’élire des conseillers, de lever des tailles, de garder les clefs de la ville et de s’armer.
+
+Louis XI en 1463 donne une grande importance à l’institution des foires.
+En 1462, il exemple Lyon de tailles à perpétuité.
+Ce privilège est, sous le règne de Charles VIII, l’occasion d’une violente rivalité entre la ville et le plat pays de Lyonnais.
+
+2.
+En dehors de toute concession, les citoyens ont usurpé des droits importants, celui de sceau et d’armoiries.
+Le chef de France n’a pas été accordé à la ville par Louis XI, comme l’ont prétendu certains auteurs. 
+
+
+== Chapitre III Le personnel et les organes de l’administration municipale ==
+
+I. LES ASSEMBLÉES MUNICIPALES. – L’assemblée générale des habitants n’est plus réunie qu’une fois par an, pour entendre lecture du « syndicat » et de 1’« oraison doctorale de la Saint-Thomas ».
+
+Le conseil des notables, formé de la réunion des conseillers, des deux terriers (« bourgeois »), des 63 ou 66 maîtres des métiers (représentants des « marchands » élus par le conseil de ville) et des notables (clercs gradués, officiers du roi ou de l’archevêque, et notables citoyens), a un rôle purement consultatif.
+Les consuls fixent le lieu, la date de l’assemblée, l’ordre du jour et le nombre des assistants.
+Ceux-ci n’étant pas indemnisés font souvent défection.
+
+Le conseil de ville, composé de douze conseillers, consuls ou syndics élus par les maîtres des métiers, et toujours en partie parmi les gradués et les officiers royaux, est renouvelable tous les ans par moitié.
+Les conseillers reçoivent 20 livres de gages durant leur seconde année et doivent être sept pour délibérer valablement.
+Mal payés et accablés de travail, ils négligent de prêter le serment d’entrée en charge.
+
+II. LES AUXILIAIRES DU CONSULAT. – Les officiers ordinaires sont le procureur-secrétaire général (notaire royal qui, étant inamovible, « gouverne entièrement le Consulat »), le « gueyte » et le mandeur. 11 faut en rapprocher le substitut du procureur général et le chevaucheur de la ville.
+
+Les conseillers pensionnaires (un, puis deux) sont des gradués en droit chargés d’assister les consuls.
+
+Les agents financiers comprennent le receveur général (nommé pour trois ans, chargé de la gestion de la caisse commune, de celle du pont du Rhône et de la surveillance des travaux publics) et ses auxiliaires : receveurs particuliers des tailles ; des aides, des impositions foraines (1487) ; de l’hôpital du pont du Rhône (après 1478) ; maîtres des œuvres ; ouvriers jurés ; commis à vaquer aux réparations (1492).
+
+Les agents militaires sont le capitaine de la ville (sénéchal de Lyon, nommé par le roi et rétribué par la ville) et son lieutenant (désigné, semble-t-il, par le Consulat, mais ne recevant de lui aucun traitement).
+
+III. ESSAIS DE RÉFORME DU PERSONNEL MUNICIPAL.
+
+1.
+Convocation des notables par sergent royal ; amendes prononcées contre les défaillants par le lieutenant du sénéchal.
+
+2.
+Création au sein du conseil de ville de quatre « commis à vaquer extraordinairement à la vuydange des affaires de la ville » (1487-1491), recevant des gages spéciaux.
+
+3.
+Création d’un « solliciteur des procès de la ville à Lyon » (1487), puis démembrement en deux charges distinctes de la charge de procureur et secrétaire général (1496).
+
+
+== Chapitre IV Pouvoirs de justice et de police du consulat ==
+
+I. JURIDICTION ARBITRALE. – 1.
+Le Consulat, qui ne possède pas de juridiction civile ni criminelle, est très exceptionnellement appelé à régler amiablement les différends nés entre citoyens.
+
+2.
+De 1464 à 1484, le roi lui attribue le droit de nommer un prud’homme chargé au premier degré du contentieux civil et administratif en temps de foires.
+
+II. CONTRÔLE SUR LES MÉTIERS ET LA VOIRIE. – 1.
+De 1464 à 1484 et après 1489, les conseillers désignent au sénéchal-conservateur les courtiers des foires. 
+
+2.
+Ils délèguent en tout temps aux maîtres des métiers la surveillance de la fabrication et de la vente des marchandises, mais ils se réservent de fixer le prix du pain et des farines.
+
+3.
+Ils peuvent faire visiter les constructions nouvelles et délivrer des autorisations de voirie.
+Faute de sanction directe, leur autorité reste précaire.
+
+
+== Chapitre V Les institutions militaires ==
+
+I. Outre l’enceinte particulière de Saint-Just et le château de Pierre-Scize, qui n’appartenait pas aux citoyens, les fortifications de la ville comprenaient au nord et à l’ouest une enceinte flanquée de 58 tours et percée de 6 portes et de 3 portails ; au sud et à l’est, le Rhône et la Saône constituaient une défense naturelle.
+Plusieurs portes et tours complétaient cette défense, soit à l’extérieur des remparts (portes Saint-Vincent, Saint-Marcel, tour Roupie, tour de la Roche, portes et tours du Griffon, du pont-levis sur le Rhône), soit à l’intérieur (portes et tours de Bourgneuf, de Confort et du Ruer, tours des deux chaînes qui pouvaient être tendues sur la Saône).
+
+L’artillerie était représentée en 1465 par dix-neuf bouches à feu : couleuvrines, ribaudequins et bombardelles.
+
+II. CHARGES MILITAIRES DES CITOYENS. – 1.
+En temps de paix, les portes étaient fermées la nuit par des portiers rétribués ou de simples habitants (service de la garde des clefs).
+
+2.
+Le rôle des citoyens en cas d’imminent péril était consigné dans les « établies en cas d’effroi », dressées par le procureur de la ville : dans les tours, des groupes de deux à vingt-deux hommes, commandés par un chef ; aux murailles et pour la défense mobile, des troupes de dix hommes, dirigés par des dizainiers, groupés par quartiers autour des pennons et des deux bannières de la ville.
+
+On se contentait généralement d’envoyer au dehors des observateurs ou écoutes, de renforcer la garde des portes, de désigner plusieurs personnes pour assurer de nuit le guet sur les portes et sur les tours et l’écharguet, chargé de « réveiller le guet » et, semble-t-il, de faire des rondes dans la ville.
+Le capitaine et son lieutenant, ou des personnes choisies avec leur assentiment par les conseillers reconnaissaient ces services.
+Mais les citoyens, qui devaient s’équiper eux-mêmes, abusaient des remplacements ou négligeaient leur devoir.
+
+
+== Chapitre VI Les institutions financières ==
+
+I. LES RECETTES. – – 1.
+Ressources ordinaires : revenu des immeubles communs et impositions indirectes établies par octroi royal : barrage du pont du Rhône, dixième du vin vendu à détail ; « grabeau de l’épicerie » (1463) ; taxes levées pour les fortifications sur le sel, le vin et les farines (1475).
+Les aides royales et les trois impositions foraines sont affermées à la ville depuis 1487, la rêve et cartulaire depuis 1490.
+
+2.
+Les tailles et surtailles (« prévalues des foires », depuis 1466), les emprunts forcés « sur les apparents » et les emprunts volontaires fournissent les ressources extraordinaires.
+
+II. LES DÉPENSES. – Sont effectuées dans l’intérêt commun (travaux publics, gages des agents municipaux) et surtout pour le compte du roi : dons et emprunts, généralement non remboursés.
+Importance considérable des subsides demandés aux Lyonnais par Louis XI et par Charles VIII. 
+
+III. LA SITUATION FINANCIÈRE. – Est critique à la fin du xve siècle : devant le mauvais rendement des tailles, il faut comprimer les dépenses ordinaires les plus urgentes et engager l’avenir (apparition de la dette).
+
+
+== Chapitre VII La représentation extérieure du consulat. Députés et envoyés de la ville ==
+
+I. AGENTS JUDICIAIRES. – Le « solliciteur des causes et procès à Paris », étudiant ou gradué en droit, était chargé des intérêts de la ville en Parlement et devant les autres cours de justice.
+
+II. AGENTS POLITIQUES. – 1.
+Des ambassades étaient parfois réclamées par le roi (représentants des villes convoqués par Louis XI, assemblée de notables réunie en 1495 à Moulins par Pierre de Bourbon, lieutenant général de Charles VIII).
+Plus souvent, elles étaient envoyées par le Consulat sur sa propre initiative (serment au roi lors de son avènement, faveurs demandées durant son règne).
+
+2.
+Les envoyés, recrutés dans un petit groupe de notables et de gradués, étaient choisis par les consuls ou par le conseil des notables.
+
+Leur initiative était limitée : pluralité des envoyés, instructions, serment, procurations pour les sommes à engager, compte rendu.
+
+Leurs gages, peu élevés, étaient généralement mal payés.
+
+III. DÉPUTÉS DE LA VILLE AUX ÉTATS GÉNÉRAUX DE 1468 ET DE 1484. – 1.
+En 1468, les députés du clergé, contrairement à l’opinion de M. Viollet, ne furent pas élus par les consuls : les ecclésiastiques déléguèrent à Tours un et non pas deux envoyés ; normalement les conseillers en désignèrent trois, représentant les trois classes de la ville : clercs (gradués), bourgeois et marchands. 
+
+2.
+En 1484, l’élection fut faite en commun par les trois ordres de la sénéchaussée réunis à l’église Saint-Jean.
+Mais, par suite de la rivalité du plat pays et de la ville, l’assemblée dut élire quatre députés : un pour le clergé, un pour la noblesse, deux pour l’état commun (un député pour la ville, et un second pour le plat pays).
+Le conseil des notables adjoignit deux délégués supplémentaires au député des citoyens, le juge-mage Jean Palmier.
+
+Le cahier de doléances des Lyonnais aux États de 1484 a été publié en partie par M. Caillet comme de prétendues instructions aux députés envoyés par la ville aux États de 1468.
+
+
+== Chapitre VIII Les difficultés intérieures. Rapports du consulat et des citoyens ==
+
+I. ESSAIS DE RÉACTION POPULAIRE. – L’accroissement des impôts et les disettes provoquent un vif mécontentement contre les conseillers qui sont à plusieurs reprises injuriés et frappés.
+Un pelletier de Vienne, Simon Gerlot, s’efforce de soulever le peuple.
+Mais ces troubles n’ont pas la gravité de ceux de 1436 ou de 1529.
+
+II. LE MOUVEMENT CORPORATIF. – A la fin du xve siècle, les métiers lyonnais, traditionnellement libres, essayèrent de se transformer en jurandes.
+
+1.
+Les causes du mouvement étaient à la fois générales (besoin d’une réglementation pour limiter la concurrence, efforts des officiers royaux pour étendre leur action sur les métiers, influence des statuts parisiens) et particulières à Lyon (appui donné aux corporations par l’archevêque contre la municipalité).
+
+2.
+Revendications professionnelles des artisans. – De 1461 à 1472 et surtout en 1490, sous prétexte d’organiser des confréries, ils se donnèrent des statuts établissant à Lyon la hiérarchie corporative au détriment du Consulat.
+
+Sur la demande de celui-ci, le roi intervint à trois reprises : en 1476 (douze délégués des gens de métiers discuteront avec les conseillers les projets de réglements), en 1486 (annulation des statuts non approuvés par le Consulat et le procureur du roi) et en 1490 (présentation au sénéchal de tous les réglements faits depuis vingt ans).
+Cette dernière prescription ne fut appliquée qu’au début du xvie siècle : lettres patentes de 1511 supprimant les jurandes à Lyon, sauf pour les orfèvres, les serruriers et les barbiers.
+
+3.
+Prétentions politiques des gens de métier. – Ils protestèrent contre le recrutement du Consulat, la clandestinité des élections et réclamèrent la vérification de la comptabilité municipale depuis l’avènement de Charles VIII. Il fallut une sentence, rendue par commissaires royaux, pour apaiser ce différend au profit des conseillers (1521).
+
+
+== Chapitre IX L’édit de 1495 sur la police et l’administration de la ville ==
+
+I. NÉCESSITÉ D’UNE INTERVENTION ROYALE. – L’impuissance du Consulat à réformer seul les institutions municipales la justifie.
+
+En 1480, c’est Louis XI qui veut imposer un maire aux Lyonnais et non ceux-ci qui le lui demandent.
+
+II. ÉDIT DE 1495. – 1.
+Signature : par Charles VIII, à son retour de l’expédition d’Italie, sur proposition des consuls (décembre 1495).
+
+Les officiers du bailliage et le peuple, non consultés, essayent d’empêcher sa mise en vigueur.
+Entériné par la Chambre des Comptes et par la Cour des Aides, enregistré dès 1496 par le Parlement de Dauphiné, il ne le sera par celui de Paris qu’en 1545. 
+
+2.
+Dispositions. – Il assure à l’administration urbaine un personnel suffisant, en anoblissant les consuls et leurs descendants (sans les exempter des impositions municipales) et en frappant d’amendes les maîtres des métiers défaillants.
+
+Il concède aux habitants d’importants privilèges (exemption totale de ban et arrière-ban, partielle des droits de francs-fiefs et nouveaux acquêts).
+
+Il fait disparaître la plupart des exemptions en matière d’impositions (mais non celle du clergé), confirme à perpétuité les anciens octrois (barrage, dixième du vin), crée de nouvelles ressources financières (droit d’entrée sur le vin, subside annuel de 1.000 livres tournois laissé à la taxation des conseillers) et règle la vérification de leurs comptes (intervention des agents du roi).
+
+Ces mesures sanctionnent l’alliance de la royauté et des plus riches citoyens.
+
+3.
+Nature véritable. – Son texte actuel résulte de deux remaniements : 1° Sur la minute établie par les intéressés eux-mêmes, le roi ou le chancelier ont fait disparaître les clauses jugées inutiles ou contraires aux intérêts royaux et à la juridiction de l’archevêque.
+
+2° Cette minute a été calquée sur l’édit de Louis XI de février 1462, relatif à la police et à l’administration de la ville de Tours.
+Mais les clauses qui auraient fait de Lyon une commune n’ayant pas été reproduites, son organisation moderne ne se rattache que très indirectement aux constitutions dérivées des Etablissements de Rouen.
+
+
+== Conclusion ==
+
+1.
+Lyon est une ville de Consulat administratif, non politique.
+
+2.
+Son asservissement à la royauté est presque complet à la fin du xve siècle. 
+
+
+== Appendices ==
+
+
+
+
+== Appendice I ==
+
+Liste des orateurs de la Saint-Thomas de 1461 à 1495
+
+
+== Appendice II ==
+
+Liste des conseillers de ville de 1461 à 1495.
+
+
+== Pièces justificatives ==
+
+
+
+
+== Plan de Lyon en 1493 ==
+
+
+
+
+== Sceaux ==
+
+
