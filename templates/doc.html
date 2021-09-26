@@ -125,18 +125,30 @@
       <h3> Topic modelling</h3>
 
       <h3> Nuage de mots</h3>
-            <p>Le topic modelling consiste à extraire les thèmes principaux d'une collection de documents. Les modèles associent un certain nombre de termes à des topics prédeterminés. Ici, quatre modèles ont été définis. Le topic modelling a été appliqué sur les titres des positions de thèses. 
-                <br/>
 
-                <img src="./static/TMViz1.png" width="1000" />
+      <img src="{{ url_for('static', filename='TMViz1.png') }}" width="500" />
+      
+      <p>
+        Le topic modelling consiste à extraire les thèmes principaux d'une collection de documents.
+        Les modèles associent un certain nombre de termes à des topics prédeterminés.
+        Ici, quatre modèles ont été définis.
+        Le topic modelling a été appliqué sur les titres des positions de thèses.
+        Il s'agit d'une version bêta, pas nettoyée complètement.
+      </p>
 
-                <br/>
+      <iframe style='width: 615px; height: 489px;' src='https://voyant-tools.org/tool/Cirrus/?corpus=36ba3e37361fad79a8bcc280398ad06a'></iframe>
+      
+      <p>
+        D'autres visualisations assez basiques sont possibles, comme des graphiques présentant les
+        fréquences des mots, des nuages de  mots. Il est possible de générer ces visualisations avec un
+        outil en ligne comme Voyant Tools.
+        Ces graphiques sont intéressants pour avoir une aperçu général des textes.
+        Par exemple, à l'intérieur des positions de thèse, le mot le plus utilisé est le mot "siècle",
+        ce qui correspond bien à la thématique historienne de l'École ; on observe également une présence
+        forte des lexèmes dénommant ces siècles.
+      </p>
 
-                Il s'agit d'une version bêta, non complètement cleanée.
-            </p>
 
-            <iframe style='width: 615px; height: 489px;' src='https://voyant-tools.org/tool/Cirrus/?corpus=36ba3e37361fad79a8bcc280398ad06a'></iframe>
-            <p>D'autres visualisations assez basiques sont possibles, comme des graphiques présentant les fréquences des mots, des nuages de  mots. Il est possible de générer ces visualisations avec un outil en ligne comme Voyant Tools. Ces graphiques sont intéressants pour avoir une aperçu général des textes. Par exemple, à l'intérieur des positions de thèse, le mot le plus utilisé est le mot "siècle" , ce qui correspond bien à la thématique historienne de l'École ; on observe également une présence forte des lexèmes dénommant ces siècles. </p>
 
     </div>
 
