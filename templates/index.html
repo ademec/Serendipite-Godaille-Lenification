@@ -1,35 +1,46 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<title>Générateur de positions de thèses</title>
-		<meta charset="utf-8" />
-		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
-		<script
-  src="https://code.jquery.com/jquery-3.6.0.min.js"
-  integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
-  crossorigin="anonymous"></script>
-		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
-		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
-	</head>
-	<body>
-		<div class="container">
-			
-			<p>
-				Ce générateur aléatoire de positions de thèses vous est présenté par
-				l'équipe <span class="font-italic">SeGoLen</span> (Serendipité - Godaille - Lénification)
-			</p>
-			<button class="btn btn-primary" onclick="generateThesis()">Générer !</button>
-			
-			<p>Auteur : <span id="author">{{ name }}</span></p>
-		</div>
 
-		<script>
-			function generateThesis() {
-				$.get("/name", name => {
-					$("#author").text(name);
-				});
-				$("#thesisFrame").show();
-			}
-		</script>
-	</body>
+<head>
+    <title>Générateur de positions de thèses</title>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+</head>
+
+<body>
+
+    <header class="d-flex flex-wrap justify-content-center py-3 mb-4 border-bottom">
+        <a href="/" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto text-dark text-decoration-none">
+            <svg class="bi me-2" width="40" height="32"><use xlink:href="#bootstrap"></use></svg>
+            <span class="fs-4">Chartabia</span>
+        </a>
+
+        <ul class="nav nav-pills">
+            <li class="nav-item"><a href="#" class="nav-link active" aria-current="page">Page d'accueil</a></li>
+            <li class="nav-item"><a href="#" class="nav-link">Documentation</a></li>
+        </ul>
+    </header>
+
+    <div class="container">
+        <p>
+            Ce générateur aléatoire de positions de thèses vous est présenté par l'équipe <span class="font-italic">SeGoLen</span> (Serendipité - Godaille - Lénification)
+        </p>
+        <button class="btn btn-primary" onclick="generateThesis()">Générer !</button>
+
+        <p>Auteur : <span id="author">{{ name }}</span></p>
+    </div>
+
+    <script>
+        function generateThesis() {
+            $.get("/name", name => {
+                $("#author").text(name);
+            });
+            $("#thesisFrame").show();
+        }
+    </script>
+</body>
+
 </html>
