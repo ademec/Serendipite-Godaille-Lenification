@@ -24,6 +24,7 @@ def generate_model(words):
       j = k
     model[i][j][0] += 1
   
+  '''
   for i in range(len(ALPHA)):
     for j in range(len(ALPHA)):
       s = sum(model[i][j])
@@ -33,5 +34,12 @@ def generate_model(words):
           v = cumul + model[i][j][k]
           model[i][j][k] = v / s
           cumul = v
+  '''
+  for i in range(len(ALPHA)):
+    for j in range(len(ALPHA)):
+      s = sum(model[i][j])
+      if s > 0:
+        for k in range(len(ALPHA)):
+          model[i][j][k] = model[i][j][k] / s
 
   return model
