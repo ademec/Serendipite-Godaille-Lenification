@@ -56,26 +56,29 @@
 					src="{{ url_for('static', filename='chartabia_btn.gif') }}"
 				/>
 		</div>
+		<br>
 		<div class="row">
-				<div class="col-8">
+				<div class="col-3">
 					<img id="photo" src="data:image/jpeg;base64,{{ photo }}" width="150" />
+					<p>
+						<span style="font-family: 'CartaNovaTexte-Bold';">
+							L'auteur :
+						</span>
+						<span style="font-family: 'CartaNovaTexte-Italic';" id="author">
+							{{ name }}
+						</span>
+					</p>
 				</div>
-				<div class="col-4">Le texte</div>
-		</div>
-
-		<div class="row">
-				<div class="col-8">
-						<p>
-							<span style="font-family: 'CartaNovaTexte-Bold';">
-								L'auteur :
-							</span>
-							<span style="font-family: 'CartaNovaTexte-Italic';" id="author">
-								{{ name }}
-							</span>
-						</p>
+				<div class="col-9">
+					<span style="font-family: 'CartaNovaTexte-Bold';">
+						Résumé :
+					</span>
+					<span id="abstract" style="font-family: 'CartaNovaTexte-Italic';" id="author">
+						{{ abstract }}
+					</span>
 				</div>
-				<div class="col-4"></div>
 		</div>
+		<br>
 		<div class="d-flex justify-content-center" type="mt-auto">
 				<p>
 						Ce générateur aléatoire de positions de thèses vous est présenté par l'équipe <span class="font-italic">SeGoLen</span> (Serendipité - Godaille - Lénification)
@@ -102,6 +105,9 @@
 					});
 					$.get("/photo", data => {
 						$("#photo").attr("src", "data:image/jpeg;base64," + data);
+					});
+					$.get("/abstract", data => {
+						$("#abstract").text(data);
 					});
 			}
 	</script>
