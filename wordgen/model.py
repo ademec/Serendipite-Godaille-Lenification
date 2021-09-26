@@ -50,7 +50,7 @@ def generate_model2d(words):
       j = ALPHA.index(c)
       model[i][j] += 1
       i = j
-    model[i][j][0] += 1
+    model[i][0] += 1
 
   for i in range(len(ALPHA)):
     s = sum(model[i])
