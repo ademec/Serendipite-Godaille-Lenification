@@ -2,7 +2,7 @@ import json
 import random
 import re
 
-from constants import ALPHA, DATA_FOLDER, SURNAME_MODEL_CUMUL_FILENAME, LASTNAME_MODEL_CUMUL_FILENAME
+from constants import ALPHA, DATA_FOLDER, SURNAME_MODEL3D_FILENAME, LASTNAME_MODEL3D_FILENAME
 
 def gen_word(model):
 	word = ""
@@ -20,7 +20,7 @@ def gen_word(model):
 	return word
 
 def gen_surname():
-	with open(DATA_FOLDER + SURNAME_MODEL_CUMUL_FILENAME, "r") as f:
+	with open(DATA_FOLDER + SURNAME_MODEL3D_FILENAME, "r") as f:
 		surname_model = json.load(f)
 	surname = gen_word(surname_model)
 	while len(surname) < 5:
@@ -35,7 +35,7 @@ def gen_surname():
 	return surname
 
 def gen_lastname():
-	with open(DATA_FOLDER + LASTNAME_MODEL_CUMUL_FILENAME, "r") as f:
+	with open(DATA_FOLDER + LASTNAME_MODEL3D_FILENAME, "r") as f:
 		lastname_model = json.load(f)
 	lastname = gen_word(lastname_model)
 	while len(lastname) < 5:
