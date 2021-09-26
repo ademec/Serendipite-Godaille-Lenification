@@ -56,15 +56,12 @@
       <p>
         Ce générateur fonctionne sur le principe des chaînes de Markov,
         qui est une méthode basée sur les statistiques pour faire de la génération aléatoire.
-      </p>
-
-      <p>
         Avec cette méthode, on considère que certaines successions de lettres sont plus probables que d'autres.
         Par exemple, dans la langue française, après la lettre Q on retrouve presque toujours la lettre U.
       </p>
 
       <p>
-        Notre méthode tire génère donc les noms des chartistes lettre à lettre en respectant les probabilités
+        Notre méthode génère donc les noms des chartistes lettre à lettre en respectant les probabilités
         relatives des successions données. 
       </p>
 
@@ -80,6 +77,35 @@
       <iframe width="560" height="315" src="https://www.youtube.com/embed/YsR7r2378j0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
       <h2>La génération automatique de visages</h2>
+      
+      <p>
+        Nous avons souhaité générer automatiquement et aléatoirement des visages supposés de chartistes
+        grâce à une intelligence artificielle de type GAN.
+        Un GAN, <i>generative adversarial networks</i> ou réseaux antagonistes génératifs, fonctionne
+        comme un jeu interne où l'algorithme essaie de créer des images et un autre algorithme devine
+        si cette image est réelle ou non.
+      </p>
+      
+      <p>
+        Pour cela, nous avons initialement récupéré toutes les images issues du corpus iconographique
+        ainsi que les photos de classe. Chaque visage de ces photos a prélevé hors des images afin de
+        limiter le bruit qui aurait contribué à réduire la qualité des images générées.
+        Nous avons utilisé des filtres pseudo-Haar implémentés dans la librairie OpenCV de Python.
+      </p>
+
+      <h2>La génération automatique de positions de thèse</h2>
+
+      <h2>Quelques visualisations sur nos données</h2>
+
+      <p>
+        Le travail sur les positions de thèses ne se limite pas à cela.
+        Faute de temps, nous n'avons pas pu développer les aspects liés à l'étude des données textuelles.
+        Nos esprits fourmillaient pourtout d'idées en tous genres : frise chronologique permettant de
+        visualiser l'évolution des thèmes des thèses dans le temps, words embeddings permettant d'étudier
+        l'évolution sémantique des termes, etc.
+      </p>
+
+      <h2>La génération automatique de visages</h2>
 
       <h2>La génération automatique de positions de thèse</h2>
 
@@ -90,6 +116,19 @@
       <h3> Topic modelling</h3>
 
       <h3> Nuage de mots</h3>
+            <p>Le topic modelling consiste à extraire les thèmes principaux d'une collection de documents. Les modèles associent un certain nombre de termes à des topics prédeterminés. Ici, quatre modèles ont été définis. Le topic modelling a été appliqué sur les titres des positions de thèses. 
+                <br/>
+
+                <img src="./static/TMViz1.png" width="1000" />
+
+                <br/>
+
+                Il s'agit d'une version bêta, non complètement cleanée.
+            </p>
+
+            <h3> Nuage de mots</h3>
+
+            <p>D'autres visualisations assez basiques sont possibles, comme des graphiques présentant les fréquences des mots, des nuages de  mots. Il est possible de générer ces visualisations avec un outil en ligne comme Voyant Tools. Ces graphiques sont intéressants pour avoir une aperçu général des textes. Par exemple, à l'intérieur des positions de thèse, le mot le plus utilisé est le mot "siècle" , ce qui correspond bien à la thématique historienne de l'École ; on observe également une présence forte des lexèmes dénommant ces siècles. </p>
 
     </div>
 
