@@ -18,7 +18,7 @@ def doc():
 
 @app.route("/name")
 def name():
-	return gen_surname() + " " + gen_lastname()
+	return gen_surname() + " " + gen_lastname().upper()
 
 @app.route("/photo")
 def photo():
