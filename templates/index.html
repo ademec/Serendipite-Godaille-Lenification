@@ -50,7 +50,7 @@
 	</nav>
 
 	<div class="container fs-5">
-		<br><br>
+		<br>
 		<div class="d-flex justify-content-center">
 				<input type="image" onclick="generateThesis()"
 					src="{{ url_for('static', filename='chartabia_btn.gif') }}"
@@ -64,18 +64,28 @@
 						<span style="font-family: 'CartaNovaTexte-Bold';">
 							L'auteur :
 						</span>
-						<span style="font-family: 'CartaNovaTexte-Italic';" id="author">
+						<span id="author" style="font-family: 'CartaNovaTexte-Italic';">
 							{{ name }}
 						</span>
 					</p>
 				</div>
 				<div class="col-9">
-					<span style="font-family: 'CartaNovaTexte-Bold';">
-						Résumé :
-					</span>
-					<span id="abstract" style="font-family: 'CartaNovaTexte-Italic';" id="author">
-						{{ abstract }}
-					</span>
+					<p>
+						<span style="font-family: 'CartaNovaTexte-Bold';">
+							Intitulé :
+						</span>
+						<span id="title" style="font-family: 'CartaNovaTexte-Italic';">
+							{{ title }}
+						</span>
+					</p>
+					<p>
+						<span style="font-family: 'CartaNovaTexte-Bold';">
+							Résumé :
+						</span>
+						<span id="abstract" style="font-family: 'CartaNovaTexte-Italic';">
+							{{ abstract }}
+						</span>
+					</p>
 				</div>
 		</div>
 		<br>

@@ -3,6 +3,7 @@ from flask import Flask, render_template, send_file
 from wordgen.word import gen_surname, gen_lastname
 from photogen import gen_photo_b64
 from abstractgen import gen_abstract
+from titlegen import gen_title
 
 app = Flask(__name__)
 
@@ -25,6 +26,10 @@ def name():
 @app.route("/photo")
 def photo():
 	return gen_photo_b64()
+
+@app.route("/title")
+def title():
+	return gen_title()
 
 @app.route("/abstract")
 def abstract():

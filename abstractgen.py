@@ -1,6 +1,5 @@
 from os import listdir
 from random import choice
-from base64 import b64encode
 
 def gen_abstract():
 	abstract_dir = "data/fake_theses/"
