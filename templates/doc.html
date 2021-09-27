@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>Générateur de positions de thèses</title>
+    <title>Chartabia - Documentation</title>
     <meta charset="utf-8" />
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
     <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
@@ -44,7 +44,7 @@
     <div class="container">
       <br>
       <h1>
-        Retour critique
+        Documentation
       </h1>
 
       <p>
@@ -116,12 +116,13 @@
       <h2>La génération automatique de positions de thèse</h2>
 
       <p>
-        Il a fallu intialiement créer un corpus adapté.
-        Pour cela, nous avons réuni en un seul fichier l'intégralité des positions de thèse auxquelles
+        Pour cette technique, basée sur le traitement de langage naturel, ou NLP
+        (pour <i>natural language processing</i>), il a d'abord fallu créer un corpus adapté.
+        Pour cela, nous avons réuni en un seul fichier TXT l'intégralité des positions de thèse auxquelles
         nous avons retiré l'encodage TEI.
-        L'ensemble a été réuni dans un fichier TXT.
-        Il a fallu nettoyer en profondeur ce corpus : retirer les mots non signifiants et structurants
-        (par exemple : "Chap. 1"), harmoniser et nettoyer le surperflu, etc.
+        Ensuite, nous avons nettoyé en profondeur ce corpus :
+        retirer les mots non signifiants et structurants
+        (par exemple : "Chap. 1"), harmoniser, nettoyer le surperflu, etc.
       </p>
       
       <p>
@@ -151,12 +152,8 @@
         l'évolution sémantique des termes, etc.
       </p>
 
-      <h2>Quelques visualisations sur nos données</h2>
-
       <h3>Topic modelling</h3>
 
-      <img src="{{ url_for('static', filename='TMViz1.png') }}" width="500" />
-      
       <p>
         Le topic modelling consiste à extraire les thèmes principaux d'une collection de documents.
         Les modèles associent un certain nombre de termes à des topics prédeterminés.
@@ -165,10 +162,10 @@
         Il s'agit d'une version bêta, pas nettoyée complètement.
       </p>
 
+      <img src="{{ url_for('static', filename='TMViz1.png') }}" width="850" />
+
       <h3> Nuage de mots</h3>
 
-      <iframe style='width: 615px; height: 489px;' src='https://voyant-tools.org/tool/Cirrus/?corpus=36ba3e37361fad79a8bcc280398ad06a'></iframe>
-      
       <p>
         D'autres visualisations assez basiques sont possibles, comme des graphiques présentant les
         fréquences des mots, des nuages de  mots. Il est possible de générer ces visualisations avec un
@@ -178,6 +175,8 @@
         ce qui correspond bien à la thématique historienne de l'École ; on observe également une présence
         forte des lexèmes dénommant ces siècles.
       </p>
+
+      <iframe style='width: 615px; height: 489px;' src='https://voyant-tools.org/tool/Cirrus/?corpus=36ba3e37361fad79a8bcc280398ad06a'></iframe>
 
     </div>
 
